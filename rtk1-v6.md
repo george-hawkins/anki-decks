@@ -169,12 +169,13 @@ END
 START
 Japanese RTK
 Keyword: old
-Clue: not old man
+Clue: not OLD MAN
 Kanji: 古
 Reading: コ
 Story: tombstone and cross with **old** inscription
 Note: as a primitive, this is a very general **old** (unlike e.g. "old man").
 Story doesn't use _ten_ and _mouth_ primitives. This is OK occasionally, but fails to reinforce the primitives.
+<!--ID: 1784809271186-->
 END
 
 START
@@ -185,6 +186,7 @@ Kanji: 吾
 Reading: ゴ
 Story: 2 nostrils, 2 ears and 1 mouth = _five openings_ = me/**I**.
 Note:
+<!--ID: 1784809271206-->
 END
 
 START
@@ -195,6 +197,7 @@ Kanji: 冒
 Reading: ボウ
 Story: opening your _eyes_ directly at the _sun_ is **risky**!
 Note:
+<!--ID: 1784809271210-->
 END
 
 START
@@ -205,6 +208,7 @@ Kanji: 朋
 Reading: ホウ
 Story: God made Eve from Adam's rib, _flesh of my flesh_, as a **companion**.
 Note:
+<!--ID: 1784809271215-->
 END
 
 START
@@ -215,6 +219,7 @@ Kanji: 明
 Reading: メイ
 Story: The _sun_ makes the _moon_ **bright**.
 Note:
+<!--ID: 1784809271218-->
 END
 
 START
@@ -225,6 +230,7 @@ Kanji: 唱
 Reading: ショウ
 Story: The monk opened his _month_ and chanted for two _days_.
 Note:
+<!--ID: 1784809271222-->
 END
 
 START
@@ -233,8 +239,9 @@ Keyword: sparkle
 Clue:
 Kanji: 晶
 Reading: ショウ
-Story: The sides of a diamond *sparkle** like three suns.
+Story: The sides of a diamond **sparkle** like three suns.
 Note:
+<!--ID: 1784809271228-->
 END
 
 START
@@ -245,6 +252,7 @@ Kanji: 品
 Reading: ヒン
 Story: Three boxes of **goods** are devoured by the hungry _mouths_ of waiting consumers.
 Note:
+<!--ID: 1784809271232-->
 END
 
 START
@@ -255,6 +263,7 @@ Kanji: 呂
 Reading: ロ
 Story: two vertebrae in the **spine** linked by a single stroke
 Note:
+<!--ID: 1784809271235-->
 END
 
 START
@@ -265,6 +274,7 @@ Kanji: 昌
 Reading: ショウ
 Story: If you work from _sun up_ to _sun down_ you will be **prosperous**.
 Note:
+<!--ID: 1784809271237-->
 END
 
 START
@@ -275,6 +285,7 @@ Kanji: 早
 Reading: ソウ
 Story: The _sun_ rises **early**, well before _ten_.
 Note: primitive meaning _sunflower_ (it looks like one, a _sun_ on a _needle-like_ stalk).
+<!--ID: 1784809271240-->
 END
 
 START
@@ -285,6 +296,7 @@ Kanji: 旭
 Reading: キョク
 Story: A _baseball player_ hits the _sun_ and it becomes the **rising sun**.
 Note:
+<!--ID: 1784809271244-->
 END
 
 START
@@ -295,6 +307,7 @@ Kanji: 世
 Reading: セイ
 Story: three _tens_ and an addition _line_ sum up to 30 years = a **generation**
 Note:
+<!--ID: 1784809271248-->
 END
 
 START
@@ -305,6 +318,7 @@ Kanji: 胃
 Reading: イ
 Story: the _part of the body_ that keeps the _brain_ working is the **stomach**.
 Note:
+<!--ID: 1784809271251-->
 END
 
 START
@@ -316,6 +330,7 @@ Reading: タン
 Story: **nightbreak** happens when the _sun_ rises over the _horizon (floor)_.
 Note: the Japanese think of daybreak as the opening up of night into day, hence the made-up word **nightbreak**.
 DAYBREAK and DAWN are keywords for other kanji.
+<!--ID: 1784809271253-->
 END
 
 START
@@ -326,6 +341,7 @@ Kanji: 胆
 Reading: タン
 Story: My **gall bladder** is the _part of my body_ that kept me up until _nightbreak_.
 Note:
+<!--ID: 1784809271256-->
 END
 
 START
@@ -336,6 +352,7 @@ Kanji: 亘
 Reading: コウ
 Story: the _sun_ rises from the _horizon (floor)_ to its nooday height (_ceiling_) over and over for the **span** of our lives.
 Note:
+<!--ID: 1784809271260-->
 END
 
 START
@@ -346,6 +363,7 @@ Kanji: 凹
 Reading: オウ
 Story: a square with a square cut out to demonstrate **concave**.
 Note:
+<!--ID: 1784809271266-->
 END
 
 START
@@ -356,6 +374,7 @@ Kanji: 凸
 Reading: トツ
 Story: a rectangle with a square added to demonstrate **convex**.
 Note:
+<!--ID: 1784809271269-->
 END
 
 START
@@ -366,18 +385,20 @@ Kanji: 旧
 Reading: キュウ
 Story: In **olden times**, gentlemen used _walking sticks_ every _day_.
 Note: introduces the _walking stick_ non-kanji primitive - think also _lameness_ etc.
+<!--ID: 1784809271271-->
 END
 
 START
 Japanese RTK
 Keyword: oneself
-Clue: not self
+Clue: not SELF
 Kanji: 自
 Reading: ジ
 Story:  In Japan, one refers to **oneself** by pointing to ones nose: the point/_drop_ between the _eyes_.
 Note: introduces the _drop_ / _eyedropper_ non-kanji primitive, 自 has primitive meaning _oneself_, _nose_ or _nostrils_.
 Don't confuse with keyword SELF (your inner identity, "know thyself" / "your true self").
 **oneself** is a reflexive modifier (doing something by oneself, self-propelled), e.g. 自転車 (bicycle).
+<!--ID: 1784809271274-->
 END
 
 START
@@ -388,6 +409,7 @@ Kanji: 白
 Reading: ハク
 Story: A _drop_ of _sun_ is a **white** ray.
 Note:
+<!--ID: 1784809271279-->
 END
 
 START
@@ -398,6 +420,7 @@ Kanji: 百
 Reading: ヒャク
 Story: The "white year" (99) plus _one_ is one **hundred** (in Japan, you're 99th birthday is your "white year" birthday).
 Note:
+<!--ID: 1784809271283-->
 END
 
 START
@@ -408,6 +431,7 @@ Kanji: 中
 Reading: チュウ
 Story: A _walking stick_ **in** the crocodile's _mouth_ saved me.
 Note: think of getting something **in** from the outside when used as a primitive.
+<!--ID: 1784809271286-->
 END
 
 START
@@ -418,4 +442,227 @@ Kanji: 千
 Reading: セン
 Story: It takes many _drops_ of _ten_ to get to a **thousand**.
 Note:
+<!--ID: 1784809271288-->
+END
+
+START
+Japanese RTK
+Keyword: tongue
+Clue: think language not body part
+Kanji: 舌
+Reading: ゼツ
+Story: A _thousand_ _mouths_ share a common **tongue**.
+Note:
+<!--ID: 1784893865646-->
+END
+
+START
+Japanese RTK
+Keyword: measuring box
+Clue:
+Kanji: 升
+Reading: ショウ
+Story: I can only fit a _thousand needles_ into my **measuring box**.
+Note: the horizontal stroke is the first stroke of the _ten_ bit (not the second stroke of the _thousand_ bit).
+_thousand_ has a straight vertical stroke, this has a curved one.
+<!--ID: 1784893865652-->
+END
+
+START
+Japanese RTK
+Keyword: rise up
+Clue:
+Kanji: 昇
+Reading: ショウ
+Story: If the _sun_ sat on the _measuring box_ made of a thousand needles he would **rise up** very quickly.
+Note:
+<!--ID: 1784893865656-->
+END
+
+START
+Japanese RTK
+Keyword: round
+Clue: not PLUMP or CIRCLE
+Kanji: 丸
+Reading: ガン
+Story: Add a tiny _drop_ to _nine_ and you get a **round** number.
+Note: primitive meaning _fat man_ (_round baseball player_ becomes _fat man_).
+<!--ID: 1784893865659-->
+END
+
+START
+Japanese RTK
+Keyword: measurement
+Clue:
+Kanji: 寸
+Reading: スン
+Story: The decimal system uses _drops_ of _ten_ in all its **measurements**, such **measurements** are the _glue_ of the world.
+Note: primitive meaning _glue_ (a super common primitive).
+<!--ID: 1784893865663-->
+END
+
+START
+Japanese RTK
+Keyword: elbow
+Clue:
+Kanji: 肘
+Reading: チュウ
+Story: The **elbow** is the _flesh_ that _glues_ together the upper and lower arm.
+Note:
+<!--ID: 1784893865666-->
+END
+
+START
+Japanese RTK
+Keyword: speciality
+Clue: think area of expertise
+Kanji: 専
+Reading: セン
+Story: She's so good at her **speciality**, it's like _ten brains glued_ together.
+Note: a single stroke skewers _ten_ and _brain_.
+<!--ID: 1784893865668-->
+END
+
+START
+Japanese RTK
+Keyword: dr.
+Clue: a learned person, not a medical DOCTOR
+Kanji: 博
+Reading: ハク
+Story: _Ten specialties_ grants you the title of **Dr**. with a _dot_.
+Note: as a primitive, it loses the _needle_ and has the meaning **acupuncturist**.
+<!--ID: 1784893865672-->
+END
+
+START
+Japanese RTK
+Keyword: fortune-telling
+Clue:
+Kanji: 占
+Reading: セン
+Story: A _magic wand_ and a big _mouth_ are all you need for **fortune telling**.
+Note: introduces the non-jōyō kanji ⼘ with primitive meaning _divining rod_ or _magic wand_.
+<!--ID: 1784893865676-->
+END
+
+START
+Japanese RTK
+Keyword: above
+Clue:
+Kanji: 上
+Reading: ジョウ
+Story: Whoa, that _magic wand_ is standing **above** the _floor_ all by itself!
+Note:
+<!--ID: 1784893865680-->
+END
+
+START
+Japanese RTK
+Keyword: below
+Clue:
+Kanji: 下
+Reading: カ
+Story: The _magic wand_ is hanging **below** the _ceiling_!
+Note:
+<!--ID: 1784893865684-->
+END
+
+START
+Japanese RTK
+Keyword: eminent
+Clue: think famous, well known
+Kanji: 卓
+Reading: タク
+Story: David Copperfield, the most **eminent** magician, used a _magic wand_ and a _sunflower_ in this trick.
+Note: as well as **eminent**, 卓 appears in table-related words (e.g. 2卓 (nitaku) - table #2 in a restaurant). But テーブル is a physical table.
+<!--ID: 1784893865686-->
+END
+
+START
+Japanese RTK
+Keyword: morning
+Clue:
+Kanji: 朝
+Reading: チョウ
+Story: In the **morning**, the _mist_ and _moon_ fades away.
+Note: introduces the non-kanji primitive 𠦝 meaning _mist_ (_mist_ falls _early_ in the morning, like little _needles_ of rain, to assure that the _sunflower_ blooms _early_).
+<!--ID: 1784893865690-->
+END
+
+START
+Japanese RTK
+Keyword: derision
+Clue:
+Kanji: 嘲
+Reading: チョウ
+Story: If I don't brush my teeth in the _morning_, I face **derision** when I open my _mouth_.
+Note:
+<!--ID: 1784893865694-->
+END
+
+START
+Japanese RTK
+Keyword: only
+Clue:
+Kanji: 只
+Reading: シ
+Story: A Chihuahua - it's **only** a f...ing barking _mouth_ and _legs_.
+Note:
+<!--ID: 1784893865698-->
+END
+
+START
+Japanese RTK
+Keyword: shellfish
+Clue:
+Kanji: 貝
+Reading: バイ
+Story: A freakish **shellfish** with a single _eye_ roaming the beach on little _legs_, terrifying the tourists.
+Note: primitive meaning _shells_ or _oyster_ or _clam_. But Koohii users and Gemini think _money_ is a better primitive meaning (think cowrie shells).
+<!--ID: 1784893865701-->
+END
+
+START
+Japanese RTK
+Keyword: pop song
+Clue:
+Kanji: 唄
+Reading:
+Story: Bono just opens _mouth_ and makes tons of _money_ with his **pop songs**.
+Note: actually means a traditional song, not a pop song.
+Don't mix up 員 and 唄 (there are very few other similar cases).
+<!--ID: 1784893865703-->
+END
+
+START
+Japanese RTK
+Keyword: upright
+Clue:
+Kanji: 貞
+Reading: テイ
+Story: To get a _shellfish_ to stand **upright**, poke it with a _magic wand_.
+Note: means upright in character, not in position.
+<!--ID: 1784893865706-->
+END
+
+START
+Japanese RTK
+Keyword: employee
+Clue:
+Kanji: 員
+Reading: イン
+Story: An **employee** has to earn _money_ to feed his _mouth_.
+Note: don't mix up 員 and 唄 (there are very few other similar cases).
+<!--ID: 1784893865709-->
+END
+
+START
+Japanese RTK
+Keyword: post a bill
+Clue: paste from your clipboard
+Kanji: 貼
+Reading: テン
+Story: The Chinese _shellfish_ restaurant **posted a bill** advertising its free _fortune-telling_ cookies.
+Note: used for ctrl-V on Japanese PCs.
+<!--ID: 1784893865715-->
 END
