@@ -324,7 +324,7 @@ END
 START
 Japanese RTK
 Keyword: nightbreak
-Clue: AKA sunrise. Not daybreak or dawn.
+Clue: AKA sunrise. Not DAYBREAK or DAWN.
 Kanji: 旦
 Reading: タン
 Story: **nightbreak** happens when the _sun_ rises over the _horizon (floor)_.
@@ -665,4 +665,225 @@ Reading: テン
 Story: The Chinese _shellfish_ restaurant **posted a bill** advertising its free _fortune-telling_ cookies.
 Note: used for ctrl-V on Japanese PCs.
 <!--ID: 1784893865715-->
+END
+
+START
+Japanese RTK
+Keyword: see
+Clue:
+Kanji: 見
+Reading: ケン
+Story: _Eyes_ and _human legs_ are what you need to **see** the world.
+Note: cf. 貝 and 見 - _animal legs_ vs _human legs_.
+<!--ID: 1784987896418-->
+END
+
+START
+Japanese RTK
+Keyword: newborn babe
+Clue:
+Kanji: 児
+Reading: ジ
+Story: In _olden times_ (before c-sections), **newborn babes** always came out between the _legs_.
+Note:
+<!--ID: 1784987896433-->
+END
+
+START
+Japanese RTK
+Keyword: beginning
+Clue:
+Kanji: 元
+Reading: ゲン
+Story: In the **beginning**, there were just _two_ people with _human legs_ (Adam and Eve).
+Note:
+<!--ID: 1784987896437-->
+END
+
+START
+Japanese RTK
+Keyword: page
+Clue:
+Kanji: 頁
+Reading: ケツ
+Story: One _drop_ of ink from a _shellfish_ can fill a whole **page**.
+Note: primitive meaning _head_
+<!--ID: 1784987896440-->
+END
+
+START
+Japanese RTK
+Keyword: stubborn
+Clue:
+Kanji: 頑
+Reading: ガン
+Story: In the _beginning_, a **stubborn** person gets something into their _head_ and just won't change their mind no matter what (think S. and Curious Courses).
+Note:
+<!--ID: 1784987896443-->
+END
+
+START
+Japanese RTK
+Keyword: mediocre
+Clue:
+Kanji: 凡
+Reading: ボン
+Story: A _drop_ of breeze is naught but a **mediocre** _wind_.
+Note:
+<!--ID: 1784987896445-->
+END
+
+START
+Japanese RTK
+Keyword: defeat
+Clue:
+Kanji: 負
+Reading: フ
+Story: _Tied up and bound_, the _shellfish_ had to accept **defeat**.
+Note:
+<!--ID: 1784987896448-->
+END
+
+START
+Japanese RTK
+Keyword: ten thousand
+Clue:
+Kanji: 万
+Reading: マン
+Story: I _bound up_ **ten thousand** dollars and hid it under the _floor_.
+Note: the stroke order is back-to-front for the _bound_ bit.
+<!--ID: 1784987896452-->
+END
+
+START
+Japanese RTK
+Keyword: phrase
+Clue:
+Kanji: 句
+Reading: ク
+Story: A **phrase** is words _bound up_ tightly so they'll fit in your _mouth_.
+Note:
+<!--ID: 1784987896462-->
+END
+
+START
+Japanese RTK
+Keyword: texture
+Clue:
+Kanji: 肌
+Reading: キ
+Story: The **texture** of your _flesh_ changes badly after a day blasted by the _wind_ while skiing.
+Note:
+<!--ID: 1784987896466-->
+END
+
+START
+Japanese RTK
+Keyword: decameron
+Clue:
+Kanji: 旬
+Reading: ジュン
+Story: Hesig should be _bound up_ for a _day_ (or even ten _days_ a **decameron**) for giving this kanji the keyword **decameron**.
+Note: Japan divides a month into three 10-day periods. The first is jōjun (上旬); the second, chūjun (中旬); the last, gejun (下旬).
+<!--ID: 1784987896469-->
+END
+
+START
+Japanese RTK
+Keyword: ladle
+Clue:
+Kanji: 勺
+Reading: シャク
+Story: If you want to _bind up drops_, you scoop them together with a **ladle**.
+Note:
+<!--ID: 1784987896473-->
+END
+
+START
+Japanese RTK
+Keyword: bull's eye
+Clue:
+Kanji: 的
+Reading: テキ
+Story: I managed to hit the **bull's eye** with my _white ladle_.
+Note:
+<!--ID: 1784987896476-->
+END
+
+START
+Japanese RTK
+Keyword: neck
+Clue:
+Kanji: 首
+Reading: シュ
+Story: Under the moose's _horns_ was his long _nose_ and under that his long **neck**.
+Note: _horns_ can't be free-floating, so a pointless horizontal stroke is added.
+<!--ID: 1784987896480-->
+END
+
+START
+Japanese RTK
+Keyword: fish guts
+Clue:
+Kanji: 乙
+Reading: オツ
+Story: This is a _fishhook_, that pulls out the **fish guts**.
+Note: primitive meaning _fishhook_ or _hook_.
+As a primitive, it's often squashed to an L shape or a ⺃.
+<!--ID: 1784987896484-->
+END
+
+START
+Japanese RTK
+Keyword: riot
+Clue:
+Kanji: 乱
+Reading: ラン
+Story: The totalitarian **riot** police dragged everyone away with _fishooks_ in their _tongues_.
+Note:
+<!--ID: 1784987896488-->
+END
+
+START
+Japanese RTK
+Keyword: straightaway
+Clue:
+Kanji: 直
+Reading: チョク
+Story: If you get a _needle_ in your _eye_ and it's _hooked_ in there, get to a hospital **straightaway**.
+Note:
+<!--ID: 1784987896491-->
+END
+
+START
+Japanese RTK
+Keyword: tool
+Clue:
+Kanji: 具
+Reading: グ
+Story: Keep a careful _eye_ on your **tools** on the _tool_ table.
+Note: the bottom half (without the eye) is used as a non-kanji primitive that also means _tool_.
+<!--ID: 1784987896495-->
+END
+
+START
+Japanese RTK
+Keyword: true
+Clue:
+Kanji: 真
+Reading:
+Story: If what you said wasn't **true**, the giant _tool_ jammed a _needle_ in your arm.
+Note:
+<!--ID: 1784987896499-->
+END
+
+START
+Japanese RTK
+Keyword: craft
+Clue:
+Kanji: 工
+Reading: コウ
+Story: Think Bender, whose **craft** was bending _i-beams_ to build skyscarpers etc.
+Note: primitive meaning _craft_ or _i-beam_ or _artificial_.
+<!--ID: 1784987896503-->
 END
