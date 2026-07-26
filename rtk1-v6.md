@@ -161,7 +161,7 @@ Keyword: eye
 Clue:
 Kanji: 目
 Reading: モク
-Story: the whites of your **eye** with the iris between.
+Story: The whites of your **eye** with the iris between.
 Note: primitive meaning _eye_ or _eyeball_, sometime seen on its side as ⺫.
 <!--ID: 1784743502655-->
 END
@@ -236,7 +236,7 @@ END
 START
 Japanese RTK
 Keyword: sparkle
-Clue:
+Clue: not SHINING
 Kanji: 晶
 Reading: ショウ
 Story: The sides of a diamond **sparkle** like three suns.
@@ -886,4 +886,224 @@ Reading: コウ
 Story: Think Bender, whose **craft** was bending _i-beams_ to build skyscarpers etc.
 Note: primitive meaning _craft_ or _i-beam_ or _artificial_.
 <!--ID: 1784987896503-->
+END
+
+START
+Japanese RTK
+Keyword: left
+Clue:
+Kanji: 左
+Reading: サ
+Story: You keep your _craft_ tools hanging _by your side_ on your **left** hip.
+Note: introduces the 十-like non-kanji primitive meaning _by one's side_.
+<!--ID: 1785070789823-->
+END
+
+START
+Japanese RTK
+Keyword: right
+Clue:
+Kanji: 右
+Reading: ウ
+Story: There's a little _mouth_ handing _by my side_, telling me the **right** thing to do.
+Note:
+<!--ID: 1785070789832-->
+END
+
+START
+Japanese RTK
+Keyword: possess
+Clue:
+Kanji: 有
+Reading: ユウ
+Story: The _flesh_ of my enemy hung _by my side_, I now **possessed** his soul.
+Note:
+<!--ID: 1785070789836-->
+END
+
+START
+Japanese RTK
+Keyword: bribe
+Clue:
+Kanji: 賄
+Reading: ワイ
+Story: If you _possess_ enough _shellfish/money_, you can **bribe** anyone.
+Note:
+<!--ID: 1785070789838-->
+END
+
+START
+Japanese RTK
+Keyword: tribute
+Clue:
+Kanji: 貢
+Reading: コウ
+Story: This next song pays **tribute** to a little _shellfish_ friend of mine who was tragically crushed by an _i-beam_.
+Note:
+<!--ID: 1785070789842-->
+END
+
+START
+Japanese RTK
+Keyword: paragraph
+Clue:
+Kanji: 項
+Reading: コウ
+Story: To _craft_ a _page_ well, we need beautiful **paragraphs**.
+Note:
+<!--ID: 1785070789846-->
+END
+
+START
+Japanese RTK
+Keyword: sword
+Clue:
+Kanji: 刀
+Reading: トウ
+Story: The long and short **sword** of a samurai hang from his belt.
+Note: primitive meaining _dagger_ when drawn as 刀 or _saber_ when stretched out as ⺉.
+<!--ID: 1785070789850-->
+END
+
+START
+Japanese RTK
+Keyword: blade
+Clue:
+Kanji: 刃
+Reading: ジン
+Story: A single _drop_ clung to the **blade** of the _sword_ after cutting off the vampire's head.
+Note:
+<!--ID: 1785070789853-->
+END
+
+START
+Japanese RTK
+Keyword: cut
+Clue:
+Kanji: 切
+Reading: セツ
+Story: The _seven_ samurai used their _swords_ to **cut** up their opponents (and, sometimes, their vegetables).
+Note:
+<!--ID: 1785070789857-->
+END
+
+START
+Japanese RTK
+Keyword: seduce
+Clue:
+Kanji: 召
+Reading: ショウ
+Story: He wields his _mouth_ like a _sword_, words used to **seduce** willing victims.
+Note:
+<!--ID: 1785070789861-->
+END
+
+START
+Japanese RTK
+Keyword: shining
+Clue: not SPARKLE
+Kanji: 昭
+Reading: ショウ
+Story: It was the _sun_ **shinning** off Lancelot's beautiful armor that first _seduced_ Guinevere.
+Note:
+<!--ID: 1785070789865-->
+END
+
+START
+Japanese RTK
+Keyword: rule
+Clue:
+Kanji: 則
+Reading: ソク
+Story: With _money_ and the brutal use of the _sword_, you makes the **rules**.
+Note:
+<!--ID: 1785070789869-->
+END
+
+START
+Japanese RTK
+Keyword: vice-
+Clue: vice-... as in second-in-command, not as in immoral
+Kanji: 副
+Reading: フク
+Story: **vice**-president JD Vance is a _wealthy saber_ rattler for conservative causes.
+Note: introduces the non-jōyō kanji primitive 畐 meaning _wealth_ - _one mouth_ consuming all the harvest of a whole _field_ must be wealthy.
+<!--ID: 1785070789872-->
+END
+
+START
+Japanese RTK
+Keyword: separate
+Clue:
+Kanji: 別
+Reading: ベツ
+Story: The old samurai felt great shame, **separated** from his _sword_ and his _mouth bound up_.
+Note: stroke order for _bound up_ is like _ten thousand_.
+<!--ID: 1785070789876-->
+END
+
+START
+Japanese RTK
+Keyword: street
+Clue:
+Kanji: 丁
+Reading: チョウ
+Story: The **street** ends in a T-junction.
+Note: primitive meaning _spike_.
+<!--ID: 1785070789879-->
+END
+
+START
+Japanese RTK
+Keyword: town
+Clue: not VILLAGE
+Kanji: 町
+Reading: チョウ
+Story: The **town** is just a few little _streets_ and some paddy _fields_.
+Note:
+<!--ID: 1785070789883-->
+END
+
+START
+Japanese RTK
+Keyword: can
+Clue:
+Kanji: 可
+Reading: カ
+Story: A _mouth_ on the _street_ asking for things: "**Can** I get some help? **Can** I get directions? **Can** I have some money?"
+Note: for 町, the two elements are drawn separately, but for 可, it's the first stoke of 丁, then the mouth, then the last stroke of 丁.
+<!--ID: 1785070789886-->
+END
+
+START
+Japanese RTK
+Keyword: place on the head
+Clue:
+Kanji: 頂
+Reading: チョウ
+Story: Waving a stupid hat, the cruel bully said "I'll put your _head_ on a _spike_ if you don't _place this on your head_".
+Note: in Japanese, this is a formal metaphor meaning "humbly accept" as in 頂きます (いただきます).
+<!--ID: 1785070789890-->
+END
+
+START
+Japanese RTK
+Keyword: child
+Clue:
+Kanji: 子
+Reading: シ
+Story: It's a pictogram of a **child**.
+Note:
+<!--ID: 1785070789893-->
+END
+
+START
+Japanese RTK
+Keyword: cavity
+Clue:
+Kanji: 孔
+Reading: コウ
+Story: The over-adventurous _child_ fell into the deep **cavity**, and they needed a _hook_ to haul him out.
+Note:
+<!--ID: 1785070789896-->
 END
