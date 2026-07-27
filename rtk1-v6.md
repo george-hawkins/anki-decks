@@ -783,7 +783,7 @@ Keyword: decameron
 Clue:
 Kanji: 旬
 Reading: ジュン
-Story: Hesig should be _bound up_ for a _day_ (or even ten _days_ a **decameron**) for giving this kanji the keyword **decameron**.
+Story: Heisig should be _bound up_ for a _day_ (or even ten _days_ a **decameron**) for giving this kanji the keyword **decameron**.
 Note: Japan divides a month into three 10-day periods. The first is jōjun (上旬); the second, chūjun (中旬); the last, gejun (下旬).
 <!--ID: 1784987896469-->
 END
@@ -1106,4 +1106,230 @@ Reading: コウ
 Story: The over-adventurous _child_ fell into the deep **cavity**, and they needed a _hook_ to haul him out.
 Note:
 <!--ID: 1785070789896-->
+END
+
+START
+Japanese RTK
+Keyword: complete
+Clue:
+Kanji: 了
+Reading: リョウ
+Story: The _child_ is not **complete**. He's got no arms!
+Note:
+<!--ID: 1785183563250-->
+END
+
+START
+Japanese RTK
+Keyword: woman
+Clue:
+Kanji: 女
+Reading: ジョ
+Story: [no story]
+Note:
+<!--ID: 1785183563255-->
+END
+
+START
+Japanese RTK
+Keyword: fond
+Clue:
+Kanji: 好
+Reading: コウ
+Story: The _woman_ was extremely **fond** of her _child_ (no surprise).
+Note: think 好き(すき) and 大好き(だいすき).
+<!--ID: 1785183563257-->
+END
+
+START
+Japanese RTK
+Keyword: likeness
+Clue: not RESEMBLANCE
+Kanji: 如
+Reading: ジョ
+Story: The sexy _woman's mouth_ was a big smile as she admired her **likeness** in the mirror.
+Note:
+<!--ID: 1785183563258-->
+END
+
+START
+Japanese RTK
+Keyword: mama
+Clue:
+Kanji: 母
+Reading: ボ
+Story: When a _woman_ becomes a **mama** her breasts grow and fill with _drops_ of milk.
+Note: the drops come before the final horizontal stroke.
+<!--ID: 1785183563259-->
+END
+
+START
+Japanese RTK
+Keyword: pierce
+Clue:
+Kanji: 貫
+Reading: カン
+Story: _Mama_ sat on the razor _clam_ and it **pierced** her ass! Ow!
+Note: I was sceptical about the top element being derived from _mama_, but it's strokes are those of 母 (except the _drops_ are drawn as a single stroke).
+<!--ID: 1785183563260-->
+END
+
+START
+Japanese RTK
+Keyword: elder brother
+Clue:
+Kanji: 兄
+Reading: ケイ
+Story: One's **elder brother** is basically a _mouth_ on _(human) legs_ when he's a teenager.
+Note: primitive meaning _teenager_.
+Don't confuse with ONLY (只).
+<!--ID: 1785183563261-->
+END
+
+START
+Japanese RTK
+Keyword: curse
+Clue:
+Kanji: 呪
+Reading: ジュ
+Story: I put a **curse** on my _elder brother_ so that he can never open his _mouth_ again.
+Note:
+<!--ID: 1785183563262-->
+END
+
+START
+Japanese RTK
+Keyword: overcome
+Clue:
+Kanji: 克
+Reading: コク
+Story: A _teenager_ addicted to heroine must **overcome** the _needle_.
+Note:
+<!--ID: 1785183563263-->
+END
+
+START
+Japanese RTK
+Keyword: little
+Clue: don't confuse with FEW
+Kanji: 小
+Reading: ショウ
+Story: A **little** penguin with its wings at its side.
+Note: means little as in small or tiny, not as in a little bit or few.
+<!--ID: 1785183563264-->
+END
+
+START
+Japanese RTK
+Keyword: few
+Clue:
+Kanji: 少
+Reading: ショウ
+Story: A **few** _little_ penguins slide belly-first down an ice slide.
+Note: Heisig says the slide is actually a _drop_ and that in certain contexts, a _drop_ is drawn large like this.
+<!--ID: 1785183563265-->
+END
+
+START
+Japanese RTK
+Keyword: large
+Clue:
+Kanji: 大
+Reading: ダイ
+Story: A _person_ stretching out his arms to look **large** and scare away a bear.
+Note: primitive meaning _large dog_ or _St. Bernard dog_ (who has lost his tail).
+<!--ID: 1785183563266-->
+END
+
+START
+Japanese RTK
+Keyword: many
+Clue:
+Kanji: 多
+Reading: タ
+Story: **Many** moons ago... or maybe just two _evenings_ ago (I can't remember).
+Note: I don't know why Heisig introduces this before EVENING (夕).
+<!--ID: 1785183563267-->
+END
+
+START
+Japanese RTK
+Keyword: evening
+Clue:
+Kanji: 夕
+Reading: セキ
+Story: In the **evening**, the crescent _moon_ hangs in the sky.
+Note: Heisig describes this as _moon_ missing its final stroke.
+<!--ID: 1785183563268-->
+END
+
+START
+Japanese RTK
+Keyword: eventide
+Clue:
+Kanji: 汐
+Reading: セキ
+Story: At **eventide**, _drops of water_ fall slowly as _evening_ approaches.
+Note: eventide is an archaic word for evening
+even -> evening
+tide -> time/period (not ocean tide)
+cf. yuletide
+<!--ID: 1785183563269-->
+END
+
+START
+Japanese RTK
+Keyword: outside
+Clue:
+Kanji: 外
+Reading: ガイ
+Story: Only your _magic wand_ will keep you safe **outside** on a dark _evening_ like this.
+Note:
+<!--ID: 1785183563270-->
+END
+
+START
+Japanese RTK
+Keyword: name
+Clue:
+Kanji: 名
+Reading: メイ
+Story: In this beautiful _evening_, her sweet _mouth_ whispered my **name**.
+Note:
+<!--ID: 1785183563271-->
+END
+
+START
+Japanese RTK
+Keyword: stone
+Clue:
+Kanji: 石
+Reading: セキ
+Story: A huge **stone** covers the secret **opening** hiden under the _cliff_.
+Note: introduces the non-jōyō kanji primitive 厂 meaning _cliff_.
+石 is the only case where the second stroke starts towards the middle of the first.
+<!--ID: 1785183563272-->
+END
+
+START
+Japanese RTK
+Keyword: resemblance
+Clue: not LIKENESS
+Kanji: 肖
+Reading: ショウ
+Story: A _candle_ bears some **resemblance** to a _little_ light from the _moon_.
+Note: primitive meaning _sparkle_ or _candle_.
+Heisig relates ⺌ to 小 and while etymologically incorrect, dictionaries group 光, 肖 etc. under the radical 小.
+<!--ID: 1785183563273-->
+END
+
+START
+Japanese RTK
+Keyword: nitrate
+Clue:
+Kanji: 硝
+Reading: ショウ
+Story: The miner held a _candle_ to the newly mined _stones_ to check for _nitrate_. Too much though and it might explode!
+Note:
+<!--ID: 1785183563274-->
 END
