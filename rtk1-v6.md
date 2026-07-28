@@ -228,7 +228,7 @@ Keyword: chant
 Clue:
 Kanji: 唱
 Reading: ショウ
-Story: The monk opened his _month_ and chanted for two _days_.
+Story: The monk opened his _month_ and **chanted** for two _days_.
 Note:
 <!--ID: 1784809271222-->
 END
@@ -628,7 +628,7 @@ Keyword: pop song
 Clue:
 Kanji: 唄
 Reading:
-Story: Bono just opens _mouth_ and makes tons of _money_ with his **pop songs**.
+Story: Bono just opens his _mouth_ and makes tons of _money_ with his **pop songs**.
 Note: actually means a traditional song, not a pop song.
 Don't mix up 員 and 唄 (there are very few other similar cases).
 <!--ID: 1784893865703-->
@@ -783,7 +783,7 @@ Keyword: decameron
 Clue:
 Kanji: 旬
 Reading: ジュン
-Story: Heisig should be _bound up_ for a _day_ (or even ten _days_ a **decameron**) for giving this kanji the keyword **decameron**.
+Story: Heisig should be _bound up_ for a _day_ (or even ten _days_, a **decameron**) for giving this kanji the keyword **decameron**.
 Note: Japan divides a month into three 10-day periods. The first is jōjun (上旬); the second, chūjun (中旬); the last, gejun (下旬).
 <!--ID: 1784987896469-->
 END
@@ -1004,7 +1004,7 @@ Keyword: shining
 Clue: not SPARKLE
 Kanji: 昭
 Reading: ショウ
-Story: It was the _sun_ **shinning** off Lancelot's beautiful armor that first _seduced_ Guinevere.
+Story: It was the _sun_ **shining** off Lancelot's beautiful armor that first _seduced_ Guinevere.
 Note:
 <!--ID: 1785070789865-->
 END
@@ -1332,4 +1332,224 @@ Reading: ショウ
 Story: The miner held a _candle_ to the newly mined _stones_ to check for _nitrate_. Too much though and it might explode!
 Note:
 <!--ID: 1785183563274-->
+END
+
+START
+Japanese RTK
+Keyword: smash
+Clue:
+Kanji: 砕
+Reading: サイ
+Story: Throwing a _stone_ in a _game of cricket_ would **smash** the wickets.
+Note: introduces non-jōyō kanji 卆 as primitive meaning _game of cricket_ (_baseball players_ + _needle_\-shaped wickets = _game of cricket_).
+<!--ID: 1785271721718-->
+END
+
+START
+Japanese RTK
+Keyword: sand
+Clue:
+Kanji: 砂
+Reading: サ
+Story: To make **sand**, start by grinding a _few stones_.
+Note:
+<!--ID: 1785271721735-->
+END
+
+START
+Japanese RTK
+Keyword: jealous
+Clue:
+Kanji: 妬
+Reading: ト
+Story: The **jealous** _woman_ bashed his brains in with a _stone_ when he betrayed her.
+Note:
+<!--ID: 1785271721740-->
+END
+
+START
+Japanese RTK
+Keyword: plane
+Clue:
+Kanji: 削
+Reading: サク
+Story: _Sparks_ flew from the _blade_ as the master swordsmith **planed** it to perfection.
+Note:
+<!--ID: 1785271721743-->
+END
+
+START
+Japanese RTK
+Keyword: ray
+Clue:
+Kanji: 光
+Reading: コウ
+Story: The mysterious **ray** made people _little_. Ha! See them run around on their _little legs_.
+Note: the 一 is there as, like horns, the ⺌ can't be free-floating.
+<!--ID: 1785271721746-->
+END
+
+START
+Japanese RTK
+Keyword: plump
+Clue:
+Kanji: 太
+Reading: タイ
+Story: A _large_ person with a big _drop_ of sweat dripping off of him because he is so **plump**.
+Note: don't mix up with ROUND (丸) which has the primitive meaning _fat man_.
+<!--ID: 1785271721749-->
+END
+
+START
+Japanese RTK
+Keyword: utensil
+Clue:
+Kanji: 器
+Reading: キ
+Story: Four _mouths_ sit at the corners of the table, waiting for their _utensils_, ready to devour the _St. Bernard_ stretched out on the table!
+Note:
+<!--ID: 1785271721751-->
+END
+
+START
+Japanese RTK
+Keyword: stinking
+Clue:
+Kanji: 臭
+Reading: シュウ
+Story: The _St. Bernard_ has his _nose_ in the air, sniffing suspiciously for something **stinking** nearby.
+Note:
+<!--ID: 1785271721753-->
+END
+
+START
+Japanese RTK
+Keyword: sniff
+Clue:
+Kanji: 嗅
+Reading: キュウ
+Story: He took one **sniff** and remarked bluntly that my _mouth_ was _stinking_.
+Note: here the _dog_ has his tail even though it's missing in STINKING (臭). This is a historical screw up, STINKING was added to the jōyō set at the start and simplified (dropping the tail), while 嗅 was added in 2010 when they applied different rules/reasoning.
+<!--ID: 1785271721757-->
+END
+
+START
+Japanese RTK
+Keyword: exquisite
+Clue:
+Kanji: 妙
+Reading: ミョウ
+Story: Let's be honest, only a _few women_ are **exquisite**.
+Note:
+<!--ID: 1785271721760-->
+END
+
+START
+Japanese RTK
+Keyword: focus
+Clue:
+Kanji: 省
+Reading: セイ
+Story: Pick up a _few_ things and hold them before your _eye_ in order to really **focus** on them.
+Note:
+<!--ID: 1785271721763-->
+END
+
+START
+Japanese RTK
+Keyword: thick
+Clue:
+Kanji: 厚
+Reading: コウ
+Story: Any _child_ growing up in the burning sun under a dry, bare _cliff_ is bound to be **thick**-skinned.
+Note:
+<!--ID: 1785271721765-->
+END
+
+START
+Japanese RTK
+Keyword: strange
+Clue:
+Kanji: 奇
+Reading: キ
+Story: **Strange** but true, we needed a _spike_ in his _mouth_ to stop the _St. Bernard_ drinking the whiskey that was meant for those he saved.
+Note:
+<!--ID: 1785271721767-->
+END
+
+START
+Japanese RTK
+Keyword: stream
+Clue:
+Kanji: 川
+Reading: セン
+Story: looks like a stream
+Note: primitive meaning _stream_ or _flood_, can appear as 川, ⼮ or as 川 but with the right-most stroke as a hook (⺃).
+<!--ID: 1785271721769-->
+END
+
+START
+Japanese RTK
+Keyword: state
+Clue:
+Kanji: 州
+Reading: シュウ
+Story: A god plunged a sword into a _stream_ and the three _drops_ that fell back became the three main islands of the **state** of Japan.
+Note: drops and lines are drawn strictly left-to-right (i.e. not long stroke first, then drops).
+<!--ID: 1785271721771-->
+END
+
+START
+Japanese RTK
+Keyword: obey
+Clue:
+Kanji: 順
+Reading: ジュン
+Story: If you want to stay, you have to **obey** the _stream_ of orders from the _head_ of our organization.
+Note:
+<!--ID: 1785271721773-->
+END
+
+START
+Japanese RTK
+Keyword: water
+Clue:
+Kanji: 水
+Reading: スイ
+Story: [no story]
+Note: as a primitive is can appear as 水, but more commonly as ⺡.
+<!--ID: 1785271721775-->
+END
+
+START
+Japanese RTK
+Keyword: icicle
+Clue:
+Kanji: 氷
+Reading: ヒョウ
+Story: **Icicles** form when _water drops_ drop down, one after the other, and freeze.
+Note: don't mix up with ETERNITY (永)
+<!--ID: 1785271721778-->
+END
+
+START
+Japanese RTK
+Keyword: eternity
+Clue:
+Kanji: 永
+Reading: エイ
+Story: What is your life? Compared to **eternity**, it's a _drop_ of _water_ on a tiny _floor_.
+Note: here, the _drop_ comes first, then the oddly drawn first stroke of 水. For 氷, the _drop_ comes second.
+<!--ID: 1785271721781-->
+END
+
+START
+Japanese RTK
+Keyword: spring
+Clue: water source, not SPRINGTIME
+Kanji: 泉
+Reading: セン
+Story: A fresh **spring** has plenty of frothy _white_ bubbles in its crisp, cool _water_.
+Note: as a primitive it can appear unchanged as 泉 or with the 水 bit squashed down to look like 小 (as in 原).
+<!--ID: 1785271721785-->
 END
