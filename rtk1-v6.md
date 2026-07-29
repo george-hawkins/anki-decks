@@ -1072,6 +1072,7 @@ Kanji: 可
 Reading: カ
 Story: A _mouth_ on the _street_ asking for things: "**Can** I get some help? **Can** I get directions? **Can** I have some money?"
 Note: for 町, the two elements are drawn separately, but for 可, it's the first stoke of 丁, then the mouth, then the last stroke of 丁.
+Update: **can** is hard to include in stories as a modal verb. Lots of Koohii stories turn it into a tin can but Heisig uses "the Little Engine that **Could**."
 <!--ID: 1785070789886-->
 END
 
@@ -1480,7 +1481,7 @@ END
 START
 Japanese RTK
 Keyword: stream
-Clue:
+Clue: don't confuse with RIVER
 Kanji: 川
 Reading: セン
 Story: looks like a stream
@@ -1552,4 +1553,224 @@ Reading: セン
 Story: A fresh **spring** has plenty of frothy _white_ bubbles in its crisp, cool _water_.
 Note: as a primitive it can appear unchanged as 泉 or with the 水 bit squashed down to look like 小 (as in 原).
 <!--ID: 1785271721785-->
+END
+
+START
+Japanese RTK
+Keyword: gland
+Clue:
+Kanji: 腺
+Reading: セン
+Story: A _body part_ that acts like a _spring_ for hormones is a **gland**.
+Note:
+<!--ID: 1785356785781-->
+END
+
+START
+Japanese RTK
+Keyword: meadow
+Clue:
+Kanji: 原
+Reading: ゲン
+Story: After skipping through the **meadow** full of _small white springs_, Schwester Maria slipped and fell headlong over the cliff at its edge.
+Note: the 水 bit of 泉 has been abbreviated down to 小 here.
+<!--ID: 1785356785793-->
+END
+
+START
+Japanese RTK
+Keyword: petition
+Clue:
+Kanji: 願
+Reading: ガン
+Story: The mysterious giant _head_ appeared, floating above the _meadow_, beckoning people to **petition** it for whatever they desired.
+Note: the 水 bit of 泉 has been abbreviated down to 小 here.
+<!--ID: 1785356785797-->
+END
+
+START
+Japanese RTK
+Keyword: swim
+Clue:
+Kanji: 泳
+Reading: エイ
+Story: If you can't **swim**, you'll drown, and your bones will be left for _eternity_ in the _water_.
+Note:
+<!--ID: 1785356785802-->
+END
+
+START
+Japanese RTK
+Keyword: marsh
+Clue:
+Kanji: 沼
+Reading: ショウ
+Story: The **marsh** near Mordor _seduced_ Frodo into gazing upon it, and he fell into the _water_! Splash!
+Note:
+<!--ID: 1785356785806-->
+END
+
+START
+Japanese RTK
+Keyword: open sea
+Clue:
+Kanji: 沖
+Reading: チュウ
+Story: _Water_ in the _middle_ of the ocean is referred to as **open sea**.
+Note:
+<!--ID: 1785356785810-->
+END
+
+START
+Japanese RTK
+Keyword: pan-
+Clue: as in all-inclusive, e.g. Pan-Asian Games
+Kanji: 汎
+Reading: ハン
+Story: I ordered a **pan**-galactic gargleblaster, but all I got was a _mediocre watery_ vodka.
+Note:
+<!--ID: 1785356785813-->
+END
+
+START
+Japanese RTK
+Keyword: creek
+Clue:
+Kanji: 江
+Reading: コウ
+Story: **Creeks** have hardly any _water_ and are easily crossed with a _i-beam_.
+Note:
+<!--ID: 1785356785818-->
+END
+
+START
+Japanese RTK
+Keyword: cleanse
+Clue:
+Kanji: 汰
+Reading: タ
+Story: The _plumb_ man **cleansed** himself in the spa _water_. A pity it couldn't **cleanse** him of his excess kilos.
+Note: can mean clean out or select as in natural selection (自然淘汰).
+<!--ID: 1785356785822-->
+END
+
+START
+Japanese RTK
+Keyword: soup
+Clue:
+Kanji: 汁
+Reading: ジュウ
+Story: To make **soup**, you just take _water_ and add _ten_ tasty ingredients.
+Note:
+<!--ID: 1785356785826-->
+END
+
+START
+Japanese RTK
+Keyword: grains of sand
+Clue:
+Kanji: 沙
+Reading: サ
+Story: _Water_ erodes away stone a _few_ **grains of sand** at a time until there is no stone left.
+Note: don't confuse with SAND (砂). In this story there's no stone left!
+<!--ID: 1785356785830-->
+END
+
+START
+Japanese RTK
+Keyword: tide
+Clue:
+Kanji: 潮
+Reading: チョウ
+Story: The _morning_ **tide** is basically, well, _water_ rising in the _morning_.
+Note: the complement of EVENTIDE (汐).
+<!--ID: 1785356785834-->
+END
+
+START
+Japanese RTK
+Keyword: source
+Clue:
+Kanji: 源
+Reading: ゲン
+Story: Valser always shows beautiful alpine _meadows_ as the **source** of their _water_ (but it probably comes out of a tap).
+Note: **source** feels very close to SPRING (泉) to me, don't confuse them.
+<!--ID: 1785356785837-->
+END
+
+START
+Japanese RTK
+Keyword: lively
+Clue:
+Kanji: 活
+Reading: カツ
+Story: At a **lively** party, _tongues_ babble and splash around like flowing _water_.
+Note:
+<!--ID: 1785356785841-->
+END
+
+START
+Japanese RTK
+Keyword: extinguish
+Clue:
+Kanji: 消
+Reading: ショウ
+Story: It took just a few drops of _water_ to **extinguish** the _candle_.
+Note:
+<!--ID: 1785356785844-->
+END
+
+START
+Japanese RTK
+Keyword: but of course
+Clue:
+Kanji: 況
+Reading: キョウ
+Story: Dump a bucket of ice _water_ onto a sleeping _teenager_, will they leap up screaming? **But of course!**
+Note: this kanji has nothing to do with **but of course**, but the better matches CONDITION and STATUS are taken by other kanji.
+<!--ID: 1785356785848-->
+END
+
+START
+Japanese RTK
+Keyword: river
+Clue: don't confuse with STREAM
+Kanji: 河
+Reading: カ
+Story: Every drop of _water can_ one day become a **river**.
+Note:
+<!--ID: 1785356785852-->
+END
+
+START
+Japanese RTK
+Keyword: overnight
+Clue:
+Kanji: 泊
+Reading: ハク
+Story: The concierge said "please supply any guest who stays **overnight** with _water_ and clean _white_ sheets."
+Note:
+<!--ID: 1785356785856-->
+END
+
+START
+Japanese RTK
+Keyword: lake
+Clue:
+Kanji: 湖
+Reading: コ
+Story: His _old flesh_ couldn't take it anymore and he cast himself into the _waters_ of the **lake**.
+Note:
+<!--ID: 1785356785859-->
+END
+
+START
+Japanese RTK
+Keyword: fathom
+Clue:
+Kanji: 測
+Reading: ソク
+Story: The **fathom** is the unit you use when making _rules_ about territorial _waters_.
+Note:
+<!--ID: 1785356785863-->
 END
