@@ -850,7 +850,7 @@ Keyword: straightaway
 Clue:
 Kanji: 直
 Reading: チョク
-Story: If you get a _needle_ in your _eye_ and it's _hooked_ in there, get to a hospital **straightaway**.
+Story: "**Straightaway** to the hospital!" he roared, "he's got a _needle_ _hooked_ in his _eye_!"
 Note:
 <!--ID: 1784987896491-->
 END
@@ -1295,7 +1295,7 @@ Keyword: name
 Clue:
 Kanji: 名
 Reading: メイ
-Story: In this beautiful _evening_, her sweet _mouth_ whispered my **name**.
+Story: On this beautiful _evening_, her sweet _mouth_ whispered my **name**.
 Note:
 <!--ID: 1785183563271-->
 END
@@ -1773,4 +1773,226 @@ Reading: ソク
 Story: The **fathom** is the unit you use when making _rules_ about territorial _waters_.
 Note:
 <!--ID: 1785356785863-->
+END
+
+START
+Japanese RTK
+Keyword: soil
+Clue:
+Kanji: 土
+Reading: ド
+Story: [no story]
+Note: primitive meaning _soil_, _ground_ and _dirt_.
+<!--ID: 1785442542647-->
+END
+
+START
+Japanese RTK
+Keyword: spit
+Clue:
+Kanji: 吐
+Reading: ト
+Story: If you get _dirt_ in your _mouth_, you'll surely **spit** it out.
+Note:
+<!--ID: 1785442542664-->
+END
+
+START
+Japanese RTK
+Keyword: pressure
+Clue:
+Kanji: 圧
+Reading: アツ
+Story: The _cliff_ exerts enormous **pressure** on the _ground_ beneath it.
+Note:
+<!--ID: 1785442542668-->
+END
+
+START
+Japanese RTK
+Keyword: cape
+Clue:
+Kanji: 埼
+Reading: キ
+Story: **Cape Cod** is odd, _strange_ things happen on the _land_ there.
+Note:
+<!--ID: 1785442542671-->
+END
+
+START
+Japanese RTK
+Keyword: hedge
+Clue:
+Kanji: 垣
+Reading: エン
+Story: A magical **hedge** of briar roses completely _spanned_ the castle _grounds_ where Sleeping Beauty lay.
+Note:
+<!--ID: 1785442542673-->
+END
+
+START
+Japanese RTK
+Keyword: inlay
+Clue:
+Kanji: 填
+Reading: テン
+Story: The archaeologists found a brooch with beautiful gold **inlay** when digging in the ground for the _truth_ about the civilization of legend.
+Note:
+<!--ID: 1785442542678-->
+END
+
+START
+Japanese RTK
+Keyword: squared jewel
+Clue:
+Kanji: 圭
+Reading: ケイ
+Story: How would you stop someone stealing your biggest **squared jewel**? Bury it deep in the _soil under ground_. Then plant _ivy_ to mark the spot.
+Note: primitive meaning _ivy_.
+Heisig notes that _ivy_ has no real relation to **squared jewel** but it's better for stories. _Ivy_ growing over the _ground_ forms a second _ground_ that's tricky to walk on.
+<!--ID: 1785442542685-->
+END
+
+START
+Japanese RTK
+Keyword: seal
+Clue:
+Kanji: 封
+Reading: フウ
+Story: The king used a special **seal** of _ivy_ leaves _glued_ onto his document.
+Note:
+<!--ID: 1785442542688-->
+END
+
+START
+Japanese RTK
+Keyword: horizon
+Clue:
+Kanji: 涯
+Reading: ガイ
+Story: After months at sea, he looked far over the _water_ and saw the _ivy_\-clad _cliffs_ of home appearing over the **horizon**.
+Note:
+<!--ID: 1785442542691-->
+END
+
+START
+Japanese RTK
+Keyword: Buddhist temple
+Clue:
+Kanji: 寺
+Reading: ジ
+Story: At the **Buddhist temple**, the monks sit on the _ground_, _glued_ there in meditation.
+Note:
+<!--ID: 1785442542695-->
+END
+
+START
+Japanese RTK
+Keyword: time
+Clue:
+Kanji: 時
+Reading: ジ
+Story: Historically, the **time** of _day_ was announced by the iron bell of the _Buddhist temple_.
+Note:
+<!--ID: 1785442542699-->
+END
+
+START
+Japanese RTK
+Keyword: level
+Clue:
+Kanji: 均
+Reading: キン
+Story: When I **leveled** the _soil_, I'd scooped up in my _ladle_, a big excess _drop_ fell to the _ground_.
+Note: 匀 is actually a little used non-jōyō kanji meaning equal
+<!--ID: 1785442542704-->
+END
+
+START
+Japanese RTK
+Keyword: fire
+Clue:
+Kanji: 火
+Reading: カ
+Story: [no story]
+Note: to keep 火 and its squashed ⺣ form distinct, don't use **fire** for either. For 火, use _fireplace_, _fire storm_, when squashed to ⺣, use _flames_, _cauldron_, _cooking/oven fire_.
+Heisig ignores this suggestion in 炎 - the very next character.
+<!--ID: 1785442542707-->
+END
+
+START
+Japanese RTK
+Keyword: inflammation
+Clue:
+Kanji: 炎
+Reading: エン
+Story: The terrible **inflammation** felt like _fire_ above and _fire_ below my skin.
+Note:
+<!--ID: 1785442542711-->
+END
+
+START
+Japanese RTK
+Keyword: anxiety
+Clue:
+Kanji: 煩
+Reading: ハン
+Story: His **anxiety** went through the roof, his _head_ was on _fire_ from all the bad drugs.
+Note:
+<!--ID: 1785442542715-->
+END
+
+START
+Japanese RTK
+Keyword: thin
+Clue:
+Kanji: 淡
+Reading: タン
+Story: A **thin** trickle of _water_ cooled the burning _inflammation_ on his skin.
+Note:
+<!--ID: 1785442542719-->
+END
+
+START
+Japanese RTK
+Keyword: lamp
+Clue:
+Kanji: 灯
+Reading: トウ
+Story: In the past, the _flames_ of gas **lamps** kept the _streets_ bright.
+Note:
+<!--ID: 1785442542724-->
+END
+
+START
+Japanese RTK
+Keyword: farm
+Clue:
+Kanji: 畑
+Reading: [no reading]
+Story: In some parts of the world, they clear the stubble from **farm** _fields_ with _fire_.
+Note:
+<!--ID: 1785442542728-->
+END
+
+START
+Japanese RTK
+Keyword: disaster
+Clue:
+Kanji: 災
+Reading: サイ
+Story: What a **disaster**! First came the terrible _floods_ and, just as it dried up, the raging _fire_.
+Note:
+<!--ID: 1785442542732-->
+END
+
+START
+Japanese RTK
+Keyword: ashes
+Clue:
+Kanji: 灰
+Reading: カイ
+Story: After the cremation _fire_, they scattered his _ashes_ from the seaside _cliff_.
+Note:
+<!--ID: 1785442542736-->
 END
