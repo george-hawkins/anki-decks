@@ -905,7 +905,7 @@ Keyword: right
 Clue:
 Kanji: 右
 Reading: ウ
-Story: There's a little _mouth_ handing _by my side_, telling me the **right** thing to do.
+Story: There's a little _mouth_ hanging _by my side_, telling me the **right** thing to do.
 Note:
 <!--ID: 1785070789832-->
 END
@@ -1585,6 +1585,7 @@ Kanji: 願
 Reading: ガン
 Story: The mysterious giant _head_ appeared, floating above the _meadow_, beckoning people to **petition** it for whatever they desired.
 Note: the 水 bit of 泉 has been abbreviated down to 小 here.
+_Head_ is always to the right.
 <!--ID: 1785356785797-->
 END
 
@@ -1995,4 +1996,227 @@ Reading: カイ
 Story: After the cremation _fire_, they scattered his _ashes_ from the seaside _cliff_.
 Note:
 <!--ID: 1785442542736-->
+END
+
+START
+Japanese RTK
+Keyword: spot
+Clue:
+Kanji: 点
+Reading: テン
+Story: There were scorched **spots** all over my shirt after I laughed at the _fortune teller's_ story and she flung her _cauldron_ at me.
+Note: ⺣ is squashed 火, don't get it confused with water.
+<!--ID: 1785587062648-->
+END
+
+START
+Japanese RTK
+Keyword: illuminate
+Clue:
+Kanji: 照
+Reading: ショウ
+Story: The _shining flames_ **illuminated** everything.
+Note: like its English counterparth, **illuminate** has a broad range of meanings.
+<!--ID: 1785587062655-->
+END
+
+START
+Japanese RTK
+Keyword: fish
+Clue:
+Kanji: 魚
+Reading: ギョ
+Story: The **fish** I caught was so monstrous, I had to _bind it up_, drag it across the _rice fields_, and boil it in the village _cauldron_.
+Note:
+<!--ID: 1785587062659-->
+END
+
+START
+Japanese RTK
+Keyword: fishing
+Clue:
+Kanji: 漁
+Reading: ギョ
+Story: **Fishing** 101: _Fish_ are generally found in _water_.
+Note:
+<!--ID: 1785587062662-->
+END
+
+START
+Japanese RTK
+Keyword: ri
+Clue: Japanese unit for ~4 km.
+Kanji: 里
+Reading: リ
+Story: Historically, when measuring the _land_ making up _rice fields_, you used the **ri** as the unit.
+Note: primitive meaning _computer_ (yes, really).
+Watch out - the vertical is a single stroke drawn before soil, but skewering both elements.
+Lot's of Koohii users hate this keyword.
+<!--ID: 1785587062666-->
+END
+
+START
+Japanese RTK
+Keyword: black
+Clue:
+Kanji: 黒
+Reading: コク
+Story: _Flames_ spewed from the li-ion battery of my _computer_, turning the walls a horrible **black**.
+Note:
+<!--ID: 1785587062670-->
+END
+
+START
+Japanese RTK
+Keyword: black ink
+Clue:
+Kanji: 墨
+Reading: ボク
+Story: There's a big _black_ stain on the _ground_ where someone spilled **black ink**.
+Note:
+<!--ID: 1785587062674-->
+END
+
+START
+Japanese RTK
+Keyword: carp
+Clue:
+Kanji: 鯉
+Reading: リ
+Story: I fumbled, my _computer_ fell into the pond and was gobbled up by a _fish_; that giant orange **carp** has been glowing and beeping ever since.
+Note:
+<!--ID: 1785587062676-->
+END
+
+START
+Japanese RTK
+Keyword: quantity
+Clue:
+Kanji: 量
+Reading: リョウ
+Story: The enormous **quantity** of work meant I was still at my _computer_ come _nightbreak_.
+Note:
+<!--ID: 1785587062679-->
+END
+
+START
+Japanese RTK
+Keyword: rin
+Clue: Japanese word for 1/1000 of a yen
+Kanji: 厘
+Reading: リン
+Story: A _computer_ that's fallen off a _cliff_ is worth even less than a **rin**.
+Note:
+<!--ID: 1785587062683-->
+END
+
+START
+Japanese RTK
+Keyword: bury
+Clue:
+Kanji: 埋
+Reading: マイ
+Story: It had served me well. I **buried** that old _computer_ with dignity in the _soil_ out back.
+Note:
+<!--ID: 1785587062686-->
+END
+
+START
+Japanese RTK
+Keyword: same
+Clue:
+Kanji: 同
+Reading: ドウ
+Story: The monks, _cowled_ heads and chanting as if with _one mouth_, all looked the **same**.
+Note: primitive meaning a _monk_ wearing the plain practical clothes of daily monastic life.
+Introduces the non-kanji primitive 冂 meaning _hood / helment / glass canopy / cowl / car hood_.
+<!--ID: 1785587062690-->
+END
+
+START
+Japanese RTK
+Keyword: den
+Clue:
+Kanji: 洞
+Reading: ドウ
+Story: There's a secret **den** in the monastery where the _monks_ hold _water_\-pistol fights!
+Note:
+<!--ID: 1785587062693-->
+END
+
+START
+Japanese RTK
+Keyword: trunk
+Clue:
+Kanji: 胴
+Reading: ドウ
+Story: Dead _flesh_ all looks the _same_ when you chop off everything but the **trunk**.
+Note:
+<!--ID: 1785587062695-->
+END
+
+START
+Japanese RTK
+Keyword: yonder
+Clue:
+Kanji: 向
+Reading: コウ
+Story: The wild blue **yonder** had seemed so exciting, but the spaceman, his _mouth_ wide open, died there as the last _drop_ of air escaped from his _helmet_.
+Note: don't mix up the non-drop bit of this with 同, there's no 一.
+<!--ID: 1785587062698-->
+END
+
+START
+Japanese RTK
+Keyword: esteem
+Clue:
+Kanji: 尚
+Reading: ショウ
+Story: He had so _little_ self-**esteem** that he kept his _hood_ down and his _mouth_ shut.
+Note:
+<!--ID: 1785587062700-->
+END
+
+START
+Japanese RTK
+Keyword: character
+Clue:
+Kanji: 字
+Reading: ジ
+Story: The poor _child_ never leaves the _house_ as he has to spend all his time learning kanji **characters**.
+Note: introduces the non-kanji primitive 宀 meaning _house_.
+<!--ID: 1785587062704-->
+END
+
+START
+Japanese RTK
+Keyword: guard
+Clue:
+Kanji: 守
+Reading: シュ
+Story: The **guard** stuck to the _house_ like _glue_, warding off miscreants.
+Note:
+<!--ID: 1785587062707-->
+END
+
+START
+Japanese RTK
+Keyword: perfect
+Clue:
+Kanji: 完
+Reading: カン
+Story: In the _beginning_ the _house_ was perfect, but look at it now!
+Note:
+<!--ID: 1785587062711-->
+END
+
+START
+Japanese RTK
+Keyword: proclaim
+Clue:
+Kanji: 宣
+Reading: セン
+Story: The madman stood on the _housetop_ and **proclaimed** that Jesus loved us all the _span_ of our lives and beyond.
+Note:
+<!--ID: 1785587062715-->
 END
