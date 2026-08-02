@@ -1738,7 +1738,7 @@ Keyword: river
 Clue: don't confuse with STREAM
 Kanji: 河
 Reading: カ
-Story: Every drop of _water can_ one day become a **river**.
+Story: The _little engine that could_ powered the great paddle steamer up the _waters_ of the Mississippi **River**.
 Note:
 <!--ID: 1785356785852-->
 END
@@ -1970,7 +1970,7 @@ Japanese RTK
 Keyword: farm
 Clue:
 Kanji: 畑
-Reading: [no reading]
+Reading:<!-- no reading -->
 Story: In some parts of the world, they clear the stubble from **farm** _fields_ with _fire_.
 Note:
 <!--ID: 1785442542728-->
@@ -2219,4 +2219,226 @@ Reading: セン
 Story: The madman stood on the _housetop_ and **proclaimed** that Jesus loved us all the _span_ of our lives and beyond.
 Note:
 <!--ID: 1785587062715-->
+END
+
+START
+Japanese RTK
+Keyword: wee hours
+Clue:
+Kanji: 宵
+Reading: ショウ
+Story: In my _house_, reviewing kanji is such a terrible task, I have to keep a _candle_ burning into the **wee hours**.
+Note:
+<!--ID: 1785677363158-->
+END
+
+START
+Japanese RTK
+Keyword: relax
+Clue:
+Kanji: 安
+Reading: アン
+Story: The cheapest place to **relax** is at _home_ with your _woman_, doing "nice" things.
+Note: oddly, Heisig doesn't use "cheap" as the keyword for this character or any other.
+<!--ID: 1785677363161-->
+END
+
+START
+Japanese RTK
+Keyword: banquet
+Clue:
+Kanji: 宴
+Reading: エン
+Story: Slaving away in the _house_, all _day_ long, the _woman_ prepared for the **banquet**.
+Note:
+<!--ID: 1785677363162-->
+END
+
+START
+Japanese RTK
+Keyword: draw near
+Clue:
+Kanji: 寄
+Reading: キ
+Story: As I _drew near_, I became more and more worried as I saw how _strange_ the _house_ was that I'd so thoughtlessly booked online.
+Note:
+<!--ID: 1785677363163-->
+END
+
+START
+Japanese RTK
+Keyword: wealth
+Clue:
+Kanji: 富
+Reading: フ
+Story: The family kept all their **wealth** under one _roof_.
+Note: a little confusingly, the kanji loses its root but keeps its meaing as the primitive 畐 (a non-jōyō kanji that actually has a completely different meaning).
+<!--ID: 1785677363164-->
+END
+
+START
+Japanese RTK
+Keyword: savings
+Clue:
+Kanji: 貯
+Reading: チョ
+Story: I turned all my **savings** into _clams_ and keep them in a hidden location under my _roof_ that's marked by a _spike_,.
+Note:
+<!--ID: 1785677363165-->
+END
+
+START
+Japanese RTK
+Keyword: tree
+Clue:
+Kanji: 木
+Reading: ボク
+Story: pictogram of a **tree**.
+Note: primitive meaning _tree_ or _wood_ or as _wooden pole_ for the detached tree.
+The standard tree (木) vs detached tree (ホ) distinction only exists in handwriting.
+**tree** usually appears to the left.
+<!--ID: 1785677363166-->
+END
+
+START
+Japanese RTK
+Keyword: grove
+Clue:
+Kanji: 林
+Reading: リン
+Story: A **grove** is a small cluster of _trees_.
+Note:
+<!--ID: 1785677363167-->
+END
+
+START
+Japanese RTK
+Keyword: forest
+Clue:
+Kanji: 森
+Reading: シン
+Story: _Trees, trees_ everywhere makes a **forest**.
+Note:
+<!--ID: 1785677363168-->
+END
+
+START
+Japanese RTK
+Keyword: Japanese Judas-tree
+Clue:
+Kanji: 桂
+Reading: ケイ
+Story: Legend says, **Judas** hung himself from a _tree_ covered in poison _ivy_.
+Note:
+<!--ID: 1785677363169-->
+END
+
+START
+Japanese RTK
+Keyword: oak
+Clue:
+Kanji: 柏
+Reading: ハク
+Story: The finest _white_ wines are aged in barrels made from **oak** _trees_, giving them a distinctive **oaky** flavor.
+Note:
+<!--ID: 1785677363170-->
+END
+
+START
+Japanese RTK
+Keyword: frame
+Clue:
+Kanji: 枠
+Reading:<!-- no reading -->
+Story: The _cricket match_ became so famous that for the winners' portait, they built a beautiful **frame** from the _wood of a tree_ that overlooked the pitch.
+Note:
+<!--ID: 1785677363171-->
+END
+
+START
+Japanese RTK
+Keyword: treetops
+Clue:
+Kanji: 梢
+Reading: ショウ
+Story: Fearing the world was being abandoned to darkness, Norsemen attached _candles_ to **treetops**. And so the _candles_ on my grandfather's Christmas _tree_.
+Note:
+<!--ID: 1785677363172-->
+END
+
+START
+Japanese RTK
+Keyword: shelf
+Clue:
+Kanji: 棚
+Reading: ホウ
+Story: My books are good _companions_, I have lots of them sitting on _wooden_ **shelves**.
+Note:
+<!--ID: 1785677363173-->
+END
+
+START
+Japanese RTK
+Keyword: apricot
+Clue:
+Kanji: 杏
+Reading: キョウ
+Story: I lay under the _tree, mouth_ open and let the beautiful fresh **apricots** drop straight in!
+Note: the story tries to emphasive the location of _tree_ and _mouth_.
+<!--ID: 1785677363174-->
+END
+
+START
+Japanese RTK
+Keyword: paulowina
+Clue: a plant kingdom name
+Kanji: 桐
+Reading: トウ
+Story: Q: "What the heck is a **Paulowina**?" A: "It's an oriental _tree_, but, to be honest, all _trees_ look the _same_ to me!"
+Note:
+<!--ID: 1785677363175-->
+END
+
+START
+Japanese RTK
+Keyword: plant
+Clue:
+Kanji: 植
+Reading: ショク
+Story: When you **plant** a new _tree_, water is _straightaway_ or it won't grow!
+Note:
+<!--ID: 1785677363176-->
+END
+
+START
+Japanese RTK
+Keyword: chair
+Clue:
+Kanji: 椅
+Reading: イ
+Story: When Japanese first saw **chairs**, they thought "what a _strange_ use for _wood_!"
+Note:
+<!--ID: 1785677363177-->
+END
+
+START
+Japanese RTK
+Keyword: wither
+Clue:
+Kanji: 枯
+Reading: コ
+Story: The _old tree_ **withered** away with the passing of the years.
+Note:
+<!--ID: 1785677363178-->
+END
+
+START
+Japanese RTK
+Keyword: crude
+Clue:
+Kanji: 朴
+Reading:
+Story: _Wooden wands_ are the **crudest**. They're nothing compared to the carbon-fiber ones.
+Note:
+<!--ID: 1785677363179-->
 END
