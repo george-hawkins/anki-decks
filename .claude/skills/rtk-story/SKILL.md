@@ -54,12 +54,15 @@ Search the deck so the story fits what's already established:
 
    The user's keywords may be approximate — inflection ("fortune teller"
    for _fortune-telling_) is matched automatically, and near-misses usually
-   surface via story/note mentions. If a keyword gets NO MATCHES, the
-   script suggests the nearest established deck vocabulary: pick the one
-   the user plainly meant, use *that* in the story, and say you did so.
-2. If the script reports the target keyword is already in the deck, mention
-   that (and quote the existing story) but still write fresh stories as
-   normal — the user decides what, if anything, to do with them.
+   surface via story/note mentions. If a *component* keyword gets NO
+   MATCHES, the script suggests the nearest established deck vocabulary:
+   pick the one the user plainly meant, use *that* in the story, and say
+   you did so.
+2. The target keyword is normally *new*: no deck entry, or an entry whose
+   story is still empty. Neither is worth remarking on — just write the
+   stories. Only if the script warns the target ALREADY HAS A STORY should
+   you point that out (quoting it) — it usually means a mistyped keyword or
+   a story that was already written — and still offer fresh stories.
 3. Reuse the deck's exact primitive vocabulary (_St. Bernard_, _magic wand_,
    _walking stick_, _drop_, _glue_, _by one's side_, …) rather than synonyms.
 4. Only fall back to manual `grep -in` over `rtk1-v6.md` if the script

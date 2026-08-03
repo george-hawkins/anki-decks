@@ -1970,7 +1970,7 @@ Japanese RTK
 Keyword: farm
 Clue:
 Kanji: 畑
-Reading:<!-- no reading -->
+Reading: <!-- no reading -->
 Story: In some parts of the world, they clear the stubble from **farm** _fields_ with _fire_.
 Note:
 <!--ID: 1785442542728-->
@@ -2349,7 +2349,7 @@ Japanese RTK
 Keyword: frame
 Clue:
 Kanji: 枠
-Reading:<!-- no reading -->
+Reading: <!-- no reading -->
 Story: The _cricket match_ became so famous that for the winners' portait, they built a beautiful **frame** from the _wood of a tree_ that overlooked the pitch.
 Note:
 <!--ID: 1785677363171-->
@@ -2441,4 +2441,225 @@ Reading:
 Story: _Wooden wands_ are the **crudest**. They're nothing compared to the carbon-fiber ones.
 Note:
 <!--ID: 1785677363179-->
+END
+
+START
+Japanese RTK
+Keyword: village
+Clue: not TOWN
+Kanji: 村
+Reading: ソン
+Story: A **village** is little more than a few _trees_ glued together.
+Note:
+<!--ID: 1785789335523-->
+END
+
+START
+Japanese RTK
+Keyword: inter-
+Clue:
+Kanji: 相
+Reading: ソウ
+Story: At the **interfaith** summit, the rabbi, the imam and the priest shared a shady _tree_, but kept a wary _eye_ on each other.
+Note:
+<!--ID: 1785789335525-->
+END
+
+START
+Japanese RTK
+Keyword: desk
+Clue:
+Kanji: 机
+Reading: キ
+Story: Studying at my _wooden_ **desk**, a great _wind_ swept away all my notes. All the kanji, I'd scribbled, disappeared off over the horizon.
+Note:
+<!--ID: 1785789335526-->
+END
+
+START
+Japanese RTK
+Keyword: book
+Clue:
+Kanji: 本
+Reading: ホン
+Story: A **book** is made _one_ very thin slice of a _tree_ at a time.
+Note:
+<!--ID: 1785789335527-->
+END
+
+START
+Japanese RTK
+Keyword: tag
+Clue:
+Kanji: 札
+Reading: サツ
+Story: Botanists like to identify _trees_ by _hooking_ **tags** onto them.
+Note:
+<!--ID: 1785789335529-->
+END
+
+START
+Japanese RTK
+Keyword: calendar
+Clue:
+Kanji: 暦
+Reading: レキ
+Story: A _cliff_ takes years to form, a _grove_ changes with the season, the _days_ come and go; give me a **calendar** and I'll measure the passing of all such times.
+Note:
+<!--ID: 1785789335530-->
+END
+
+START
+Japanese RTK
+Keyword: plan
+Clue:
+Kanji: 案
+Reading: アン
+Story: _Relaxing_ over the _trees_ in his glider, he **planed** his flight home.
+Note:
+<!--ID: 1785789335531-->
+END
+
+START
+Japanese RTK
+Keyword: parch
+Clue:
+Kanji: 燥
+Reading: ソウ
+Story: It's been so **parched** recently, that my _wooden furniture_ spontaneously went up in _flames_.
+Note: it's not a Heisig primitive, but the _goods_ and _tree_ bit appear in a few characters, so give them the meaning _furniture_ (_wooden goods_).
+<!--ID: 1785789335532-->
+END
+
+START
+Japanese RTK
+Keyword: not yet
+Clue:
+Kanji: 未
+Reading: ミ
+Story: The _tree_ (木) does **not yet** (未) have extremities (末).
+Note: this story is about not confusing 未 and 末.
+<!--ID: 1785789335533-->
+END
+
+START
+Japanese RTK
+Keyword: obscure
+Clue:
+Kanji: 昧
+Reading: マイ
+Story: The most **obscure** ideas have _not yet_ seen the light of _day_.
+Note:
+<!--ID: 1785789335534-->
+END
+
+START
+Japanese RTK
+Keyword: extremity
+Clue:
+Kanji: 末
+Reading: マツ
+Story: The _tree_ (木) does **not yet** (未) have extremities (末).
+Note: this story is about not confusing 未 and 末.
+<!--ID: 1785789335535-->
+END
+
+START
+Japanese RTK
+Keyword: splash
+Clue:
+Kanji: 沫
+Reading: マツ
+Story: The wave of _water_ reached its _extremity_; **splash**!
+Note:
+<!--ID: 1785789335536-->
+END
+
+START
+Japanese RTK
+Keyword: flavor
+Clue:
+Kanji: 味
+Reading: ミ
+Story: My _mouth_ has _not yet_ swallowed the food because the **flavor** is too delicious.
+Note:
+<!--ID: 1785789335537-->
+END
+
+START
+Japanese RTK
+Keyword: younger sister
+Clue:
+Kanji: 妹
+Reading: マイ
+Story: My friend's **younger sister** is _not yet_ a full grown _woman_.
+Note:
+<!--ID: 1785789335538-->
+END
+
+START
+Japanese RTK
+Keyword: vermilion
+Clue:
+Kanji: 朱
+Reading: シュ
+Story: It's Autumn; one last **vermilion** leaf (ノ) has _not yet_ fallen.
+Note: ノ is a leaf for the sake of this story.
+<!--ID: 1785789335539-->
+END
+
+START
+Japanese RTK
+Keyword: stocks
+Clue:
+Kanji: 株
+Reading: シュ
+Story: He always has some daft tip, his last one was "buy **stocks** in some company called '_Tree_ and _Vermillion_ Ltd.'"
+Note:
+<!--ID: 1785789335540-->
+END
+
+START
+Japanese RTK
+Keyword: young
+Clue:
+Kanji: 若
+Reading: ジャク
+Story: The Cheshire Cat told Alice, "the _flowers_ on the _right_ make you **young**, the others make you old."
+Note: introduces the non-kanji primitive 艹 meaning _flower_ (think _rose_, _tulip_ or _daisy_ - none of these are keywords).
+The 艹 primitive usually goes on top.
+<!--ID: 1785789335541-->
+END
+
+START
+Japanese RTK
+Keyword: grass
+Clue:
+Kanji: 草
+Reading: ソウ
+Story: The **grass** is so long, the only _flowers_ that you can see above it are the _sunflowers_.
+Note:
+<!--ID: 1785789335542-->
+END
+
+START
+Japanese RTK
+Keyword: suffering
+Clue:
+Kanji: 苦
+Reading: ク
+Story: The opium _flower_ can ease the **suffering** of the _old_.
+Note:
+<!--ID: 1785789335543-->
+END
+
+START
+Japanese RTK
+Keyword: bullying
+Clue:
+Kanji: 苛
+Reading: カ
+Story: The _little engine that could_ started a campaign to stop **bullying** and handed out _flowers_ of peace and understanding.
+Note:
+<!--ID: 1785789335544-->
 END

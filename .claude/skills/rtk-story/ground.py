@@ -121,18 +121,35 @@ def report(label, alternatives, entries, prim_lines, vocab, is_target):
         text = text.replace("_", " ")
         return any(rx.search(text) for rx in regexes)
 
-    own = [e for e in entries if matches(e.get("Keyword", ""))]
-    if own:
-        header = ("ALREADY IN THE DECK — mention this and quote the existing story:"
-                  if is_target else
-                  "ESTABLISHED DECK ENTRY — reuse this exact vocabulary:")
-        print(header)
+    def normalize(term):
+        return " ".join(re.split(r"[\s-]+", term.strip().lower()))
+
+    if is_target:
+        # the target keyword is typed exactly, so only an exact keyword
+        # collision matters — fuzzy matching would misfire on e.g.
+        # 'fish guts'/'fishing' when the target is 'fish'
+        wanted = {normalize(alt) for alt in alternatives}
+        own = [e for e in entries if normalize(e.get("Keyword", "")) in wanted]
+    else:
+        own = [e for e in entries if matches(e.get("Keyword", ""))]
+    if own and is_target:
+        for e in own:
+            if e.get("Story", "").strip():
+                print("⚠ ALREADY HAS A STORY — probably a mistake (wrong keyword,")
+                print("  or a story was already written); point this out and quote it:")
+            else:
+                print("Deck entry awaiting a story (the normal case):")
+            print_entry(e)
+            print()
+    elif own:
+        print("ESTABLISHED DECK ENTRY — reuse this exact vocabulary:")
         for e in own:
             print_entry(e)
             print()
     else:
         print("  (no deck entry has this keyword" +
-              ("" if is_target else " — if it's a primitive, check primitives.md hits below") + ")")
+              (" — as expected for a new kanji" if is_target
+               else " — if it's a primitive, check primitives.md hits below") + ")")
 
     mentions = []
     for e in entries:
@@ -154,7 +171,7 @@ def report(label, alternatives, entries, prim_lines, vocab, is_target):
         for line in prim_hits:
             print("    " + line.strip())
 
-    if not own and not mentions and not prim_hits:
+    if not is_target and not own and not mentions and not prim_hits:
         suggestions = suggest(alternatives, vocab)
         if suggestions:
             print("  NO MATCHES — nearest established deck vocabulary; consider")
