@@ -530,7 +530,7 @@ Clue: a learned person, not a medical DOCTOR
 Kanji: 博
 Reading: ハク
 Story: _Ten specialties_ grants you the title of **Dr**. with a _dot_.
-Note: as a primitive, it loses the _needle_ and has the meaning **acupuncturist**.
+Note: as a primitive, it loses the _needle_ and has the meaning _acupuncturist_.
 <!--ID: 1784893865672-->
 END
 
@@ -2662,4 +2662,205 @@ Reading: カ
 Story: The _little engine that could_ started a campaign to stop **bullying** and handed out _flowers_ of peace and understanding.
 Note:
 <!--ID: 1785789335544-->
+END
+
+START
+Japanese RTK
+Keyword: tolerant
+Clue:
+Kanji: 寛
+Reading: カン
+Story: Bilbo was **tolerant** to a fault: a hoard of dwarves crammed into his _house_, his _flowers_ trampled flat, and he simply refused to _see_ the damage.
+Note: this is 見, not 貝.
+END
+
+START
+Japanese RTK
+Keyword: dilute
+Clue:
+Kanji: 薄
+Reading: ハク
+Story: A single _flower_, the _acupuncturist_ swore, **diluted** in a bathtub of _water_, cures everything - that'll be Fr. 200, please.
+Note: remember, as a primitive Dr. (博) loses its needle (十) and takes the meaning _acupuncturist_.
+END
+
+START
+Japanese RTK
+Keyword: leaf
+Clue:
+Kanji: 葉
+Reading: ヨウ
+Story: On top, the _flowers_ appeared among the **leaves**, promising future _generations_ of the old _tree_ below.
+Note: story captures top-to-bottom order of primitives.
+END
+
+START
+Japanese RTK
+Keyword: imitation
+Clue:
+Kanji: 模
+Reading: モ
+Story: In Las Vegas, everything is fake - even the _trees_ in the _graveyard_ are **imitation**!
+Note: introduces the non-jōyō kanji primitive 莫 meaning graveyard (in the **graveyard**, the _flowers_ are still fresh, the _sun_ still shines, and the faithful _St. Bernard_ still waits for the master who will never come).
+END
+
+START
+Japanese RTK
+Keyword: vague
+Clue:
+Kanji: 漠
+Reading: バク
+Story: _Water_ had worn away the inscriptions in the _graveyard_, leaving only **vague** impressions.
+Note:
+END
+
+START
+Japanese RTK
+Keyword: grave
+Clue:
+Kanji: 墓
+Reading: ボ
+Story: The _soil_ under a _graveyard_ is full of **graves**.
+Note: the soil is under rather than to the left.
+END
+
+START
+Japanese RTK
+Keyword: livelihood
+Clue:
+Kanji: 暮
+Reading: ボ
+Story: The sexton's **livelihood** involves spending his _days_ in the _graveyard_.
+Note:
+END
+
+START
+Japanese RTK
+Keyword: membrane
+Clue:
+Kanji: 膜
+Reading: マク
+Story: The **membrane** between our world and the next is at its thinnest in a _moon_ lit _graveyard_.
+Note:
+END
+
+START
+Japanese RTK
+Keyword: seedling
+Clue:
+Kanji: 苗
+Reading: ビョウ
+Story: Ideas, like **seedlings**, sprout as _flowers_ from the _brain_.
+Note: don't confuse with the non-jōyō kanji primitive 圥 meaning _rice seedling_. Hence the odd, non-agricultural story.
+END
+
+START
+Japanese RTK
+Keyword: portent
+Clue:
+Kanji: 兆
+Reading: チョウ
+Story: The shaman examined the _turtle_ shell (long strokes are the central ridge, the short ones the pattern), looking for **portents** of evil to come.
+Note: primitive meaning _portent_ when in full 兆 form and _turtle_ when squashed to ⺦.
+Watch the stoke order - long, dot, dot, hook, dot, dot.
+END
+
+START
+Japanese RTK
+Keyword: peach tree
+Clue:
+Kanji: 桃
+Reading: トウ
+Story: Momotarō was born from the peach of a **peach tree**, a bizarre portent of an even more unusual future to come.
+Note:
+END
+
+START
+Japanese RTK
+Keyword: stare
+Clue:
+Kanji: 眺
+Reading: チョウ
+Story: That ultimate _portent_ of evil, Sauron's fiery _eye_ **stared** at Frodo, never blinking.
+Note:
+END
+
+START
+Japanese RTK
+Keyword: dog
+Clue:
+Kanji: 犬
+Reading: ケン
+Story: A small **dog**, like a _Chihuahua_, looks like a tiny _drop_ compared to a _St. Bernard_.
+Note: primitive meaning _Chihuahua_ with tail (犬) or _St. Bernard_ without (大) or _pack of wild dogs_ when squashed to ⺨.
+END
+
+START
+Japanese RTK
+Keyword: status quo
+Clue:
+Kanji: 状
+Reading: ジョウ
+Story: The Congress of Animals is deadlocked again: the _turtle_ votes to do nothing, the _Chihuahua_ just yaps; the **status quo** remains unchanged.
+Note:
+END
+
+START
+Japanese RTK
+Keyword: silence
+Clue:
+Kanji: 黙
+Reading: モク
+Story: The _computer_ wouldn't stop making noise, the _Chihuahua_ yapped like demented in response. Eventually, he threw both on the _flames_ and finally enjoyed the **silence**.
+Note:
+END
+
+START
+Japanese RTK
+Keyword: sort of thing
+Clue:
+Kanji: 然
+Reading: ゼン
+Story: Imagine _Chihuahua flesh_ cooking in a _cauldron_, that's the **sort of thing** your cheap Chinese takeaway may contain!
+Note: as a suffix, it take the preceding word x and turns it into "x sort of thing."
+END
+
+START
+Japanese RTK
+Keyword: reed
+Clue:
+Kanji: 荻
+Reading: テキ
+Story: Baby Moses hidden in the **reeds**: _flowers_ nodding overhead, a _pack of wild dogs_ sniffing along the bank, and Pharaoh's men setting _fire_ to the riverbank.
+Note:
+END
+
+START
+Japanese RTK
+Keyword: hunt
+Clue:
+Kanji: 狩
+Reading: シュ
+Story: It's a trope, the escapees **hunted** by the _pack of wild dogs_ unleashed by the prison _guards_.
+Note:
+END
+
+START
+Japanese RTK
+Keyword: cat
+Clue:
+Kanji: 猫
+Reading: ビョウ
+Story: He sold the gullible _pack of wild dogs_ what he called **cat** _seedlings_ and assured them they'd grow into a great crop of **cats** that they could then terrorize.
+Note:
+END
+
+START
+Japanese RTK
+Keyword: cow
+Clue:
+Kanji: 牛
+Reading: ギュウ
+Story: [no story - but think _vermilion_]
+Note: the stroke order is as you'd expect when it appears in full form to the right (e.g. 件) or bottom (e.g. 牢), but changes for the squashed ⺧ top form (e.g. 告) and 牜 left form (e.g. 物) - the vertical comes before the last horizontal.
 END
