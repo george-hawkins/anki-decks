@@ -2670,8 +2670,9 @@ Keyword: tolerant
 Clue:
 Kanji: 寛
 Reading: カン
-Story: Bilbo was **tolerant** to a fault: a hoard of dwarves crammed into his _house_, his _flowers_ trampled flat, and he simply refused to _see_ the damage.
+Story: Bilbo was **tolerant** to a fault: a hoard of dwarves invaded his _house_, his _flowers_ trampled flat, and he simply refused to _see_ the damage.
 Note: this is 見, not 貝.
+<!--ID: 1785877965710-->
 END
 
 START
@@ -2682,6 +2683,7 @@ Kanji: 薄
 Reading: ハク
 Story: A single _flower_, the _acupuncturist_ swore, **diluted** in a bathtub of _water_, cures everything - that'll be Fr. 200, please.
 Note: remember, as a primitive Dr. (博) loses its needle (十) and takes the meaning _acupuncturist_.
+<!--ID: 1785877965712-->
 END
 
 START
@@ -2692,6 +2694,7 @@ Kanji: 葉
 Reading: ヨウ
 Story: On top, the _flowers_ appeared among the **leaves**, promising future _generations_ of the old _tree_ below.
 Note: story captures top-to-bottom order of primitives.
+<!--ID: 1785877965713-->
 END
 
 START
@@ -2700,8 +2703,9 @@ Keyword: imitation
 Clue:
 Kanji: 模
 Reading: モ
-Story: In Las Vegas, everything is fake - even the _trees_ in the _graveyard_ are **imitation**!
+Story: In Las Vegas, everything is fake - even the _graveyards_ have **imitation** _trees_!
 Note: introduces the non-jōyō kanji primitive 莫 meaning graveyard (in the **graveyard**, the _flowers_ are still fresh, the _sun_ still shines, and the faithful _St. Bernard_ still waits for the master who will never come).
+<!--ID: 1785877965715-->
 END
 
 START
@@ -2712,6 +2716,7 @@ Kanji: 漠
 Reading: バク
 Story: _Water_ had worn away the inscriptions in the _graveyard_, leaving only **vague** impressions.
 Note:
+<!--ID: 1785877965716-->
 END
 
 START
@@ -2722,6 +2727,7 @@ Kanji: 墓
 Reading: ボ
 Story: The _soil_ under a _graveyard_ is full of **graves**.
 Note: the soil is under rather than to the left.
+<!--ID: 1785877965717-->
 END
 
 START
@@ -2732,6 +2738,7 @@ Kanji: 暮
 Reading: ボ
 Story: The sexton's **livelihood** involves spending his _days_ in the _graveyard_.
 Note:
+<!--ID: 1785877965718-->
 END
 
 START
@@ -2742,6 +2749,7 @@ Kanji: 膜
 Reading: マク
 Story: The **membrane** between our world and the next is at its thinnest in a _moon_ lit _graveyard_.
 Note:
+<!--ID: 1785877965719-->
 END
 
 START
@@ -2750,8 +2758,9 @@ Keyword: seedling
 Clue:
 Kanji: 苗
 Reading: ビョウ
-Story: Ideas, like **seedlings**, sprout as _flowers_ from the _brain_.
+Story: Ideas, like **seedlings**, sprout like _flowers_ from the _brain_.
 Note: don't confuse with the non-jōyō kanji primitive 圥 meaning _rice seedling_. Hence the odd, non-agricultural story.
+<!--ID: 1785877965720-->
 END
 
 START
@@ -2763,6 +2772,7 @@ Reading: チョウ
 Story: The shaman examined the _turtle_ shell (long strokes are the central ridge, the short ones the pattern), looking for **portents** of evil to come.
 Note: primitive meaning _portent_ when in full 兆 form and _turtle_ when squashed to ⺦.
 Watch the stoke order - long, dot, dot, hook, dot, dot.
+<!--ID: 1785877965721-->
 END
 
 START
@@ -2771,8 +2781,9 @@ Keyword: peach tree
 Clue:
 Kanji: 桃
 Reading: トウ
-Story: Momotarō was born from the peach of a **peach tree**, a bizarre portent of an even more unusual future to come.
+Story: Momotarō was born from the fruit of a **peach tree**, a bizarre portent of an even more unusual future to come.
 Note:
+<!--ID: 1785877965722-->
 END
 
 START
@@ -2783,6 +2794,7 @@ Kanji: 眺
 Reading: チョウ
 Story: That ultimate _portent_ of evil, Sauron's fiery _eye_ **stared** at Frodo, never blinking.
 Note:
+<!--ID: 1785877965723-->
 END
 
 START
@@ -2793,6 +2805,7 @@ Kanji: 犬
 Reading: ケン
 Story: A small **dog**, like a _Chihuahua_, looks like a tiny _drop_ compared to a _St. Bernard_.
 Note: primitive meaning _Chihuahua_ with tail (犬) or _St. Bernard_ without (大) or _pack of wild dogs_ when squashed to ⺨.
+<!--ID: 1785877965724-->
 END
 
 START
@@ -2803,6 +2816,7 @@ Kanji: 状
 Reading: ジョウ
 Story: The Congress of Animals is deadlocked again: the _turtle_ votes to do nothing, the _Chihuahua_ just yaps; the **status quo** remains unchanged.
 Note:
+<!--ID: 1785877965725-->
 END
 
 START
@@ -2813,6 +2827,7 @@ Kanji: 黙
 Reading: モク
 Story: The _computer_ wouldn't stop making noise, the _Chihuahua_ yapped like demented in response. Eventually, he threw both on the _flames_ and finally enjoyed the **silence**.
 Note:
+<!--ID: 1785877965726-->
 END
 
 START
@@ -2823,6 +2838,7 @@ Kanji: 然
 Reading: ゼン
 Story: Imagine _Chihuahua flesh_ cooking in a _cauldron_, that's the **sort of thing** your cheap Chinese takeaway may contain!
 Note: as a suffix, it take the preceding word x and turns it into "x sort of thing."
+<!--ID: 1785877965727-->
 END
 
 START
@@ -2833,6 +2849,7 @@ Kanji: 荻
 Reading: テキ
 Story: Baby Moses hidden in the **reeds**: _flowers_ nodding overhead, a _pack of wild dogs_ sniffing along the bank, and Pharaoh's men setting _fire_ to the riverbank.
 Note:
+<!--ID: 1785877965728-->
 END
 
 START
@@ -2843,6 +2860,7 @@ Kanji: 狩
 Reading: シュ
 Story: It's a trope, the escapees **hunted** by the _pack of wild dogs_ unleashed by the prison _guards_.
 Note:
+<!--ID: 1785877965729-->
 END
 
 START
@@ -2853,6 +2871,7 @@ Kanji: 猫
 Reading: ビョウ
 Story: He sold the gullible _pack of wild dogs_ what he called **cat** _seedlings_ and assured them they'd grow into a great crop of **cats** that they could then terrorize.
 Note:
+<!--ID: 1785877965730-->
 END
 
 START
@@ -2863,4 +2882,226 @@ Kanji: 牛
 Reading: ギュウ
 Story: [no story - but think _vermilion_]
 Note: the stroke order is as you'd expect when it appears in full form to the right (e.g. 件) or bottom (e.g. 牢), but changes for the squashed ⺧ top form (e.g. 告) and 牜 left form (e.g. 物) - the vertical comes before the last horizontal.
+<!--ID: 1785877965731-->
+END
+
+START
+Japanese RTK
+Keyword: special
+Clue:
+Kanji: 特
+Reading: トク
+Story: _Cows_ at a _Buddhist temple_ are **special** - they're holy _cows_! Sadly, a few days later I found those same cows on **special** at the supermarket!
+Note:
+<!--ID: 1785962760981-->
+END
+
+START
+Japanese RTK
+Keyword: revelation
+Clue:
+Kanji: 告
+Reading: コク
+Story: The **revelation** made the _cow's_ _mouth_ drop, "Hamburgers are made of what?!"
+Note:
+<!--ID: 1785962760982-->
+END
+
+START
+Japanese RTK
+Keyword: before
+Clue:
+Kanji: 先
+Reading: セン
+Story: I've never seen a _cow_ with _human legs_ **before** - it's a Minotaur!
+Note:
+<!--ID: 1785962760984-->
+END
+
+START
+Japanese RTK
+Keyword: wash
+Clue:
+Kanji: 洗
+Reading: セン
+Story: House rule: **wash** your hands with _water before_ every meal.
+Note:
+<!--ID: 1785962760985-->
+END
+
+START
+Japanese RTK
+Keyword: jammed in
+Clue:
+Kanji: 介
+Reading: カイ
+Story: Two people **jammed in** under an _umbrella_. One person looks like a J and the other like an I, which stands for "jammed in."
+Note: introduce the non-kanji primitive 𠆢 meaning _umbrella_.
+<!--ID: 1785962760986-->
+END
+
+START
+Japanese RTK
+Keyword: world
+Clue:
+Kanji: 界
+Reading: カイ
+Story: The philosopher's **world** consisted of all the things he could _jam into_ his _brain_.
+Note:
+<!--ID: 1785962760987-->
+END
+
+START
+Japanese RTK
+Keyword: tea
+Clue:
+Kanji: 茶
+Reading: チャ
+Story: The Mad Hatter's **tea** consisted of _flowers_ floating in a pot, an _umbrella_ overhead, propped up by a _wooden pole_.
+Note:
+<!--ID: 1785962760988-->
+END
+
+START
+Japanese RTK
+Keyword: spinal column
+Clue: not SPINE
+Kanji: 脊
+Reading: セキ
+Story: In a bizarre demonstration, the biology teacher opened his ruined _umbrella_ and told us the rods sticking out were ribs and the whole thing was your **spinal column** that holds your _flesh_ together.
+Note: there's no primitive to name the long rods sticking out.
+<!--ID: 1785962760989-->
+END
+
+START
+Japanese RTK
+Keyword: fit
+Clue:
+Kanji: 合
+Reading: ゴウ
+Story: During our _meeting_ of _mouths_, I realized "we _fit_ together perfectly."
+Note: introduces the non-kanji primitive (the 𠆢 and 一 top-half of 合) meaning _meeting_ - a massive gathering of people under _one_ huge _umbrella_.
+<!--ID: 1785962760991-->
+END
+
+START
+Japanese RTK
+Keyword: pagoda
+Clue:
+Kanji: 塔
+Reading: トウ
+Story: In the empress's garden, everything must _fit_ perfectly; dig up the _soil_, plant _flowers_ round the base and build up a **pagoda** floor by floor.
+Note:
+<!--ID: 1785962760992-->
+END
+
+START
+Japanese RTK
+Keyword: king
+Clue:
+Kanji: 王
+Reading: オウ
+Story: Three strokes representing heaven, people and earth, all bound together by the **king**.
+Note: primitive meaning _king_ or _scepter_, but usually _ball_ (an abbreviated form of 玉).
+Stroke order is top, vertical then bottom two strokes.
+<!--ID: 1785962760993-->
+END
+
+START
+Japanese RTK
+Keyword: jewel
+Clue:
+Kanji: 玉
+Reading: ギョク
+Story: Rumor says the _king_ only has one family **jewel** below his belt.
+Note: primitive meaning _jewel_ or _ball_, on the left it appears as ⺩ without its final stroke (i.e. that same as 王).
+<!--ID: 1785962760994-->
+END
+
+START
+Japanese RTK
+Keyword: treasure
+Clue: not WEALTH or SAVINGS
+Kanji: 宝
+Reading: ホウ
+Story: Our extraordinary **treasure** is a _house_ entirely filled with _jewels_.
+Note:
+<!--ID: 1785962760995-->
+END
+
+START
+Japanese RTK
+Keyword: pearl
+Clue:
+Kanji: 珠
+Reading: シュ
+Story: She owned the world's rarest **pearl**; a tiny _vermilion ball_.
+Note:
+<!--ID: 1785962760996-->
+END
+
+START
+Japanese RTK
+Keyword: present
+Clue: time rather than gift
+Kanji: 現
+Reading: ゲン
+Story: It was a rather useless crystal _ball_, it only allowed us to _see_ into the **present**.
+Note:
+<!--ID: 1785962760997-->
+END
+
+START
+Japanese RTK
+Keyword: toy
+Clue:
+Kanji: 玩
+Reading: ガン
+Story: The _ball_ probably marks the _beginning_ of man's journey as **toy** maker.
+Note:
+<!--ID: 1785962760998-->
+END
+
+START
+Japanese RTK
+Keyword: lunatic
+Clue:
+Kanji: 狂
+Reading: キョウ
+Story: The **lunatic** settled among a _pack of wild dogs_ and grandly declared himself their _king_.
+Note:
+<!--ID: 1785962760999-->
+END
+
+START
+Japanese RTK
+Keyword: effulgent
+Clue:
+Kanji: 旺
+Reading: オウ
+Story: The radiant, **effulgent** splendor of the _sun_ makes it _king_ of our little solar system.
+Note: effulgent - shining brightly, glowing with intense light, or expressing a dazzling, radiant beauty.
+<!--ID: 1785962761000-->
+END
+
+START
+Japanese RTK
+Keyword: emperor
+Clue:
+Kanji: 皇
+Reading: コウ
+Story: The _white_ bird sat above the **emperor**, that _king_ of _kings_, transporting his messages to the gods.
+Note:
+<!--ID: 1785962761001-->
+END
+
+START
+Japanese RTK
+Keyword: display
+Clue:
+Kanji: 呈
+Reading: テイ
+Story: The _king_ opened his _mouth_ in a grand **display** of his godlike power.
+Note:
+<!--ID: 1785962761002-->
 END
