@@ -1342,7 +1342,7 @@ Clue:
 Kanji: 砕
 Reading: サイ
 Story: Throwing a _stone_ in a _game of cricket_ would **smash** the wickets.
-Note: introduces non-jōyō kanji 卆 as primitive meaning _game of cricket_ (_baseball players_ + _needle_\-shaped wickets = _game of cricket_).
+Note: introduces non-jōyō kanji 卆 as primitive meaning _game of cricket_ (_baseball players_ + *needle*-shaped wickets = _game of cricket_).
 <!--ID: 1785271721718-->
 END
 
@@ -1837,7 +1837,7 @@ Keyword: inlay
 Clue:
 Kanji: 填
 Reading: テン
-Story: The archaeologists found a brooch with beautiful gold **inlay** when digging in the ground for the _truth_ about the civilization of legend.
+Story: The archaeologists found a brooch with beautiful gold **inlay** when digging in the _ground_ for the _truth_ about the civilization of legend.
 Note:
 <!--ID: 1785442542678-->
 END
@@ -1871,7 +1871,7 @@ Keyword: horizon
 Clue:
 Kanji: 涯
 Reading: ガイ
-Story: After months at sea, he looked far over the _water_ and saw the _ivy_\-clad _cliffs_ of home appearing over the **horizon**.
+Story: After months at sea, he looked far over the _water_ and saw the *ivy*-clad _cliffs_ of home appearing over the **horizon**.
 Note:
 <!--ID: 1785442542691-->
 END
@@ -2034,7 +2034,7 @@ END
 START
 Japanese RTK
 Keyword: fishing
-Clue:
+Clue: not ANGLING
 Kanji: 漁
 Reading: ギョ
 Story: **Fishing** 101: _Fish_ are generally found in _water_.
@@ -2139,7 +2139,7 @@ Keyword: den
 Clue:
 Kanji: 洞
 Reading: ドウ
-Story: There's a secret **den** in the monastery where the _monks_ hold _water_\-pistol fights!
+Story: There's a secret **den** in the monastery where the _monks_ hold *water*-pistol fights!
 Note:
 <!--ID: 1785587062693-->
 END
@@ -2405,7 +2405,7 @@ Keyword: plant
 Clue:
 Kanji: 植
 Reading: ショク
-Story: When you **plant** a new _tree_, water is _straightaway_ or it won't grow!
+Story: If you dig up a _tree_, you must **plant** it somewhere new _straightaway_ or it'll die!
 Note:
 <!--ID: 1785677363176-->
 END
@@ -3104,4 +3104,227 @@ Reading: テイ
 Story: The _king_ opened his _mouth_ in a grand **display** of his godlike power.
 Note:
 <!--ID: 1785962761002-->
+END
+
+START
+Japanese RTK
+Keyword: whole
+Clue:
+Kanji: 全
+Reading: ゼン
+Story: To keep your **whole** body dry, you'll need a *king*-size _umbrella_.
+Note:
+<!--ID: 1786051484840-->
+END
+
+START
+Japanese RTK
+Keyword: plug
+Clue:
+Kanji: 栓
+Reading: セン
+Story: The _king_ sat under his _umbrella_ offering the poor workmen useless advice, "you'll need the _whole tree_ to plug that gap."
+Note: Heisig feels _whole_ is to abstract and it's better to focus on _tree_, _umbrella_ and _king_.
+<!--ID: 1786051484847-->
+END
+
+START
+Japanese RTK
+Keyword: logic
+Clue:
+Kanji: 理
+Reading: リ
+Story: The _computer_ is the _king_ of **logic**.
+Note: the origin of the _computer_ meaning for ⾥.
+<!--ID: 1786051484849-->
+END
+
+START
+Japanese RTK
+Keyword: lord
+Clue:
+Kanji: 主
+Reading: シュ
+Story: A **lord** has only a _drop_ of the _king's_ power.
+Note: primitive meaning _candlestick_ (the drop is the flame).
+Watch the "slant" of the first stroke, it's different to e.g. 白. Rule of thumb, 丶 when the next stroke is a flat 一 and 丿 when it's a box 口
+<!--ID: 1786051484850-->
+END
+
+START
+Japanese RTK
+Keyword: pour
+Clue:
+Kanji: 注
+Reading: チュウ
+Story: Miss Scarlet **poured** _water_ over the _candlestick_ to rinse away her fingerprints on the murder weapon.
+Note:
+<!--ID: 1786051484851-->
+END
+
+START
+Japanese RTK
+Keyword: pillar
+Clue:
+Kanji: 柱
+Reading: チュウ
+Story: The giant _wooden_ **pillar** at the entrance was shaped like a _candlestick_.
+Note:
+<!--ID: 1786051484853-->
+END
+
+START
+Japanese RTK
+Keyword: gold
+Clue:
+Kanji: 金
+Reading: キン
+Story: _King_ Midas hid under the _umbrella_, but holding out his left and right hands, the _drops_ that fell there turned to **gold**.
+Note: primitive meaning _gold_ or any other _metal_.
+The stroke order isn't like 王, it's two horizontals, vertical, drops and final horizontal.
+<!--ID: 1786051484854-->
+END
+
+START
+Japanese RTK
+Keyword: pig iron
+Clue:
+Kanji: 銑
+Reading: セン
+Story: _Before_ it was fine _metal_, it was just **pig iron**.
+Note:
+<!--ID: 1786051484855-->
+END
+
+START
+Japanese RTK
+Keyword: bowl
+Clue:
+Kanji: 鉢
+Reading: ハチ
+Story: The enraged alchemist threw all his _books_ into his giant _gold_ **bowl** and mashed them to pulp.
+Note:
+<!--ID: 1786051484856-->
+END
+
+START
+Japanese RTK
+Keyword: copper
+Clue:
+Kanji: 銅
+Reading: ドウ
+Story: _Gold_ may be the finest of conductors, but **copper** can do the _same_ job for pennies.
+Note:
+<!--ID: 1786051484857-->
+END
+
+START
+Japanese RTK
+Keyword: angling
+Clue: not FISHING
+Kanji: 釣
+Reading: チョウ
+Story: My kind of amateur **angling** is scooping *gold*fish from a bowl with a _golden ladle_.
+Note:
+<!--ID: 1786051484858-->
+END
+
+START
+Japanese RTK
+Keyword: needle
+Clue:
+Kanji: 針
+Reading: シン
+Story: It'd have to be a giant _gold_ **needle** before I'd go searching for it in a haystack.
+Note: the origin of the needle meaning for 十
+<!--ID: 1786051484859-->
+END
+
+START
+Japanese RTK
+Keyword: inscription
+Clue:
+Kanji: 銘
+Reading: メイ
+Story: The **inscription** on her beautiful _gold_ bracelet was just her _name_. Not very original!
+Note:
+<!--ID: 1786051484860-->
+END
+
+START
+Japanese RTK
+Keyword: tranquilize
+Clue:
+Kanji: 鎮
+Reading: チン
+Story: One jab of the _metal_ syringe and the _truth_ serum **tranquilized** him — he snored loudly all the way through his own interrogation!
+Note:
+<!--ID: 1786051484861-->
+END
+
+START
+Japanese RTK
+Keyword: road-way
+Clue:
+Kanji: 道
+Reading: ドウ
+Story: We risked our _necks_, letting my father drive us down the **road-way**.
+Note: introduces the non-kanji primitive ⻌ meaning _road_.
+<!--ID: 1786051484862-->
+END
+
+START
+Japanese RTK
+Keyword: guidance
+Clue:
+Kanji: 導
+Reading: ドウ
+Story: The GPS **guidance** kept us glued to the right _road-ways_ all the way through Germany and beyond.
+Note:
+<!--ID: 1786051484863-->
+END
+
+START
+Japanese RTK
+Keyword: crossing
+Clue:
+Kanji: 辻
+Reading: <!-- no reading -->
+Story: There's a _cross_ beside the _road_ **crossing** where the small child died, and the extra _drop_ of blood also reminds us of this terrible accident.
+Note: this isn't a jōyō kanji and hasn't been simplified, notice the two drops in ⻌.
+It's here because it's used in other kanji (where it doesn't have the extra drop).
+<!--ID: 1786051484864-->
+END
+
+START
+Japanese RTK
+Keyword: swift
+Clue:
+Kanji: 迅
+Reading: ジン
+Story: Indy warned "be **swift** taking the _crossing_ or the _hook_ will get you!"
+Note: it doesn't look like _fish guts_ / _hook_ but Jisho says 乙 is a part of 迅
+<!--ID: 1786051484865-->
+END
+
+START
+Japanese RTK
+Keyword: create
+Clue:
+Kanji: 造
+Reading: ゾウ
+Story: The _revelation_, that led him to **create** the steam-powered egg whisk, came to him on the _road_.
+Note:
+<!--ID: 1786051484866-->
+END
+
+START
+Japanese RTK
+Keyword: urge
+Clue:
+Kanji: 迫
+Reading: ハク
+Story: He felt an inexplicable **urge** to follow the mysterious _white_ horseman down the _road_ to inevitable destruction.
+Note:
+<!--ID: 1786051484867-->
 END
