@@ -3328,3 +3328,225 @@ Story: He felt an inexplicable **urge** to follow the mysterious _white_ horsema
 Note:
 <!--ID: 1786051484867-->
 END
+
+START
+Japanese RTK
+Keyword: escape
+Clue:
+Kanji: 逃
+Reading: トウ
+Story: I saw the _portents_ of doom and **escaped** down the _road_ just before the city was destroyed.
+Note:
+<!--ID: 1786199817323-->
+END
+
+START
+Japanese RTK
+Keyword: environs
+Clue:
+Kanji: 辺
+Reading: ヘン
+Story: The samurai (armed with _swords_, of course) travelled the roads around the village, keeping its **environs** safe.
+Note:
+<!--ID: 1786199817325-->
+END
+
+START
+Japanese RTK
+Keyword: patrol
+Clue:
+Kanji: 巡
+Reading: ジュン
+Story: A _flood_ of motorcycle police **patrolled** the _road_ before Trump's motorcade swept through.
+Note:
+<!--ID: 1786199817326-->
+END
+
+START
+Japanese RTK
+Keyword: car
+Clue:
+Kanji: 車
+Reading: シャ
+Story: [no story - but think frame, axis and wheels]
+Note: primitive meaning _car_, _cart_, _wagon_ or _vehicle_.
+<!--ID: 1786199817327-->
+END
+
+START
+Japanese RTK
+Keyword: take along
+Clue:
+Kanji: 連
+Reading: レン
+Story: I said I was taking my _car_ on a long _road_ trip, and, much to my surprise, she said "take me along!"
+Note:
+<!--ID: 1786199817328-->
+END
+
+START
+Japanese RTK
+Keyword: rut
+Clue:
+Kanji: 軌
+Reading: キ
+Story: When my _car_ got stuck in a **rut**, it took the entire _baseball team_ to get it out.
+Note:
+<!--ID: 1786199817329-->
+END
+
+START
+Japanese RTK
+Keyword: transport
+Clue:
+Kanji: 輸
+Reading: ユ
+Story: This _vehicle_ **transports** animals for a terminal _meeting_ with the _butcher_!
+Note: introduces the non-jōyō kanji 刖 with primitive meaning _butcher_ (_flesh_ and _cleaver_).
+<!--ID: 1786199817330-->
+END
+
+START
+Japanese RTK
+Keyword: metaphor
+Clue:
+Kanji: 喩
+Reading: ユ
+Story: It's an old (pre-jōyō) **metaphor** - the _mouth_ is a _meeting_ of _butchers_, carving up whatever enters.
+Note: a late jōyō kanji, the lower right is the non-simplified form of 刖 (the Chinese use 喻).
+<!--ID: 1786199817331-->
+END
+
+START
+Japanese RTK
+Keyword: in front
+Clue:
+Kanji: 前
+Reading: ゼン
+Story: The simple sign **in front** of the _butcher's_ consisted of just a pair of _horns_.
+Note:
+<!--ID: 1786199817332-->
+END
+
+START
+Japanese RTK
+Keyword: roast
+Clue:
+Kanji: 煎
+Reading: セン
+Story: At a Japanese BBQ, the meat is placed _in front_ of you and you have to **roast** it yourself over the _fire_.
+Note: a late jōyō kanji, unlike 喩, it has the simplified 刂 but, like it, has the old ⺼ (the squashed form of 肉) which is indistinguishable from 月 when simplified.
+<!--ID: 1786199817333-->
+END
+
+START
+Japanese RTK
+Keyword: each
+Clue: not EVERY
+Kanji: 各
+Reading: カク
+Story: **Each** of us learns first to use our _legs for walking_ and then our _mouths_ for talking.
+Note: introduces the non-kanji primitive 夂 meaning _walking legs_ (no good story).
+Keep **each** clear in your stories so you don't mix it up with EVERY.
+<!--ID: 1786199817334-->
+END
+
+START
+Japanese RTK
+Keyword: status
+Clue:
+Kanji: 格
+Reading: カク
+Story: _Each tree_ in Mildred's garden was a thing to behold; the **status** it gave her in the gardening club was amazing.
+Note:
+<!--ID: 1786199817335-->
+END
+
+START
+Japanese RTK
+Keyword: graft
+Clue: corruption
+Kanji: 賂
+Reading: ロ
+Story:
+Story: Small-town **graft** - _each_ of the councillors had to be bought off with _clams_ before I could build my out-of-town mall.
+Note: 賂 is a late jōyō kanji with the same meaning as 賄; "bribe" is actually written as 賄賂(わいろ), a compound of the two.
+<!--ID: 1786199817336-->
+END
+
+START
+Japanese RTK
+Keyword: abbreviation
+Clue:
+Kanji: 略
+Reading: リャク
+Story: _Each field_ has so many **abbreviations** these days, no _brain_ can remember all of them.
+Note:
+<!--ID: 1786199817337-->
+END
+
+START
+Japanese RTK
+Keyword: guest
+Clue:
+Kanji: 客
+Reading: キャク
+Story: The mafia don welcomed _each_ of his **guests** courteously as they entered the house.
+Note:
+<!--ID: 1786199817338-->
+END
+
+START
+Japanese RTK
+Keyword: forehead
+Clue:
+Kanji: 額
+Reading: ガク
+Story: My unfortunate _guest_ forgot to duck his _head_ on entering my tiny apartment and really smacked his **forehead** off the frame.
+Note:
+<!--ID: 1786199817339-->
+END
+
+START
+Japanese RTK
+Keyword: summer
+Clue:
+Kanji: 夏
+Reading: カ
+Story: **Summer** came; the head kicked off its stubby _animal legs_ like a pair of winter boots and went striding off on its bare _walking legs_.
+Note: the 頁 without _animal legs_ doesn't appear in any other jōyō kanji.
+<!--ID: 1786199817340-->
+END
+
+START
+Japanese RTK
+Keyword: dispose
+Clue: not DISCARD
+Kanji: 処
+Reading: ショ
+Story: To **dispose** of rubbish properly, stretch you _walking legs_ and head to the bin, rather than throwing it to the _wind_.
+Note: unlike road-related kanji, the 夂 bit is drawn first.
+<!--ID: 1786199817341-->
+END
+
+START
+Japanese RTK
+Keyword: twig
+Clue:
+Kanji: 条
+Reading: ジョウ
+Story: Geppetto made _walking legs_ for little Pinocchio from the **twigs** of a _tree_.
+Note:
+<!--ID: 1786199817342-->
+END
+
+START
+Japanese RTK
+Keyword: fall
+Clue: the action, not the season
+Kanji: 落
+Reading: ラク
+Story: _Water each flower_ or the petals will wither and **fall**.
+Note:
+<!--ID: 1786199817343-->
+END
