@@ -607,7 +607,7 @@ Clue:
 Kanji: 只
 Reading: シ
 Story: A Chihuahua - it's **only** a f...ing barking _mouth_ and _legs_.
-Note:
+Note: unfortunately, Chihuahua has its own meaning later.
 <!--ID: 1784893865698-->
 END
 
@@ -2216,8 +2216,8 @@ Keyword: proclaim
 Clue:
 Kanji: 宣
 Reading: セン
-Story: The madman stood on the _housetop_ and **proclaimed** that Jesus loved us all the _span_ of our lives and beyond.
-Note:
+Story: The preacher stood on the _housetop_ and **proclaimed** that Jesus loved us all the _span_ of our lives and beyond.
+Note: <!-- change madman to preacher to avoid confusion with LUNATIC. -->
 <!--ID: 1785587062715-->
 END
 
@@ -2758,7 +2758,7 @@ Keyword: seedling
 Clue:
 Kanji: 苗
 Reading: ビョウ
-Story: Ideas, like **seedlings**, sprout like _flowers_ from the _brain_.
+Story: Ideas, like **seedlings**, sprout as _flowers_ from the _brain_.
 Note: don't confuse with the non-jōyō kanji primitive 圥 meaning _rice seedling_. Hence the odd, non-agricultural story.
 <!--ID: 1785877965720-->
 END
@@ -2825,7 +2825,7 @@ Keyword: silence
 Clue:
 Kanji: 黙
 Reading: モク
-Story: The _computer_ wouldn't stop making noise, the _Chihuahua_ yapped like demented in response. Eventually, he threw both on the _flames_ and finally enjoyed the **silence**.
+Story: The _computer_ wouldn't stop beeping, the _Chihuahua_ yapped like demented in response. Eventually, he threw both on the _flames_ and finally enjoyed the **silence**.
 Note:
 <!--ID: 1785877965726-->
 END
@@ -2891,7 +2891,7 @@ Keyword: special
 Clue:
 Kanji: 特
 Reading: トク
-Story: _Cows_ at a _Buddhist temple_ are **special** - they're holy _cows_! Sadly, a few days later I found those same cows on **special** at the supermarket!
+Story: _Cows_ at a _Buddhist temple_ are **special** - they're holy _cows_. Sadly, a few days later I found those same cows on **special** at the supermarket!
 Note:
 <!--ID: 1785962760981-->
 END
@@ -3335,7 +3335,7 @@ Keyword: escape
 Clue:
 Kanji: 逃
 Reading: トウ
-Story: I saw the _portents_ of doom and **escaped** down the _road_ just before the city was destroyed.
+Story: I saw the _portents_ and **escaped** down the _road_ just before the city was destroyed.
 Note:
 <!--ID: 1786199817323-->
 END
@@ -3398,7 +3398,7 @@ END
 START
 Japanese RTK
 Keyword: transport
-Clue:
+Clue: not CARRY
 Kanji: 輸
 Reading: ユ
 Story: This _vehicle_ **transports** animals for a terminal _meeting_ with the _butcher_!
@@ -3549,4 +3549,224 @@ Reading: ラク
 Story: _Water each flower_ or the petals will wither and **fall**.
 Note:
 <!--ID: 1786199817343-->
+END
+
+START
+Japanese RTK
+Keyword: superfluous
+Clue:
+Kanji: 冗
+Reading: ジョウ
+Story: The kind reacted with stoicism as the _wind_ took his midsommer _crown_, "a **superfluous** symbol, I suppose."
+Note: introduces the non-kanji primitive 冖 meaning _crown_ (冠 has the keyword CROWN).
+<!--ID: 1786278065997-->
+END
+
+START
+Japanese RTK
+Keyword: Hades
+Clue:
+Kanji: 冥
+Reading: メイ
+Story: For the _six_ months Persephone must spend in **Hades**, the _sun_ wears a stone _crown_ that blots out much of its light.
+Note:
+<!--ID: 1786278065999-->
+END
+
+START
+Japanese RTK
+Keyword: army
+Clue:
+Kanji: 軍
+Reading: グン
+Story: The _crown_ prince led his **army** in his heavy battle _chariot_.
+Note: primitive meaning _chariot_.
+<!--ID: 1786278066000-->
+END
+
+START
+Japanese RTK
+Keyword: radiance
+Clue:
+Kanji: 輝
+Reading: キ
+Story: The _rays_ from Apollo's _chariot_, as he speeds across the sky, are the **radiance** that lights our days.
+Note:
+<!--ID: 1786278066001-->
+END
+
+START
+Japanese RTK
+Keyword: carry
+Clue: not TRANSPORT
+Kanji: 運
+Reading: ウン
+Story: When on the _road_, the _chariots_ **carry** supplies for the army.
+Note: don't confuse with TAKE ALONG (連).
+<!--ID: 1786278066003-->
+END
+
+START
+Japanese RTK
+Keyword: crown
+Clue:
+Kanji: 冠
+Reading: カン
+Story: From the _beginning_, society has been _glued_ together by the might of the **crown**.
+Note: like 処 (and unlike road-related kanji), the 元 is drawn before the 寸.
+<!--ID: 1786278066004-->
+END
+
+START
+Japanese RTK
+Keyword: dream
+Clue:
+Kanji: 夢
+Reading: ム
+Story: Last night's date was like a **dream**. She even laid _flowers_ on my _eyes_ to _crown_ a perfect _evening_.
+Note:
+<!--ID: 1786278066005-->
+END
+
+START
+Japanese RTK
+Keyword: pit
+Clue:
+Kanji: 坑
+Reading: コウ
+Story: The astonishing **pit** in the _soil_ was dug out by a _whirlwind_.
+Note: introduces the non-kanji primitives 亠 and 亢 (a Chinese-only character) meaning _top hat_ and _whirlwind_ respectively. Clap a _top hat_ on an ordinary _wind_ and it takes airs, becoming a spinning _whirlwind_. We did see 亠 way back on 六.
+<!--ID: 1786278066006-->
+END
+
+START
+Japanese RTK
+Keyword: tall
+Clue:
+Kanji: 高
+Reading: コウ
+Story: A _mouth_ wearing a _top hat_ is **taller** than a _mouth_ wearing a _hood_.
+Note: keeps its meaning as a primitive, but abbreviated to just the _top hat_ and _mouth_ of 高.
+<!--ID: 1786278066007-->
+END
+
+START
+Japanese RTK
+Keyword: receive
+Clue:
+Kanji: 享
+Reading: キョウ
+Story: At basketball practice, it's the _tall children_ that **receive** all the attention.
+Note:
+<!--ID: 1786278066008-->
+END
+
+START
+Japanese RTK
+Keyword: cram school
+Clue:
+Kanji: 塾
+Reading: ジュク
+Story: "You'll all _receive_ a well _rounded_ education on the _grounds_ of our **cram school**," announced the headmaster.
+Note:
+<!--ID: 1786278066009-->
+END
+
+START
+Japanese RTK
+Keyword: mellow
+Clue:
+Kanji: 熟
+Reading: ジュク
+Story: It was a **mellow** evening at the camp, we all _received_ marshmallows, sat _round_ the _campfire_ and roasted them.
+Note:
+<!--ID: 1786278066010-->
+END
+
+START
+Japanese RTK
+Keyword: pavilion
+Clue:
+Kanji: 亭
+Reading: テイ
+Story: The **pavilion** erected on _Crown street_ is the _tallest_ I've ever seen.
+Note:
+<!--ID: 1786278066011-->
+END
+
+START
+Japanese RTK
+Keyword: capital
+Clue:
+Kanji: 京
+Reading: キョウ
+Story: The Japanese **capital** is all _tall_ buildings and _little_ folk scurrying between them.
+Note:
+<!--ID: 1786278066012-->
+END
+
+START
+Japanese RTK
+Keyword: refreshing
+Clue:
+Kanji: 涼
+Reading: リョウ
+Story: Wandering the _capital_ on a boiling hot day, the _water_ was so **refreshing** when I finally came across a fountain.
+Note: in the past, I mistakenly touched the arms of 小 to the central vertical.
+<!--ID: 1786278066013-->
+END
+
+START
+Japanese RTK
+Keyword: scenery
+Clue:
+Kanji: 景
+Reading: ケイ
+Story: The stunning **scenery** was lit up as the _sun_ rose over the old _capital_, Kyoto.
+Note:
+<!--ID: 1786278066014-->
+END
+
+START
+Japanese RTK
+Keyword: whale
+Clue:
+Kanji: 鯨
+Reading: ゲイ
+Story: If _fish_ were cities, the **whale** would surely be the _capital_ (though, confusing _fish_ and **whales** should probably be a _capital_ offence).
+Note:
+<!--ID: 1786278066015-->
+END
+
+START
+Japanese RTK
+Keyword: cottage
+Clue:
+Kanji: 舎
+Reading: シャ
+Story: Raising an _umbrella_ above his _lidded crock_, the tramp derisively called it his **cottage**.
+Note: introduces the non-kanji primitive 𠮷 meaning _lidded crock_, don't confuse with GOOD LUCK (吉). My _lidded crock_, fired from plain _soil_ with a heavy lid over its _mouth_.
+<!--ID: 1786278066016-->
+END
+
+START
+Japanese RTK
+Keyword: circumference
+Clue:
+Kanji: 周
+Reading: シュウ
+Story: The _lidded crock_ had the same **circumference** as the boy's head, so of course he used it as a _helmet_.
+Note: primitive meaning **circumference** or _lap_ (of the **circumference** of a sports field). Though few use it in their Koohii stories for 週, 調 and 彫.
+<!--ID: 1786278066017-->
+END
+
+START
+Japanese RTK
+Keyword: week
+Clue:
+Kanji: 週
+Reading: シュウ
+Story: The gods built an incredible _road_ allowing them to stride the _circumference_ of the world in just a **week**.
+Note:
+<!--ID: 1786278066018-->
 END
