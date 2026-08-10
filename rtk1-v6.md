@@ -3557,7 +3557,7 @@ Keyword: superfluous
 Clue:
 Kanji: 冗
 Reading: ジョウ
-Story: The kind reacted with stoicism as the _wind_ took his midsommer _crown_, "a **superfluous** symbol, I suppose."
+Story: The king reacted with stoicism as the _wind_ took his midsommer _crown_, "a **superfluous** symbol, I suppose."
 Note: introduces the non-kanji primitive 冖 meaning _crown_ (冠 has the keyword CROWN).
 <!--ID: 1786278065997-->
 END
@@ -3769,4 +3769,227 @@ Reading: シュウ
 Story: The gods built an incredible _road_ allowing them to stride the _circumference_ of the world in just a **week**.
 Note:
 <!--ID: 1786278066018-->
+END
+
+START
+Japanese RTK
+Keyword: gentleman
+Clue:
+Kanji: 士
+Reading: シ
+Story: Broad-shoulders, slender waist, standing up staight, clearly a **gentlemen**. A modern day _samurai_.
+Note: primitive meaning _samurai_ (the character gentleman/scholar/samurai).
+<!--ID: 1786394870349-->
+END
+
+START
+Japanese RTK
+Keyword: good luck
+Clue:
+Kanji: 吉
+Reading: キチ
+Story: There's no greater **good luck** than a blessing from _samurai's mouth_ on the eve of battle.
+Note: primitive meaning _spray/aerosol can_. Don't confuse 吉 and the non-kanji primitive 𠮷.
+<!--ID: 1786394870351-->
+END
+
+START
+Japanese RTK
+Keyword: robust
+Clue:
+Kanji: 壮
+Reading: ソウ
+Story: _Turtle samurai_ may not be fast, but they're certainly **robust**.
+Note:
+<!--ID: 1786394870352-->
+END
+
+START
+Japanese RTK
+Keyword: villa
+Clue:
+Kanji: 荘
+Reading: ソウ
+Story: The _flowers_ around the **villa** may be charming, but the _robust turtle samurai_ guarding it make clear what kind of people live there.
+Note:
+<!--ID: 1786394870354-->
+END
+
+START
+Japanese RTK
+Keyword: sell
+Clue:
+Kanji: 売
+Reading: バイ
+Story: Fallen on hard times, the _samurai_ had to **sell** his family's ceremonial _crown_. Next, he'll be **selling** his own _(human) legs_!
+Note:
+<!--ID: 1786394870355-->
+END
+
+START
+Japanese RTK
+Keyword: study
+Clue: not LEARNING
+Kanji: 学
+Reading: ガク
+Story: The _child_ is there in the little red _schoolhouse_ for one reason only: to **study**.
+Note: introduces the non-kanji primitive (the 宀 plus two strokes top half of 学) meaning _schoolhouse_ (a _house_ where the three drops are your A-B-Cs or 1-2-3s)
+Don't confuse with CHARACTER (字).
+<!--ID: 1786394870356-->
+END
+
+START
+Japanese RTK
+Keyword: memorize
+Clue:
+Kanji: 覚
+Reading: カク
+Story: There's no creativity in the Japanese _schoolhouse_, you have to **memorize** what you _sees_, and that's it!
+Note:
+<!--ID: 1786394870357-->
+END
+
+START
+Japanese RTK
+Keyword: flourish
+Clue:
+Kanji: 栄
+Reading: エイ
+Story: Neville never liked the _schoolhouse_, it was outside growing _trees_ where he really **flourished**.
+Note:
+<!--ID: 1786394870358-->
+END
+
+START
+Japanese RTK
+Keyword: write
+Clue:
+Kanji: 書
+Reading: ショ
+Story: I tried **writing** with a _brush_, but it takes all _day_ to **write** anything.
+Note: introduces the non-kanji primitive ⾀ meaning _brush_ (and the squashed form ⺻ when it appears above another element). The horizontals are in strict order top-to-bottom, then the skewering stroke.
+<!--ID: 1786394870359-->
+END
+
+START
+Japanese RTK
+Keyword: haven
+Clue:
+Kanji: 津
+Reading: シン
+Story: His **haven**, from the stresses of everyday life, was painting _water_ colors with his _brush_.
+Note:
+<!--ID: 1786394870360-->
+END
+
+START
+Japanese RTK
+Keyword: breed
+Clue:
+Kanji: 牧
+Reading: ボク
+Story: The cruel farm _taskmaster_ forced the _cow_ to **breed** with the bull even though she clearly didn't want to!
+Note: introduces the non-kanji primitive 攵 meaning _taskmaster_ (it's the squashed form of the non-jōyō kanji 攴, a hand holding a stick).
+Don't confuse with 夂.
+<!--ID: 1786394870361-->
+END
+
+START
+Japanese RTK
+Keyword: aggression
+Clue:
+Kanji: 攻
+Reading: コウ
+Story: The _taskmaster's craft_ is the controlled of application _aggression_.
+Note:
+<!--ID: 1786394870362-->
+END
+
+START
+Japanese RTK
+Keyword: failure
+Clue:
+Kanji: 敗
+Reading: ハイ
+Story: I was a **failure**, I didn't make enough _clams_ and the _taskmaster_ beat me.
+Note:
+<!--ID: 1786394870363-->
+END
+
+START
+Japanese RTK
+Keyword: a sheet of
+Clue:
+Kanji: 枚
+Reading: マイ
+Story: He was an odd _taskmaster_, he noted how many **sheets of** toilet paper we'd used while at work and told us how many _trees_ we'd killed.
+Note:
+<!--ID: 1786394870364-->
+END
+
+START
+Japanese RTK
+Keyword: happenstance
+Clue:
+Kanji: 故
+Reading: コ
+Story: I ran into my _old taskmaster_ by pure **happenstance** (that's exactly the kind of daft word he'd use rather than by chance, coincidence or accident).
+Note:
+<!--ID: 1786394870365-->
+END
+
+START
+Japanese RTK
+Keyword: awe
+Clue:
+Kanji: 敬
+Reading: ケイ
+Story: The Japanese taskmaster demanded he be treated with **awe** and addressed with _flowery phrases_.
+Note: 敬語(けいご) is the system of Japanese honorific speech (three categories, of which ~ます is only the beginning).
+<!--ID: 1786394870366-->
+END
+
+START
+Japanese RTK
+Keyword: say
+Clue:
+Kanji: 言
+Reading: ゲン
+Story: [no story - think four words and a mouth]
+Note: primitive meaning _saying_, _speech_ or _words_.
+I've been incorrectly drawing the top of 言 as a 亠.
+<!--ID: 1786394870367-->
+END
+
+START
+Japanese RTK
+Keyword: admonish
+Clue:
+Kanji: 警
+Reading: ケイ
+Story: We watched in _awe_ as Fiona **admonished** the rude waiter with _words_ that completely took him apart.
+Note:
+<!--ID: 1786394870368-->
+END
+
+START
+Japanese RTK
+Keyword: plot
+Clue: not PLAN
+Kanji: 計
+Reading: ケイ
+Story: It took the _words_ of just _ten_ men to **plot** the destruction of Caesar.
+Note:
+<!--ID: 1786394870369-->
+END
+
+START
+Japanese RTK
+Keyword: elucidate
+Clue:
+Kanji: 詮
+Reading: セン
+Story: No summary, please. Elucidate! Tell me the _whole_ story in your own _words_.
+Note:
+<!--ID: 1786394870370-->
 END
