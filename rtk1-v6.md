@@ -606,8 +606,8 @@ Keyword: only
 Clue:
 Kanji: 只
 Reading: シ
-Story: A Chihuahua - it's **only** a f...ing barking _mouth_ and _legs_.
-Note: unfortunately, Chihuahua has its own meaning later.
+Story: A chihuahua - it's **only** a f...ing barking _mouth_ and _legs_.
+Note: unfortunately, chihuahua has its own meaning later.
 <!--ID: 1784893865698-->
 END
 
@@ -2803,8 +2803,8 @@ Keyword: dog
 Clue:
 Kanji: 犬
 Reading: ケン
-Story: A small **dog**, like a _Chihuahua_, looks like a tiny _drop_ compared to a _St. Bernard_.
-Note: primitive meaning _Chihuahua_ with tail (犬) or _St. Bernard_ without (大) or _pack of wild dogs_ when squashed to ⺨.
+Story: A small **dog**, like a _chihuahua_, looks like a tiny _drop_ compared to a _St. Bernard_.
+Note: primitive meaning _chihuahua_ with tail (犬) or _St. Bernard_ without (大) or _pack of wild dogs_ when squashed to ⺨.
 <!--ID: 1785877965724-->
 END
 
@@ -2814,7 +2814,7 @@ Keyword: status quo
 Clue:
 Kanji: 状
 Reading: ジョウ
-Story: The Congress of Animals is deadlocked again: the _turtle_ votes to do nothing, the _Chihuahua_ just yaps; the **status quo** remains unchanged.
+Story: The Congress of Animals is deadlocked again: the _turtle_ votes to do nothing, the _chihuahua_ just yaps; the **status quo** remains unchanged.
 Note:
 <!--ID: 1785877965725-->
 END
@@ -2825,7 +2825,7 @@ Keyword: silence
 Clue:
 Kanji: 黙
 Reading: モク
-Story: The _computer_ wouldn't stop beeping, the _Chihuahua_ yapped like demented in response. Eventually, he threw both on the _flames_ and finally enjoyed the **silence**.
+Story: The _computer_ wouldn't stop beeping, the _chihuahua_ yapped like demented in response. Eventually, he threw both on the _flames_ and finally enjoyed the **silence**.
 Note:
 <!--ID: 1785877965726-->
 END
@@ -2836,7 +2836,7 @@ Keyword: sort of thing
 Clue:
 Kanji: 然
 Reading: ゼン
-Story: Imagine _Chihuahua flesh_ cooking in a _cauldron_, that's the **sort of thing** your cheap Chinese takeaway may contain!
+Story: Imagine _chihuahua flesh_ cooking in a _cauldron_, that's the **sort of thing** your cheap Chinese takeaway may contain!
 Note: as a suffix, it take the preceding word x and turns it into "x sort of thing."
 <!--ID: 1785877965727-->
 END
@@ -3958,6 +3958,7 @@ Reading: ゲン
 Story: [no story - think four words and a mouth]
 Note: primitive meaning _saying_, _speech_ or _words_.
 I've been incorrectly drawing the top of 言 as a 亠.
+Don't confuse with WORD (語).
 <!--ID: 1786394870367-->
 END
 
@@ -3992,4 +3993,225 @@ Reading: セン
 Story: No summary, please. Elucidate! Tell me the _whole_ story in your own _words_.
 Note:
 <!--ID: 1786394870370-->
+END
+
+START
+Japanese RTK
+Keyword: prison
+Clue:
+Kanji: 獄
+Reading: ゴク
+Story: A _pack of wild dogs_ roam the **prison**, and every word you say gets reported to the warden by the little _chihuahua_ snitch.
+Note:
+<!--ID: 1786481136078-->
+END
+
+START
+Japanese RTK
+Keyword: revise
+Clue:
+Kanji: 訂
+Reading: テイ
+Story: **Revise, revise and revise** until every last _word_ is _nailed_ down.
+Note: I find _nail_ and _needle_ a bit too close, but to be clear 丁 is nail and 十 is needle.
+<!--ID: 1786481136080-->
+END
+
+START
+Japanese RTK
+Keyword: obituary
+Clue:
+Kanji: 訃
+Reading: フ
+Story: The press we're readying the _words_ for the PM's **obituary**, until a magician appeared, waved his _wand_ and rescued his political career from the grave.
+Note:
+<!--ID: 1786481136081-->
+END
+
+START
+Japanese RTK
+Keyword: chastise
+Clue:
+Kanji: 討
+Reading: トウ
+Story: **Chastise** someone correctly and the _words_ will stick like _glue_.
+Note:
+<!--ID: 1786481136082-->
+END
+
+START
+Japanese RTK
+Keyword: instruction
+Clue: not TEACH
+Kanji: 訓
+Reading: クン
+Story:  His approach to **instruction** amounted to a gentle _stream_ of _words_ that just lulled me sleep.
+Note:
+<!--ID: 1786481136083-->
+END
+
+START
+Japanese RTK
+Keyword: imperial edict
+Clue:
+Kanji: 詔
+Reading: ショウ
+Story: The emperor's _words_ may _seduce_, but an **imperial edict** is no request; declining is not an option.
+Note:
+<!--ID: 1786481136084-->
+END
+
+START
+Japanese RTK
+Keyword: packed
+Clue:
+Kanji: 詰
+Reading: キツ
+Story: A _spray can_ is **packed** full of _words_ waiting to get out and cover the neighborhood in graffiti.
+Note:
+<!--ID: 1786481136085-->
+END
+
+START
+Japanese RTK
+Keyword: tale
+Clue:
+Kanji: 話
+Reading: ワ
+Story: _Words_ tripped off his _tongue_ as he told us his ridiculous **tale** of how he saved London from Martians.
+Note:
+<!--ID: 1786481136086-->
+END
+
+START
+Japanese RTK
+Keyword: recitation
+Clue: not POEM
+Kanji: 詠
+Reading: エイ
+Story: The priest's **recitation** should have been moving, but the _words_ seemed to go on for _eternity_.
+Note:
+<!--ID: 1786481136087-->
+END
+
+START
+Japanese RTK
+Keyword: poem
+Clue:
+Kanji: 詩
+Reading: シ
+Story: The only _words_ permitted in the _Buddhist temple_ where those expressed as a beautiful **poem**. It made saying anything rather difficult.
+Note:
+<!--ID: 1786481136088-->
+END
+
+START
+Japanese RTK
+Keyword: word
+Clue:
+Kanji: 語
+Reading: ゴ
+Story: When _I_ say the _word go_, we all run for it!
+Note: we've used SAY (言) to mean _word_ many times, but don't get 言 and 語 mixed up.
+<!--ID: 1786481136089-->
+END
+
+START
+Japanese RTK
+Keyword: read
+Clue:
+Kanji: 読
+Reading: ドク
+Story: He's a freelance journalist, the _words_ he _sells_ are the _words_ we **read**.
+Note:
+<!--ID: 1786481136090-->
+END
+
+START
+Japanese RTK
+Keyword: tune
+Clue:
+Kanji: 調
+Reading: チョウ
+Story: The _words_ of that annoying **tune** keep running the _circumference_ of my head.
+Note:
+<!--ID: 1786481136091-->
+END
+
+START
+Japanese RTK
+Keyword: discuss
+Clue:
+Kanji: 談
+Reading: ダン
+Story: On the web, you can try to **discuss** reasonably, but it always ends in _inflammatory words_.
+Note:
+<!--ID: 1786481136092-->
+END
+
+START
+Japanese RTK
+Keyword: consent
+Clue:
+Kanji: 諾
+Reading: ダク
+Story: Zoe might say "yes, please!" but her _words_ don't matter a damn; she's way too _young_ to give legal **consent**.
+Note:
+<!--ID: 1786481136093-->
+END
+
+START
+Japanese RTK
+Keyword: rebuke
+Clue:
+Kanji: 諭
+Reading: ユ
+Story: The _meeting of butchers_ was disrupted by activists, wild _words_ **rebuking** them for their cruelty to animals.
+Note:
+<!--ID: 1786481136094-->
+END
+
+START
+Japanese RTK
+Keyword: style
+Clue:
+Kanji: 式
+Reading: シキ
+Story: Every great Indian tribe _crafts_ their _arrows_ in their own unique **style**.
+Note: introduces the non-kanji primitive 弋 meaning _arrow_.
+First stroke of 弋 then contained item, then the rest of 弋.
+<!--ID: 1786481136095-->
+END
+
+START
+Japanese RTK
+Keyword: test
+Clue:
+Kanji: 試
+Reading: シ
+Story: In an essay **test**, you are judged on both your choice of _words_ and your writing _style_.
+Note:
+<!--ID: 1786481136096-->
+END
+
+START
+Japanese RTK
+Keyword: II
+Clue: roman numeral
+Kanji: 弐
+Reading: ニ
+Story: If there's just _two_ arrows left in your _quiver_, it's probably time to run.
+Note: drop the last two strokes of 弐 to get the non-kanji primitive meaning _quiver_ (弋 plus an initial 一).
+<!--ID: 1786481136097-->
+END
+
+START
+Japanese RTK
+Keyword: range
+Clue:
+Kanji: 域
+Reading: イキ
+Story: Back on his home **range** and happy to feel familiar _soil_ beneath his boots, the cowboy strolled to his lodgings and _kissed_ the _floor_ before heading to the local _fiesta_.
+Note: introduces the non-jōyō kanji 戈 meaning _fiesta_ (an _arrow_ with a festive tassle); used as a container (first stroke of 戈, then item, then rest of 戈).
+<!--ID: 1786481136098-->
 END
