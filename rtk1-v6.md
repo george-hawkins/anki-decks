@@ -4215,3 +4215,225 @@ Story: Back on his home **range** and happy to feel familiar _soil_ beneath his 
 Note: introduces the non-jōyō kanji 戈 meaning _fiesta_ (an _arrow_ with a festive tassle); used as a container (first stroke of 戈, then item, then rest of 戈).
 <!--ID: 1786481136098-->
 END
+
+START
+Japanese RTK
+Keyword: burglar
+Clue:
+Kanji: 賊
+Reading: ゾク
+Story: During the _fiesta_, a **burglar** stole our _clams_; he used a _needle_ to pick our useless lock.
+Note:
+<!--ID: 1786649668643-->
+END
+
+START
+Japanese RTK
+Keyword: plantation
+Clue:
+Kanji: 栽
+Reading: サイ
+Story: The _harvest feast_ was laid out under the oldest _tree_ on the **plantation** — one day of rest, then back slaving in the fields.
+Note: introduces the non-kanji primitive 𢦏 meaning _harvest feast_ (from _soil fiesta_).
+<!--ID: 1786649668646-->
+END
+
+START
+Japanese RTK
+Keyword: load
+Clue:
+Kanji: 載
+Reading: サイ
+Story: The farmer's rule was no _harvest feast_ until every last _cart_ is **loaded**!
+Note:
+<!--ID: 1786649668647-->
+END
+
+START
+Japanese RTK
+Keyword: overgrown
+Clue:
+Kanji: 茂
+Reading: モ
+Story: His garden was so **overgrown**, it had become a _parade of_ weeds (outcast _flowers_).
+Note: introduces the non-jōyō kanji 戊 meaning _parade_ (the _fiesta_ started in the plaza, then they lined up (丨) for the _parade_ of roses).
+Extra vertical first, then same container rule as 戈, i.e. its first stroke, then item, then rest.
+<!--ID: 1786649668648-->
+END
+
+START
+Japanese RTK
+Keyword: relatives
+Clue:
+Kanji: 戚
+Reading: ソク
+Story: When my **relatives** came, we went to see the _parade_, holding the _little_ ones up so they could see _above_ the crowd.
+Note:
+<!--ID: 1786649668649-->
+END
+
+START
+Japanese RTK
+Keyword: turn into
+Clue:
+Kanji: 成
+Reading: セイ
+Story: A narco pulled a dagger and within minutes the parade had **turned into** a bloodbath.
+Note:
+<!--ID: 1786649668650-->
+END
+
+START
+Japanese RTK
+Keyword: castle
+Clue:
+Kanji: 城
+Reading: ジョウ
+Story: Over the course of the day, the loose soil in our backyard was _turned into_ a **castle** by the neighborhood kids.
+Note:
+<!--ID: 1786649668651-->
+END
+
+START
+Japanese RTK
+Keyword: sincerity
+Clue:
+Kanji: 誠
+Reading: セイ
+Story: She said "**sincerity** means those _words_ must be _turned into_ actions!"
+Note:
+<!--ID: 1786649668652-->
+END
+
+START
+Japanese RTK
+Keyword: intimidate
+Clue:
+Kanji: 威
+Reading: イ
+Story: The _women's march_, against **intimidation** in the workplace, was pretty **intimidating** when I got stuck in the middle of it!
+Note:  introduces the non-jōyō kanji 戌 meaning _march_ (the joyous parade becomes a march with a singlemind and unity, symbolised by the extra 一).
+<!--ID: 1786649668653-->
+END
+
+START
+Japanese RTK
+Keyword: destroy
+Clue:
+Kanji: 滅
+Reading: メツ
+Story: The enemy army **destroyed** everything as it _marched_ through the country; _water_ burst from the ruined dykes, _flames_ rose from the burning cities.
+Note:
+<!--ID: 1786649668654-->
+END
+
+START
+Japanese RTK
+Keyword: dwindle
+Clue:
+Kanji: 減
+Reading: ゲン
+Story: They called themselves the _march_ of _mouths_, but their numbers soon **dwindled** as the dictator's riot police turned the _water_ cannon on them.
+Note:
+<!--ID: 1786649668655-->
+END
+
+START
+Japanese RTK
+Keyword: revile
+Clue:
+Kanji: 蔑
+Reading: ベツ
+Story: They'd been told they were liberators, but not a _flower_ was thrown, just _eyes_ peaking from windows; **reviled** by everyone as they _marched_ by.
+Note:
+<!--ID: 1786649668656-->
+END
+
+START
+Japanese RTK
+Keyword: scaffold
+Clue:
+Kanji: 桟
+Reading: サン
+Story: During construction, the huge Matsuri _floats_ of Japanese festivals are covered in _wood_ **scaffolding**.
+Note: introduces the non-kanji primitive 㦮 meaning _float_ (the two extra strokes are the platform of the _float_ at the _fiesta_).
+<!--ID: 1786649668657-->
+END
+
+START
+Japanese RTK
+Keyword: coin
+Clue:
+Kanji: 銭
+Reading: セン
+Story: At Mardi Gras, bucket loads of *gold*-colored **coins** are tossed from the _floats_ as they go by.
+Note:
+<!--ID: 1786649668658-->
+END
+
+START
+Japanese RTK
+Keyword: shallow
+Clue: not FORD
+Kanji: 浅
+Reading: セン
+Story: As they went from town to town, the _floats_ had to find a **shallow** place to cross the _water_ as the bridges had been washed away.
+Note:
+<!--ID: 1786649668659-->
+END
+
+START
+Japanese RTK
+Keyword: stop
+Clue:
+Kanji: 止
+Reading: シ
+Story: Gandalf raised his _walking stick_ high _above_ his head — "You shall not pass!"; the Balrog **stopped** for a moment.
+Note: primitive meaning _stop_ or _footprint_.
+Floor is the last stroke.
+<!--ID: 1786649668660-->
+END
+
+START
+Japanese RTK
+Keyword: walk
+Clue:
+Kanji: 歩
+Reading: ホ
+Story: When you go **walking**, it pays to _stop_ a _few_ times and smell the roses.
+Note:
+<!--ID: 1786649668661-->
+END
+
+START
+Japanese RTK
+Keyword: ford
+Clue: not SHALLOW
+Kanji: 渉
+Reading: ショウ
+Story: It took a long time to reach the **ford** where they could finally _walk_ across the _water_.
+Note:
+<!--ID: 1786649668662-->
+END
+
+START
+Japanese RTK
+Keyword: repeatedly
+Clue:
+Kanji: 頻
+Reading: ヒン
+Story: I had to clear my _head_, I _walked_ around the block **repeatedly**.
+Note:
+<!--ID: 1786649668663-->
+END
+
+START
+Japanese RTK
+Keyword: agreement
+Clue:
+Kanji: 肯
+Reading: コウ
+Story: The peace **agreement** _stopped_ the fighting for a _month_.
+Note:
+<!--ID: 1786649668664-->
+END
