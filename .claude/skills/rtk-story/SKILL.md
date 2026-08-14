@@ -18,7 +18,9 @@ themselves.
 
 - The **first** argument is the keyword of the target kanji.
 - **All remaining** arguments are the keywords of the kanji's components
-  (primitives), given in the order they are written in the kanji.
+  (primitives), usually in roughly the order they are written. Treat that
+  order as incidental — it is *not* a constraint on the story (see story
+  rule 4).
 - An argument containing `/` (e.g. `fire/fireplace/conflagration`) lists
   alternative keywords for the *same* component — pick whichever one makes the
   best story, and say which you picked. `/` never appears *inside* a keyword,
@@ -78,8 +80,13 @@ Search the deck so the story fits what's already established:
    Inflection and pluralization are fine (_fields_, _fishooks_). Adjacent
    components may share one underscore span when they read naturally as a
    phrase (e.g. _ten brains glued_, _white ladle_).
-4. Prefer mentioning components in the order given — that's the order the
-   kanji is written, and the story should walk the hand through the strokes.
+4. **Component order doesn't matter.** Mention them in whatever order makes
+   the best story. Never contort a sentence to march through them in the
+   given order, and never reorder-and-report: no "reordered to match the
+   strokes", no notes about which element is written first. Stroke order is
+   not what these stories are for. (Genuine positional facts — this element
+   sits *inside* that one, this one is the squashed form — are still worth a
+   line when they change which primitive is meant.)
 5. The story's *logic* must force the components: someone who remembers the
    story should be able to reconstruct which primitives are in the kanji, and
    roughly where. Don't decorate with imagery that could be mistaken for an
@@ -114,7 +121,10 @@ Distilled from the deck's best entries:
 ## Output format
 
 1. One line stating any choices made (which `/` alternative you picked and
-   why, plus anything relevant found in the deck).
+   why, plus anything relevant found in the deck). Only mention things that
+   affect the story or the vocabulary — a substituted keyword, a binding ⚠
+   note, a clash with an existing entry. Skip housekeeping the user didn't
+   ask for; never mention component order.
 2. The story, ready to paste into the `Story:` field, on its own line.
 3. Two brief alternates with different angles (e.g. one scene, one
    pseudo-logic), each on its own line, so the user can pick the one that

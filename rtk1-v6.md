@@ -3332,7 +3332,7 @@ END
 START
 Japanese RTK
 Keyword: escape
-Clue:
+Clue: not HUNT
 Kanji: 逃
 Reading: トウ
 Story: I saw the _portents_ and **escaped** down the _road_ just before the city was destroyed.
@@ -3346,7 +3346,7 @@ Keyword: environs
 Clue:
 Kanji: 辺
 Reading: ヘン
-Story: The samurai (armed with _swords_, of course) travelled the roads around the village, keeping its **environs** safe.
+Story: The samurai (armed with _swords_, of course) travelled the _roads_ around the village, keeping its **environs** safe.
 Note:
 <!--ID: 1786199817325-->
 END
@@ -3766,7 +3766,7 @@ Keyword: week
 Clue:
 Kanji: 週
 Reading: シュウ
-Story: The gods built an incredible _road_ allowing them to stride the _circumference_ of the world in just a **week**.
+Story: The gods built an incredible _road_ allowing them to stride the _circumference_ of the earth in just a **week**.
 Note:
 <!--ID: 1786278066018-->
 END
@@ -3788,7 +3788,7 @@ Keyword: good luck
 Clue:
 Kanji: 吉
 Reading: キチ
-Story: There's no greater **good luck** than a blessing from _samurai's mouth_ on the eve of battle.
+Story: There's no greater **good luck** than a blessing from a _samurai's mouth_ on the eve of battle.
 Note: primitive meaning _spray/aerosol can_. Don't confuse 吉 and the non-kanji primitive 𠮷.
 <!--ID: 1786394870351-->
 END
@@ -3900,7 +3900,7 @@ Keyword: aggression
 Clue:
 Kanji: 攻
 Reading: コウ
-Story: The _taskmaster's craft_ is the controlled of application _aggression_.
+Story: The _taskmaster's craft_ is the controlled application _aggression_.
 Note:
 <!--ID: 1786394870362-->
 END
@@ -3952,7 +3952,7 @@ END
 START
 Japanese RTK
 Keyword: say
-Clue:
+Clue: not WORD
 Kanji: 言
 Reading: ゲン
 Story: [no story - think four words and a mouth]
@@ -4108,10 +4108,10 @@ END
 START
 Japanese RTK
 Keyword: word
-Clue:
+Clue: not SAY
 Kanji: 語
 Reading: ゴ
-Story: When _I_ say the _word go_, we all run for it!
+Story: When _I_ shout the **word** _go_, we all run for it!
 Note: we've used SAY (言) to mean _word_ many times, but don't get 言 and 語 mixed up.
 <!--ID: 1786481136089-->
 END
@@ -4437,3 +4437,227 @@ Story: The peace **agreement** _stopped_ the fighting for a _month_.
 Note:
 <!--ID: 1786649668664-->
 END
+
+START
+Japanese RTK
+Keyword: undertake
+Clue:
+Kanji: 企
+Reading: キ
+Story: "The next project I **undertake** will be to _stop_ the peddlers who flog _umbrellas_ and other junk on the streets!" said the police commissioner.
+Note:
+<!--ID: 1786745316973-->
+END
+
+START
+Japanese RTK
+Keyword: curriculum
+Clue:
+Kanji: 歴
+Reading: レキ
+Story: A **curriculum** is a _calendar_ where they replace the _days_ with reasons to _stop_ having fun.
+Note: Cf. 暦 with _days_ and 歴 with _stop_.
+<!--ID: 1786745316976-->
+END
+
+START
+Japanese RTK
+Keyword: warrior
+Clue:
+Kanji: 武
+Reading: ブ
+Story: Boromir died a _warrior_, it took a _quiver_ full of arrows to _stop_ him.
+Note:
+<!--ID: 1786745316977-->
+END
+
+START
+Japanese RTK
+Keyword: levy
+Clue:
+Kanji: 賦
+Reading: フ
+Story: The _warriors_ took our _clams_ at sword point and called it a voluntary **levy**.
+Note:
+<!--ID: 1786745316978-->
+END
+
+START
+Japanese RTK
+Keyword: correct
+Clue:
+Kanji: 正
+Reading: セイ
+Story: If you're **correct** on the _first_ try, you can just _stop_.
+Note:
+<!--ID: 1786745316979-->
+END
+
+START
+Japanese RTK
+Keyword: evidence
+Clue:
+Kanji: 証
+Reading: ショウ
+Story: Despite being amazingly unlikely, the **evidence** proved his _words correct_.
+Note:
+<!--ID: 1786745316980-->
+END
+
+START
+Japanese RTK
+Keyword: politics
+Clue:
+Kanji: 政
+Reading: セイ
+Story: Modern **politics** is insane political _correctness_ at one end and fascist _taskmasters_ at the other.
+Note:
+<!--ID: 1786745316981-->
+END
+
+START
+Japanese RTK
+Keyword: determine
+Clue:
+Kanji: 定
+Reading: テイ
+Story: The rental company came to my _house_ to **determine** everything that needed _mending_.
+Note: introduces the non-jōyō kanji primitive (the non-roof bit of 定) meaning _mending_ (the last two strokes suggest movement, so _correct_ (正) becomes active _mending_). Stroke order is the same.
+<!--ID: 1786745316982-->
+END
+
+START
+Japanese RTK
+Keyword: lock
+Clue:
+Kanji: 錠
+Reading: ジョウ
+Story: Even if you **lock** up your _gold_, a _determined_ thief can still get at it.
+Note:
+<!--ID: 1786745316983-->
+END
+
+START
+Japanese RTK
+Keyword: run
+Clue:
+Kanji: 走
+Reading: ソウ
+Story: After the footballers have **run** about on it for 90 minutes, the _ground_ is ruined and the ground staff have to _mend_ it.
+Note:
+<!--ID: 1786745316984-->
+END
+
+START
+Japanese RTK
+Keyword: transcend
+Clue:
+Kanji: 超
+Reading: チョウ
+Story: To **transcend** temptation you must out-*run* it; stand still and it will _seduce_ you.
+Note: **transcend** means to rise above.
+Stroke order is 走 before "contained" item. Stretching isn't containing.
+<!--ID: 1786745316985-->
+END
+
+START
+Japanese RTK
+Keyword: proceed
+Clue:
+Kanji: 赴
+Reading: フ
+Story: Talking to Harry, Dumbledore warned "Don't _run_ into danger. **Proceed** with caution with your _wand_ out."
+Note:
+<!--ID: 1786745316986-->
+END
+
+START
+Japanese RTK
+Keyword: surpass
+Clue:
+Kanji: 越
+Reading: エツ
+Story: The clown we got to _run_ the _parade_ **surpassed** all our expectations (even adding an extra hook).
+Note: this is the only jōyō kanji where the first stroke of 戊 mutates from 丨 to a hook-like レ.
+<!--ID: 1786745316987-->
+END
+
+START
+Japanese RTK
+Keyword: just so
+Clue:
+Kanji: 是
+Reading: ゼ
+Story: I spend all _day mending_ kanji stories to get them **just so**, as near perfect as possible.
+Note:
+<!--ID: 1786745316988-->
+END
+
+START
+Japanese RTK
+Keyword: topic
+Clue:
+Kanji: 題
+Reading: ダイ
+Story: The exam **topic** sat there, _just so_ at the _head_ of the _page_ - one short line, three hours of misery.
+Note:
+<!--ID: 1786745316989-->
+END
+
+START
+Japanese RTK
+Keyword: dyke
+Clue:
+Kanji: 堤
+Reading: テイ
+Story: Making a **dyke** isn't easy, the _soil_ must be arranged _just so_.
+Note:
+<!--ID: 1786745316990-->
+END
+
+START
+Japanese RTK
+Keyword: build
+Clue:
+Kanji: 建
+Reading: ケン
+Story: The artist liked one _brush_ stroke so much, he had it _stretched_ out and **built** forty stories high.
+Note: introduces the non-kanji primitive 廴 meaning _stretch_. It looks similar-ish to ⻌ but it's second stroke intersect the first.
+Stroke order - contained item first.
+<!--ID: 1786745316991-->
+END
+
+START
+Japanese RTK
+Keyword: key
+Clue:
+Kanji: 鍵
+Reading: ケン
+Story: In Zelda, Link finds a _gold_ skeleton **key** that lets him into any _building_.
+Note:
+<!--ID: 1786745316992-->
+END
+
+START
+Japanese RTK
+Keyword: prolong
+Clue:
+Kanji: 延
+Reading: エン
+Story: If the victim didn't answer _correctly_, the inquisitor **prolonged** the torture, _stretching_ him still further on the rack.
+Note: first stroke of 正 is slanted and reveresed (top-right to bottom-left) like ノ.
+<!--ID: 1786745316993-->
+END
+
+START
+Japanese RTK
+Keyword: nativity
+Clue:
+Kanji: 誕
+Reading: タン
+Story: The **nativity** play - a _prolonged_ misery for many parents, one fumbled _word_ after another.
+Note: nativity means the process of being born (especially Jesus).
+<!--ID: 1786745316994-->
+END
+
+<!-- In 421, I think it's a bit of a stretch claiming 疋 is a different primitive to the _mending_ in 定 on the basis of the hooked first stroke. -->
