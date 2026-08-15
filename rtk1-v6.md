@@ -4238,3 +4238,207 @@ Story: The **nativity** play - a _prolonged_ misery for many parents, one fumble
 Note: nativity means the process of being born (especially Jesus).
 <!--ID: 1786745316994-->
 END
+
+START
+Japanese RTK
+Keyword: cornerstone
+Clue:
+Kanji: 礎
+Story: Features like huge _rocks_ and _groves_ of trees are the **cornerstones** of a great _zoo_.
+Note: introduces the non-jōyō kanji primitive 疋 meaning _zoo_. It's a stretch claiming this is different to the bottom element in 定 just because of the first stroke's added hook.
+<!--ID: 1786823467533-->
+END
+
+START
+Japanese RTK
+Keyword: bridegroom
+Clue:
+Kanji: 婿
+Story: Playing the **bridegroom** wasn't enough for Jeff Bezos, he built a _zoo_ on the _moon_ and took his _woman_ their for the ceremony.
+Note:
+<!--ID: 1786823467535-->
+END
+
+START
+Japanese RTK
+Keyword: garment
+Clue:
+Kanji: 衣
+Story: The only **garments** permitted in this unusual club are a _top hat_ and _scarf_.
+Note: This is the most volatile element used in other kanji.
+On the left, it appears as ⻂ (meaning _cloak_).
+When below and attached to the above element, 衣 loses its 亠 (and becomes _scarf_).
+Another element can comes between _top hat_ and _scarf_, e.g. 哀
+When not bottommost (in any form), the レ in 衣 loses its hook, e.g 遠
+<!--ID: 1786823467536-->
+END
+
+START
+Japanese RTK
+Keyword: tailor
+Clue:
+Kanji: 裁
+Story: The **tailor** had to work hard to get everyone's _garments_ ready for the _harvest festival_ (think Midsommar or Wicker Man).
+Note:
+<!--ID: 1786823467537-->
+END
+
+START
+Japanese RTK
+Keyword: attire
+Clue:
+Kanji: 装
+Story: The correct **attire** for a _turtle samurai_ entering battle is a set of particularly _robust garments_.
+Note:
+<!--ID: 1786823467538-->
+END
+
+START
+Japanese RTK
+Keyword: back
+Clue:
+Kanji: 裏
+Story: The trendy _computer_ had dressed up in a _top hat_ and _scarf_, but his **back** was still the usual mess of cables and wires.
+Note:
+<!--ID: 1786823467539-->
+END
+
+START
+Japanese RTK
+Keyword: demolition
+Clue:
+Kanji: 壊
+Story: Wear the proper _garments_ during a **demolition** or the _dirt_ and debris will pierce you _eyes_ like _needles_.
+Note:
+<!--ID: 1786823467540-->
+END
+
+START
+Japanese RTK
+Keyword: pathetic
+Clue:
+Kanji: 哀
+Story: In tattered _top hat_ and _scarf_, _mouth_ gaping as he drained his gin bottle, the drunken sod was a **pathetic** sight.
+Note:
+<!--ID: 1786823467541-->
+END
+
+START
+Japanese RTK
+Keyword: distant
+Clue:
+Kanji: 遠
+Story: On the _road_ to a cold and **distant** land, he wore an extra warm _scarf_ and kept a warm _lidded crock_ held close.
+Note: the _scarf_ loses its hook as it's not bottommost.
+<!--ID: 1786823467542-->
+END
+
+START
+Japanese RTK
+Keyword: monkey
+Clue:
+Kanji: 猿
+Story: The **monkey** played hide and seek with a _pack of wild dogs_, and hid in a _lidded crock_; but it was still easy to spot his distinctive _scarf_ sticking out.
+Note:
+<!--ID: 1786823467543-->
+END
+
+START
+Japanese RTK
+Keyword: first time
+Clue:
+Kanji: 初
+Story: It was Sam's first time out of the Shire, his cloak pulled tight, his hand clutching the dagger he'd been given.
+Note:
+<!--ID: 1786823467544-->
+END
+
+START
+Japanese RTK
+Keyword: towel
+Clue:
+Kanji: 巾
+Story: [no story - think towel hanging on poll]
+Note:
+<!--ID: 1786823467545-->
+END
+
+START
+Japanese RTK
+Keyword: linen
+Clue:
+Kanji: 布
+Story: The waiter always had a **linen** _towel by his side_, ready for any spill or minor emergency.
+Note:
+<!--ID: 1786823467546-->
+END
+
+START
+Japanese RTK
+Keyword: sail
+Clue:
+Kanji: 帆
+Story: Stranded at sea, they had only a large _towel_ for a **sail**, it was _mediocre_ at best.
+Note:
+<!--ID: 1786823467547-->
+END
+
+START
+Japanese RTK
+Keyword: hanging scroll
+Clue:
+Kanji: 幅
+Story: The _wealthiest_ man in Japan is a philistine, he uses precious **hanging scrolls** as _towels_.
+Note:
+<!--ID: 1786823467548-->
+END
+
+START
+Japanese RTK
+Keyword: cap
+Clue:
+Kanji: 帽
+Story: To avoid the _risk_ of sunstroke, he fashioned a **cap** out of a _towel_.
+Note:
+<!--ID: 1786823467549-->
+END
+
+START
+Japanese RTK
+Keyword: curtain
+Clue:
+Kanji: 幕
+Story: I used a huge _towel_ as a **curtain** to block out the view of the creepy _graveyard_.
+Note:
+<!--ID: 1786823467550-->
+END
+
+START
+Japanese RTK
+Keyword: canopy
+Clue:
+Kanji: 幌
+Story: I used a _towel_ as a **canopy** to block out the _sun's rays_.
+Note:
+<!--ID: 1786823467551-->
+END
+
+START
+Japanese RTK
+Keyword: brocade
+Clue:
+Kanji: 錦
+Story: Instead of plain _white towels_, the palace's were of the most beautiful **brocade** woven with _gold_.
+Note: brocade is a heavy, decorative woven fabric with a raised pattern.
+<!--ID: 1786823467552-->
+END
+
+START
+Japanese RTK
+Keyword: market
+Clue:
+Kanji: 市
+Story: In my nightmare, I was strolling through the market wearing nothing but a top hat and towel.
+Note:
+<!--ID: 1786823467553-->
+END
