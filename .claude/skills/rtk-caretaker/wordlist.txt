@@ -1,0 +1,59 @@
+# Extra vocabulary for check.py's spell check, one word per line, case-insensitive.
+#
+# aspell does the real work; this file only covers what it cannot know: the
+# names the stories borrow, and the deck's own jargon. Heisig's keywords are
+# added automatically from the deck, and inflections (-s, -ed, -ing, 's, n't)
+# are derived, so list base forms only. Anything legitimate that check.py flags
+# and that is likely to recur belongs here — keep it roughly alphabetical.
+
+# --- deck / RTK / Japanese jargon ---
+anki
+gejun
+hiragana
+ish
+jisho
+joyo
+jōyō
+kana
+kanji
+katakana
+keyword
+koohii
+matsuri
+mnemonic
+nitaku
+nightbreak
+romaji
+rtk
+wanikani
+
+# --- names, places, brands, pop culture ---
+balrog
+boromir
+copperfield
+gargleblaster
+geppetto
+gras
+heisig
+koohii
+mardi
+momotaro
+momotarō
+mordor
+neville
+paulownia
+pinocchio
+sauron
+schwester
+valser
+zelda
+
+# --- modern English aspell's en dictionary lacks ---
+cowled
+ctrl
+dwarves
+narco
+oaky
+pre
+sayeth
+swordsmith
