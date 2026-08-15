@@ -4,7 +4,6 @@ Japanese RTK
 Keyword: one
 Clue:
 Kanji: 一
-Reading: イチ
 Story: [no story]
 Note: primitive meaning _floor_ or _ceiling_
 <!--ID: 1784740837202-->
@@ -15,7 +14,6 @@ Japanese RTK
 Keyword: two
 Clue:
 Kanji: 二
-Reading: ニ
 Story: [no story]
 Note:
 <!--ID: 1784740837217-->
@@ -26,7 +24,6 @@ Japanese RTK
 Keyword: three
 Clue:
 Kanji: 三
-Reading: サン
 Story: [no story]
 Note:
 <!--ID: 1784740837224-->
@@ -37,7 +34,6 @@ Japanese RTK
 Keyword: four
 Clue:
 Kanji: 四
-Reading: シ
 Story: [no story]
 Note: _mouth_ and _human legs_ primitives.
 <!--ID: 1784740837226-->
@@ -48,7 +44,6 @@ Japanese RTK
 Keyword: five
 Clue:
 Kanji: 五
-Reading: ゴ
 Story: [no story]
 Note:
 <!--ID: 1784740837229-->
@@ -59,7 +54,6 @@ Japanese RTK
 Keyword: six
 Clue:
 Kanji: 六
-Reading: ロク
 Story: [no story]
 Note: _top hat_ and _animal legs_ primitives.
 <!--ID: 1784740837231-->
@@ -70,7 +64,6 @@ Japanese RTK
 Keyword: seven
 Clue:
 Kanji: 七
-Reading: シチ
 Story: [no story]
 Note: primitive meaning _diced_ (think one stroke dicing the other).
 <!--ID: 1784740837233-->
@@ -81,7 +74,6 @@ Japanese RTK
 Keyword: eight
 Clue:
 Kanji: 八
-Reading: ハチ
 Story: [no story]
 Note:
 <!--ID: 1784740837236-->
@@ -92,7 +84,6 @@ Japanese RTK
 Keyword: nine
 Clue:
 Kanji: 九
-Reading: キュウ
 Story: [no story]
 Note: primitive meaning _baseball_ or _baseball team_ (nine players).
 Different stroke order to 力
@@ -104,7 +95,6 @@ Japanese RTK
 Keyword: ten
 Clue:
 Kanji: 十
-Reading: ジュウ
 Story: [no story]
 Note: primitive meaning _ten_ or _needle_.
 <!--ID: 1784740837244-->
@@ -115,7 +105,6 @@ Japanese RTK
 Keyword: mouth
 Clue:
 Kanji: 口
-Reading: コウ
 Story: [no story]
 Note: primitive meaning _mouth_ or any other opening, e.g. cave, river or bottle opening.
 <!--ID: 1784741826654-->
@@ -126,7 +115,6 @@ Japanese RTK
 Keyword: day
 Clue:
 Kanji: 日
-Reading: ニチ
 Story: open the window to a new **day** (looks like a sash window).
 Note: primitive meaning _day_ or _tongue wagging in the mouth_.
 The tongue wagging bit really comes from the almost identical non-jōyō kanji 曰 meaning something like _sayeth_.
@@ -138,7 +126,6 @@ Japanese RTK
 Keyword: month
 Clue:
 Kanji: 月
-Reading: ゲツ
 Story: a **month** is longer than a day, that's why the two lower strokes are longer in month than in day.
 Note: primitive meaning _moon_, _flesh_ or _part of the body_.
 <!--ID: 1784742962951-->
@@ -149,7 +136,6 @@ Japanese RTK
 Keyword: rice field
 Clue:
 Kanji: 田
-Reading: デン
 Story: [no story]
 Note: primitive meaning _rice field_ or occasionally _brains_.
 <!--ID: 1784743502651-->
@@ -160,7 +146,6 @@ Japanese RTK
 Keyword: eye
 Clue:
 Kanji: 目
-Reading: モク
 Story: The whites of your **eye** with the iris between.
 Note: primitive meaning _eye_ or _eyeball_, sometime seen on its side as ⺫.
 <!--ID: 1784743502655-->
@@ -171,7 +156,6 @@ Japanese RTK
 Keyword: old
 Clue: not OLD MAN
 Kanji: 古
-Reading: コ
 Story: tombstone and cross with **old** inscription
 Note: as a primitive, this is a very general **old** (unlike e.g. "old man").
 Story doesn't use _ten_ and _mouth_ primitives. This is OK occasionally, but fails to reinforce the primitives.
@@ -183,7 +167,6 @@ Japanese RTK
 Keyword: I
 Clue: archaic / literary first person pronoun (think thine/mine)
 Kanji: 吾
-Reading: ゴ
 Story: 2 nostrils, 2 ears and 1 mouth = _five openings_ = me/**I**.
 Note:
 <!--ID: 1784809271206-->
@@ -194,7 +177,6 @@ Japanese RTK
 Keyword: risk
 Clue:
 Kanji: 冒
-Reading: ボウ
 Story: opening your _eyes_ directly at the _sun_ is **risky**!
 Note:
 <!--ID: 1784809271210-->
@@ -205,7 +187,6 @@ Japanese RTK
 Keyword: companion
 Clue:
 Kanji: 朋
-Reading: ホウ
 Story: God made Eve from Adam's rib, _flesh of my flesh_, as a **companion**.
 Note:
 <!--ID: 1784809271215-->
@@ -216,7 +197,6 @@ Japanese RTK
 Keyword: bright
 Clue:
 Kanji: 明
-Reading: メイ
 Story: The _sun_ makes the _moon_ **bright**.
 Note:
 <!--ID: 1784809271218-->
@@ -227,7 +207,6 @@ Japanese RTK
 Keyword: chant
 Clue:
 Kanji: 唱
-Reading: ショウ
 Story: The monk opened his _month_ and **chanted** for two _days_.
 Note:
 <!--ID: 1784809271222-->
@@ -238,7 +217,6 @@ Japanese RTK
 Keyword: sparkle
 Clue: not SHINING
 Kanji: 晶
-Reading: ショウ
 Story: The sides of a diamond **sparkle** like three suns.
 Note:
 <!--ID: 1784809271228-->
@@ -249,7 +227,6 @@ Japanese RTK
 Keyword: goods
 Clue:
 Kanji: 品
-Reading: ヒン
 Story: Three boxes of **goods** are devoured by the hungry _mouths_ of waiting consumers.
 Note:
 <!--ID: 1784809271232-->
@@ -260,7 +237,6 @@ Japanese RTK
 Keyword: spine
 Clue:
 Kanji: 呂
-Reading: ロ
 Story: two vertebrae in the **spine** linked by a single stroke
 Note:
 <!--ID: 1784809271235-->
@@ -271,7 +247,6 @@ Japanese RTK
 Keyword: prosperous
 Clue:
 Kanji: 昌
-Reading: ショウ
 Story: If you work from _sun up_ to _sun down_ you will be **prosperous**.
 Note:
 <!--ID: 1784809271237-->
@@ -282,7 +257,6 @@ Japanese RTK
 Keyword: early
 Clue:
 Kanji: 早
-Reading: ソウ
 Story: The _sun_ rises **early**, well before _ten_.
 Note: primitive meaning _sunflower_ (it looks like one, a _sun_ on a _needle-like_ stalk).
 <!--ID: 1784809271240-->
@@ -293,7 +267,6 @@ Japanese RTK
 Keyword: rising sun
 Clue:
 Kanji: 旭
-Reading: キョク
 Story: A _baseball player_ hits the _sun_ and it becomes the **rising sun**.
 Note:
 <!--ID: 1784809271244-->
@@ -304,7 +277,6 @@ Japanese RTK
 Keyword: generation
 Clue:
 Kanji: 世
-Reading: セイ
 Story: three _tens_ and an addition _line_ sum up to 30 years = a **generation**
 Note:
 <!--ID: 1784809271248-->
@@ -315,7 +287,6 @@ Japanese RTK
 Keyword: stomach
 Clue:
 Kanji: 胃
-Reading: イ
 Story: the _part of the body_ that keeps the _brain_ working is the **stomach**.
 Note:
 <!--ID: 1784809271251-->
@@ -326,7 +297,6 @@ Japanese RTK
 Keyword: nightbreak
 Clue: AKA sunrise. Not DAYBREAK or DAWN.
 Kanji: 旦
-Reading: タン
 Story: **nightbreak** happens when the _sun_ rises over the _horizon (floor)_.
 Note: the Japanese think of daybreak as the opening up of night into day, hence the made-up word **nightbreak**.
 DAYBREAK and DAWN are keywords for other kanji.
@@ -338,7 +308,6 @@ Japanese RTK
 Keyword: gall bladder
 Clue:
 Kanji: 胆
-Reading: タン
 Story: My **gall bladder** is the _part of my body_ that kept me up until _nightbreak_.
 Note:
 <!--ID: 1784809271256-->
@@ -349,7 +318,6 @@ Japanese RTK
 Keyword: span
 Clue:
 Kanji: 亘
-Reading: コウ
 Story: the _sun_ rises from the _horizon (floor)_ to its nooday height (_ceiling_) over and over for the **span** of our lives.
 Note:
 <!--ID: 1784809271260-->
@@ -360,7 +328,6 @@ Japanese RTK
 Keyword: concave
 Clue:
 Kanji: 凹
-Reading: オウ
 Story: a square with a square cut out to demonstrate **concave**.
 Note:
 <!--ID: 1784809271266-->
@@ -371,7 +338,6 @@ Japanese RTK
 Keyword: convex
 Clue:
 Kanji: 凸
-Reading: トツ
 Story: a rectangle with a square added to demonstrate **convex**.
 Note:
 <!--ID: 1784809271269-->
@@ -382,7 +348,6 @@ Japanese RTK
 Keyword: olden times
 Clue:
 Kanji: 旧
-Reading: キュウ
 Story: In **olden times**, gentlemen used _walking sticks_ every _day_.
 Note: introduces the _walking stick_ non-kanji primitive - think also _lameness_ etc.
 <!--ID: 1784809271271-->
@@ -393,7 +358,6 @@ Japanese RTK
 Keyword: oneself
 Clue: not SELF
 Kanji: 自
-Reading: ジ
 Story:  In Japan, one refers to **oneself** by pointing to ones nose: the point/_drop_ between the _eyes_.
 Note: introduces the _drop_ / _eyedropper_ non-kanji primitive, 自 has primitive meaning _oneself_, _nose_ or _nostrils_.
 Don't confuse with keyword SELF (your inner identity, "know thyself" / "your true self").
@@ -406,7 +370,6 @@ Japanese RTK
 Keyword: white
 Clue:
 Kanji: 白
-Reading: ハク
 Story: A _drop_ of _sun_ is a **white** ray.
 Note:
 <!--ID: 1784809271279-->
@@ -417,7 +380,6 @@ Japanese RTK
 Keyword: hundred
 Clue:
 Kanji: 百
-Reading: ヒャク
 Story: The "white year" (99) plus _one_ is one **hundred** (in Japan, you're 99th birthday is your "white year" birthday).
 Note:
 <!--ID: 1784809271283-->
@@ -428,7 +390,6 @@ Japanese RTK
 Keyword: in
 Clue: AKA middle
 Kanji: 中
-Reading: チュウ
 Story: A _walking stick_ **in** the crocodile's _mouth_ saved me.
 Note: think of getting something **in** from the outside when used as a primitive.
 <!--ID: 1784809271286-->
@@ -439,7 +400,6 @@ Japanese RTK
 Keyword: thousand
 Clue:
 Kanji: 千
-Reading: セン
 Story: It takes many _drops_ of _ten_ to get to a **thousand**.
 Note:
 <!--ID: 1784809271288-->
@@ -450,7 +410,6 @@ Japanese RTK
 Keyword: tongue
 Clue: think language not body part
 Kanji: 舌
-Reading: ゼツ
 Story: A _thousand_ _mouths_ share a common **tongue**.
 Note:
 <!--ID: 1784893865646-->
@@ -461,7 +420,6 @@ Japanese RTK
 Keyword: measuring box
 Clue:
 Kanji: 升
-Reading: ショウ
 Story: I can only fit a _thousand needles_ into my **measuring box**.
 Note: the horizontal stroke is the first stroke of the _ten_ bit (not the second stroke of the _thousand_ bit).
 _thousand_ has a straight vertical stroke, this has a curved one.
@@ -473,7 +431,6 @@ Japanese RTK
 Keyword: rise up
 Clue:
 Kanji: 昇
-Reading: ショウ
 Story: If the _sun_ sat on the _measuring box_ made of a thousand needles he would **rise up** very quickly.
 Note:
 <!--ID: 1784893865656-->
@@ -484,7 +441,6 @@ Japanese RTK
 Keyword: round
 Clue: not PLUMP or CIRCLE
 Kanji: 丸
-Reading: ガン
 Story: Add a tiny _drop_ to _nine_ and you get a **round** number.
 Note: primitive meaning _fat man_ (_round baseball player_ becomes _fat man_).
 <!--ID: 1784893865659-->
@@ -495,7 +451,6 @@ Japanese RTK
 Keyword: measurement
 Clue:
 Kanji: 寸
-Reading: スン
 Story: The decimal system uses _drops_ of _ten_ in all its **measurements**, such **measurements** are the _glue_ of the world.
 Note: primitive meaning _glue_ (a super common primitive).
 <!--ID: 1784893865663-->
@@ -506,7 +461,6 @@ Japanese RTK
 Keyword: elbow
 Clue:
 Kanji: 肘
-Reading: チュウ
 Story: The **elbow** is the _flesh_ that _glues_ together the upper and lower arm.
 Note:
 <!--ID: 1784893865666-->
@@ -517,7 +471,6 @@ Japanese RTK
 Keyword: speciality
 Clue: think area of expertise
 Kanji: 専
-Reading: セン
 Story: She's so good at her **speciality**, it's like _ten brains glued_ together.
 Note: a single stroke skewers _ten_ and _brain_.
 <!--ID: 1784893865668-->
@@ -528,7 +481,6 @@ Japanese RTK
 Keyword: dr.
 Clue: a learned person, not a medical DOCTOR
 Kanji: 博
-Reading: ハク
 Story: _Ten specialties_ grants you the title of **Dr**. with a _dot_.
 Note: as a primitive, it loses the _needle_ and has the meaning _acupuncturist_.
 <!--ID: 1784893865672-->
@@ -539,7 +491,6 @@ Japanese RTK
 Keyword: fortune-telling
 Clue:
 Kanji: 占
-Reading: セン
 Story: A _magic wand_ and a big _mouth_ are all you need for **fortune telling**.
 Note: introduces the non-jōyō kanji ⼘ with primitive meaning _divining rod_ or _magic wand_.
 <!--ID: 1784893865676-->
@@ -550,7 +501,6 @@ Japanese RTK
 Keyword: above
 Clue:
 Kanji: 上
-Reading: ジョウ
 Story: Whoa, that _magic wand_ is standing **above** the _floor_ all by itself!
 Note:
 <!--ID: 1784893865680-->
@@ -561,7 +511,6 @@ Japanese RTK
 Keyword: below
 Clue:
 Kanji: 下
-Reading: カ
 Story: The _magic wand_ is hanging **below** the _ceiling_!
 Note:
 <!--ID: 1784893865684-->
@@ -572,7 +521,6 @@ Japanese RTK
 Keyword: eminent
 Clue: think famous, well known
 Kanji: 卓
-Reading: タク
 Story: David Copperfield, the most **eminent** magician, used a _magic wand_ and a _sunflower_ in this trick.
 Note: as well as **eminent**, 卓 appears in table-related words (e.g. 2卓 (nitaku) - table #2 in a restaurant). But テーブル is a physical table.
 <!--ID: 1784893865686-->
@@ -583,7 +531,6 @@ Japanese RTK
 Keyword: morning
 Clue:
 Kanji: 朝
-Reading: チョウ
 Story: In the **morning**, the _mist_ and _moon_ fades away.
 Note: introduces the non-kanji primitive 𠦝 meaning _mist_ (_mist_ falls _early_ in the morning, like little _needles_ of rain, to assure that the _sunflower_ blooms _early_).
 <!--ID: 1784893865690-->
@@ -594,7 +541,6 @@ Japanese RTK
 Keyword: derision
 Clue:
 Kanji: 嘲
-Reading: チョウ
 Story: If I don't brush my teeth in the _morning_, I face **derision** when I open my _mouth_.
 Note:
 <!--ID: 1784893865694-->
@@ -605,7 +551,6 @@ Japanese RTK
 Keyword: only
 Clue:
 Kanji: 只
-Reading: シ
 Story: A chihuahua - it's **only** a f...ing barking _mouth_ and _legs_.
 Note: unfortunately, chihuahua has its own meaning later.
 <!--ID: 1784893865698-->
@@ -616,7 +561,6 @@ Japanese RTK
 Keyword: shellfish
 Clue:
 Kanji: 貝
-Reading: バイ
 Story: A freakish **shellfish** with a single _eye_ roaming the beach on little _legs_, terrifying the tourists.
 Note: primitive meaning _shells_ or _oyster_ or _clam_. But Koohii users and Gemini think _money_ is a better primitive meaning (think cowrie shells).
 <!--ID: 1784893865701-->
@@ -627,7 +571,6 @@ Japanese RTK
 Keyword: pop song
 Clue:
 Kanji: 唄
-Reading:
 Story: Bono just opens his _mouth_ and makes tons of _money_ with his **pop songs**.
 Note: actually means a traditional song, not a pop song.
 Don't mix up 員 and 唄 (there are very few other similar cases).
@@ -639,7 +582,6 @@ Japanese RTK
 Keyword: upright
 Clue:
 Kanji: 貞
-Reading: テイ
 Story: To get a _shellfish_ to stand **upright**, poke it with a _magic wand_.
 Note: means upright in character, not in position.
 <!--ID: 1784893865706-->
@@ -650,7 +592,6 @@ Japanese RTK
 Keyword: employee
 Clue:
 Kanji: 員
-Reading: イン
 Story: An **employee** has to earn _money_ to feed his _mouth_.
 Note: don't mix up 員 and 唄 (there are very few other similar cases).
 <!--ID: 1784893865709-->
@@ -661,7 +602,6 @@ Japanese RTK
 Keyword: post a bill
 Clue: paste from your clipboard
 Kanji: 貼
-Reading: テン
 Story: The Chinese _shellfish_ restaurant **posted a bill** advertising its free _fortune-telling_ cookies.
 Note: used for ctrl-V on Japanese PCs.
 <!--ID: 1784893865715-->
@@ -672,7 +612,6 @@ Japanese RTK
 Keyword: see
 Clue:
 Kanji: 見
-Reading: ケン
 Story: _Eyes_ and _human legs_ are what you need to **see** the world.
 Note: cf. 貝 and 見 - _animal legs_ vs _human legs_.
 <!--ID: 1784987896418-->
@@ -683,7 +622,6 @@ Japanese RTK
 Keyword: newborn babe
 Clue:
 Kanji: 児
-Reading: ジ
 Story: In _olden times_ (before c-sections), **newborn babes** always came out between the _legs_.
 Note:
 <!--ID: 1784987896433-->
@@ -694,7 +632,6 @@ Japanese RTK
 Keyword: beginning
 Clue:
 Kanji: 元
-Reading: ゲン
 Story: In the **beginning**, there were just _two_ people with _human legs_ (Adam and Eve).
 Note:
 <!--ID: 1784987896437-->
@@ -705,7 +642,6 @@ Japanese RTK
 Keyword: page
 Clue:
 Kanji: 頁
-Reading: ケツ
 Story: One _drop_ of ink from a _shellfish_ can fill a whole **page**.
 Note: primitive meaning _head_
 <!--ID: 1784987896440-->
@@ -716,7 +652,6 @@ Japanese RTK
 Keyword: stubborn
 Clue:
 Kanji: 頑
-Reading: ガン
 Story: In the _beginning_, a **stubborn** person gets something into their _head_ and just won't change their mind no matter what (think S. and Curious Courses).
 Note:
 <!--ID: 1784987896443-->
@@ -727,7 +662,6 @@ Japanese RTK
 Keyword: mediocre
 Clue:
 Kanji: 凡
-Reading: ボン
 Story: A _drop_ of breeze is naught but a **mediocre** _wind_.
 Note:
 <!--ID: 1784987896445-->
@@ -738,7 +672,6 @@ Japanese RTK
 Keyword: defeat
 Clue:
 Kanji: 負
-Reading: フ
 Story: _Tied up and bound_, the _shellfish_ had to accept **defeat**.
 Note:
 <!--ID: 1784987896448-->
@@ -749,7 +682,6 @@ Japanese RTK
 Keyword: ten thousand
 Clue:
 Kanji: 万
-Reading: マン
 Story: I _bound up_ **ten thousand** dollars and hid it under the _floor_.
 Note: the stroke order is back-to-front for the _bound_ bit.
 <!--ID: 1784987896452-->
@@ -760,7 +692,6 @@ Japanese RTK
 Keyword: phrase
 Clue:
 Kanji: 句
-Reading: ク
 Story: A **phrase** is words _bound up_ tightly so they'll fit in your _mouth_.
 Note:
 <!--ID: 1784987896462-->
@@ -771,7 +702,6 @@ Japanese RTK
 Keyword: texture
 Clue:
 Kanji: 肌
-Reading: キ
 Story: The **texture** of your _flesh_ changes badly after a day blasted by the _wind_ while skiing.
 Note:
 <!--ID: 1784987896466-->
@@ -782,7 +712,6 @@ Japanese RTK
 Keyword: decameron
 Clue:
 Kanji: 旬
-Reading: ジュン
 Story: Heisig should be _bound up_ for a _day_ (or even ten _days_, a **decameron**) for giving this kanji the keyword **decameron**.
 Note: Japan divides a month into three 10-day periods. The first is jōjun (上旬); the second, chūjun (中旬); the last, gejun (下旬).
 <!--ID: 1784987896469-->
@@ -793,7 +722,6 @@ Japanese RTK
 Keyword: ladle
 Clue:
 Kanji: 勺
-Reading: シャク
 Story: If you want to _bind up drops_, you scoop them together with a **ladle**.
 Note:
 <!--ID: 1784987896473-->
@@ -804,7 +732,6 @@ Japanese RTK
 Keyword: bull's eye
 Clue:
 Kanji: 的
-Reading: テキ
 Story: I managed to hit the **bull's eye** with my _white ladle_.
 Note:
 <!--ID: 1784987896476-->
@@ -815,7 +742,6 @@ Japanese RTK
 Keyword: neck
 Clue:
 Kanji: 首
-Reading: シュ
 Story: Under the moose's _horns_ was his long _nose_ and under that his long **neck**.
 Note: _horns_ can't be free-floating, so a pointless horizontal stroke is added.
 <!--ID: 1784987896480-->
@@ -826,7 +752,6 @@ Japanese RTK
 Keyword: fish guts
 Clue:
 Kanji: 乙
-Reading: オツ
 Story: This is a _fishhook_, that pulls out the **fish guts**.
 Note: primitive meaning _fishhook_ or _hook_.
 As a primitive, it's often squashed to an L shape or a ⺃.
@@ -838,7 +763,6 @@ Japanese RTK
 Keyword: riot
 Clue:
 Kanji: 乱
-Reading: ラン
 Story: The totalitarian **riot** police dragged everyone away with _fishooks_ in their _tongues_.
 Note:
 <!--ID: 1784987896488-->
@@ -849,7 +773,6 @@ Japanese RTK
 Keyword: straightaway
 Clue:
 Kanji: 直
-Reading: チョク
 Story: "**Straightaway** to the hospital!" he roared, "he's got a _needle_ _hooked_ in his _eye_!"
 Note:
 <!--ID: 1784987896491-->
@@ -860,7 +783,6 @@ Japanese RTK
 Keyword: tool
 Clue:
 Kanji: 具
-Reading: グ
 Story: Keep a careful _eye_ on your **tools** on the _tool_ table.
 Note: the bottom half (without the eye) is used as a non-kanji primitive that also means _tool_.
 <!--ID: 1784987896495-->
@@ -871,7 +793,6 @@ Japanese RTK
 Keyword: true
 Clue:
 Kanji: 真
-Reading:
 Story: If what you said wasn't **true**, the giant _tool_ jammed a _needle_ in your arm.
 Note:
 <!--ID: 1784987896499-->
@@ -882,7 +803,6 @@ Japanese RTK
 Keyword: craft
 Clue:
 Kanji: 工
-Reading: コウ
 Story: Think Bender, whose **craft** was bending _i-beams_ to build skyscarpers etc.
 Note: primitive meaning _craft_ or _i-beam_ or _artificial_.
 <!--ID: 1784987896503-->
@@ -893,7 +813,6 @@ Japanese RTK
 Keyword: left
 Clue:
 Kanji: 左
-Reading: サ
 Story: You keep your _craft_ tools hanging _by your side_ on your **left** hip.
 Note: introduces the 十-like non-kanji primitive meaning _by one's side_.
 <!--ID: 1785070789823-->
@@ -904,7 +823,6 @@ Japanese RTK
 Keyword: right
 Clue:
 Kanji: 右
-Reading: ウ
 Story: There's a little _mouth_ hanging _by my side_, telling me the **right** thing to do.
 Note:
 <!--ID: 1785070789832-->
@@ -915,7 +833,6 @@ Japanese RTK
 Keyword: possess
 Clue:
 Kanji: 有
-Reading: ユウ
 Story: The _flesh_ of my enemy hung _by my side_, I now **possessed** his soul.
 Note:
 <!--ID: 1785070789836-->
@@ -926,7 +843,6 @@ Japanese RTK
 Keyword: bribe
 Clue:
 Kanji: 賄
-Reading: ワイ
 Story: If you _possess_ enough _shellfish/money_, you can **bribe** anyone.
 Note:
 <!--ID: 1785070789838-->
@@ -937,7 +853,6 @@ Japanese RTK
 Keyword: tribute
 Clue:
 Kanji: 貢
-Reading: コウ
 Story: This next song pays **tribute** to a little _shellfish_ friend of mine who was tragically crushed by an _i-beam_.
 Note:
 <!--ID: 1785070789842-->
@@ -948,7 +863,6 @@ Japanese RTK
 Keyword: paragraph
 Clue:
 Kanji: 項
-Reading: コウ
 Story: To _craft_ a _page_ well, we need beautiful **paragraphs**.
 Note:
 <!--ID: 1785070789846-->
@@ -959,7 +873,6 @@ Japanese RTK
 Keyword: sword
 Clue:
 Kanji: 刀
-Reading: トウ
 Story: The long and short **sword** of a samurai hang from his belt.
 Note: primitive meaining _dagger_ when drawn as 刀 or _saber_ when stretched out as ⺉.
 <!--ID: 1785070789850-->
@@ -970,7 +883,6 @@ Japanese RTK
 Keyword: blade
 Clue:
 Kanji: 刃
-Reading: ジン
 Story: A single _drop_ clung to the **blade** of the _sword_ after cutting off the vampire's head.
 Note:
 <!--ID: 1785070789853-->
@@ -981,7 +893,6 @@ Japanese RTK
 Keyword: cut
 Clue:
 Kanji: 切
-Reading: セツ
 Story: The _seven_ samurai used their _swords_ to **cut** up their opponents (and, sometimes, their vegetables).
 Note:
 <!--ID: 1785070789857-->
@@ -992,7 +903,6 @@ Japanese RTK
 Keyword: seduce
 Clue:
 Kanji: 召
-Reading: ショウ
 Story: He wields his _mouth_ like a _sword_, words used to **seduce** willing victims.
 Note:
 <!--ID: 1785070789861-->
@@ -1003,7 +913,6 @@ Japanese RTK
 Keyword: shining
 Clue: not SPARKLE
 Kanji: 昭
-Reading: ショウ
 Story: It was the _sun_ **shining** off Lancelot's beautiful armor that first _seduced_ Guinevere.
 Note:
 <!--ID: 1785070789865-->
@@ -1014,7 +923,6 @@ Japanese RTK
 Keyword: rule
 Clue:
 Kanji: 則
-Reading: ソク
 Story: With _money_ and the brutal use of the _sword_, you makes the **rules**.
 Note:
 <!--ID: 1785070789869-->
@@ -1025,7 +933,6 @@ Japanese RTK
 Keyword: vice-
 Clue: vice-... as in second-in-command, not as in immoral
 Kanji: 副
-Reading: フク
 Story: **vice**-president JD Vance is a _wealthy saber_ rattler for conservative causes.
 Note: introduces the non-jōyō kanji primitive 畐 meaning _wealth_ - _one mouth_ consuming all the harvest of a whole _field_ must be wealthy.
 <!--ID: 1785070789872-->
@@ -1036,7 +943,6 @@ Japanese RTK
 Keyword: separate
 Clue:
 Kanji: 別
-Reading: ベツ
 Story: The old samurai felt great shame, **separated** from his _sword_ and his _mouth bound up_.
 Note: stroke order for _bound up_ is like _ten thousand_.
 <!--ID: 1785070789876-->
@@ -1047,7 +953,6 @@ Japanese RTK
 Keyword: street
 Clue:
 Kanji: 丁
-Reading: チョウ
 Story: The **street** ends in a T-junction.
 Note: primitive meaning _spike_.
 <!--ID: 1785070789879-->
@@ -1058,7 +963,6 @@ Japanese RTK
 Keyword: town
 Clue: not VILLAGE
 Kanji: 町
-Reading: チョウ
 Story: The **town** is just a few little _streets_ and some paddy _fields_.
 Note:
 <!--ID: 1785070789883-->
@@ -1069,7 +973,6 @@ Japanese RTK
 Keyword: can
 Clue:
 Kanji: 可
-Reading: カ
 Story: A _mouth_ on the _street_ asking for things: "**Can** I get some help? **Can** I get directions? **Can** I have some money?"
 Note: for 町, the two elements are drawn separately, but for 可, it's the first stoke of 丁, then the mouth, then the last stroke of 丁.
 Update: **can** is hard to include in stories as a modal verb. Lots of Koohii stories turn it into a tin can but Heisig uses "the Little Engine that **Could**."
@@ -1081,7 +984,6 @@ Japanese RTK
 Keyword: place on the head
 Clue:
 Kanji: 頂
-Reading: チョウ
 Story: Waving a stupid hat, the cruel bully said "I'll put your _head_ on a _spike_ if you don't _place this on your head_".
 Note: in Japanese, this is a formal metaphor meaning "humbly accept" as in 頂きます (いただきます).
 <!--ID: 1785070789890-->
@@ -1092,7 +994,6 @@ Japanese RTK
 Keyword: child
 Clue:
 Kanji: 子
-Reading: シ
 Story: It's a pictogram of a **child**.
 Note:
 <!--ID: 1785070789893-->
@@ -1103,7 +1004,6 @@ Japanese RTK
 Keyword: cavity
 Clue:
 Kanji: 孔
-Reading: コウ
 Story: The over-adventurous _child_ fell into the deep **cavity**, and they needed a _hook_ to haul him out.
 Note:
 <!--ID: 1785070789896-->
@@ -1114,7 +1014,6 @@ Japanese RTK
 Keyword: complete
 Clue:
 Kanji: 了
-Reading: リョウ
 Story: The _child_ is not **complete**. He's got no arms!
 Note:
 <!--ID: 1785183563250-->
@@ -1125,7 +1024,6 @@ Japanese RTK
 Keyword: woman
 Clue:
 Kanji: 女
-Reading: ジョ
 Story: [no story]
 Note:
 <!--ID: 1785183563255-->
@@ -1136,7 +1034,6 @@ Japanese RTK
 Keyword: fond
 Clue:
 Kanji: 好
-Reading: コウ
 Story: The _woman_ was extremely **fond** of her _child_ (no surprise).
 Note: think 好き(すき) and 大好き(だいすき).
 <!--ID: 1785183563257-->
@@ -1147,7 +1044,6 @@ Japanese RTK
 Keyword: likeness
 Clue: not RESEMBLANCE
 Kanji: 如
-Reading: ジョ
 Story: The sexy _woman's mouth_ was a big smile as she admired her **likeness** in the mirror.
 Note:
 <!--ID: 1785183563258-->
@@ -1158,7 +1054,6 @@ Japanese RTK
 Keyword: mama
 Clue:
 Kanji: 母
-Reading: ボ
 Story: When a _woman_ becomes a **mama** her breasts grow and fill with _drops_ of milk.
 Note: the drops come before the final horizontal stroke.
 <!--ID: 1785183563259-->
@@ -1169,7 +1064,6 @@ Japanese RTK
 Keyword: pierce
 Clue:
 Kanji: 貫
-Reading: カン
 Story: _Mama_ sat on the razor _clam_ and it **pierced** her ass! Ow!
 Note: I was sceptical about the top element being derived from _mama_, but it's strokes are those of 母 (except the _drops_ are drawn as a single stroke).
 <!--ID: 1785183563260-->
@@ -1180,7 +1074,6 @@ Japanese RTK
 Keyword: elder brother
 Clue:
 Kanji: 兄
-Reading: ケイ
 Story: One's **elder brother** is basically a _mouth_ on _(human) legs_ when he's a teenager.
 Note: primitive meaning _teenager_.
 Don't confuse with ONLY (只).
@@ -1192,7 +1085,6 @@ Japanese RTK
 Keyword: curse
 Clue:
 Kanji: 呪
-Reading: ジュ
 Story: I put a **curse** on my _elder brother_ so that he can never open his _mouth_ again.
 Note:
 <!--ID: 1785183563262-->
@@ -1203,7 +1095,6 @@ Japanese RTK
 Keyword: overcome
 Clue:
 Kanji: 克
-Reading: コク
 Story: A _teenager_ addicted to heroine must **overcome** the _needle_.
 Note:
 <!--ID: 1785183563263-->
@@ -1214,7 +1105,6 @@ Japanese RTK
 Keyword: little
 Clue: don't confuse with FEW
 Kanji: 小
-Reading: ショウ
 Story: A **little** penguin with its wings at its side.
 Note: means little as in small or tiny, not as in a little bit or few.
 <!--ID: 1785183563264-->
@@ -1225,7 +1115,6 @@ Japanese RTK
 Keyword: few
 Clue:
 Kanji: 少
-Reading: ショウ
 Story: A **few** _little_ penguins slide belly-first down an ice slide.
 Note: Heisig says the slide is actually a _drop_ and that in certain contexts, a _drop_ is drawn large like this.
 <!--ID: 1785183563265-->
@@ -1236,7 +1125,6 @@ Japanese RTK
 Keyword: large
 Clue:
 Kanji: 大
-Reading: ダイ
 Story: A _person_ stretching out his arms to look **large** and scare away a bear.
 Note: primitive meaning _large dog_ or _St. Bernard dog_ (who has lost his tail).
 <!--ID: 1785183563266-->
@@ -1247,7 +1135,6 @@ Japanese RTK
 Keyword: many
 Clue:
 Kanji: 多
-Reading: タ
 Story: **Many** moons ago... or maybe just two _evenings_ ago (I can't remember).
 Note: I don't know why Heisig introduces this before EVENING (夕).
 <!--ID: 1785183563267-->
@@ -1258,7 +1145,6 @@ Japanese RTK
 Keyword: evening
 Clue:
 Kanji: 夕
-Reading: セキ
 Story: In the **evening**, the crescent _moon_ hangs in the sky.
 Note: Heisig describes this as _moon_ missing its final stroke.
 <!--ID: 1785183563268-->
@@ -1269,7 +1155,6 @@ Japanese RTK
 Keyword: eventide
 Clue:
 Kanji: 汐
-Reading: セキ
 Story: At **eventide**, _drops of water_ fall slowly as _evening_ approaches.
 Note: eventide is an archaic word for evening
 even -> evening
@@ -1283,7 +1168,6 @@ Japanese RTK
 Keyword: outside
 Clue:
 Kanji: 外
-Reading: ガイ
 Story: Only your _magic wand_ will keep you safe **outside** on a dark _evening_ like this.
 Note:
 <!--ID: 1785183563270-->
@@ -1294,7 +1178,6 @@ Japanese RTK
 Keyword: name
 Clue:
 Kanji: 名
-Reading: メイ
 Story: On this beautiful _evening_, her sweet _mouth_ whispered my **name**.
 Note:
 <!--ID: 1785183563271-->
@@ -1305,7 +1188,6 @@ Japanese RTK
 Keyword: stone
 Clue:
 Kanji: 石
-Reading: セキ
 Story: A huge **stone** covers the secret **opening** hiden under the _cliff_.
 Note: introduces the non-jōyō kanji primitive 厂 meaning _cliff_.
 石 is the only case where the second stroke starts towards the middle of the first.
@@ -1317,7 +1199,6 @@ Japanese RTK
 Keyword: resemblance
 Clue: not LIKENESS
 Kanji: 肖
-Reading: ショウ
 Story: A _candle_ bears some **resemblance** to a _little_ light from the _moon_.
 Note: primitive meaning _sparkle_ or _candle_.
 Heisig relates ⺌ to 小 and while etymologically incorrect, dictionaries group 光, 肖 etc. under the radical 小.
@@ -1329,7 +1210,6 @@ Japanese RTK
 Keyword: nitrate
 Clue:
 Kanji: 硝
-Reading: ショウ
 Story: The miner held a _candle_ to the newly mined _stones_ to check for _nitrate_. Too much though and it might explode!
 Note:
 <!--ID: 1785183563274-->
@@ -1340,7 +1220,6 @@ Japanese RTK
 Keyword: smash
 Clue:
 Kanji: 砕
-Reading: サイ
 Story: Throwing a _stone_ in a _game of cricket_ would **smash** the wickets.
 Note: introduces non-jōyō kanji 卆 as primitive meaning _game of cricket_ (_baseball players_ + *needle*-shaped wickets = _game of cricket_).
 <!--ID: 1785271721718-->
@@ -1351,7 +1230,6 @@ Japanese RTK
 Keyword: sand
 Clue:
 Kanji: 砂
-Reading: サ
 Story: To make **sand**, start by grinding a _few stones_.
 Note:
 <!--ID: 1785271721735-->
@@ -1362,7 +1240,6 @@ Japanese RTK
 Keyword: jealous
 Clue:
 Kanji: 妬
-Reading: ト
 Story: The **jealous** _woman_ bashed his brains in with a _stone_ when he betrayed her.
 Note:
 <!--ID: 1785271721740-->
@@ -1373,7 +1250,6 @@ Japanese RTK
 Keyword: plane
 Clue:
 Kanji: 削
-Reading: サク
 Story: _Sparks_ flew from the _blade_ as the master swordsmith **planed** it to perfection.
 Note:
 <!--ID: 1785271721743-->
@@ -1384,7 +1260,6 @@ Japanese RTK
 Keyword: ray
 Clue:
 Kanji: 光
-Reading: コウ
 Story: The mysterious **ray** made people _little_. Ha! See them run around on their _little legs_.
 Note: the 一 is there as, like horns, the ⺌ can't be free-floating.
 <!--ID: 1785271721746-->
@@ -1395,7 +1270,6 @@ Japanese RTK
 Keyword: plump
 Clue:
 Kanji: 太
-Reading: タイ
 Story: A _large_ person with a big _drop_ of sweat dripping off of him because he is so **plump**.
 Note: don't mix up with ROUND (丸) which has the primitive meaning _fat man_.
 <!--ID: 1785271721749-->
@@ -1406,7 +1280,6 @@ Japanese RTK
 Keyword: utensil
 Clue:
 Kanji: 器
-Reading: キ
 Story: Four _mouths_ sit at the corners of the table, waiting for their _utensils_, ready to devour the _St. Bernard_ stretched out on the table!
 Note:
 <!--ID: 1785271721751-->
@@ -1417,7 +1290,6 @@ Japanese RTK
 Keyword: stinking
 Clue:
 Kanji: 臭
-Reading: シュウ
 Story: The _St. Bernard_ has his _nose_ in the air, sniffing suspiciously for something **stinking** nearby.
 Note:
 <!--ID: 1785271721753-->
@@ -1428,7 +1300,6 @@ Japanese RTK
 Keyword: sniff
 Clue:
 Kanji: 嗅
-Reading: キュウ
 Story: He took one **sniff** and remarked bluntly that my _mouth_ was _stinking_.
 Note: here the _dog_ has his tail even though it's missing in STINKING (臭). This is a historical screw up, STINKING was added to the jōyō set at the start and simplified (dropping the tail), while 嗅 was added in 2010 when they applied different rules/reasoning.
 <!--ID: 1785271721757-->
@@ -1439,7 +1310,6 @@ Japanese RTK
 Keyword: exquisite
 Clue:
 Kanji: 妙
-Reading: ミョウ
 Story: Let's be honest, only a _few women_ are **exquisite**.
 Note:
 <!--ID: 1785271721760-->
@@ -1450,7 +1320,6 @@ Japanese RTK
 Keyword: focus
 Clue:
 Kanji: 省
-Reading: セイ
 Story: Pick up a _few_ things and hold them before your _eye_ in order to really **focus** on them.
 Note:
 <!--ID: 1785271721763-->
@@ -1461,7 +1330,6 @@ Japanese RTK
 Keyword: thick
 Clue:
 Kanji: 厚
-Reading: コウ
 Story: Any _child_ growing up in the burning sun under a dry, bare _cliff_ is bound to be **thick**-skinned.
 Note:
 <!--ID: 1785271721765-->
@@ -1472,7 +1340,6 @@ Japanese RTK
 Keyword: strange
 Clue:
 Kanji: 奇
-Reading: キ
 Story: **Strange** but true, we needed a _spike_ in his _mouth_ to stop the _St. Bernard_ drinking the whiskey that was meant for those he saved.
 Note:
 <!--ID: 1785271721767-->
@@ -1483,7 +1350,6 @@ Japanese RTK
 Keyword: stream
 Clue: don't confuse with RIVER
 Kanji: 川
-Reading: セン
 Story: looks like a stream
 Note: primitive meaning _stream_ or _flood_, can appear as 川, ⼮ or as 川 but with the right-most stroke as a hook (⺃).
 <!--ID: 1785271721769-->
@@ -1494,7 +1360,6 @@ Japanese RTK
 Keyword: state
 Clue:
 Kanji: 州
-Reading: シュウ
 Story: A god plunged a sword into a _stream_ and the three _drops_ that fell back became the three main islands of the **state** of Japan.
 Note: drops and lines are drawn strictly left-to-right (i.e. not long stroke first, then drops).
 <!--ID: 1785271721771-->
@@ -1505,7 +1370,6 @@ Japanese RTK
 Keyword: obey
 Clue:
 Kanji: 順
-Reading: ジュン
 Story: If you want to stay, you have to **obey** the _stream_ of orders from the _head_ of our organization.
 Note:
 <!--ID: 1785271721773-->
@@ -1516,7 +1380,6 @@ Japanese RTK
 Keyword: water
 Clue:
 Kanji: 水
-Reading: スイ
 Story: [no story]
 Note: as a primitive is can appear as 水, but more commonly as ⺡.
 <!--ID: 1785271721775-->
@@ -1527,7 +1390,6 @@ Japanese RTK
 Keyword: icicle
 Clue:
 Kanji: 氷
-Reading: ヒョウ
 Story: **Icicles** form when _water drops_ drop down, one after the other, and freeze.
 Note: don't mix up with ETERNITY (永)
 <!--ID: 1785271721778-->
@@ -1538,7 +1400,6 @@ Japanese RTK
 Keyword: eternity
 Clue:
 Kanji: 永
-Reading: エイ
 Story: What is your life? Compared to **eternity**, it's a _drop_ of _water_ on a tiny _floor_.
 Note: here, the _drop_ comes first, then the oddly drawn first stroke of 水. For 氷, the _drop_ comes second.
 <!--ID: 1785271721781-->
@@ -1549,7 +1410,6 @@ Japanese RTK
 Keyword: spring
 Clue: water source, not SPRINGTIME
 Kanji: 泉
-Reading: セン
 Story: A fresh **spring** has plenty of frothy _white_ bubbles in its crisp, cool _water_.
 Note: as a primitive it can appear unchanged as 泉 or with the 水 bit squashed down to look like 小 (as in 原).
 <!--ID: 1785271721785-->
@@ -1560,7 +1420,6 @@ Japanese RTK
 Keyword: gland
 Clue:
 Kanji: 腺
-Reading: セン
 Story: A _body part_ that acts like a _spring_ for hormones is a **gland**.
 Note:
 <!--ID: 1785356785781-->
@@ -1571,7 +1430,6 @@ Japanese RTK
 Keyword: meadow
 Clue:
 Kanji: 原
-Reading: ゲン
 Story: After skipping through the **meadow** full of _small white springs_, Schwester Maria slipped and fell headlong over the cliff at its edge.
 Note: the 水 bit of 泉 has been abbreviated down to 小 here.
 <!--ID: 1785356785793-->
@@ -1582,7 +1440,6 @@ Japanese RTK
 Keyword: petition
 Clue:
 Kanji: 願
-Reading: ガン
 Story: The mysterious giant _head_ appeared, floating above the _meadow_, beckoning people to **petition** it for whatever they desired.
 Note: the 水 bit of 泉 has been abbreviated down to 小 here.
 _Head_ is always to the right.
@@ -1594,7 +1451,6 @@ Japanese RTK
 Keyword: swim
 Clue:
 Kanji: 泳
-Reading: エイ
 Story: If you can't **swim**, you'll drown, and your bones will be left for _eternity_ in the _water_.
 Note:
 <!--ID: 1785356785802-->
@@ -1605,7 +1461,6 @@ Japanese RTK
 Keyword: marsh
 Clue:
 Kanji: 沼
-Reading: ショウ
 Story: The **marsh** near Mordor _seduced_ Frodo into gazing upon it, and he fell into the _water_! Splash!
 Note:
 <!--ID: 1785356785806-->
@@ -1616,7 +1471,6 @@ Japanese RTK
 Keyword: open sea
 Clue:
 Kanji: 沖
-Reading: チュウ
 Story: _Water_ in the _middle_ of the ocean is referred to as **open sea**.
 Note:
 <!--ID: 1785356785810-->
@@ -1627,7 +1481,6 @@ Japanese RTK
 Keyword: pan-
 Clue: as in all-inclusive, e.g. Pan-Asian Games
 Kanji: 汎
-Reading: ハン
 Story: I ordered a **pan**-galactic gargleblaster, but all I got was a _mediocre watery_ vodka.
 Note:
 <!--ID: 1785356785813-->
@@ -1638,7 +1491,6 @@ Japanese RTK
 Keyword: creek
 Clue:
 Kanji: 江
-Reading: コウ
 Story: **Creeks** have hardly any _water_ and are easily crossed with a _i-beam_.
 Note:
 <!--ID: 1785356785818-->
@@ -1649,7 +1501,6 @@ Japanese RTK
 Keyword: cleanse
 Clue:
 Kanji: 汰
-Reading: タ
 Story: The _plumb_ man **cleansed** himself in the spa _water_. A pity it couldn't **cleanse** him of his excess kilos.
 Note: can mean clean out or select as in natural selection (自然淘汰).
 <!--ID: 1785356785822-->
@@ -1660,7 +1511,6 @@ Japanese RTK
 Keyword: soup
 Clue:
 Kanji: 汁
-Reading: ジュウ
 Story: To make **soup**, you just take _water_ and add _ten_ tasty ingredients.
 Note:
 <!--ID: 1785356785826-->
@@ -1671,7 +1521,6 @@ Japanese RTK
 Keyword: grains of sand
 Clue:
 Kanji: 沙
-Reading: サ
 Story: _Water_ erodes away stone a _few_ **grains of sand** at a time until there is no stone left.
 Note: don't confuse with SAND (砂). In this story there's no stone left!
 <!--ID: 1785356785830-->
@@ -1682,7 +1531,6 @@ Japanese RTK
 Keyword: tide
 Clue:
 Kanji: 潮
-Reading: チョウ
 Story: The _morning_ **tide** is basically, well, _water_ rising in the _morning_.
 Note: the complement of EVENTIDE (汐).
 <!--ID: 1785356785834-->
@@ -1693,7 +1541,6 @@ Japanese RTK
 Keyword: source
 Clue:
 Kanji: 源
-Reading: ゲン
 Story: Valser always shows beautiful alpine _meadows_ as the **source** of their _water_ (but it probably comes out of a tap).
 Note: **source** feels very close to SPRING (泉) to me, don't confuse them.
 <!--ID: 1785356785837-->
@@ -1704,7 +1551,6 @@ Japanese RTK
 Keyword: lively
 Clue:
 Kanji: 活
-Reading: カツ
 Story: At a **lively** party, _tongues_ babble and splash around like flowing _water_.
 Note:
 <!--ID: 1785356785841-->
@@ -1715,7 +1561,6 @@ Japanese RTK
 Keyword: extinguish
 Clue:
 Kanji: 消
-Reading: ショウ
 Story: It took just a few drops of _water_ to **extinguish** the _candle_.
 Note:
 <!--ID: 1785356785844-->
@@ -1726,7 +1571,6 @@ Japanese RTK
 Keyword: but of course
 Clue:
 Kanji: 況
-Reading: キョウ
 Story: Dump a bucket of ice _water_ onto a sleeping _teenager_, will they leap up screaming? **But of course!**
 Note: this kanji has nothing to do with **but of course**, but the better matches CONDITION and STATUS are taken by other kanji.
 <!--ID: 1785356785848-->
@@ -1737,7 +1581,6 @@ Japanese RTK
 Keyword: river
 Clue: don't confuse with STREAM
 Kanji: 河
-Reading: カ
 Story: The _little engine that could_ powered the great paddle steamer up the _waters_ of the Mississippi **River**.
 Note:
 <!--ID: 1785356785852-->
@@ -1748,7 +1591,6 @@ Japanese RTK
 Keyword: overnight
 Clue:
 Kanji: 泊
-Reading: ハク
 Story: The concierge said "please supply any guest who stays **overnight** with _water_ and clean _white_ sheets."
 Note:
 <!--ID: 1785356785856-->
@@ -1759,7 +1601,6 @@ Japanese RTK
 Keyword: lake
 Clue:
 Kanji: 湖
-Reading: コ
 Story: His _old flesh_ couldn't take it anymore and he cast himself into the _waters_ of the **lake**.
 Note:
 <!--ID: 1785356785859-->
@@ -1770,7 +1611,6 @@ Japanese RTK
 Keyword: fathom
 Clue:
 Kanji: 測
-Reading: ソク
 Story: The **fathom** is the unit you use when making _rules_ about territorial _waters_.
 Note:
 <!--ID: 1785356785863-->
@@ -1781,7 +1621,6 @@ Japanese RTK
 Keyword: soil
 Clue:
 Kanji: 土
-Reading: ド
 Story: [no story]
 Note: primitive meaning _soil_, _ground_ and _dirt_.
 <!--ID: 1785442542647-->
@@ -1792,7 +1631,6 @@ Japanese RTK
 Keyword: spit
 Clue:
 Kanji: 吐
-Reading: ト
 Story: If you get _dirt_ in your _mouth_, you'll surely **spit** it out.
 Note:
 <!--ID: 1785442542664-->
@@ -1803,7 +1641,6 @@ Japanese RTK
 Keyword: pressure
 Clue:
 Kanji: 圧
-Reading: アツ
 Story: The _cliff_ exerts enormous **pressure** on the _ground_ beneath it.
 Note:
 <!--ID: 1785442542668-->
@@ -1814,7 +1651,6 @@ Japanese RTK
 Keyword: cape
 Clue:
 Kanji: 埼
-Reading: キ
 Story: **Cape Cod** is odd, _strange_ things happen on the _land_ there.
 Note:
 <!--ID: 1785442542671-->
@@ -1825,7 +1661,6 @@ Japanese RTK
 Keyword: hedge
 Clue:
 Kanji: 垣
-Reading: エン
 Story: A magical **hedge** of briar roses completely _spanned_ the castle _grounds_ where Sleeping Beauty lay.
 Note:
 <!--ID: 1785442542673-->
@@ -1836,7 +1671,6 @@ Japanese RTK
 Keyword: inlay
 Clue:
 Kanji: 填
-Reading: テン
 Story: The archaeologists found a brooch with beautiful gold **inlay** when digging in the _ground_ for the _truth_ about the civilization of legend.
 Note:
 <!--ID: 1785442542678-->
@@ -1847,7 +1681,6 @@ Japanese RTK
 Keyword: squared jewel
 Clue:
 Kanji: 圭
-Reading: ケイ
 Story: How would you stop someone stealing your biggest **squared jewel**? Bury it deep in the _soil under ground_. Then plant _ivy_ to mark the spot.
 Note: primitive meaning _ivy_.
 Heisig notes that _ivy_ has no real relation to **squared jewel** but it's better for stories. _Ivy_ growing over the _ground_ forms a second _ground_ that's tricky to walk on.
@@ -1859,7 +1692,6 @@ Japanese RTK
 Keyword: seal
 Clue:
 Kanji: 封
-Reading: フウ
 Story: The king used a special **seal** of _ivy_ leaves _glued_ onto his document.
 Note:
 <!--ID: 1785442542688-->
@@ -1870,7 +1702,6 @@ Japanese RTK
 Keyword: horizon
 Clue:
 Kanji: 涯
-Reading: ガイ
 Story: After months at sea, he looked far over the _water_ and saw the *ivy*-clad _cliffs_ of home appearing over the **horizon**.
 Note:
 <!--ID: 1785442542691-->
@@ -1881,7 +1712,6 @@ Japanese RTK
 Keyword: Buddhist temple
 Clue:
 Kanji: 寺
-Reading: ジ
 Story: At the **Buddhist temple**, the monks sit on the _ground_, _glued_ there in meditation.
 Note:
 <!--ID: 1785442542695-->
@@ -1892,7 +1722,6 @@ Japanese RTK
 Keyword: time
 Clue:
 Kanji: 時
-Reading: ジ
 Story: Historically, the **time** of _day_ was announced by the iron bell of the _Buddhist temple_.
 Note:
 <!--ID: 1785442542699-->
@@ -1903,7 +1732,6 @@ Japanese RTK
 Keyword: level
 Clue:
 Kanji: 均
-Reading: キン
 Story: When I **leveled** the _soil_, I'd scooped up in my _ladle_, a big excess _drop_ fell to the _ground_.
 Note: 匀 is actually a little used non-jōyō kanji meaning equal
 <!--ID: 1785442542704-->
@@ -1914,7 +1742,6 @@ Japanese RTK
 Keyword: fire
 Clue:
 Kanji: 火
-Reading: カ
 Story: [no story]
 Note: to keep 火 and its squashed ⺣ form distinct, don't use **fire** for either. For 火, use _fireplace_, _fire storm_, when squashed to ⺣, use _flames_, _cauldron_, _cooking/oven fire_.
 Heisig ignores this suggestion in 炎 - the very next character.
@@ -1926,7 +1753,6 @@ Japanese RTK
 Keyword: inflammation
 Clue:
 Kanji: 炎
-Reading: エン
 Story: The terrible **inflammation** felt like _fire_ above and _fire_ below my skin.
 Note:
 <!--ID: 1785442542711-->
@@ -1937,7 +1763,6 @@ Japanese RTK
 Keyword: anxiety
 Clue:
 Kanji: 煩
-Reading: ハン
 Story: His **anxiety** went through the roof, his _head_ was on _fire_ from all the bad drugs.
 Note:
 <!--ID: 1785442542715-->
@@ -1948,7 +1773,6 @@ Japanese RTK
 Keyword: thin
 Clue:
 Kanji: 淡
-Reading: タン
 Story: A **thin** trickle of _water_ cooled the burning _inflammation_ on his skin.
 Note:
 <!--ID: 1785442542719-->
@@ -1959,7 +1783,6 @@ Japanese RTK
 Keyword: lamp
 Clue:
 Kanji: 灯
-Reading: トウ
 Story: In the past, the _flames_ of gas **lamps** kept the _streets_ bright.
 Note:
 <!--ID: 1785442542724-->
@@ -1970,7 +1793,6 @@ Japanese RTK
 Keyword: farm
 Clue:
 Kanji: 畑
-Reading: <!-- no reading -->
 Story: In some parts of the world, they clear the stubble from **farm** _fields_ with _fire_.
 Note:
 <!--ID: 1785442542728-->
@@ -1981,7 +1803,6 @@ Japanese RTK
 Keyword: disaster
 Clue:
 Kanji: 災
-Reading: サイ
 Story: What a **disaster**! First came the terrible _floods_ and, just as it dried up, the raging _fire_.
 Note:
 <!--ID: 1785442542732-->
@@ -1992,7 +1813,6 @@ Japanese RTK
 Keyword: ashes
 Clue:
 Kanji: 灰
-Reading: カイ
 Story: After the cremation _fire_, they scattered his _ashes_ from the seaside _cliff_.
 Note:
 <!--ID: 1785442542736-->
@@ -2003,7 +1823,6 @@ Japanese RTK
 Keyword: spot
 Clue:
 Kanji: 点
-Reading: テン
 Story: There were scorched **spots** all over my shirt after I laughed at the _fortune teller's_ story and she flung her _cauldron_ at me.
 Note: ⺣ is squashed 火, don't get it confused with water.
 <!--ID: 1785587062648-->
@@ -2014,7 +1833,6 @@ Japanese RTK
 Keyword: illuminate
 Clue:
 Kanji: 照
-Reading: ショウ
 Story: The _shining flames_ **illuminated** everything.
 Note: like its English counterparth, **illuminate** has a broad range of meanings.
 <!--ID: 1785587062655-->
@@ -2025,7 +1843,6 @@ Japanese RTK
 Keyword: fish
 Clue:
 Kanji: 魚
-Reading: ギョ
 Story: The **fish** I caught was so monstrous, I had to _bind it up_, drag it across the _rice fields_, and boil it in the village _cauldron_.
 Note:
 <!--ID: 1785587062659-->
@@ -2036,7 +1853,6 @@ Japanese RTK
 Keyword: fishing
 Clue: not ANGLING
 Kanji: 漁
-Reading: ギョ
 Story: **Fishing** 101: _Fish_ are generally found in _water_.
 Note:
 <!--ID: 1785587062662-->
@@ -2047,7 +1863,6 @@ Japanese RTK
 Keyword: ri
 Clue: Japanese unit for ~4 km.
 Kanji: 里
-Reading: リ
 Story: Historically, when measuring the _land_ making up _rice fields_, you used the **ri** as the unit.
 Note: primitive meaning _computer_ (yes, really).
 Watch out - the vertical is a single stroke drawn before soil, but skewering both elements.
@@ -2060,7 +1875,6 @@ Japanese RTK
 Keyword: black
 Clue:
 Kanji: 黒
-Reading: コク
 Story: _Flames_ spewed from the li-ion battery of my _computer_, turning the walls a horrible **black**.
 Note:
 <!--ID: 1785587062670-->
@@ -2071,7 +1885,6 @@ Japanese RTK
 Keyword: black ink
 Clue:
 Kanji: 墨
-Reading: ボク
 Story: There's a big _black_ stain on the _ground_ where someone spilled **black ink**.
 Note:
 <!--ID: 1785587062674-->
@@ -2082,7 +1895,6 @@ Japanese RTK
 Keyword: carp
 Clue:
 Kanji: 鯉
-Reading: リ
 Story: I fumbled, my _computer_ fell into the pond and was gobbled up by a _fish_; that giant orange **carp** has been glowing and beeping ever since.
 Note:
 <!--ID: 1785587062676-->
@@ -2093,7 +1905,6 @@ Japanese RTK
 Keyword: quantity
 Clue:
 Kanji: 量
-Reading: リョウ
 Story: The enormous **quantity** of work meant I was still at my _computer_ come _nightbreak_.
 Note:
 <!--ID: 1785587062679-->
@@ -2104,7 +1915,6 @@ Japanese RTK
 Keyword: rin
 Clue: Japanese word for 1/1000 of a yen
 Kanji: 厘
-Reading: リン
 Story: A _computer_ that's fallen off a _cliff_ is worth even less than a **rin**.
 Note:
 <!--ID: 1785587062683-->
@@ -2115,7 +1925,6 @@ Japanese RTK
 Keyword: bury
 Clue:
 Kanji: 埋
-Reading: マイ
 Story: It had served me well. I **buried** that old _computer_ with dignity in the _soil_ out back.
 Note:
 <!--ID: 1785587062686-->
@@ -2126,7 +1935,6 @@ Japanese RTK
 Keyword: same
 Clue:
 Kanji: 同
-Reading: ドウ
 Story: The monks, _cowled_ heads and chanting as if with _one mouth_, all looked the **same**.
 Note: primitive meaning a _monk_ wearing the plain practical clothes of daily monastic life.
 Introduces the non-kanji primitive 冂 meaning _hood / helment / glass canopy / cowl / car hood_.
@@ -2138,7 +1946,6 @@ Japanese RTK
 Keyword: den
 Clue:
 Kanji: 洞
-Reading: ドウ
 Story: There's a secret **den** in the monastery where the _monks_ hold *water*-pistol fights!
 Note:
 <!--ID: 1785587062693-->
@@ -2149,7 +1956,6 @@ Japanese RTK
 Keyword: trunk
 Clue:
 Kanji: 胴
-Reading: ドウ
 Story: Dead _flesh_ all looks the _same_ when you chop off everything but the **trunk**.
 Note:
 <!--ID: 1785587062695-->
@@ -2160,7 +1966,6 @@ Japanese RTK
 Keyword: yonder
 Clue:
 Kanji: 向
-Reading: コウ
 Story: The wild blue **yonder** had seemed so exciting, but the spaceman, his _mouth_ wide open, died there as the last _drop_ of air escaped from his _helmet_.
 Note: don't mix up the non-drop bit of this with 同, there's no 一.
 <!--ID: 1785587062698-->
@@ -2171,7 +1976,6 @@ Japanese RTK
 Keyword: esteem
 Clue:
 Kanji: 尚
-Reading: ショウ
 Story: He had so _little_ self-**esteem** that he kept his _hood_ down and his _mouth_ shut.
 Note:
 <!--ID: 1785587062700-->
@@ -2182,7 +1986,6 @@ Japanese RTK
 Keyword: character
 Clue:
 Kanji: 字
-Reading: ジ
 Story: The poor _child_ never leaves the _house_ as he has to spend all his time learning kanji **characters**.
 Note: introduces the non-kanji primitive 宀 meaning _house_.
 <!--ID: 1785587062704-->
@@ -2193,7 +1996,6 @@ Japanese RTK
 Keyword: guard
 Clue:
 Kanji: 守
-Reading: シュ
 Story: The **guard** stuck to the _house_ like _glue_, warding off miscreants.
 Note:
 <!--ID: 1785587062707-->
@@ -2204,7 +2006,6 @@ Japanese RTK
 Keyword: perfect
 Clue:
 Kanji: 完
-Reading: カン
 Story: In the _beginning_ the _house_ was perfect, but look at it now!
 Note:
 <!--ID: 1785587062711-->
@@ -2215,7 +2016,6 @@ Japanese RTK
 Keyword: proclaim
 Clue:
 Kanji: 宣
-Reading: セン
 Story: The preacher stood on the _housetop_ and **proclaimed** that Jesus loved us all the _span_ of our lives and beyond.
 Note: <!-- change madman to preacher to avoid confusion with LUNATIC. -->
 <!--ID: 1785587062715-->
@@ -2226,7 +2026,6 @@ Japanese RTK
 Keyword: wee hours
 Clue:
 Kanji: 宵
-Reading: ショウ
 Story: In my _house_, reviewing kanji is such a terrible task, I have to keep a _candle_ burning into the **wee hours**.
 Note:
 <!--ID: 1785677363158-->
@@ -2237,7 +2036,6 @@ Japanese RTK
 Keyword: relax
 Clue:
 Kanji: 安
-Reading: アン
 Story: The cheapest place to **relax** is at _home_ with your _woman_, doing "nice" things.
 Note: oddly, Heisig doesn't use "cheap" as the keyword for this character or any other.
 <!--ID: 1785677363161-->
@@ -2248,7 +2046,6 @@ Japanese RTK
 Keyword: banquet
 Clue:
 Kanji: 宴
-Reading: エン
 Story: Slaving away in the _house_, all _day_ long, the _woman_ prepared for the **banquet**.
 Note:
 <!--ID: 1785677363162-->
@@ -2259,7 +2056,6 @@ Japanese RTK
 Keyword: draw near
 Clue:
 Kanji: 寄
-Reading: キ
 Story: As I _drew near_, I became more and more worried as I saw how _strange_ the _house_ was that I'd so thoughtlessly booked online.
 Note:
 <!--ID: 1785677363163-->
@@ -2270,7 +2066,6 @@ Japanese RTK
 Keyword: wealth
 Clue:
 Kanji: 富
-Reading: フ
 Story: The family kept all their **wealth** under one _roof_.
 Note: a little confusingly, the kanji loses its root but keeps its meaing as the primitive 畐 (a non-jōyō kanji that actually has a completely different meaning).
 <!--ID: 1785677363164-->
@@ -2281,7 +2076,6 @@ Japanese RTK
 Keyword: savings
 Clue:
 Kanji: 貯
-Reading: チョ
 Story: I turned all my **savings** into _clams_ and keep them in a hidden location under my _roof_ that's marked by a _spike_,.
 Note:
 <!--ID: 1785677363165-->
@@ -2292,7 +2086,6 @@ Japanese RTK
 Keyword: tree
 Clue:
 Kanji: 木
-Reading: ボク
 Story: pictogram of a **tree**.
 Note: primitive meaning _tree_ or _wood_ or as _wooden pole_ for the detached tree.
 The standard tree (木) vs detached tree (ホ) distinction only exists in handwriting.
@@ -2305,7 +2098,6 @@ Japanese RTK
 Keyword: grove
 Clue:
 Kanji: 林
-Reading: リン
 Story: A **grove** is a small cluster of _trees_.
 Note:
 <!--ID: 1785677363167-->
@@ -2316,7 +2108,6 @@ Japanese RTK
 Keyword: forest
 Clue:
 Kanji: 森
-Reading: シン
 Story: _Trees, trees_ everywhere makes a **forest**.
 Note:
 <!--ID: 1785677363168-->
@@ -2327,7 +2118,6 @@ Japanese RTK
 Keyword: Japanese Judas-tree
 Clue:
 Kanji: 桂
-Reading: ケイ
 Story: Legend says, **Judas** hung himself from a _tree_ covered in poison _ivy_.
 Note:
 <!--ID: 1785677363169-->
@@ -2338,7 +2128,6 @@ Japanese RTK
 Keyword: oak
 Clue:
 Kanji: 柏
-Reading: ハク
 Story: The finest _white_ wines are aged in barrels made from **oak** _trees_, giving them a distinctive **oaky** flavor.
 Note:
 <!--ID: 1785677363170-->
@@ -2349,7 +2138,6 @@ Japanese RTK
 Keyword: frame
 Clue:
 Kanji: 枠
-Reading: <!-- no reading -->
 Story: The _cricket match_ became so famous that for the winners' portait, they built a beautiful **frame** from the _wood of a tree_ that overlooked the pitch.
 Note:
 <!--ID: 1785677363171-->
@@ -2360,7 +2148,6 @@ Japanese RTK
 Keyword: treetops
 Clue:
 Kanji: 梢
-Reading: ショウ
 Story: Fearing the world was being abandoned to darkness, Norsemen attached _candles_ to **treetops**. And so the _candles_ on my grandfather's Christmas _tree_.
 Note:
 <!--ID: 1785677363172-->
@@ -2371,7 +2158,6 @@ Japanese RTK
 Keyword: shelf
 Clue:
 Kanji: 棚
-Reading: ホウ
 Story: My books are good _companions_, I have lots of them sitting on _wooden_ **shelves**.
 Note:
 <!--ID: 1785677363173-->
@@ -2382,7 +2168,6 @@ Japanese RTK
 Keyword: apricot
 Clue:
 Kanji: 杏
-Reading: キョウ
 Story: I lay under the _tree, mouth_ open and let the beautiful fresh **apricots** drop straight in!
 Note: the story tries to emphasive the location of _tree_ and _mouth_.
 <!--ID: 1785677363174-->
@@ -2393,7 +2178,6 @@ Japanese RTK
 Keyword: paulowina
 Clue: a plant kingdom name
 Kanji: 桐
-Reading: トウ
 Story: Q: "What the heck is a **Paulowina**?" A: "It's an oriental _tree_, but, to be honest, all _trees_ look the _same_ to me!"
 Note:
 <!--ID: 1785677363175-->
@@ -2404,7 +2188,6 @@ Japanese RTK
 Keyword: plant
 Clue:
 Kanji: 植
-Reading: ショク
 Story: If you dig up a _tree_, you must **plant** it somewhere new _straightaway_ or it'll die!
 Note:
 <!--ID: 1785677363176-->
@@ -2415,7 +2198,6 @@ Japanese RTK
 Keyword: chair
 Clue:
 Kanji: 椅
-Reading: イ
 Story: When Japanese first saw **chairs**, they thought "what a _strange_ use for _wood_!"
 Note:
 <!--ID: 1785677363177-->
@@ -2426,7 +2208,6 @@ Japanese RTK
 Keyword: wither
 Clue:
 Kanji: 枯
-Reading: コ
 Story: The _old tree_ **withered** away with the passing of the years.
 Note:
 <!--ID: 1785677363178-->
@@ -2437,7 +2218,6 @@ Japanese RTK
 Keyword: crude
 Clue:
 Kanji: 朴
-Reading:
 Story: _Wooden wands_ are the **crudest**. They're nothing compared to the carbon-fiber ones.
 Note:
 <!--ID: 1785677363179-->
@@ -2448,7 +2228,6 @@ Japanese RTK
 Keyword: village
 Clue: not TOWN
 Kanji: 村
-Reading: ソン
 Story: A **village** is little more than a few _trees_ glued together.
 Note:
 <!--ID: 1785789335523-->
@@ -2459,7 +2238,6 @@ Japanese RTK
 Keyword: inter-
 Clue:
 Kanji: 相
-Reading: ソウ
 Story: At the **interfaith** summit, the rabbi, the imam and the priest shared a shady _tree_, but kept a wary _eye_ on each other.
 Note:
 <!--ID: 1785789335525-->
@@ -2470,7 +2248,6 @@ Japanese RTK
 Keyword: desk
 Clue:
 Kanji: 机
-Reading: キ
 Story: Studying at my _wooden_ **desk**, a great _wind_ swept away all my notes. All the kanji, I'd scribbled, disappeared off over the horizon.
 Note:
 <!--ID: 1785789335526-->
@@ -2481,7 +2258,6 @@ Japanese RTK
 Keyword: book
 Clue:
 Kanji: 本
-Reading: ホン
 Story: A **book** is made _one_ very thin slice of a _tree_ at a time.
 Note:
 <!--ID: 1785789335527-->
@@ -2492,7 +2268,6 @@ Japanese RTK
 Keyword: tag
 Clue:
 Kanji: 札
-Reading: サツ
 Story: Botanists like to identify _trees_ by _hooking_ **tags** onto them.
 Note:
 <!--ID: 1785789335529-->
@@ -2503,7 +2278,6 @@ Japanese RTK
 Keyword: calendar
 Clue:
 Kanji: 暦
-Reading: レキ
 Story: A _cliff_ takes years to form, a _grove_ changes with the season, the _days_ come and go; give me a **calendar** and I'll measure the passing of all such times.
 Note:
 <!--ID: 1785789335530-->
@@ -2514,7 +2288,6 @@ Japanese RTK
 Keyword: plan
 Clue:
 Kanji: 案
-Reading: アン
 Story: _Relaxing_ over the _trees_ in his glider, he **planed** his flight home.
 Note:
 <!--ID: 1785789335531-->
@@ -2525,7 +2298,6 @@ Japanese RTK
 Keyword: parch
 Clue:
 Kanji: 燥
-Reading: ソウ
 Story: It's been so **parched** recently, that my _wooden furniture_ spontaneously went up in _flames_.
 Note: it's not a Heisig primitive, but the _goods_ and _tree_ bit appear in a few characters, so give them the meaning _furniture_ (_wooden goods_).
 <!--ID: 1785789335532-->
@@ -2536,7 +2308,6 @@ Japanese RTK
 Keyword: not yet
 Clue:
 Kanji: 未
-Reading: ミ
 Story: The _tree_ (木) does **not yet** (未) have extremities (末).
 Note: this story is about not confusing 未 and 末.
 <!--ID: 1785789335533-->
@@ -2547,7 +2318,6 @@ Japanese RTK
 Keyword: obscure
 Clue:
 Kanji: 昧
-Reading: マイ
 Story: The most **obscure** ideas have _not yet_ seen the light of _day_.
 Note:
 <!--ID: 1785789335534-->
@@ -2558,7 +2328,6 @@ Japanese RTK
 Keyword: extremity
 Clue:
 Kanji: 末
-Reading: マツ
 Story: The _tree_ (木) does **not yet** (未) have extremities (末).
 Note: this story is about not confusing 未 and 末.
 <!--ID: 1785789335535-->
@@ -2569,7 +2338,6 @@ Japanese RTK
 Keyword: splash
 Clue:
 Kanji: 沫
-Reading: マツ
 Story: The wave of _water_ reached its _extremity_; **splash**!
 Note:
 <!--ID: 1785789335536-->
@@ -2580,7 +2348,6 @@ Japanese RTK
 Keyword: flavor
 Clue:
 Kanji: 味
-Reading: ミ
 Story: My _mouth_ has _not yet_ swallowed the food because the **flavor** is too delicious.
 Note:
 <!--ID: 1785789335537-->
@@ -2591,7 +2358,6 @@ Japanese RTK
 Keyword: younger sister
 Clue:
 Kanji: 妹
-Reading: マイ
 Story: My friend's **younger sister** is _not yet_ a full grown _woman_.
 Note:
 <!--ID: 1785789335538-->
@@ -2602,7 +2368,6 @@ Japanese RTK
 Keyword: vermilion
 Clue:
 Kanji: 朱
-Reading: シュ
 Story: It's Autumn; one last **vermilion** leaf (ノ) has _not yet_ fallen.
 Note: ノ is a leaf for the sake of this story.
 <!--ID: 1785789335539-->
@@ -2613,7 +2378,6 @@ Japanese RTK
 Keyword: stocks
 Clue:
 Kanji: 株
-Reading: シュ
 Story: He always has some daft tip, his last one was "buy **stocks** in some company called '_Tree_ and _Vermillion_ Ltd.'"
 Note:
 <!--ID: 1785789335540-->
@@ -2624,7 +2388,6 @@ Japanese RTK
 Keyword: young
 Clue:
 Kanji: 若
-Reading: ジャク
 Story: The Cheshire Cat told Alice, "the _flowers_ on the _right_ make you **young**, the others make you old."
 Note: introduces the non-kanji primitive 艹 meaning _flower_ (think _rose_, _tulip_ or _daisy_ - none of these are keywords).
 The 艹 primitive usually goes on top.
@@ -2636,7 +2399,6 @@ Japanese RTK
 Keyword: grass
 Clue:
 Kanji: 草
-Reading: ソウ
 Story: The **grass** is so long, the only _flowers_ that you can see above it are the _sunflowers_.
 Note:
 <!--ID: 1785789335542-->
@@ -2647,7 +2409,6 @@ Japanese RTK
 Keyword: suffering
 Clue:
 Kanji: 苦
-Reading: ク
 Story: The opium _flower_ can ease the **suffering** of the _old_.
 Note:
 <!--ID: 1785789335543-->
@@ -2658,7 +2419,6 @@ Japanese RTK
 Keyword: bullying
 Clue:
 Kanji: 苛
-Reading: カ
 Story: The _little engine that could_ started a campaign to stop **bullying** and handed out _flowers_ of peace and understanding.
 Note:
 <!--ID: 1785789335544-->
@@ -2669,7 +2429,6 @@ Japanese RTK
 Keyword: tolerant
 Clue:
 Kanji: 寛
-Reading: カン
 Story: Bilbo was **tolerant** to a fault: a hoard of dwarves invaded his _house_, his _flowers_ trampled flat, and he simply refused to _see_ the damage.
 Note: this is 見, not 貝.
 <!--ID: 1785877965710-->
@@ -2680,7 +2439,6 @@ Japanese RTK
 Keyword: dilute
 Clue:
 Kanji: 薄
-Reading: ハク
 Story: A single _flower_, the _acupuncturist_ swore, **diluted** in a bathtub of _water_, cures everything - that'll be Fr. 200, please.
 Note: remember, as a primitive Dr. (博) loses its needle (十) and takes the meaning _acupuncturist_.
 <!--ID: 1785877965712-->
@@ -2691,7 +2449,6 @@ Japanese RTK
 Keyword: leaf
 Clue:
 Kanji: 葉
-Reading: ヨウ
 Story: On top, the _flowers_ appeared among the **leaves**, promising future _generations_ of the old _tree_ below.
 Note: story captures top-to-bottom order of primitives.
 <!--ID: 1785877965713-->
@@ -2702,7 +2459,6 @@ Japanese RTK
 Keyword: imitation
 Clue:
 Kanji: 模
-Reading: モ
 Story: In Las Vegas, everything is fake - even the _graveyards_ have **imitation** _trees_!
 Note: introduces the non-jōyō kanji primitive 莫 meaning graveyard (in the **graveyard**, the _flowers_ are still fresh, the _sun_ still shines, and the faithful _St. Bernard_ still waits for the master who will never come).
 <!--ID: 1785877965715-->
@@ -2713,7 +2469,6 @@ Japanese RTK
 Keyword: vague
 Clue:
 Kanji: 漠
-Reading: バク
 Story: _Water_ had worn away the inscriptions in the _graveyard_, leaving only **vague** impressions.
 Note:
 <!--ID: 1785877965716-->
@@ -2724,7 +2479,6 @@ Japanese RTK
 Keyword: grave
 Clue:
 Kanji: 墓
-Reading: ボ
 Story: The _soil_ under a _graveyard_ is full of **graves**.
 Note: the soil is under rather than to the left.
 <!--ID: 1785877965717-->
@@ -2735,7 +2489,6 @@ Japanese RTK
 Keyword: livelihood
 Clue:
 Kanji: 暮
-Reading: ボ
 Story: The sexton's **livelihood** involves spending his _days_ in the _graveyard_.
 Note:
 <!--ID: 1785877965718-->
@@ -2746,7 +2499,6 @@ Japanese RTK
 Keyword: membrane
 Clue:
 Kanji: 膜
-Reading: マク
 Story: The **membrane** between our world and the next is at its thinnest in a _moon_ lit _graveyard_.
 Note:
 <!--ID: 1785877965719-->
@@ -2757,7 +2509,6 @@ Japanese RTK
 Keyword: seedling
 Clue:
 Kanji: 苗
-Reading: ビョウ
 Story: Ideas, like **seedlings**, sprout as _flowers_ from the _brain_.
 Note: don't confuse with the non-jōyō kanji primitive 圥 meaning _rice seedling_. Hence the odd, non-agricultural story.
 <!--ID: 1785877965720-->
@@ -2768,7 +2519,6 @@ Japanese RTK
 Keyword: portent
 Clue:
 Kanji: 兆
-Reading: チョウ
 Story: The shaman examined the _turtle_ shell (long strokes are the central ridge, the short ones the pattern), looking for **portents** of evil to come.
 Note: primitive meaning _portent_ when in full 兆 form and _turtle_ when squashed to ⺦.
 Watch the stoke order - long, dot, dot, hook, dot, dot.
@@ -2780,7 +2530,6 @@ Japanese RTK
 Keyword: peach tree
 Clue:
 Kanji: 桃
-Reading: トウ
 Story: Momotarō was born from the fruit of a **peach tree**, a bizarre portent of an even more unusual future to come.
 Note:
 <!--ID: 1785877965722-->
@@ -2791,7 +2540,6 @@ Japanese RTK
 Keyword: stare
 Clue:
 Kanji: 眺
-Reading: チョウ
 Story: That ultimate _portent_ of evil, Sauron's fiery _eye_ **stared** at Frodo, never blinking.
 Note:
 <!--ID: 1785877965723-->
@@ -2802,7 +2550,6 @@ Japanese RTK
 Keyword: dog
 Clue:
 Kanji: 犬
-Reading: ケン
 Story: A small **dog**, like a _chihuahua_, looks like a tiny _drop_ compared to a _St. Bernard_.
 Note: primitive meaning _chihuahua_ with tail (犬) or _St. Bernard_ without (大) or _pack of wild dogs_ when squashed to ⺨.
 <!--ID: 1785877965724-->
@@ -2813,7 +2560,6 @@ Japanese RTK
 Keyword: status quo
 Clue:
 Kanji: 状
-Reading: ジョウ
 Story: The Congress of Animals is deadlocked again: the _turtle_ votes to do nothing, the _chihuahua_ just yaps; the **status quo** remains unchanged.
 Note:
 <!--ID: 1785877965725-->
@@ -2824,7 +2570,6 @@ Japanese RTK
 Keyword: silence
 Clue:
 Kanji: 黙
-Reading: モク
 Story: The _computer_ wouldn't stop beeping, the _chihuahua_ yapped like demented in response. Eventually, he threw both on the _flames_ and finally enjoyed the **silence**.
 Note:
 <!--ID: 1785877965726-->
@@ -2835,7 +2580,6 @@ Japanese RTK
 Keyword: sort of thing
 Clue:
 Kanji: 然
-Reading: ゼン
 Story: Imagine _chihuahua flesh_ cooking in a _cauldron_, that's the **sort of thing** your cheap Chinese takeaway may contain!
 Note: as a suffix, it take the preceding word x and turns it into "x sort of thing."
 <!--ID: 1785877965727-->
@@ -2846,7 +2590,6 @@ Japanese RTK
 Keyword: reed
 Clue:
 Kanji: 荻
-Reading: テキ
 Story: Baby Moses hidden in the **reeds**: _flowers_ nodding overhead, a _pack of wild dogs_ sniffing along the bank, and Pharaoh's men setting _fire_ to the riverbank.
 Note:
 <!--ID: 1785877965728-->
@@ -2857,7 +2600,6 @@ Japanese RTK
 Keyword: hunt
 Clue:
 Kanji: 狩
-Reading: シュ
 Story: It's a trope, the escapees **hunted** by the _pack of wild dogs_ unleashed by the prison _guards_.
 Note:
 <!--ID: 1785877965729-->
@@ -2868,7 +2610,6 @@ Japanese RTK
 Keyword: cat
 Clue:
 Kanji: 猫
-Reading: ビョウ
 Story: He sold the gullible _pack of wild dogs_ what he called **cat** _seedlings_ and assured them they'd grow into a great crop of **cats** that they could then terrorize.
 Note:
 <!--ID: 1785877965730-->
@@ -2879,7 +2620,6 @@ Japanese RTK
 Keyword: cow
 Clue:
 Kanji: 牛
-Reading: ギュウ
 Story: [no story - but think _vermilion_]
 Note: the stroke order is as you'd expect when it appears in full form to the right (e.g. 件) or bottom (e.g. 牢), but changes for the squashed ⺧ top form (e.g. 告) and 牜 left form (e.g. 物) - the vertical comes before the last horizontal.
 <!--ID: 1785877965731-->
@@ -2890,7 +2630,6 @@ Japanese RTK
 Keyword: special
 Clue:
 Kanji: 特
-Reading: トク
 Story: _Cows_ at a _Buddhist temple_ are **special** - they're holy _cows_. Sadly, a few days later I found those same cows on **special** at the supermarket!
 Note:
 <!--ID: 1785962760981-->
@@ -2901,7 +2640,6 @@ Japanese RTK
 Keyword: revelation
 Clue:
 Kanji: 告
-Reading: コク
 Story: The **revelation** made the _cow's_ _mouth_ drop, "Hamburgers are made of what?!"
 Note:
 <!--ID: 1785962760982-->
@@ -2912,7 +2650,6 @@ Japanese RTK
 Keyword: before
 Clue:
 Kanji: 先
-Reading: セン
 Story: I've never seen a _cow_ with _human legs_ **before** - it's a Minotaur!
 Note:
 <!--ID: 1785962760984-->
@@ -2923,7 +2660,6 @@ Japanese RTK
 Keyword: wash
 Clue:
 Kanji: 洗
-Reading: セン
 Story: House rule: **wash** your hands with _water before_ every meal.
 Note:
 <!--ID: 1785962760985-->
@@ -2934,7 +2670,6 @@ Japanese RTK
 Keyword: jammed in
 Clue:
 Kanji: 介
-Reading: カイ
 Story: Two people **jammed in** under an _umbrella_. One person looks like a J and the other like an I, which stands for "jammed in."
 Note: introduce the non-kanji primitive 𠆢 meaning _umbrella_.
 <!--ID: 1785962760986-->
@@ -2945,7 +2680,6 @@ Japanese RTK
 Keyword: world
 Clue:
 Kanji: 界
-Reading: カイ
 Story: The philosopher's **world** consisted of all the things he could _jam into_ his _brain_.
 Note:
 <!--ID: 1785962760987-->
@@ -2956,7 +2690,6 @@ Japanese RTK
 Keyword: tea
 Clue:
 Kanji: 茶
-Reading: チャ
 Story: The Mad Hatter's **tea** consisted of _flowers_ floating in a pot, an _umbrella_ overhead, propped up by a _wooden pole_.
 Note:
 <!--ID: 1785962760988-->
@@ -2967,7 +2700,6 @@ Japanese RTK
 Keyword: spinal column
 Clue: not SPINE
 Kanji: 脊
-Reading: セキ
 Story: In a bizarre demonstration, the biology teacher opened his ruined _umbrella_ and told us the rods sticking out were ribs and the whole thing was your **spinal column** that holds your _flesh_ together.
 Note: there's no primitive to name the long rods sticking out.
 <!--ID: 1785962760989-->
@@ -2978,7 +2710,6 @@ Japanese RTK
 Keyword: fit
 Clue:
 Kanji: 合
-Reading: ゴウ
 Story: During our _meeting_ of _mouths_, I realized "we _fit_ together perfectly."
 Note: introduces the non-kanji primitive (the 𠆢 and 一 top-half of 合) meaning _meeting_ - a massive gathering of people under _one_ huge _umbrella_.
 <!--ID: 1785962760991-->
@@ -2989,7 +2720,6 @@ Japanese RTK
 Keyword: pagoda
 Clue:
 Kanji: 塔
-Reading: トウ
 Story: In the empress's garden, everything must _fit_ perfectly; dig up the _soil_, plant _flowers_ round the base and build up a **pagoda** floor by floor.
 Note:
 <!--ID: 1785962760992-->
@@ -3000,7 +2730,6 @@ Japanese RTK
 Keyword: king
 Clue:
 Kanji: 王
-Reading: オウ
 Story: Three strokes representing heaven, people and earth, all bound together by the **king**.
 Note: primitive meaning _king_ or _scepter_, but usually _ball_ (an abbreviated form of 玉).
 Stroke order is top, vertical then bottom two strokes.
@@ -3012,7 +2741,6 @@ Japanese RTK
 Keyword: jewel
 Clue:
 Kanji: 玉
-Reading: ギョク
 Story: Rumor says the _king_ only has one family **jewel** below his belt.
 Note: primitive meaning _jewel_ or _ball_, on the left it appears as ⺩ without its final stroke (i.e. that same as 王).
 <!--ID: 1785962760994-->
@@ -3023,7 +2751,6 @@ Japanese RTK
 Keyword: treasure
 Clue: not WEALTH or SAVINGS
 Kanji: 宝
-Reading: ホウ
 Story: Our extraordinary **treasure** is a _house_ entirely filled with _jewels_.
 Note:
 <!--ID: 1785962760995-->
@@ -3034,7 +2761,6 @@ Japanese RTK
 Keyword: pearl
 Clue:
 Kanji: 珠
-Reading: シュ
 Story: She owned the world's rarest **pearl**; a tiny _vermilion ball_.
 Note:
 <!--ID: 1785962760996-->
@@ -3045,7 +2771,6 @@ Japanese RTK
 Keyword: present
 Clue: time rather than gift
 Kanji: 現
-Reading: ゲン
 Story: It was a rather useless crystal _ball_, it only allowed us to _see_ into the **present**.
 Note:
 <!--ID: 1785962760997-->
@@ -3056,7 +2781,6 @@ Japanese RTK
 Keyword: toy
 Clue:
 Kanji: 玩
-Reading: ガン
 Story: The _ball_ probably marks the _beginning_ of man's journey as **toy** maker.
 Note:
 <!--ID: 1785962760998-->
@@ -3067,7 +2791,6 @@ Japanese RTK
 Keyword: lunatic
 Clue:
 Kanji: 狂
-Reading: キョウ
 Story: The **lunatic** settled among a _pack of wild dogs_ and grandly declared himself their _king_.
 Note:
 <!--ID: 1785962760999-->
@@ -3078,7 +2801,6 @@ Japanese RTK
 Keyword: effulgent
 Clue:
 Kanji: 旺
-Reading: オウ
 Story: The radiant, **effulgent** splendor of the _sun_ makes it _king_ of our little solar system.
 Note: effulgent - shining brightly, glowing with intense light, or expressing a dazzling, radiant beauty.
 <!--ID: 1785962761000-->
@@ -3089,7 +2811,6 @@ Japanese RTK
 Keyword: emperor
 Clue:
 Kanji: 皇
-Reading: コウ
 Story: The _white_ bird sat above the **emperor**, that _king_ of _kings_, transporting his messages to the gods.
 Note:
 <!--ID: 1785962761001-->
@@ -3100,7 +2821,6 @@ Japanese RTK
 Keyword: display
 Clue:
 Kanji: 呈
-Reading: テイ
 Story: The _king_ opened his _mouth_ in a grand **display** of his godlike power.
 Note:
 <!--ID: 1785962761002-->
@@ -3111,7 +2831,6 @@ Japanese RTK
 Keyword: whole
 Clue:
 Kanji: 全
-Reading: ゼン
 Story: To keep your **whole** body dry, you'll need a *king*-size _umbrella_.
 Note:
 <!--ID: 1786051484840-->
@@ -3122,7 +2841,6 @@ Japanese RTK
 Keyword: plug
 Clue:
 Kanji: 栓
-Reading: セン
 Story: The _king_ sat under his _umbrella_ offering the poor workmen useless advice, "you'll need the _whole tree_ to plug that gap."
 Note: Heisig feels _whole_ is to abstract and it's better to focus on _tree_, _umbrella_ and _king_.
 <!--ID: 1786051484847-->
@@ -3133,7 +2851,6 @@ Japanese RTK
 Keyword: logic
 Clue:
 Kanji: 理
-Reading: リ
 Story: The _computer_ is the _king_ of **logic**.
 Note: the origin of the _computer_ meaning for ⾥.
 <!--ID: 1786051484849-->
@@ -3144,7 +2861,6 @@ Japanese RTK
 Keyword: lord
 Clue:
 Kanji: 主
-Reading: シュ
 Story: A **lord** has only a _drop_ of the _king's_ power.
 Note: primitive meaning _candlestick_ (the drop is the flame).
 Watch the "slant" of the first stroke, it's different to e.g. 白. Rule of thumb, 丶 when the next stroke is a flat 一 and 丿 when it's a box 口
@@ -3156,7 +2872,6 @@ Japanese RTK
 Keyword: pour
 Clue:
 Kanji: 注
-Reading: チュウ
 Story: Miss Scarlet **poured** _water_ over the _candlestick_ to rinse away her fingerprints on the murder weapon.
 Note:
 <!--ID: 1786051484851-->
@@ -3167,7 +2882,6 @@ Japanese RTK
 Keyword: pillar
 Clue:
 Kanji: 柱
-Reading: チュウ
 Story: The giant _wooden_ **pillar** at the entrance was shaped like a _candlestick_.
 Note:
 <!--ID: 1786051484853-->
@@ -3178,7 +2892,6 @@ Japanese RTK
 Keyword: gold
 Clue:
 Kanji: 金
-Reading: キン
 Story: _King_ Midas hid under the _umbrella_, but holding out his left and right hands, the _drops_ that fell there turned to **gold**.
 Note: primitive meaning _gold_ or any other _metal_.
 The stroke order isn't like 王, it's two horizontals, vertical, drops and final horizontal.
@@ -3190,7 +2903,6 @@ Japanese RTK
 Keyword: pig iron
 Clue:
 Kanji: 銑
-Reading: セン
 Story: _Before_ it was fine _metal_, it was just **pig iron**.
 Note:
 <!--ID: 1786051484855-->
@@ -3201,7 +2913,6 @@ Japanese RTK
 Keyword: bowl
 Clue:
 Kanji: 鉢
-Reading: ハチ
 Story: The enraged alchemist threw all his _books_ into his giant _gold_ **bowl** and mashed them to pulp.
 Note:
 <!--ID: 1786051484856-->
@@ -3212,7 +2923,6 @@ Japanese RTK
 Keyword: copper
 Clue:
 Kanji: 銅
-Reading: ドウ
 Story: _Gold_ may be the finest of conductors, but **copper** can do the _same_ job for pennies.
 Note:
 <!--ID: 1786051484857-->
@@ -3223,7 +2933,6 @@ Japanese RTK
 Keyword: angling
 Clue: not FISHING
 Kanji: 釣
-Reading: チョウ
 Story: My kind of amateur **angling** is scooping *gold*fish from a bowl with a _golden ladle_.
 Note:
 <!--ID: 1786051484858-->
@@ -3234,7 +2943,6 @@ Japanese RTK
 Keyword: needle
 Clue:
 Kanji: 針
-Reading: シン
 Story: It'd have to be a giant _gold_ **needle** before I'd go searching for it in a haystack.
 Note: the origin of the needle meaning for 十
 <!--ID: 1786051484859-->
@@ -3245,7 +2953,6 @@ Japanese RTK
 Keyword: inscription
 Clue:
 Kanji: 銘
-Reading: メイ
 Story: The **inscription** on her beautiful _gold_ bracelet was just her _name_. Not very original!
 Note:
 <!--ID: 1786051484860-->
@@ -3256,7 +2963,6 @@ Japanese RTK
 Keyword: tranquilize
 Clue:
 Kanji: 鎮
-Reading: チン
 Story: One jab of the _metal_ syringe and the _truth_ serum **tranquilized** him — he snored loudly all the way through his own interrogation!
 Note:
 <!--ID: 1786051484861-->
@@ -3267,7 +2973,6 @@ Japanese RTK
 Keyword: road-way
 Clue:
 Kanji: 道
-Reading: ドウ
 Story: We risked our _necks_, letting my father drive us down the **road-way**.
 Note: introduces the non-kanji primitive ⻌ meaning _road_.
 <!--ID: 1786051484862-->
@@ -3278,7 +2983,6 @@ Japanese RTK
 Keyword: guidance
 Clue:
 Kanji: 導
-Reading: ドウ
 Story: The GPS **guidance** kept us glued to the right _road-ways_ all the way through Germany and beyond.
 Note:
 <!--ID: 1786051484863-->
@@ -3289,7 +2993,6 @@ Japanese RTK
 Keyword: crossing
 Clue:
 Kanji: 辻
-Reading: <!-- no reading -->
 Story: There's a _cross_ beside the _road_ **crossing** where the small child died, and the extra _drop_ of blood also reminds us of this terrible accident.
 Note: this isn't a jōyō kanji and hasn't been simplified, notice the two drops in ⻌.
 It's here because it's used in other kanji (where it doesn't have the extra drop).
@@ -3301,7 +3004,6 @@ Japanese RTK
 Keyword: swift
 Clue:
 Kanji: 迅
-Reading: ジン
 Story: Indy warned "be **swift** taking the _crossing_ or the _hook_ will get you!"
 Note: it doesn't look like _fish guts_ / _hook_ but Jisho says 乙 is a part of 迅
 <!--ID: 1786051484865-->
@@ -3312,7 +3014,6 @@ Japanese RTK
 Keyword: create
 Clue:
 Kanji: 造
-Reading: ゾウ
 Story: The _revelation_, that led him to **create** the steam-powered egg whisk, came to him on the _road_.
 Note:
 <!--ID: 1786051484866-->
@@ -3323,7 +3024,6 @@ Japanese RTK
 Keyword: urge
 Clue:
 Kanji: 迫
-Reading: ハク
 Story: He felt an inexplicable **urge** to follow the mysterious _white_ horseman down the _road_ to inevitable destruction.
 Note:
 <!--ID: 1786051484867-->
@@ -3334,7 +3034,6 @@ Japanese RTK
 Keyword: escape
 Clue: not HUNT
 Kanji: 逃
-Reading: トウ
 Story: I saw the _portents_ and **escaped** down the _road_ just before the city was destroyed.
 Note:
 <!--ID: 1786199817323-->
@@ -3345,7 +3044,6 @@ Japanese RTK
 Keyword: environs
 Clue:
 Kanji: 辺
-Reading: ヘン
 Story: The samurai (armed with _swords_, of course) travelled the _roads_ around the village, keeping its **environs** safe.
 Note:
 <!--ID: 1786199817325-->
@@ -3356,7 +3054,6 @@ Japanese RTK
 Keyword: patrol
 Clue:
 Kanji: 巡
-Reading: ジュン
 Story: A _flood_ of motorcycle police **patrolled** the _road_ before Trump's motorcade swept through.
 Note:
 <!--ID: 1786199817326-->
@@ -3367,7 +3064,6 @@ Japanese RTK
 Keyword: car
 Clue:
 Kanji: 車
-Reading: シャ
 Story: [no story - but think frame, axis and wheels]
 Note: primitive meaning _car_, _cart_, _wagon_ or _vehicle_.
 <!--ID: 1786199817327-->
@@ -3378,7 +3074,6 @@ Japanese RTK
 Keyword: take along
 Clue:
 Kanji: 連
-Reading: レン
 Story: I said I was taking my _car_ on a long _road_ trip, and, much to my surprise, she said "take me along!"
 Note:
 <!--ID: 1786199817328-->
@@ -3389,7 +3084,6 @@ Japanese RTK
 Keyword: rut
 Clue:
 Kanji: 軌
-Reading: キ
 Story: When my _car_ got stuck in a **rut**, it took the entire _baseball team_ to get it out.
 Note:
 <!--ID: 1786199817329-->
@@ -3400,7 +3094,6 @@ Japanese RTK
 Keyword: transport
 Clue: not CARRY
 Kanji: 輸
-Reading: ユ
 Story: This _vehicle_ **transports** animals for a terminal _meeting_ with the _butcher_!
 Note: introduces the non-jōyō kanji 刖 with primitive meaning _butcher_ (_flesh_ and _cleaver_).
 <!--ID: 1786199817330-->
@@ -3411,7 +3104,6 @@ Japanese RTK
 Keyword: metaphor
 Clue:
 Kanji: 喩
-Reading: ユ
 Story: It's an old (pre-jōyō) **metaphor** - the _mouth_ is a _meeting_ of _butchers_, carving up whatever enters.
 Note: a late jōyō kanji, the lower right is the non-simplified form of 刖 (the Chinese use 喻).
 <!--ID: 1786199817331-->
@@ -3422,7 +3114,6 @@ Japanese RTK
 Keyword: in front
 Clue:
 Kanji: 前
-Reading: ゼン
 Story: The simple sign **in front** of the _butcher's_ consisted of just a pair of _horns_.
 Note:
 <!--ID: 1786199817332-->
@@ -3433,7 +3124,6 @@ Japanese RTK
 Keyword: roast
 Clue:
 Kanji: 煎
-Reading: セン
 Story: At a Japanese BBQ, the meat is placed _in front_ of you and you have to **roast** it yourself over the _fire_.
 Note: a late jōyō kanji, unlike 喩, it has the simplified 刂 but, like it, has the old ⺼ (the squashed form of 肉) which is indistinguishable from 月 when simplified.
 <!--ID: 1786199817333-->
@@ -3444,7 +3134,6 @@ Japanese RTK
 Keyword: each
 Clue: not EVERY
 Kanji: 各
-Reading: カク
 Story: **Each** of us learns first to use our _legs for walking_ and then our _mouths_ for talking.
 Note: introduces the non-kanji primitive 夂 meaning _walking legs_ (no good story).
 Keep **each** clear in your stories so you don't mix it up with EVERY.
@@ -3456,7 +3145,6 @@ Japanese RTK
 Keyword: status
 Clue:
 Kanji: 格
-Reading: カク
 Story: _Each tree_ in Mildred's garden was a thing to behold; the **status** it gave her in the gardening club was amazing.
 Note:
 <!--ID: 1786199817335-->
@@ -3467,7 +3155,6 @@ Japanese RTK
 Keyword: graft
 Clue: corruption
 Kanji: 賂
-Reading: ロ
 Story:
 Story: Small-town **graft** - _each_ of the councillors had to be bought off with _clams_ before I could build my out-of-town mall.
 Note: 賂 is a late jōyō kanji with the same meaning as 賄; "bribe" is actually written as 賄賂(わいろ), a compound of the two.
@@ -3479,7 +3166,6 @@ Japanese RTK
 Keyword: abbreviation
 Clue:
 Kanji: 略
-Reading: リャク
 Story: _Each field_ has so many **abbreviations** these days, no _brain_ can remember all of them.
 Note:
 <!--ID: 1786199817337-->
@@ -3490,7 +3176,6 @@ Japanese RTK
 Keyword: guest
 Clue:
 Kanji: 客
-Reading: キャク
 Story: The mafia don welcomed _each_ of his **guests** courteously as they entered the house.
 Note:
 <!--ID: 1786199817338-->
@@ -3501,7 +3186,6 @@ Japanese RTK
 Keyword: forehead
 Clue:
 Kanji: 額
-Reading: ガク
 Story: My unfortunate _guest_ forgot to duck his _head_ on entering my tiny apartment and really smacked his **forehead** off the frame.
 Note:
 <!--ID: 1786199817339-->
@@ -3512,7 +3196,6 @@ Japanese RTK
 Keyword: summer
 Clue:
 Kanji: 夏
-Reading: カ
 Story: **Summer** came; the head kicked off its stubby _animal legs_ like a pair of winter boots and went striding off on its bare _walking legs_.
 Note: the 頁 without _animal legs_ doesn't appear in any other jōyō kanji.
 <!--ID: 1786199817340-->
@@ -3523,7 +3206,6 @@ Japanese RTK
 Keyword: dispose
 Clue: not DISCARD
 Kanji: 処
-Reading: ショ
 Story: To **dispose** of rubbish properly, stretch you _walking legs_ and head to the bin, rather than throwing it to the _wind_.
 Note: unlike road-related kanji, the 夂 bit is drawn first.
 <!--ID: 1786199817341-->
@@ -3534,7 +3216,6 @@ Japanese RTK
 Keyword: twig
 Clue:
 Kanji: 条
-Reading: ジョウ
 Story: Geppetto made _walking legs_ for little Pinocchio from the **twigs** of a _tree_.
 Note:
 <!--ID: 1786199817342-->
@@ -3545,7 +3226,6 @@ Japanese RTK
 Keyword: fall
 Clue: the action, not the season
 Kanji: 落
-Reading: ラク
 Story: _Water each flower_ or the petals will wither and **fall**.
 Note:
 <!--ID: 1786199817343-->
@@ -3556,7 +3236,6 @@ Japanese RTK
 Keyword: superfluous
 Clue:
 Kanji: 冗
-Reading: ジョウ
 Story: The king reacted with stoicism as the _wind_ took his midsommer _crown_, "a **superfluous** symbol, I suppose."
 Note: introduces the non-kanji primitive 冖 meaning _crown_ (冠 has the keyword CROWN).
 <!--ID: 1786278065997-->
@@ -3567,7 +3246,6 @@ Japanese RTK
 Keyword: Hades
 Clue:
 Kanji: 冥
-Reading: メイ
 Story: For the _six_ months Persephone must spend in **Hades**, the _sun_ wears a stone _crown_ that blots out much of its light.
 Note:
 <!--ID: 1786278065999-->
@@ -3578,7 +3256,6 @@ Japanese RTK
 Keyword: army
 Clue:
 Kanji: 軍
-Reading: グン
 Story: The _crown_ prince led his **army** in his heavy battle _chariot_.
 Note: primitive meaning _chariot_.
 <!--ID: 1786278066000-->
@@ -3589,7 +3266,6 @@ Japanese RTK
 Keyword: radiance
 Clue:
 Kanji: 輝
-Reading: キ
 Story: The _rays_ from Apollo's _chariot_, as he speeds across the sky, are the **radiance** that lights our days.
 Note:
 <!--ID: 1786278066001-->
@@ -3600,7 +3276,6 @@ Japanese RTK
 Keyword: carry
 Clue: not TRANSPORT
 Kanji: 運
-Reading: ウン
 Story: When on the _road_, the _chariots_ **carry** supplies for the army.
 Note: don't confuse with TAKE ALONG (連).
 <!--ID: 1786278066003-->
@@ -3611,7 +3286,6 @@ Japanese RTK
 Keyword: crown
 Clue:
 Kanji: 冠
-Reading: カン
 Story: From the _beginning_, society has been _glued_ together by the might of the **crown**.
 Note: like 処 (and unlike road-related kanji), the 元 is drawn before the 寸.
 <!--ID: 1786278066004-->
@@ -3622,7 +3296,6 @@ Japanese RTK
 Keyword: dream
 Clue:
 Kanji: 夢
-Reading: ム
 Story: Last night's date was like a **dream**. She even laid _flowers_ on my _eyes_ to _crown_ a perfect _evening_.
 Note:
 <!--ID: 1786278066005-->
@@ -3633,7 +3306,6 @@ Japanese RTK
 Keyword: pit
 Clue:
 Kanji: 坑
-Reading: コウ
 Story: The astonishing **pit** in the _soil_ was dug out by a _whirlwind_.
 Note: introduces the non-kanji primitives 亠 and 亢 (a Chinese-only character) meaning _top hat_ and _whirlwind_ respectively. Clap a _top hat_ on an ordinary _wind_ and it takes airs, becoming a spinning _whirlwind_. We did see 亠 way back on 六.
 <!--ID: 1786278066006-->
@@ -3644,7 +3316,6 @@ Japanese RTK
 Keyword: tall
 Clue:
 Kanji: 高
-Reading: コウ
 Story: A _mouth_ wearing a _top hat_ is **taller** than a _mouth_ wearing a _hood_.
 Note: keeps its meaning as a primitive, but abbreviated to just the _top hat_ and _mouth_ of 高.
 <!--ID: 1786278066007-->
@@ -3655,7 +3326,6 @@ Japanese RTK
 Keyword: receive
 Clue:
 Kanji: 享
-Reading: キョウ
 Story: At basketball practice, it's the _tall children_ that **receive** all the attention.
 Note:
 <!--ID: 1786278066008-->
@@ -3666,7 +3336,6 @@ Japanese RTK
 Keyword: cram school
 Clue:
 Kanji: 塾
-Reading: ジュク
 Story: "You'll all _receive_ a well _rounded_ education on the _grounds_ of our **cram school**," announced the headmaster.
 Note:
 <!--ID: 1786278066009-->
@@ -3677,7 +3346,6 @@ Japanese RTK
 Keyword: mellow
 Clue:
 Kanji: 熟
-Reading: ジュク
 Story: It was a **mellow** evening at the camp, we all _received_ marshmallows, sat _round_ the _campfire_ and roasted them.
 Note:
 <!--ID: 1786278066010-->
@@ -3688,7 +3356,6 @@ Japanese RTK
 Keyword: pavilion
 Clue:
 Kanji: 亭
-Reading: テイ
 Story: The **pavilion** erected on _Crown street_ is the _tallest_ I've ever seen.
 Note:
 <!--ID: 1786278066011-->
@@ -3699,7 +3366,6 @@ Japanese RTK
 Keyword: capital
 Clue:
 Kanji: 京
-Reading: キョウ
 Story: The Japanese **capital** is all _tall_ buildings and _little_ folk scurrying between them.
 Note:
 <!--ID: 1786278066012-->
@@ -3710,7 +3376,6 @@ Japanese RTK
 Keyword: refreshing
 Clue:
 Kanji: 涼
-Reading: リョウ
 Story: Wandering the _capital_ on a boiling hot day, the _water_ was so **refreshing** when I finally came across a fountain.
 Note: in the past, I mistakenly touched the arms of 小 to the central vertical.
 <!--ID: 1786278066013-->
@@ -3721,7 +3386,6 @@ Japanese RTK
 Keyword: scenery
 Clue:
 Kanji: 景
-Reading: ケイ
 Story: The stunning **scenery** was lit up as the _sun_ rose over the old _capital_, Kyoto.
 Note:
 <!--ID: 1786278066014-->
@@ -3732,7 +3396,6 @@ Japanese RTK
 Keyword: whale
 Clue:
 Kanji: 鯨
-Reading: ゲイ
 Story: If _fish_ were cities, the **whale** would surely be the _capital_ (though, confusing _fish_ and **whales** should probably be a _capital_ offence).
 Note:
 <!--ID: 1786278066015-->
@@ -3743,7 +3406,6 @@ Japanese RTK
 Keyword: cottage
 Clue:
 Kanji: 舎
-Reading: シャ
 Story: Raising an _umbrella_ above his _lidded crock_, the tramp derisively called it his **cottage**.
 Note: introduces the non-kanji primitive 𠮷 meaning _lidded crock_, don't confuse with GOOD LUCK (吉). My _lidded crock_, fired from plain _soil_ with a heavy lid over its _mouth_.
 <!--ID: 1786278066016-->
@@ -3754,7 +3416,6 @@ Japanese RTK
 Keyword: circumference
 Clue:
 Kanji: 周
-Reading: シュウ
 Story: The _lidded crock_ had the same **circumference** as the boy's head, so of course he used it as a _helmet_.
 Note: primitive meaning **circumference** or _lap_ (of the **circumference** of a sports field). Though few use it in their Koohii stories for 週, 調 and 彫.
 <!--ID: 1786278066017-->
@@ -3765,7 +3426,6 @@ Japanese RTK
 Keyword: week
 Clue:
 Kanji: 週
-Reading: シュウ
 Story: The gods built an incredible _road_ allowing them to stride the _circumference_ of the earth in just a **week**.
 Note:
 <!--ID: 1786278066018-->
@@ -3776,7 +3436,6 @@ Japanese RTK
 Keyword: gentleman
 Clue:
 Kanji: 士
-Reading: シ
 Story: Broad-shoulders, slender waist, standing up staight, clearly a **gentlemen**. A modern day _samurai_.
 Note: primitive meaning _samurai_ (the character gentleman/scholar/samurai).
 <!--ID: 1786394870349-->
@@ -3787,7 +3446,6 @@ Japanese RTK
 Keyword: good luck
 Clue:
 Kanji: 吉
-Reading: キチ
 Story: There's no greater **good luck** than a blessing from a _samurai's mouth_ on the eve of battle.
 Note: primitive meaning _spray/aerosol can_. Don't confuse 吉 and the non-kanji primitive 𠮷.
 <!--ID: 1786394870351-->
@@ -3798,7 +3456,6 @@ Japanese RTK
 Keyword: robust
 Clue:
 Kanji: 壮
-Reading: ソウ
 Story: _Turtle samurai_ may not be fast, but they're certainly **robust**.
 Note:
 <!--ID: 1786394870352-->
@@ -3809,7 +3466,6 @@ Japanese RTK
 Keyword: villa
 Clue:
 Kanji: 荘
-Reading: ソウ
 Story: The _flowers_ around the **villa** may be charming, but the _robust turtle samurai_ guarding it make clear what kind of people live there.
 Note:
 <!--ID: 1786394870354-->
@@ -3820,7 +3476,6 @@ Japanese RTK
 Keyword: sell
 Clue:
 Kanji: 売
-Reading: バイ
 Story: Fallen on hard times, the _samurai_ had to **sell** his family's ceremonial _crown_. Next, he'll be **selling** his own _(human) legs_!
 Note:
 <!--ID: 1786394870355-->
@@ -3831,7 +3486,6 @@ Japanese RTK
 Keyword: study
 Clue: not LEARNING
 Kanji: 学
-Reading: ガク
 Story: The _child_ is there in the little red _schoolhouse_ for one reason only: to **study**.
 Note: introduces the non-kanji primitive (the 宀 plus two strokes top half of 学) meaning _schoolhouse_ (a _house_ where the three drops are your A-B-Cs or 1-2-3s)
 Don't confuse with CHARACTER (字).
@@ -3843,7 +3497,6 @@ Japanese RTK
 Keyword: memorize
 Clue:
 Kanji: 覚
-Reading: カク
 Story: There's no creativity in the Japanese _schoolhouse_, you have to **memorize** what you _sees_, and that's it!
 Note:
 <!--ID: 1786394870357-->
@@ -3854,7 +3507,6 @@ Japanese RTK
 Keyword: flourish
 Clue:
 Kanji: 栄
-Reading: エイ
 Story: Neville never liked the _schoolhouse_, it was outside growing _trees_ where he really **flourished**.
 Note:
 <!--ID: 1786394870358-->
@@ -3865,7 +3517,6 @@ Japanese RTK
 Keyword: write
 Clue:
 Kanji: 書
-Reading: ショ
 Story: I tried **writing** with a _brush_, but it takes all _day_ to **write** anything.
 Note: introduces the non-kanji primitive ⾀ meaning _brush_ (and the squashed form ⺻ when it appears above another element). The horizontals are in strict order top-to-bottom, then the skewering stroke.
 <!--ID: 1786394870359-->
@@ -3876,7 +3527,6 @@ Japanese RTK
 Keyword: haven
 Clue:
 Kanji: 津
-Reading: シン
 Story: His **haven**, from the stresses of everyday life, was painting _water_ colors with his _brush_.
 Note:
 <!--ID: 1786394870360-->
@@ -3887,7 +3537,6 @@ Japanese RTK
 Keyword: breed
 Clue:
 Kanji: 牧
-Reading: ボク
 Story: The cruel farm _taskmaster_ forced the _cow_ to **breed** with the bull even though she clearly didn't want to!
 Note: introduces the non-kanji primitive 攵 meaning _taskmaster_ (it's the squashed form of the non-jōyō kanji 攴, a hand holding a stick).
 Don't confuse with 夂.
@@ -3899,7 +3548,6 @@ Japanese RTK
 Keyword: aggression
 Clue:
 Kanji: 攻
-Reading: コウ
 Story: The _taskmaster's craft_ is the controlled application _aggression_.
 Note:
 <!--ID: 1786394870362-->
@@ -3910,7 +3558,6 @@ Japanese RTK
 Keyword: failure
 Clue:
 Kanji: 敗
-Reading: ハイ
 Story: I was a **failure**, I didn't make enough _clams_ and the _taskmaster_ beat me.
 Note:
 <!--ID: 1786394870363-->
@@ -3921,7 +3568,6 @@ Japanese RTK
 Keyword: a sheet of
 Clue:
 Kanji: 枚
-Reading: マイ
 Story: He was an odd _taskmaster_, he noted how many **sheets of** toilet paper we'd used while at work and told us how many _trees_ we'd killed.
 Note:
 <!--ID: 1786394870364-->
@@ -3932,7 +3578,6 @@ Japanese RTK
 Keyword: happenstance
 Clue:
 Kanji: 故
-Reading: コ
 Story: I ran into my _old taskmaster_ by pure **happenstance** (that's exactly the kind of daft word he'd use rather than by chance, coincidence or accident).
 Note:
 <!--ID: 1786394870365-->
@@ -3943,7 +3588,6 @@ Japanese RTK
 Keyword: awe
 Clue:
 Kanji: 敬
-Reading: ケイ
 Story: The Japanese taskmaster demanded he be treated with **awe** and addressed with _flowery phrases_.
 Note: 敬語(けいご) is the system of Japanese honorific speech (three categories, of which ~ます is only the beginning).
 <!--ID: 1786394870366-->
@@ -3954,7 +3598,6 @@ Japanese RTK
 Keyword: say
 Clue: not WORD
 Kanji: 言
-Reading: ゲン
 Story: [no story - think four words and a mouth]
 Note: primitive meaning _saying_, _speech_ or _words_.
 I've been incorrectly drawing the top of 言 as a 亠.
@@ -3967,7 +3610,6 @@ Japanese RTK
 Keyword: admonish
 Clue:
 Kanji: 警
-Reading: ケイ
 Story: We watched in _awe_ as Fiona **admonished** the rude waiter with _words_ that completely took him apart.
 Note:
 <!--ID: 1786394870368-->
@@ -3978,7 +3620,6 @@ Japanese RTK
 Keyword: plot
 Clue: not PLAN
 Kanji: 計
-Reading: ケイ
 Story: It took the _words_ of just _ten_ men to **plot** the destruction of Caesar.
 Note:
 <!--ID: 1786394870369-->
@@ -3989,7 +3630,6 @@ Japanese RTK
 Keyword: elucidate
 Clue:
 Kanji: 詮
-Reading: セン
 Story: No summary, please. Elucidate! Tell me the _whole_ story in your own _words_.
 Note:
 <!--ID: 1786394870370-->
@@ -4000,7 +3640,6 @@ Japanese RTK
 Keyword: prison
 Clue:
 Kanji: 獄
-Reading: ゴク
 Story: A _pack of wild dogs_ roam the **prison**, and every word you say gets reported to the warden by the little _chihuahua_ snitch.
 Note:
 <!--ID: 1786481136078-->
@@ -4011,7 +3650,6 @@ Japanese RTK
 Keyword: revise
 Clue:
 Kanji: 訂
-Reading: テイ
 Story: **Revise, revise and revise** until every last _word_ is _nailed_ down.
 Note: I find _nail_ and _needle_ a bit too close, but to be clear 丁 is nail and 十 is needle.
 <!--ID: 1786481136080-->
@@ -4022,7 +3660,6 @@ Japanese RTK
 Keyword: obituary
 Clue:
 Kanji: 訃
-Reading: フ
 Story: The press we're readying the _words_ for the PM's **obituary**, until a magician appeared, waved his _wand_ and rescued his political career from the grave.
 Note:
 <!--ID: 1786481136081-->
@@ -4033,7 +3670,6 @@ Japanese RTK
 Keyword: chastise
 Clue:
 Kanji: 討
-Reading: トウ
 Story: **Chastise** someone correctly and the _words_ will stick like _glue_.
 Note:
 <!--ID: 1786481136082-->
@@ -4044,7 +3680,6 @@ Japanese RTK
 Keyword: instruction
 Clue: not TEACH
 Kanji: 訓
-Reading: クン
 Story:  His approach to **instruction** amounted to a gentle _stream_ of _words_ that just lulled me sleep.
 Note:
 <!--ID: 1786481136083-->
@@ -4055,7 +3690,6 @@ Japanese RTK
 Keyword: imperial edict
 Clue:
 Kanji: 詔
-Reading: ショウ
 Story: The emperor's _words_ may _seduce_, but an **imperial edict** is no request; declining is not an option.
 Note:
 <!--ID: 1786481136084-->
@@ -4066,7 +3700,6 @@ Japanese RTK
 Keyword: packed
 Clue:
 Kanji: 詰
-Reading: キツ
 Story: A _spray can_ is **packed** full of _words_ waiting to get out and cover the neighborhood in graffiti.
 Note:
 <!--ID: 1786481136085-->
@@ -4077,7 +3710,6 @@ Japanese RTK
 Keyword: tale
 Clue:
 Kanji: 話
-Reading: ワ
 Story: _Words_ tripped off his _tongue_ as he told us his ridiculous **tale** of how he saved London from Martians.
 Note:
 <!--ID: 1786481136086-->
@@ -4088,7 +3720,6 @@ Japanese RTK
 Keyword: recitation
 Clue: not POEM
 Kanji: 詠
-Reading: エイ
 Story: The priest's **recitation** should have been moving, but the _words_ seemed to go on for _eternity_.
 Note:
 <!--ID: 1786481136087-->
@@ -4099,7 +3730,6 @@ Japanese RTK
 Keyword: poem
 Clue:
 Kanji: 詩
-Reading: シ
 Story: The only _words_ permitted in the _Buddhist temple_ where those expressed as a beautiful **poem**. It made saying anything rather difficult.
 Note:
 <!--ID: 1786481136088-->
@@ -4110,7 +3740,6 @@ Japanese RTK
 Keyword: word
 Clue: not SAY
 Kanji: 語
-Reading: ゴ
 Story: When _I_ shout the **word** _go_, we all run for it!
 Note: we've used SAY (言) to mean _word_ many times, but don't get 言 and 語 mixed up.
 <!--ID: 1786481136089-->
@@ -4121,7 +3750,6 @@ Japanese RTK
 Keyword: read
 Clue:
 Kanji: 読
-Reading: ドク
 Story: He's a freelance journalist, the _words_ he _sells_ are the _words_ we **read**.
 Note:
 <!--ID: 1786481136090-->
@@ -4132,7 +3760,6 @@ Japanese RTK
 Keyword: tune
 Clue:
 Kanji: 調
-Reading: チョウ
 Story: The _words_ of that annoying **tune** keep running the _circumference_ of my head.
 Note:
 <!--ID: 1786481136091-->
@@ -4143,7 +3770,6 @@ Japanese RTK
 Keyword: discuss
 Clue:
 Kanji: 談
-Reading: ダン
 Story: On the web, you can try to **discuss** reasonably, but it always ends in _inflammatory words_.
 Note:
 <!--ID: 1786481136092-->
@@ -4154,7 +3780,6 @@ Japanese RTK
 Keyword: consent
 Clue:
 Kanji: 諾
-Reading: ダク
 Story: Zoe might say "yes, please!" but her _words_ don't matter a damn; she's way too _young_ to give legal **consent**.
 Note:
 <!--ID: 1786481136093-->
@@ -4165,7 +3790,6 @@ Japanese RTK
 Keyword: rebuke
 Clue:
 Kanji: 諭
-Reading: ユ
 Story: The _meeting of butchers_ was disrupted by activists, wild _words_ **rebuking** them for their cruelty to animals.
 Note:
 <!--ID: 1786481136094-->
@@ -4176,7 +3800,6 @@ Japanese RTK
 Keyword: style
 Clue:
 Kanji: 式
-Reading: シキ
 Story: Every great Indian tribe _crafts_ their _arrows_ in their own unique **style**.
 Note: introduces the non-kanji primitive 弋 meaning _arrow_.
 First stroke of 弋 then contained item, then the rest of 弋.
@@ -4188,7 +3811,6 @@ Japanese RTK
 Keyword: test
 Clue:
 Kanji: 試
-Reading: シ
 Story: In an essay **test**, you are judged on both your choice of _words_ and your writing _style_.
 Note:
 <!--ID: 1786481136096-->
@@ -4199,7 +3821,6 @@ Japanese RTK
 Keyword: II
 Clue: roman numeral
 Kanji: 弐
-Reading: ニ
 Story: If there's just _two_ arrows left in your _quiver_, it's probably time to run.
 Note: drop the last two strokes of 弐 to get the non-kanji primitive meaning _quiver_ (弋 plus an initial 一).
 <!--ID: 1786481136097-->
@@ -4210,7 +3831,6 @@ Japanese RTK
 Keyword: range
 Clue:
 Kanji: 域
-Reading: イキ
 Story: Back on his home **range** and happy to feel familiar _soil_ beneath his boots, the cowboy strolled to his lodgings and _kissed_ the _floor_ before heading to the local _fiesta_.
 Note: introduces the non-jōyō kanji 戈 meaning _fiesta_ (an _arrow_ with a festive tassle); used as a container (first stroke of 戈, then item, then rest of 戈).
 <!--ID: 1786481136098-->
@@ -4221,7 +3841,6 @@ Japanese RTK
 Keyword: burglar
 Clue:
 Kanji: 賊
-Reading: ゾク
 Story: During the _fiesta_, a **burglar** stole our _clams_; he used a _needle_ to pick our useless lock.
 Note:
 <!--ID: 1786649668643-->
@@ -4232,7 +3851,6 @@ Japanese RTK
 Keyword: plantation
 Clue:
 Kanji: 栽
-Reading: サイ
 Story: The _harvest feast_ was laid out under the oldest _tree_ on the **plantation** — one day of rest, then back slaving in the fields.
 Note: introduces the non-kanji primitive 𢦏 meaning _harvest feast_ (from _soil fiesta_).
 <!--ID: 1786649668646-->
@@ -4243,7 +3861,6 @@ Japanese RTK
 Keyword: load
 Clue:
 Kanji: 載
-Reading: サイ
 Story: The farmer's rule was no _harvest feast_ until every last _cart_ is **loaded**!
 Note:
 <!--ID: 1786649668647-->
@@ -4254,7 +3871,6 @@ Japanese RTK
 Keyword: overgrown
 Clue:
 Kanji: 茂
-Reading: モ
 Story: His garden was so **overgrown**, it had become a _parade of_ weeds (outcast _flowers_).
 Note: introduces the non-jōyō kanji 戊 meaning _parade_ (the _fiesta_ started in the plaza, then they lined up (丨) for the _parade_ of roses).
 Extra vertical first, then same container rule as 戈, i.e. its first stroke, then item, then rest.
@@ -4266,7 +3882,6 @@ Japanese RTK
 Keyword: relatives
 Clue:
 Kanji: 戚
-Reading: ソク
 Story: When my **relatives** came, we went to see the _parade_, holding the _little_ ones up so they could see _above_ the crowd.
 Note:
 <!--ID: 1786649668649-->
@@ -4277,7 +3892,6 @@ Japanese RTK
 Keyword: turn into
 Clue:
 Kanji: 成
-Reading: セイ
 Story: A narco pulled a dagger and within minutes the parade had **turned into** a bloodbath.
 Note:
 <!--ID: 1786649668650-->
@@ -4288,7 +3902,6 @@ Japanese RTK
 Keyword: castle
 Clue:
 Kanji: 城
-Reading: ジョウ
 Story: Over the course of the day, the loose soil in our backyard was _turned into_ a **castle** by the neighborhood kids.
 Note:
 <!--ID: 1786649668651-->
@@ -4299,7 +3912,6 @@ Japanese RTK
 Keyword: sincerity
 Clue:
 Kanji: 誠
-Reading: セイ
 Story: She said "**sincerity** means those _words_ must be _turned into_ actions!"
 Note:
 <!--ID: 1786649668652-->
@@ -4310,7 +3922,6 @@ Japanese RTK
 Keyword: intimidate
 Clue:
 Kanji: 威
-Reading: イ
 Story: The _women's march_, against **intimidation** in the workplace, was pretty **intimidating** when I got stuck in the middle of it!
 Note:  introduces the non-jōyō kanji 戌 meaning _march_ (the joyous parade becomes a march with a singlemind and unity, symbolised by the extra 一).
 <!--ID: 1786649668653-->
@@ -4321,7 +3932,6 @@ Japanese RTK
 Keyword: destroy
 Clue:
 Kanji: 滅
-Reading: メツ
 Story: The enemy army **destroyed** everything as it _marched_ through the country; _water_ burst from the ruined dykes, _flames_ rose from the burning cities.
 Note:
 <!--ID: 1786649668654-->
@@ -4332,7 +3942,6 @@ Japanese RTK
 Keyword: dwindle
 Clue:
 Kanji: 減
-Reading: ゲン
 Story: They called themselves the _march_ of _mouths_, but their numbers soon **dwindled** as the dictator's riot police turned the _water_ cannon on them.
 Note:
 <!--ID: 1786649668655-->
@@ -4343,7 +3952,6 @@ Japanese RTK
 Keyword: revile
 Clue:
 Kanji: 蔑
-Reading: ベツ
 Story: They'd been told they were liberators, but not a _flower_ was thrown, just _eyes_ peaking from windows; **reviled** by everyone as they _marched_ by.
 Note:
 <!--ID: 1786649668656-->
@@ -4354,7 +3962,6 @@ Japanese RTK
 Keyword: scaffold
 Clue:
 Kanji: 桟
-Reading: サン
 Story: During construction, the huge Matsuri _floats_ of Japanese festivals are covered in _wood_ **scaffolding**.
 Note: introduces the non-kanji primitive 㦮 meaning _float_ (the two extra strokes are the platform of the _float_ at the _fiesta_).
 <!--ID: 1786649668657-->
@@ -4365,7 +3972,6 @@ Japanese RTK
 Keyword: coin
 Clue:
 Kanji: 銭
-Reading: セン
 Story: At Mardi Gras, bucket loads of *gold*-colored **coins** are tossed from the _floats_ as they go by.
 Note:
 <!--ID: 1786649668658-->
@@ -4376,7 +3982,6 @@ Japanese RTK
 Keyword: shallow
 Clue: not FORD
 Kanji: 浅
-Reading: セン
 Story: As they went from town to town, the _floats_ had to find a **shallow** place to cross the _water_ as the bridges had been washed away.
 Note:
 <!--ID: 1786649668659-->
@@ -4387,7 +3992,6 @@ Japanese RTK
 Keyword: stop
 Clue:
 Kanji: 止
-Reading: シ
 Story: Gandalf raised his _walking stick_ high _above_ his head — "You shall not pass!"; the Balrog **stopped** for a moment.
 Note: primitive meaning _stop_ or _footprint_.
 Floor is the last stroke.
@@ -4399,7 +4003,6 @@ Japanese RTK
 Keyword: walk
 Clue:
 Kanji: 歩
-Reading: ホ
 Story: When you go **walking**, it pays to _stop_ a _few_ times and smell the roses.
 Note:
 <!--ID: 1786649668661-->
@@ -4410,7 +4013,6 @@ Japanese RTK
 Keyword: ford
 Clue: not SHALLOW
 Kanji: 渉
-Reading: ショウ
 Story: It took a long time to reach the **ford** where they could finally _walk_ across the _water_.
 Note:
 <!--ID: 1786649668662-->
@@ -4421,7 +4023,6 @@ Japanese RTK
 Keyword: repeatedly
 Clue:
 Kanji: 頻
-Reading: ヒン
 Story: I had to clear my _head_, I _walked_ around the block **repeatedly**.
 Note:
 <!--ID: 1786649668663-->
@@ -4432,7 +4033,6 @@ Japanese RTK
 Keyword: agreement
 Clue:
 Kanji: 肯
-Reading: コウ
 Story: The peace **agreement** _stopped_ the fighting for a _month_.
 Note:
 <!--ID: 1786649668664-->
@@ -4443,7 +4043,6 @@ Japanese RTK
 Keyword: undertake
 Clue:
 Kanji: 企
-Reading: キ
 Story: "The next project I **undertake** will be to _stop_ the peddlers who flog _umbrellas_ and other junk on the streets!" said the police commissioner.
 Note:
 <!--ID: 1786745316973-->
@@ -4454,7 +4053,6 @@ Japanese RTK
 Keyword: curriculum
 Clue:
 Kanji: 歴
-Reading: レキ
 Story: A **curriculum** is a _calendar_ where they replace the _days_ with reasons to _stop_ having fun.
 Note: Cf. 暦 with _days_ and 歴 with _stop_.
 <!--ID: 1786745316976-->
@@ -4465,7 +4063,6 @@ Japanese RTK
 Keyword: warrior
 Clue:
 Kanji: 武
-Reading: ブ
 Story: Boromir died a _warrior_, it took a _quiver_ full of arrows to _stop_ him.
 Note:
 <!--ID: 1786745316977-->
@@ -4476,7 +4073,6 @@ Japanese RTK
 Keyword: levy
 Clue:
 Kanji: 賦
-Reading: フ
 Story: The _warriors_ took our _clams_ at sword point and called it a voluntary **levy**.
 Note:
 <!--ID: 1786745316978-->
@@ -4487,7 +4083,6 @@ Japanese RTK
 Keyword: correct
 Clue:
 Kanji: 正
-Reading: セイ
 Story: If you're **correct** on the _first_ try, you can just _stop_.
 Note:
 <!--ID: 1786745316979-->
@@ -4498,7 +4093,6 @@ Japanese RTK
 Keyword: evidence
 Clue:
 Kanji: 証
-Reading: ショウ
 Story: Despite being amazingly unlikely, the **evidence** proved his _words correct_.
 Note:
 <!--ID: 1786745316980-->
@@ -4509,7 +4103,6 @@ Japanese RTK
 Keyword: politics
 Clue:
 Kanji: 政
-Reading: セイ
 Story: Modern **politics** is insane political _correctness_ at one end and fascist _taskmasters_ at the other.
 Note:
 <!--ID: 1786745316981-->
@@ -4520,7 +4113,6 @@ Japanese RTK
 Keyword: determine
 Clue:
 Kanji: 定
-Reading: テイ
 Story: The rental company came to my _house_ to **determine** everything that needed _mending_.
 Note: introduces the non-jōyō kanji primitive (the non-roof bit of 定) meaning _mending_ (the last two strokes suggest movement, so _correct_ (正) becomes active _mending_). Stroke order is the same.
 <!--ID: 1786745316982-->
@@ -4531,7 +4123,6 @@ Japanese RTK
 Keyword: lock
 Clue:
 Kanji: 錠
-Reading: ジョウ
 Story: Even if you **lock** up your _gold_, a _determined_ thief can still get at it.
 Note:
 <!--ID: 1786745316983-->
@@ -4542,7 +4133,6 @@ Japanese RTK
 Keyword: run
 Clue:
 Kanji: 走
-Reading: ソウ
 Story: After the footballers have **run** about on it for 90 minutes, the _ground_ is ruined and the ground staff have to _mend_ it.
 Note:
 <!--ID: 1786745316984-->
@@ -4553,7 +4143,6 @@ Japanese RTK
 Keyword: transcend
 Clue:
 Kanji: 超
-Reading: チョウ
 Story: To **transcend** temptation you must out-*run* it; stand still and it will _seduce_ you.
 Note: **transcend** means to rise above.
 Stroke order is 走 before "contained" item. Stretching isn't containing.
@@ -4565,7 +4154,6 @@ Japanese RTK
 Keyword: proceed
 Clue:
 Kanji: 赴
-Reading: フ
 Story: Talking to Harry, Dumbledore warned "Don't _run_ into danger. **Proceed** with caution with your _wand_ out."
 Note:
 <!--ID: 1786745316986-->
@@ -4576,7 +4164,6 @@ Japanese RTK
 Keyword: surpass
 Clue:
 Kanji: 越
-Reading: エツ
 Story: The clown we got to _run_ the _parade_ **surpassed** all our expectations (even adding an extra hook).
 Note: this is the only jōyō kanji where the first stroke of 戊 mutates from 丨 to a hook-like レ.
 <!--ID: 1786745316987-->
@@ -4587,7 +4174,6 @@ Japanese RTK
 Keyword: just so
 Clue:
 Kanji: 是
-Reading: ゼ
 Story: I spend all _day mending_ kanji stories to get them **just so**, as near perfect as possible.
 Note:
 <!--ID: 1786745316988-->
@@ -4598,7 +4184,6 @@ Japanese RTK
 Keyword: topic
 Clue:
 Kanji: 題
-Reading: ダイ
 Story: The exam **topic** sat there, _just so_ at the _head_ of the _page_ - one short line, three hours of misery.
 Note:
 <!--ID: 1786745316989-->
@@ -4609,7 +4194,6 @@ Japanese RTK
 Keyword: dyke
 Clue:
 Kanji: 堤
-Reading: テイ
 Story: Making a **dyke** isn't easy, the _soil_ must be arranged _just so_.
 Note:
 <!--ID: 1786745316990-->
@@ -4620,7 +4204,6 @@ Japanese RTK
 Keyword: build
 Clue:
 Kanji: 建
-Reading: ケン
 Story: The artist liked one _brush_ stroke so much, he had it _stretched_ out and **built** forty stories high.
 Note: introduces the non-kanji primitive 廴 meaning _stretch_. It looks similar-ish to ⻌ but it's second stroke intersect the first.
 Stroke order - contained item first.
@@ -4632,7 +4215,6 @@ Japanese RTK
 Keyword: key
 Clue:
 Kanji: 鍵
-Reading: ケン
 Story: In Zelda, Link finds a _gold_ skeleton **key** that lets him into any _building_.
 Note:
 <!--ID: 1786745316992-->
@@ -4643,7 +4225,6 @@ Japanese RTK
 Keyword: prolong
 Clue:
 Kanji: 延
-Reading: エン
 Story: If the victim didn't answer _correctly_, the inquisitor **prolonged** the torture, _stretching_ him still further on the rack.
 Note: first stroke of 正 is slanted and reveresed (top-right to bottom-left) like ノ.
 <!--ID: 1786745316993-->
@@ -4654,7 +4235,6 @@ Japanese RTK
 Keyword: nativity
 Clue:
 Kanji: 誕
-Reading: タン
 Story: The **nativity** play - a _prolonged_ misery for many parents, one fumbled _word_ after another.
 Note: nativity means the process of being born (especially Jesus).
 <!--ID: 1786745316994-->
