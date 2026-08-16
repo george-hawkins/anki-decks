@@ -843,7 +843,7 @@ Japanese RTK
 Keyword: bribe
 Clue:
 Kanji: 賄
-Story: If you _possess_ enough _shellfish/money_, you can **bribe** anyone.
+Story: If you _possess_ enough _clams_, you can **bribe** anyone.
 Note:
 <!--ID: 1785070789838-->
 END
@@ -4441,4 +4441,208 @@ Kanji: 市
 Story: In my nightmare, I was strolling through the market wearing nothing but a top hat and towel.
 Note:
 <!--ID: 1786823467553-->
+END
+
+START
+Japanese RTK
+Keyword: persimmon
+Clue:
+Kanji: 柿
+Story: Nobody buys **persimmons** at the _market_ as there are _trees_ there where you can pick them for free.
+Note: A persimmon looks like a firm orange tomato, tastes like a sweet apple with a hint of cinnamon and is eaten whole and crunchy like an apple.
+<!--ID: 1786893695741-->
+END
+
+START
+Japanese RTK
+Keyword: elder sister
+Clue:
+Kanji: 姉
+Story: Each _woman_ has a tasks, his **elder sister** has to go to the _market_ everyday.
+Note:
+<!--ID: 1786893695744-->
+END
+
+START
+Japanese RTK
+Keyword: lungs
+Clue:
+Kanji: 肺
+Story: Of all the _flesh_ hung out up the _market_, the **lungs** looked the most revolting.
+Note:
+<!--ID: 1786893695745-->
+END
+
+START
+Japanese RTK
+Keyword: sash
+Clue:
+Kanji: 帯
+Story: The chefs _apron_ had a **sash** and adjustable _buckle_.
+Note: introduces the non-jōyō kanji primitive 丗 meaning buckle and the non-kanji primitive _apron_ (the _crown_ and _towel_ of 帯).
+The _buckle_ stroke order is 一, then three 丨, then closing stroke.
+<!--ID: 1786893695746-->
+END
+
+START
+Japanese RTK
+Keyword: stagnate
+Clue:
+Kanji: 滞
+Story: The _water_ in the bath started to **stagnate** after her _sash_ got stuck in the drain.
+Note:
+<!--ID: 1786893695748-->
+END
+
+START
+Japanese RTK
+Keyword: thorn
+Clue:
+Kanji: 刺
+Story: There's a belt wrapped around the tree; if you pull it tight thousands of **thorns** pop out like tiny _sabers_.
+Note: introduces the squashed and always skewered form of 冂 (found in 巾) meaning _belt_.
+<!--ID: 1786893695749-->
+END
+
+START
+Japanese RTK
+Keyword: system
+Clue:
+Kanji: 制
+Story: The **system** for making leather _belts_ is simple: slice a _cow_ into strips with a _saber_.
+Note: it's a _belt_ rather than a _towel_ as the _belt_ is skewered by the same vertical as the cow.
+Unlike 牜, the skewering stroke finishes the first element.
+<!--ID: 1786893695751-->
+END
+
+START
+Japanese RTK
+Keyword: made in...
+Clue:
+Kanji: 製
+Story: The modern trading _system_ means most _garments_ are **made in** China or Bangladesh.
+Note:
+<!--ID: 1786893695752-->
+END
+
+START
+Japanese RTK
+Keyword: revolve
+Clue:
+Kanji: 転
+Story: He got into his _car_, and as the wheels started to **revolve**, they kicked up a _rising cloud_ of debris on the dusty trail.
+Note: introduce the non-jōyō kanji 云 meaning _rising cloud_.
+<!--ID: 1786893695753-->
+END
+
+START
+Japanese RTK
+Keyword: technique
+Clue:
+Kanji: 芸
+Story: Jimmy had finally mastered the magical **technique**, the _flowers_ just disappeared with a bang and a _rising cloud_ of smoke.
+Note:
+<!--ID: 1786893695754-->
+END
+
+START
+Japanese RTK
+Keyword: rain
+Clue:
+Kanji: 雨
+Story: [no story - think 一, towel and rain drops - a towel on the line when it rains]
+Note: primitive meaning _rain_ or _weather_; squashed form is ⻗
+<!--ID: 1786893695755-->
+END
+
+START
+Japanese RTK
+Keyword: cloud
+Clue: not CLOUDY WEATHER
+Kanji: 雲
+Story: When _rising clouds_ meet cold air, they become thick grey _rain_ **clouds**.
+Note:
+<!--ID: 1786893695756-->
+END
+
+START
+Japanese RTK
+Keyword: cloudy weather
+Clue: not CLOUD
+Kanji: 曇
+Story: The _sun_ hidden by the _clouds_ beneath - the definition of **cloudy weather**.
+Note:
+<!--ID: 1786893695757-->
+END
+
+START
+Japanese RTK
+Keyword: thunder
+Clue:
+Kanji: 雷
+Story: Walking in the middle of endless _fields_, I just had to bear it as the _rain_ started pouring and the **thunder** rattled my _brains_.
+Note:
+<!--ID: 1786893695758-->
+END
+
+START
+Japanese RTK
+Keyword: frost
+Clue:
+Kanji: 霜
+Story: The *inter*action between cold and _rain_ settles as **frost**.
+Note: remember the *inter*faith summit of 相
+<!--ID: 1786893695759-->
+END
+
+START
+Japanese RTK
+Keyword: winter
+Clue:
+Kanji: 冬
+Story: When **winter** comes, my _walking legs_ take me skating over the _ice_ at the Dolder Eisbahn.
+Note: introduces the non-kanji primitive 冫 meaning _ice_ (two forms: 冫 when left, ⺀ when below).
+<!--ID: 1786893695760-->
+END
+
+START
+Japanese RTK
+Keyword: heavens
+Clue:
+Kanji: 天
+Story: [no story - think ceiling above St. Bernard].
+Note: primitive meaning _heaven_ as in both the skies and the after life.
+Or _witch_ when drawn as 夭 (first stroke reversed as in ノ)
+夭 isn't acutally 天, it's a separate non-jōyō kanji.
+<!--ID: 1786893695761-->
+END
+
+START
+Japanese RTK
+Keyword: bewitched
+Clue:
+Kanji: 妖
+Story: I discovered too late that the beautiful _woman_ was a _witch_, I was already **bewitched**.
+Note:
+<!--ID: 1786893695762-->
+END
+
+START
+Japanese RTK
+Keyword: irrigate
+Clue:
+Kanji: 沃
+Story: The village's cruel ritual involved drowning a _witch_ in _water_ and using it to **irrigate** their crops, in the belief it would please the gods.
+Note:
+<!--ID: 1786893695763-->
+END
+
+START
+Japanese RTK
+Keyword: bridge
+Clue:
+Kanji: 橋
+Story: The _wooden_ **bridge** to the secret world was guarded by an incredibly tall _angel_.
+Note: introduces the non-jōyō kanji primitive 喬 meaning _angel_ (高 with 夭 replacing 亠), think _tall witch_.
+<!--ID: 1786893695764-->
 END
