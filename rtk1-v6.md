@@ -4646,3 +4646,206 @@ Story: The _wooden_ **bridge** to the secret world was guarded by an incredibly 
 Note: introduces the non-jōyō kanji primitive 喬 meaning _angel_ (高 with 夭 replacing 亠), think _tall witch_.
 <!--ID: 1786893695764-->
 END
+
+START
+Japanese RTK
+Keyword: attractive
+Clue: not EXQUISITE
+Kanji: 嬌
+Story: The _woman_ was so **attractive** I mistook her for an _angel_.
+Note:
+<!--ID: 1787001529030-->
+END
+
+START
+Japanese RTK
+Keyword: stand up
+Clue: 
+Kanji: 立
+Story: A _vase_ that can't **stand up** won't be a _vase_ for long.
+Note: primitive meaning _stand_ or _stand up_ (in an unusual way) or _vase_.
+It's a _top hat_ and *horns*(ish) but no elements story is needed.
+<!--ID: 1787001529034-->
+END
+
+START
+Japanese RTK
+Keyword: cry
+Clue:
+Kanji: 泣
+Story: I was **crying** so much I couldn't _stand up_ and the _water_ pooled around my feet.
+Note:
+<!--ID: 1787001529035-->
+END
+
+START
+Japanese RTK
+Keyword: badge
+Clue:
+Kanji: 章
+Story: The gardening club's **badge** was a _vase_ with _sun flowers_. Not very original.
+Note:
+<!--ID: 1787001529036-->
+END
+
+START
+Japanese RTK
+Keyword: vie
+Clue:
+Kanji: 競
+Story: The pretty girl just dropped _vases_ on the two idiot _teenagers_ who **vied** for her attention.
+Note:
+<!--ID: 1787001529037-->
+END
+
+START
+Japanese RTK
+Keyword: sovereign
+Clue:
+Kanji: 帝
+Story: Victoria was the **sovereign**; Albert had to _stand up_, _apron_ on, and do the dishes if she desired.
+Note: watch out - the _vase_ merges with the _apron_.
+<!--ID: 1787001529038-->
+END
+
+START
+Japanese RTK
+Keyword: renunciation
+Clue:
+Kanji: 諦
+Story: The _sovereign_ took just a few _words_ to announce his **renunciation** of the throne he'd fought so hard for.
+Note:
+<!--ID: 1787001529039-->
+END
+
+START
+Japanese RTK
+Keyword: juvenile
+Clue:
+Kanji: 童
+Story: Good luck getting a **juvenile** to _stand up_ and walk away from his _computer_.
+Note:
+<!--ID: 1787001529040-->
+END
+
+START
+Japanese RTK
+Keyword: pupil
+Clue: not a young student; iris and pupil
+Kanji: 瞳
+Story: The _juvenile_ offender, they brought in, was clearly on drugs, his _eyes_ bloodshot and _pupils_ like saucers.
+Note:
+<!--ID: 1787001529041-->
+END
+
+START
+Japanese RTK
+Keyword: bell
+Clue:
+Kanji: 鐘
+Story: At the _juvenile_ offenders center, they ring a large _metal_ **bell** to wake everyone from their slumber.
+Note:
+<!--ID: 1787001529042-->
+END
+
+START
+Japanese RTK
+Keyword: make a deal
+Clue:
+Kanji: 商
+Story: _Hood_ down and persuasive _mouth_, his _(human) legs_ blocked my way, of course I **made a deal** to buy his clearly stolen _vase_.
+Note:
+<!--ID: 1787001529043-->
+END
+
+START
+Japanese RTK
+Keyword: legitimate wife
+Clue: not WIFE
+Kanji: 嫡
+Story: Your **legitimate wife** is the _woman_ who gets your _antiques_ when you die.
+Note: introduces the non-jōyō kanji 啇 meaning _antique_ (_old vase_ under a glass _hood_).
+WIFE (妻) comes much later. The legitimate or principal wife has inheritance rights.
+<!--ID: 1787001529044-->
+END
+
+START
+Japanese RTK
+Keyword: suitable
+Clue:
+Kanji: 適
+Story: What's a **suitable** show for the whole family? The *Antiques Road*show!
+Note:
+<!--ID: 1787001529045-->
+END
+
+START
+Japanese RTK
+Keyword: drip
+Clue:
+Kanji: 滴
+Story: _Water_ **drips** continuously from the cracks in the _antique_ vase.
+Note:
+<!--ID: 1787001529046-->
+END
+
+START
+Japanese RTK
+Keyword: enemy
+Clue:
+Kanji: 敵
+Story: My former _taskmaster_ became my mortal **enemy** when he smashed the _antique_ urn containing my grandmother's ashes.
+Note:
+<!--ID: 1787001529047-->
+END
+
+START
+Japanese RTK
+Keyword: spoon
+Clue:
+Kanji: 匕
+Story: [no story - someone committing seppuku with a spoon]
+Note: primitive meaning _spoon_ or someone _sitting on the ground_.
+<!--ID: 1787001529048-->
+END
+
+START
+Japanese RTK
+Keyword: scold
+Clue:
+Kanji: 叱
+Story: She often **scolded** him for sticking food in his _mouth_ with his fingers rather than with a _spoon_.
+Note: don't confuse with _chastise_ or _rebuke_.
+<!--ID: 1787001529049-->
+END
+
+START
+Japanese RTK
+Keyword: aroma
+Clue:
+Kanji: 匂
+Story: You can't keep **aroma** _bound up_, just a _spoon_ between lid and pot and the whole house will soon know what's cooking for dinner.
+Note:
+<!--ID: 1787001529050-->
+END
+
+START
+Japanese RTK
+Keyword: about that time
+Clue:
+Kanji: 頃
+Story: It was **about that time** in the evening when he started throwing _spoons_ at the boss's _head_.
+Note:
+<!--ID: 1787001529051-->
+END
+
+START
+Japanese RTK
+Keyword: north
+Clue:
+Kanji: 北
+Story: In the **north**, it's so cold that people often sit back to back to preserve warmth.
+Note: the two ノ strokes are drawn in different directions.
+The left side can look like a turtle in print but is nothing like it in handwriting
+<!--ID: 1787001529052-->
+END
