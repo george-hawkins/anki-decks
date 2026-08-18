@@ -3817,7 +3817,7 @@ END
 
 START
 Japanese RTK
-Keyword: II
+Keyword: II (two)
 Clue: roman numeral
 Kanji: 弐
 Story: If there's just _two_ arrows left in your _quiver_, it's probably time to run.
@@ -4438,7 +4438,7 @@ Japanese RTK
 Keyword: market
 Clue:
 Kanji: 市
-Story: In my nightmare, I was strolling through the market wearing nothing but a top hat and towel.
+Story: In my nightmare, I was strolling through the **market** wearing nothing but a _top hat_ and _towel_.
 Note:
 <!--ID: 1786823467553-->
 END
@@ -4848,4 +4848,208 @@ Story: In the **north**, it's so cold that people often sit back to back to pres
 Note: the two ノ strokes are drawn in different directions.
 The left side can look like a turtle in print but is nothing like it in handwriting
 <!--ID: 1787001529052-->
+END
+
+START
+Japanese RTK
+Keyword: stature
+Clue:
+Kanji: 背
+Story: _Northerners_ have a taller **stature** because they eat so much _flesh_.
+Note:
+<!--ID: 1787089331924-->
+END
+
+START
+Japanese RTK
+Keyword: compare
+Clue:
+Kanji: 比
+Story: Compare these two spoons, the one on the left looks odd.
+Note: the left side of 比 is a single レ stroke. Stoke order is same for both.
+But the 一 and the ノ are in different directions!
+<!--ID: 1787089331929-->
+END
+
+START
+Japanese RTK
+Keyword: descendants
+Clue:
+Kanji: 昆
+Story: I can't _compare_ myself to the emperor - he's a **descendant** of Amaterasu, the _sun_ goddess herself.
+Note:
+<!--ID: 1787089331930-->
+END
+
+START
+Japanese RTK
+Keyword: all
+Clue:
+Kanji: 皆
+Story: **All** detergents claim that, _compared_ to others, they produce the _whitest whites_. But they're **all** much the same.
+Note:
+<!--ID: 1787089331931-->
+END
+
+START
+Japanese RTK
+Keyword: block letters
+Clue:
+Kanji: 楷
+Story: He nailed the reward notice to the _tree_, _all_ in clear **block letters** so _all_ could read it.
+Note:
+<!--ID: 1787089331932-->
+END
+
+START
+Japanese RTK
+Keyword: orderliness
+Clue:
+Kanji: 諧
+Story: **Orderliness** in a meeting means _all_ of us get our _words_ in, one at a time.
+Note:
+<!--ID: 1787089331934-->
+END
+
+START
+Japanese RTK
+Keyword: mix
+Clue:
+Kanji: 混
+Story: Deep in the dark waters, men and fish mixed and their descendants were mermaids.
+Note: Japanese merpeople are 人魚 (にんぎょ).
+<!--ID: 1787089331935-->
+END
+
+START
+Japanese RTK
+Keyword: thirst
+Clue:
+Kanji: 渇
+Story: The muchacho enjoying his _siesta_ cries out that he's **thirsty**, so you turn a _water_ hose on him!
+Note: introduces the non-kanji primitive (the right side of 渇) meaning _siesta_ (a little man sitting in shade sheltered from the midday sun).
+<!--ID: 1787089331936-->
+END
+
+START
+Japanese RTK
+Keyword: audience
+Clue:
+Kanji: 謁
+Story: We had an **audience** with the ruthless Pancho Villa, but oblivious to Pancho's _words_, a little muchacho enjoyed his _siesta_ slumped against the wall.
+Note:
+<!--ID: 1787089331937-->
+END
+
+START
+Japanese RTK
+Keyword: brown
+Clue:
+Kanji: 褐
+Story: Our muchacho, enjoying his _siesta_ slumped against the wall, is wearing a dull **brown** _cloak_.
+Note:
+<!--ID: 1787089331938-->
+END
+
+START
+Japanese RTK
+Keyword: hoarse
+Clue:
+Kanji: 喝
+Story: Our muchacho, rudely awakened from his _siesta_, opens his _mouth_ to talk, but he's too **hoarse** to understand.
+Note:
+<!--ID: 1787089331939-->
+END
+
+START
+Japanese RTK
+Keyword: kudzu
+Clue:
+Kanji: 葛
+Story: Kudzu is a (pre jōyō) flowering plant that never takes a _siesta_, it grows continuously and has taken over much of the US South.
+Note: a 2010 jōyō kanji where the 亾  (人 and 乚)hasn't been simplified to 匕.
+<!--ID: 1787089331940-->
+END
+
+START
+Japanese RTK
+Keyword: delicious
+Clue:
+Kanji: 旨
+Story: The chocolate fudge *sun*dae is so **delicious**, I could spend all _day_, _spoon_ in hand, gobbling it up.
+Note:
+<!--ID: 1787089331941-->
+END
+
+START
+Japanese RTK
+Keyword: fat
+Clue:
+Kanji: 脂
+Story: Every chef knows, it's the **fat** that makes _flesh_ taste _delicious_ (think Kobe beef marbled with _fat_).
+Note:
+<!--ID: 1787089331942-->
+END
+
+START
+Japanese RTK
+Keyword: visit a shrine
+Clue:
+Kanji: 詣
+Story: When you **visit a shrine**, you must bring _words_ of prayer and _delicious_ food as offerings to the gods.
+Note:
+<!--ID: 1787089331943-->
+END
+
+START
+Japanese RTK
+Keyword: I (one)
+Clue: roman numeral
+Kanji: 壱
+Story: The _samurai crowned_ number _one_ could win a fight with just a _spoon_.
+Note: cf. I (壱) and II (弐).
+A form of anti-fraud numerals (called daiji) used in legal documents so you can't e.g. turn 一 into 十 by just adding a stroke.
+Seen on bank notes.
+<!--ID: 1787089331944-->
+END
+
+START
+Japanese RTK
+Keyword: every
+Clue: not EACH
+Kanji: 毎
+Story: **Every** _mama_ looks forward to that point when she can finally _lie down_ and take a break.
+Note: introduces the non-kanji primitive 𠂉 meaning _reclining_, _lying_ or _lying down_ (一 is a person lying down, the ノ is their head lolling back).
+Cf. vertical 丨 in 毎 and milk drops of 母, apparently 母 was just too core to simplify.
+<!--ID: 1787089331945-->
+END
+
+START
+Japanese RTK
+Keyword: cleverness
+Clue:
+Kanji: 敏
+Story: **Cleverness** is required of _every_ successful _taskmaster_, or the slaves will get the better of him.
+Note:
+<!--ID: 1787089331946-->
+END
+
+START
+Japanese RTK
+Keyword: plum
+Clue:
+Kanji: 梅
+Story: My mother loves **plums** so much, she wishes _every tree_ could be a **plum** tree.
+Note:
+<!--ID: 1787089331947-->
+END
+
+START
+Japanese RTK
+Keyword: sea
+Clue: not OPEN SEA
+Kanji: 海
+Story: _Every_ drop of _water_ will eventually return to the **sea**.
+Note:
+<!--ID: 1787089331948-->
 END

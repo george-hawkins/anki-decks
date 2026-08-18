@@ -67,7 +67,12 @@ Search the deck so the story fits what's already established:
    a story that was already written — and still offer fresh stories.
 3. Reuse the deck's exact primitive vocabulary (_St. Bernard_, _magic wand_,
    _walking stick_, _drop_, _glue_, _by one's side_, …) rather than synonyms.
-4. Only fall back to manual `grep -in` over `rtk1-v6.md` if the script
+4. The deck is for **vocabulary and clash-avoidance only**. Never carry
+   imagery, characters or angles across from another card's story — recycling
+   北's "sit back to back" into 背 [stature], or 喬's "towering" into
+   嬌 [attractive], just drags in baggage and makes the story worse. Each story
+   stands alone: this keyword, these primitives, nothing else.
+5. Only fall back to manual `grep -in` over `rtk1-v6.md` if the script
    fails to run.
 
 ## Story rules (non-negotiable)
@@ -99,6 +104,13 @@ Search the deck so the story fits what's already established:
 
 Distilled from the deck's best entries:
 
+- **Reach for the obvious link first.** The plainest connection between
+  keyword and primitives — a proverb, a wry aside, a flat observation — usually
+  beats an elaborate staged scene. For 嬌 (attractive = woman + angel), "The
+  most **attractive** of _women_ are said to resemble _angels_" is the story;
+  a set-piece about a guardian angel craning his neck is overwritten and slower
+  to replay. Draft the obvious one-liner first and lead with it. Everything
+  below is for when no obvious link exists.
 - **Concrete and sensory over abstract.** A drop of blood clinging to a
   blade beats "the blade was used". Give the image texture: splashes,
   stink, sparkle, pain ("it **pierced** her ass! Ow!").
