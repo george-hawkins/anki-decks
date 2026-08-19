@@ -2,7 +2,7 @@ TARGET DECK: RTK 1 v6
 START
 Japanese RTK
 Keyword: one
-Clue:
+Clue: not numeral I
 Kanji: 一
 Story: [no story]
 Note: primitive meaning _floor_ or _ceiling_
@@ -12,7 +12,7 @@ END
 START
 Japanese RTK
 Keyword: two
-Clue:
+Clue: not numeral II
 Kanji: 二
 Story: [no story]
 Note:
@@ -1661,7 +1661,7 @@ Japanese RTK
 Keyword: hedge
 Clue:
 Kanji: 垣
-Story: A magical **hedge** of briar roses completely _spanned_ the castle _grounds_ where Sleeping Beauty lay.
+Story: A magical **hedge** of roses completely _spanned_ the castle _grounds_ where Sleeping Beauty lay.
 Note:
 <!--ID: 1785442542673-->
 END
@@ -5052,4 +5052,206 @@ Kanji: 海
 Story: _Every_ drop of _water_ will eventually return to the **sea**.
 Note:
 <!--ID: 1787089331948-->
+END
+
+START
+Japanese RTK
+Keyword: beg
+Clue:
+Kanji: 乞
+Story: If all I can afford to eat is _fish guts_, I'd rather _lie down_ in the street and **beg**.
+Note:
+<!--ID: 1787171538992-->
+END
+
+START
+Japanese RTK
+Keyword: drought
+Clue:
+Kanji: 乾
+Story: During a **drought**, even a light _mist_ is some relief, but everyone _begs_ for more.
+Note: it's _mist_ (𠦝), not 車
+<!--ID: 1787171538996-->
+END
+
+START
+Japanese RTK
+Keyword: abdomen
+Clue:
+Kanji: 腹
+Story: After 2 km, my **abdomen** started gurgling and I had to _double back_, cursing that undercooked chicken _flesh_ I'd just eaten.
+Note: introduces the non-kanji primitive 复 meaning to _double back_ (_doubling back_ to the nearest hostel to _lie down_ and rest _walking legs_ after a _day’s_ hiking).
+<!--ID: 1787171538997-->
+END
+
+START
+Japanese RTK
+Keyword: duplicate
+Clue:
+Kanji: 複
+Story: The host of the Halloween party was wearing an exact **duplicate** of my Dr. Strange _cloak_, I had to _double back_ home and find something else.
+Note:
+<!--ID: 1787171538998-->
+END
+
+START
+Japanese RTK
+Keyword: lack
+Clue:
+Kanji: 欠
+Story: A _bound up person_ **lacks** his freedom.
+Note: primitive meaning _lack_ or _yawn_.
+勹 really is the radical for the top of 欠
+<!--ID: 1787171538999-->
+END
+
+START
+Japanese RTK
+Keyword: blow
+Clue: blow out air (not blow to the body)
+Kanji: 吹
+Story: If you **blow** out through your _mouth_, you'll soon _lack_ air.
+Note:
+<!--ID: 1787171539000-->
+END
+
+START
+Japanese RTK
+Keyword: cook
+Clue:
+Kanji: 炊
+Story: Japanese **cooks** _lacked fire_, so they invented sashimi.
+Note:
+<!--ID: 1787171539001-->
+END
+
+START
+Japanese RTK
+Keyword: song
+Clue:
+Kanji: 歌
+Story: The _little engine that could_ and his brother sang their favorite **song**, but everyone just _yawned_.
+Note:
+<!--ID: 1787171539002-->
+END
+
+START
+Japanese RTK
+Keyword: soft
+Clue:
+Kanji: 軟
+Story: The seats in my _car_ are too **soft**, I'm always _yawning_ sleepily within minutes.
+Note:
+<!--ID: 1787171539003-->
+END
+
+START
+Japanese RTK
+Keyword: next
+Clue:
+Kanji: 次
+Story: The **next** phase of global warming is the total _lack_ of polar _ice_.
+Note: primitive meaning _next_ or _second_.
+We already saw ⺀ (in 冬) for ice and now 冫
+<!--ID: 1787171539004-->
+END
+
+START
+Japanese RTK
+Keyword: briar
+Clue:
+Kanji: 茨
+Story: To keep your _flowers_ safe from grazing animals, plant **briar** bushes _next_ to them.
+Note:
+<!--ID: 1787171539005-->
+END
+
+START
+Japanese RTK
+Keyword: assets
+Clue:
+Kanji: 資
+Story: Illiquid **assets** are the _next_ best to having lots of _clams_ ready to spend.
+Note:
+<!--ID: 1787171539006-->
+END
+
+START
+Japanese RTK
+Keyword: figure
+Clue: as in figure/form/shape (not number/diagram)
+Kanji: 姿
+Story: When I sit _next_ to a _woman_, I can't help noticing her **figure**.
+Note:
+<!--ID: 1787171539007-->
+END
+
+START
+Japanese RTK
+Keyword: consult with
+Clue:
+Kanji: 諮
+Story: Don't like the _words_ from your own employees? **Consult with** the _next mouth_ available from McKinsey for ten times more.
+Note:
+<!--ID: 1787171539008-->
+END
+
+START
+Japanese RTK
+Keyword: compensation
+Clue:
+Kanji: 賠
+Story: You didn't _muzzle_ your dog! I expect lots of _clams_ in **compensation** for the bite he gave me.
+Note: introduces the non-kanji primitive 咅 meaning _muzzle_ (_vase_ held over a dog's _mouth_).
+<!--ID: 1787171539009-->
+END
+
+START
+Japanese RTK
+Keyword: cultivate
+Clue:
+Kanji: 培
+Story: Trump tries to _muzzle_ the press as he deports the immigrants who used to **cultivate** the _soil_.
+Note:
+<!--ID: 1787171539010-->
+END
+
+START
+Japanese RTK
+Keyword: divide
+Clue:
+Kanji: 剖
+Story: The psychopath said "when you divide someone in two, there'll be a lot of screaming, so _muzzle_ them first before using the _saber_!"
+Note:
+<!--ID: 1787171539011-->
+END
+
+START
+Japanese RTK
+Keyword: sound
+Clue:
+Kanji: 音
+Story: Trust me, if you were _standing_ on the _sun_, you'd be making **sounds**.
+Note: don't mix up 音 with the non-kanji primitive _muzzle_ (咅).
+<!--ID: 1787171539012-->
+END
+
+START
+Japanese RTK
+Keyword: darkness
+Clue:
+Kanji: 暗
+Story: In the **darkness** of deepest space, there's neither _sun_ nor _sound_.
+Note:
+<!--ID: 1787171539013-->
+END
+
+START
+Japanese RTK
+Keyword: rhyme
+Clue:
+Kanji: 韻
+Story: The Ministry of _Sound_ pays _employees_ for **rhyme** after **rhyme**.
+Note: remember 員 is _employee_.
+<!--ID: 1787171539014-->
 END
