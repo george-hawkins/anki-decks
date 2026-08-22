@@ -48,7 +48,12 @@ END
   conventions as `Note`, and is never a finding in itself — but any *other*
   field label is.
 - `Clue` is usually empty; it disambiguates a keyword when needed
-  (`not OLD MAN`, `think area of expertise`).
+  (`not OLD MAN`, `think area of expertise`). It is a terse aside, not a
+  sentence: it **never ends in a full stop** (dropping a trailing `.` is a
+  mechanical fix) and it **never contains parentheses** — the card renders the
+  Clue already wrapped in parentheses, so inner ones look odd. Report those for
+  the user to reword rather than touching them yourself, and say briefly *why*
+  (the rendering), since it is easy to forget.
 - `Story` and `Note` may run onto continuation lines. `Note` is free-form: it
   declares primitive meanings, records stroke-order and etymology asides, and
   warns about confusable characters.
@@ -98,7 +103,7 @@ mistake: keyword not bolded, keyword marked as a component, bold on something
 that is not the keyword, unbalanced markers, misspellings, duplicated stories,
 a Story that starts lowercase or ends unpunctuated — unless it ends on a kanji
 or kana character, which the script accepts as-is — a Note that starts
-capitalized) and **INFO** (often deliberate: no component markup, an ID out of
+capitalized, a Clue that ends in a full stop or contains parentheses) and **INFO** (often deliberate: no component markup, an ID out of
 sequence, a keyword that doubles as a primitive name).
 
 A keyword bolded more than once is not a finding — the deck does it on purpose.
@@ -167,7 +172,7 @@ no taste: a misspelling, a stray or duplicated field line, `_keyword_` that
 should be `**keyword**`, bold on a word that plainly isn't the keyword,
 an unbalanced or space-padded marker, a doubled word, a punctuation slip, a
 field label Anki won't import, an unemphasized keyword that only needs
-wrapping. **Always offer to apply these**, as a compact list of one-line
+wrapping, a trailing full stop on a `Clue`. **Always offer to apply these**, as a compact list of one-line
 edits (`L1208 硝: _nitrate_ → **nitrate**`), and apply them when the user says
 yes — quietly and exactly, one `Edit` per card, changing nothing else on the
 line. Do not narrate them card by card afterwards; a count and the list is
@@ -176,7 +181,8 @@ enough. If the user has already said to fix them, skip the asking.
 **Not mechanical** — anything needing judgment or a rewrite: a story that
 teaches the wrong character, missing or phantom components, a keyword that
 appears nowhere in the story, invented primitive vocabulary, grammar that needs
-recasting, a duplicate story, a card whose keyword may not be Heisig's. **This
+recasting, a duplicate story, a card whose keyword may not be Heisig's, a `Clue`
+with parentheses in it. **This
 is the report.** Most serious first, one line each:
 `rtk1-v6.md:LINE` + `#card 漢 [keyword]` + what is wrong + the concrete fix,
 quoting the replacement story text where a rewrite is the answer. Group

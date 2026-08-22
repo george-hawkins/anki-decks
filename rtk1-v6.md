@@ -165,7 +165,7 @@ END
 START
 Japanese RTK
 Keyword: I
-Clue: archaic / literary first person pronoun (think thine/mine)
+Clue: archaic / literary first person pronoun, think thine/mine
 Kanji: 吾
 Story: 2 nostrils, 2 ears and 1 mouth = _five openings_ = me/**I**.
 Note:
@@ -295,7 +295,7 @@ END
 START
 Japanese RTK
 Keyword: nightbreak
-Clue: AKA sunrise. Not DAYBREAK or DAWN.
+Clue: AKA sunrise. Not DAYBREAK or DAWN
 Kanji: 旦
 Story: **Nightbreak** happens when the _sun_ rises over the _horizon (floor)_.
 Note: the Japanese think of daybreak as the opening up of night into day, hence the made-up word **nightbreak**.
@@ -1861,7 +1861,7 @@ END
 START
 Japanese RTK
 Keyword: ri
-Clue: Japanese unit for ~4 km.
+Clue: Japanese unit for ~4 km
 Kanji: 里
 Story: Historically, when measuring the _land_ making up _rice fields_, you used the **ri** as the unit.
 Note: primitive meaning _computer_ (yes, really).
@@ -4743,7 +4743,7 @@ Japanese RTK
 Keyword: bell
 Clue:
 Kanji: 鐘
-Story: At the _juvenile_ offenders center, they ring a large _metal_ **bell** to wake everyone from their slumber.
+Story: At the _juvenile_ detention center, they ring a large _metal_ **bell** to wake everyone from their slumber.
 Note:
 <!--ID: 1787001529042-->
 END
@@ -4967,7 +4967,7 @@ Keyword: kudzu
 Clue:
 Kanji: 葛
 Story: Kudzu is a (pre jōyō) flowering plant that never takes a _siesta_, it grows continuously and has taken over much of the US South.
-Note: a 2010 jōyō kanji where the 亾  (人 and 乚)hasn't been simplified to 匕.
+Note: a 2010 jōyō kanji where the 亾  (人 and 乚) hasn't been simplified to 匕.
 <!--ID: 1787089331940-->
 END
 
@@ -4984,7 +4984,7 @@ END
 START
 Japanese RTK
 Keyword: fat
-Clue:
+Clue: think lard, not PLUMP or OBESE
 Kanji: 脂
 Story: Every chef knows, it's the **fat** that makes _flesh_ taste _delicious_ (think Kobe beef marbled with _fat_).
 Note:
@@ -5108,7 +5108,7 @@ END
 START
 Japanese RTK
 Keyword: blow
-Clue: blow out air (not blow to the body)
+Clue: blow out air, not blow to the body
 Kanji: 吹
 Story: If you **blow** out through your _mouth_, you'll soon _lack_ air.
 Note:
@@ -5179,7 +5179,7 @@ END
 START
 Japanese RTK
 Keyword: figure
-Clue: as in figure/form/shape (not number/diagram)
+Clue: as in figure/form/shape, not number/diagram
 Kanji: 姿
 Story: When I sit _next_ to a _woman_, I can't help noticing her **figure**.
 Note:
@@ -5254,4 +5254,205 @@ Kanji: 韻
 Story: The Ministry of _Sound_ pays _employees_ for **rhyme** after **rhyme**.
 Note: remember 員 is _employee_.
 <!--ID: 1787171539014-->
+END
+
+START
+Japanese RTK
+Keyword: discriminating
+Clue:
+Kanji: 識
+Story: I have **discriminating** taste - I'd rather listen to the _words_ of a poet than to a _kazoo_ concert.
+Note: introduces the non-jōyō kanji primitive 戠 meaning _kazoo_ (_sound_ and _fiesta_).
+<!--ID: 1787419651704-->
+END
+
+START
+Japanese RTK
+Keyword: mirror
+Clue:
+Kanji: 鏡
+Story: She _stood_ in front of the _golden_ **mirror**, her own _tongue wagging_ in admiration of her beautiful _(human) legs_; "Who is the fairest?"
+Note: the right half (the non-jōyō kanji 竟) also means **mirror** as a primitive.
+It's not a 見 in 竟, that's a 日
+<!--ID: 1787420436185-->
+END
+
+START
+Japanese RTK
+Keyword: boundary
+Clue:
+Kanji: 境
+Story: He placed _mirrors_ all around the **boundary** of the _ground_ that made up his tiny urban garden to make it feel much bigger.
+Note:
+<!--ID: 1787419651708-->
+END
+
+START
+Japanese RTK
+Keyword: deceased
+Clue:
+Kanji: 亡
+Story: The **deceased** gentleman left his _top hat_ hanging on that _hook_ the day he died and we haven't moved it since.
+Note: primitive meaning _deceased_ or _perish_.
+<!--ID: 1787419651709-->
+END
+
+START
+Japanese RTK
+Keyword: blind
+Clue:
+Kanji: 盲
+Story: A person with _deceased eyes_ is **blind**. Obvious!
+Note:
+<!--ID: 1787419651710-->
+END
+
+START
+Japanese RTK
+Keyword: delusion
+Clue:
+Kanji: 妄
+Story: Under the **delusion** he was still alive, the woman carried her _deceased_ husband on her back for days.
+Note:
+<!--ID: 1787419651711-->
+END
+
+START
+Japanese RTK
+Keyword: laid waste
+Clue:
+Kanji: 荒
+Story: The hooked _flood_ **laid waste** to the valley - every _flower_ gone and half the village _perished_.
+Note: note the ⺃ form of 川 in 荒, also seen in characters using the non-kanji primitive 㐬
+<!--ID: 1787419651712-->
+END
+
+START
+Japanese RTK
+Keyword: ambition
+Clue:
+Kanji: 望
+Story: The _king's_ mad **ambition** was to visit the _moon_ before he _perished_.
+Note: the skewed moon seems to be unique to 望, SORT OF THING (然) has a curved moon.
+<!--ID: 1787419651713-->
+END
+
+START
+Japanese RTK
+Keyword: direction
+Clue:
+Kanji: 方
+Story: The eccentric gentleman, in _top hat_, offered me _$10,000_ if I'd point him in the **direction** of the nearest pub.
+Note: primitive meaning _direction_ or _compass_.
+<!--ID: 1787419651714-->
+END
+
+START
+Japanese RTK
+Keyword: disturb
+Clue:
+Kanji: 妨
+Story: What really **disturbs** a _woman_? When her partner won't stop and ask for _directions_.
+Note:
+<!--ID: 1787419651715-->
+END
+
+START
+Japanese RTK
+Keyword: boy
+Clue:
+Kanji: 坊
+Story: Small **boys** have an inbuilt _compass_ that points them in the _direction_ of _dirt_ and _mud_.
+Note:
+<!--ID: 1787419651716-->
+END
+
+START
+Japanese RTK
+Keyword: perfumed
+Clue:
+Kanji: 芳
+Story: You could track her in any _direction_ by following the _flowery_ smell of her **perfume**, it's that overpowering.
+Note:
+<!--ID: 1787419651717-->
+END
+
+START
+Japanese RTK
+Keyword: obese
+Clue:
+Kanji: 肪
+Story: He was so **obese**, his _flesh_ stretched in every _direction_ and his brain had become a _compass_, always leading him to another McDonald's.
+Note: cf. PLUMP (太), ROUND (丸) and FAT (脂).
+<!--ID: 1787419651718-->
+END
+
+START
+Japanese RTK
+Keyword: call on
+Clue:
+Kanji: 訪
+Story: She'd left her calling card, with _directions_, and he _called on_ her next day, but the clever _words_ he'd rehearsed just came out as a stammer.
+Note:
+<!--ID: 1787419651719-->
+END
+
+START
+Japanese RTK
+Keyword: set free
+Clue:
+Kanji: 放
+Story: Finally, **set free** by his _taskmaster_, the slave had to choose his own _direction_ for the first time in his life.
+Note:
+<!--ID: 1787419651720-->
+END
+
+START
+Japanese RTK
+Keyword: violent
+Clue:
+Kanji: 激
+Story: The calm _waters_ suddenly turned **violent**: *white*-capped waves crashing onto the deck, the galley swinging in every _direction_, and the _taskmaster_ whipping the rowers to keep her afloat.
+Note: 激 contains the elements of 放 but the 方 is squashed by 白
+<!--ID: 1787419651721-->
+END
+
+START
+Japanese RTK
+Keyword: undress
+Clue:
+Kanji: 脱
+Story: The _devil_ in him dreamed of **undressing** her and of the sight of her beautiful bare _flesh_.
+Note: introduces the non-kanji primitive 兑 meaning _devil_ (_horns_ on a _teenager_).
+<!--ID: 1787419651722-->
+END
+
+START
+Japanese RTK
+Keyword: explanation
+Clue:
+Kanji: 説
+Story: When asked for an **explanation**, he _said_ "the _devil_ made me do it!"
+Note:
+<!--ID: 1787419651723-->
+END
+
+START
+Japanese RTK
+Keyword: pointed
+Clue:
+Kanji: 鋭
+Story: The _devil_ has a **pointed** _metal_ pitchfork and **pointed** horns.
+Note:
+<!--ID: 1787419651724-->
+END
+
+START
+Japanese RTK
+Keyword: formerly
+Clue:
+Kanji: 曽
+Story: This building site was **formerly** a rice _field_, where an ox with gigantic _horns_ ploughed all _day_.
+Note: primitive meaning _increase_ (from being the right side of the kanji 増 meaning increase).
+<!--ID: 1787419651725-->
 END

@@ -795,6 +795,21 @@ def check_note(card: Card, report: Report) -> None:
                                       "with _italics_ and reserves **bold** for keywords")
 
 
+def check_clue(card: Card, report: Report) -> None:
+    """Clue is a terse disambiguating aside, not a sentence: no trailing full
+    stop, and no parentheses (reword instead)."""
+    clue = card.fields.get("Clue", "").strip()
+    if not clue:
+        return
+    if clue.endswith("."):
+        report.warn("L001", card, f"Clue ends with a full stop: {clue!r} — Clue fields "
+                                  "carry no closing punctuation, drop the final '.'")
+    if "(" in clue or ")" in clue:
+        report.warn("L002", card, f"Clue contains parentheses: {clue!r} — the card renders "
+                                  "the Clue already wrapped in parentheses, so inner ones look "
+                                  "odd; reword it (your judgment, not a mechanical fix)")
+
+
 def check_quoted_kanji(card: Card, deck_kanji: set[str], report: Report) -> None:
     """Kanji quoted inside a story. Notes are exempt: they routinely introduce
     non-jōyō primitives and near-miss characters on purpose."""
@@ -1089,6 +1104,7 @@ def main() -> None:
             continue
         check_story(card, report)
         check_note(card, report)
+        check_clue(card, report)
         check_quoted_kanji(card, deck_kanji, report)
     check_duplicate_stories(cards, scope, report)
     if args.vocab:
