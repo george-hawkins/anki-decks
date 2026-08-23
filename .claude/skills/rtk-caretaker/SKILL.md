@@ -1,6 +1,6 @@
 ---
 name: rtk-caretaker
-description: Audit this repo's RTK deck (rtk1-v6.md) for broken cards, mismarked keywords, out-of-sync kanji/keyword/story triples, duplicates, typos and clumsy grammar; offer to apply the mechanical fixes and report the judgment calls. Use when the user invokes /rtk-caretaker or asks for a check-up, review or proof-read of the deck.
+description: Audit this repo's RTK deck (rtk1-v6.md) for broken cards, mismarked keywords, out-of-sync kanji/keyword/story triples, duplicates, typos and clumsy grammar; fix the unambiguous ones automatically and report what needs your decision. Use when the user invokes /rtk-caretaker or asks for a check-up, review or proof-read of the deck.
 argument-hint: "[nothing = whole deck] | recent | 341-360 | 硝 | nitrate"
 ---
 
@@ -18,7 +18,7 @@ Two rules about touching things:
   recording it in git is the user's call, always. Don't run `git commit`,
   `git add` or `git push`, and don't offer to.
 - **Only ever edit `rtk1-v6.md` and this skill's own `wordlist.txt` /
-  `reported.tsv`.** `primitives.md`, the backups and the exports are read-only
+  `reported.tsv` / `audited.tsv`.** `primitives.md`, the backups and the exports are read-only
   reference.
 
 The deck lives in git and is pushed to GitHub, so an edit is recoverable — that
@@ -47,8 +47,10 @@ END
 - **`Keyword`, `Kanji` and `Story` are mandatory and non-empty** — a card with
   no story still says `[no story]`. `Keyword` must additionally be unique across
   the deck, as must `Kanji`. These are invariants, never judgment calls: a blank
-  `Kanji:`, a blank `Story:` or a duplicated keyword gets filled in or fixed
-  like any other mechanical error. So does a **misspelled `Keyword`** — the
+  `Kanji:` or a duplicated keyword gets filled in or fixed like any other
+  mechanical error. **An empty `Story` is the exception** — never write
+  `[no story]` yourself. Marking a card as deliberately storyless is the user's
+  decision to make, so report it and leave it. So is a **misspelled `Keyword`** — the
   keyword is the front of the card, and `check.py` feeds every keyword into the
   spell checker's dictionary, so K009 is the only thing that can catch it.
 - `Update:` is an accepted sixth field, after `Note`, holding a later second
@@ -92,7 +94,8 @@ for:
 
 | user says | flag |
 | --- | --- |
-| nothing | *(omit — whole deck)* |
+| nothing | *(omit — the cards pass 2 has not signed off on; see the audit ledger)* |
+| "everything", "the whole deck", "a full audit" | `--all` |
 | "the new batch", "recent", "what I just added" | `--recent` (working-tree diff, else the last commit) |
 | "341-360", "the last twenty" | `--range 341-360`, `--last 20` |
 | a kanji or keyword | `--kanji 硝`, `--keyword nitrate` |
@@ -100,6 +103,11 @@ for:
 Useful extras: `--dump` prints the in-scope cards verbatim (saves a separate
 read for pass 2), `--vocab` adds a noisier check for component wording the deck
 has not established elsewhere, `--no-spell` skips spelling.
+
+Scope limits *reporting and reading*, never parsing: the script always reads the
+whole file, so duplicate keywords, duplicate kanji and duplicate ids are caught
+across the entire deck however narrow the scope, and the `reported.tsv` prune
+still sees every card.
 
 The script needs `aspell` (`brew install aspell`) and exits with an error
 without it — say so rather than silently skipping the spell check.
@@ -172,38 +180,97 @@ For a whole-deck run, work through the file in chunks of roughly 100 cards so
 nothing is skimmed, and keep a running list. Don't re-derive the mechanical
 findings while doing this — they are already in hand.
 
-## Reporting: fix the mechanical, report the rest
+## Reporting: fix what is unambiguous, report the rest
 
-Sort every finding into one of two piles.
+Sort every finding by two questions — *is it definitely wrong?* and *is there
+exactly one obvious fix?* — into three piles.
 
-**Mechanical** — there is exactly one obvious correction and applying it needs
-no taste: a misspelling (in a `Story`, a `Note` or the `Keyword` itself), a
+**1. Fix it yourself.** Definitely wrong, one obvious correction, no taste
+required: a misspelling (in a `Story`, a `Note` or the `Keyword` itself), a
 stray or duplicated field line, `_keyword_` that should be `**keyword**`, bold
 on a word that plainly isn't the keyword, an unbalanced or space-padded marker,
 a doubled word, a punctuation slip, a field label Anki won't import, an
 unemphasized keyword that only needs wrapping, a trailing full stop on a
-`Clue`, a violated invariant (empty `Kanji`, empty `Story`). **Apply these
-yourself, before you write the report, without asking and without listing
+`Clue`, an empty `Kanji` whose character is obvious from the keyword and story.
+**Apply these before you write the report, without asking and without listing
 them** — quietly and exactly, one `Edit` per card, changing nothing else on the
-line. They are not part of the report: one closing line saying how many you
+line. They are not part of the report; one closing line saying how many you
 applied is enough.
 
-**Not mechanical** — anything needing judgment or a rewrite: a story that
-teaches the wrong character, missing or phantom components, a keyword that
-appears nowhere in the story, invented primitive vocabulary, grammar that needs
-recasting, a duplicate story, a card whose keyword may not be Heisig's, a `Clue`
-with parentheses in it. **This
-is the report.** Most serious first, one line each:
+**2. Must-fix.** Definitely wrong — an invariant is broken or the card teaches
+something false — but choosing the repair is the user's:
+
+- duplicate `Keyword` or duplicate `Kanji`: which card is the mistake, and what
+  it should have been, is theirs to say;
+- duplicate note id: Anki would merge the two notes on import;
+- empty `Kanji` where the character is *not* inferable, or a `Kanji` field
+  holding several characters with no obvious winner;
+- empty `Keyword` — Heisig's keyword is often recoverable, but a wrong guess
+  plants a false keyword;
+- empty `Story` — never write `[no story]` yourself (see Card format);
+- a story whose primitives compose some *other* character — the copy-paste-then-
+  half-edit failure;
+- a `Keyword` that is not Heisig's v6 keyword for that character, or a `Kanji`
+  that is not the jōyō form.
+
+These are not suggestions. Report them first, say plainly that the deck stays
+broken until each is resolved, and offer the repair you would make — but do not
+apply it.
+
+**3. Judgment calls.** Arguably off, and reasonable people could leave them:
+missing or phantom components, a keyword that appears nowhere in the story,
+invented primitive vocabulary, grammar that wants recasting, a near-duplicate
+story, a `Clue` with parentheses in it. Note that mismarked components and
+absent keywords live *here*, not in must-fix: the store shows the user
+knowingly keeping several (戚, 語, 成, 弐), so the deck's rule is a little
+leeway, not a hard invariant.
+
+Piles 2 and 3 are the report. Most serious first, one line each:
 `rtk1-v6.md:LINE` + `#card 漢 [keyword]` + what is wrong + the concrete fix,
 quoting the replacement story text where a rewrite is the answer. Group
 identical findings instead of repeating the explanation, and never apply one of
 these without the user's go-ahead — even when they have blanket-approved
 "fix the mechanical stuff".
 
-Open the report with the judgment calls, not the fixes. Close with a one-line
-tally that includes the mechanical-fix count. If the deck is clean, say so
-plainly. Don't paste
-the script's raw output back at the user, and don't pad with praise.
+Close with a one-line tally that includes the count of fixes you applied. If the
+deck is clean, say so plainly. Don't paste the script's raw output back at the
+user, and don't pad with praise.
+
+## Reading each card once: the audit ledger
+
+`audited.tsv` beside this skill records which cards pass 2 has actually read
+and what they contained at the time — a hash of `Keyword`/`Clue`/`Kanji`/
+`Story`/`Note`/`Update`, with the `<!--ID:-->` comment deliberately excluded so
+importing into Anki never invalidates it. **With no scope flag, the run covers
+exactly the cards missing from that ledger**: brand new cards, cards edited
+since they were last read, and everything if the ledger doesn't exist yet. This
+is what keeps a full audit affordable as the deck grows; pass 1 is cheap and
+runs over everything regardless.
+
+At the **end** of a run — after the fixes are applied and the report is
+written — stamp what you read:
+
+```
+uv run --python 3.14 <base-dir>/check.py [same scope flags] --mark-audited \
+    [--skip 漢漢]
+```
+
+- `--skip` takes the kanji of any card left in a **must-fix** state. Never stamp
+  those: an unstamped card comes back on the next run, which is exactly what a
+  broken card should do. Judgment calls *are* stamped — `reported.tsv` is what
+  keeps those quiet, and it stays quiet for as long as the user leaves the card
+  alone.
+- Stamp only what you genuinely read. A run scoped with `--kanji 硝` stamps one
+  card, not the deck.
+- **Bump `CHECKS_VERSION` in `check.py` whenever you add or change a check.**
+  Every ledger entry written by an older version is then treated as unaudited,
+  so the new check gets its chance over cards signed off before it existed.
+
+The two stores answer different questions and neither can stand in for the
+other: `audited.tsv` says *"this card has been looked at, at this exact
+content"*, `reported.tsv` says *"this particular advice was heard and
+declined"*. Absence from `reported.tsv` never means a card is fine — it may
+just mean nobody has read it yet.
 
 ## Saying it once: the already-reported store
 
@@ -230,6 +297,12 @@ don't want to hear again.
   closing line — they are the things the user fixed since last time.
 - If you *do* re-raise something deliberately (the user asked, or the card
   changed enough to make it a different problem), say that you are doing so.
+- **A must-fix finding that ends up in the store is a bug in this skill, not a
+  stubborn user.** Everything in `reported.tsv` was, by definition, something
+  they chose to live with — so if pile 2 keeps landing there, that class of
+  finding was never really must-fix. When you write such an entry, say so in a
+  closing line and propose the amendment to this file (demote the class to a
+  judgment call, or narrow it until it only catches the genuinely broken case).
 
 ## Maintaining the wordlist
 

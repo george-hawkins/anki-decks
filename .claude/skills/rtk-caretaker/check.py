@@ -33,7 +33,9 @@ writes is the suppression store.
 """
 
 import argparse
+import datetime
 import difflib
+import hashlib
 import re
 import shutil
 import subprocess
@@ -54,6 +56,11 @@ REQUIRED = ("Keyword", "Clue", "Kanji", "Story", "Note")
 OPTIONAL = ("Update",)
 FIELDS = REQUIRED + OPTIONAL
 PROSE = ("Note", "Update")
+AUDITED = "audited.tsv"
+# Bump when a check is added or its judgement changes: every ledger entry
+# stamped by an older version is treated as unaudited, so the new check gets
+# a chance to run over cards that were signed off before it existed.
+CHECKS_VERSION = 1
 NO_STORY_RE = re.compile(r"^\[no story(?:\s*[-–—:]?\s+[^\]]+)?\]$")
 # a full emphasis span: **bold**, _italic_ or *italic*
 BOLD_RE = re.compile(r"\*\*([^*\n]*)\*\*")
@@ -102,6 +109,14 @@ class Card:
 
     def line(self, name: str) -> int:
         return self.field_lines.get(name, self.start)
+
+    def content_hash(self) -> str:
+        """Fingerprint of everything pass 2 judges. Deliberately excludes the
+        <!--ID:--> comment (Anki rewrites those on import) and normalizes
+        whitespace, so a re-import or a reflow never looks like an edit."""
+        payload = "\n".join(f"{name}={' '.join(self.fields.get(name, '').split())}"
+                            for name in FIELDS)
+        return hashlib.sha256(payload.encode("utf-8")).hexdigest()[:12]
 
     def label(self) -> str:
         return f"#{self.index} L{self.start} {self.kanji or '?'} [{self.keyword or '?'}]"
@@ -458,6 +473,64 @@ SUPPRESSION_HEADER = """\
 # When the card changes so the snippet is gone, the advice was evidently taken
 # and check.py drops the entry automatically (--no-prune to keep it).
 """
+
+
+LEDGER_HEADER = """# Cards pass 2 has actually read, and the content they had when it read them.
+# A card is re-audited when its fields change (the hash moves) or when
+# CHECKS_VERSION in check.py is bumped. One per line, tab separated:
+#
+#   <kanji> <TAB> <content hash> <TAB> <date stamped>
+#
+# Written by --mark-audited; never edit by hand. The <!--ID:--> comment is not
+# part of the hash, so importing into Anki does not invalidate the ledger.
+"""
+
+
+def load_audited(path: Path) -> tuple[set[tuple[str, str]], bool]:
+    """Returns the audited (kanji, hash) pairs and whether the file was written
+    by this CHECKS_VERSION. A version mismatch empties the set."""
+    if path is None or not path.exists():
+        return set(), True
+    version = 0
+    entries: set[tuple[str, str]] = set()
+    for line in path.read_text(encoding="utf-8").splitlines():
+        if line.startswith("# checks-version:"):
+            version = int(line.split(":", 1)[1].strip() or 0)
+            continue
+        if not line.strip() or line.startswith("#"):
+            continue
+        parts = line.split("\t")
+        if len(parts) >= 2:
+            entries.add((parts[0].strip(), parts[1].strip()))
+    if version != CHECKS_VERSION:
+        return set(), False
+    return entries, True
+
+
+def save_audited(path: Path, cards: list[Card], scope: set[int], skip: set[str],
+                  today: str) -> tuple[int, int, int]:
+    """Stamp the in-scope cards, minus `skip`, and drop entries that no longer
+    match any card in the deck."""
+    live = {(c.kanji, c.content_hash()) for c in cards}
+    existing, fresh = load_audited(path)
+    # --skip is unconditional: it also un-signs a card stamped by an earlier run,
+    # so "this is still broken" always survives into the next one.
+    kept = {e for e in existing if e in live and e[0] not in skip} if fresh else set()
+    stamped = {(c.kanji, c.content_hash()) for c in cards
+               if c.index in scope and c.kanji and c.kanji not in skip}
+    dropped = len(existing) - len(kept) if fresh else len(existing)
+    added = len(stamped - kept)
+    dates: dict[tuple[str, str], str] = {}
+    if path.exists() and fresh:
+        for line in path.read_text(encoding="utf-8").splitlines():
+            parts = line.split("\t")
+            if len(parts) >= 3 and not line.startswith("#"):
+                dates[(parts[0].strip(), parts[1].strip())] = parts[2].strip()
+    rows = sorted(kept | stamped)
+    body = "".join(f"{k}\t{h}\t{dates.get((k, h), today)}\n" for k, h in rows)
+    path.write_text(f"{LEDGER_HEADER}# checks-version: {CHECKS_VERSION}\n\n{body}",
+                    encoding="utf-8")
+    return added, dropped, len(rows)
 
 
 def apply_suppressions(entries: list[Suppression], cards: list[Card],
@@ -981,8 +1054,17 @@ def resolve_scope(args, cards: list[Card], deck: Path) -> tuple[set[int], str]:
         touched, source = git_touched_cards(deck, cards)
         selected.update(touched)
         described.append(f"{len(touched)} card(s) touched by {source}")
-    if not described:
-        return {c.index for c in cards}, f"all {len(cards)} cards"
+    if args.all:
+        return {c.index for c in cards}, f"all {len(cards)} cards (--all)"
+    if not described:  # the default: whatever pass 2 has not signed off on
+        audited, fresh = load_audited(find_file(AUDITED, required=False)
+                                        or Path(AUDITED))
+        unaudited = {c.index for c in cards
+                      if (c.kanji, c.content_hash()) not in audited}
+        why = ("no audit ledger yet" if not audited and fresh else
+               f"ledger predates checks-version {CHECKS_VERSION}" if not fresh else
+               f"{len(cards) - len(unaudited)} already audited and unchanged")
+        return unaudited, f"{len(unaudited)} unaudited card(s) — {why}"
     valid = {c.index for c in cards}
     unknown = selected - valid
     if unknown:
@@ -1089,6 +1171,12 @@ def main() -> None:
     parser.add_argument("--kanji", action="append")
     parser.add_argument("--keyword", action="append")
     parser.add_argument("--recent", action="store_true")
+    parser.add_argument("--all", action="store_true",
+                        help="force every card into scope, ignoring the audit ledger")
+    parser.add_argument("--mark-audited", dest="mark", action="store_true",
+                        help="stamp the in-scope cards into audited.tsv and exit")
+    parser.add_argument("--skip", action="append",
+                        help="with --mark-audited: kanji NOT to stamp (unresolved must-fix)")
     parser.add_argument("--dump", action="store_true")
     parser.add_argument("--vocab", action="store_true")
     parser.add_argument("--no-spell", dest="spell", action="store_false")
@@ -1107,6 +1195,17 @@ def main() -> None:
     global SPELL_EXTRA
     here = Path(__file__).resolve().parent
     scope, scope_text = resolve_scope(args, cards, deck)
+
+    if args.mark:
+        ledger = here / AUDITED
+        skip = {k for spec in (args.skip or []) for k in spec.replace(",", " ").split()}
+        added, dropped, total = save_audited(
+            ledger, cards, scope, skip, datetime.date.today().isoformat())
+        print(f"{ledger.name}: +{added} newly audited, -{dropped} superseded, "
+              f"{total} card(s) now signed off"
+              + (f" (skipped {' '.join(sorted(skip))})" if skip else ""))
+        return
+
     wordlist = Path(args.wordlist) if args.wordlist else here / "wordlist.txt"
     SPELL_EXTRA = load_wordlist(wordlist)
     speller = None
