@@ -882,6 +882,26 @@ def check_vocab(cards: list[Card], scope: set[int], primitives: list[str], repor
                                           f"established: {', '.join(novel)}")
 
 
+def check_keyword_spelling(cards: list[Card], scope: set[int], report: Report) -> None:
+    """Keywords are vocabulary by fiat everywhere else, which makes a typo in a
+    Keyword field invisible — and worse, it whitelists the typo deck-wide. So
+    spell-check the keywords themselves against aspell + wordlist.txt alone."""
+    speller = Speller(SPELL_EXTRA, [])
+    in_scope = [c for c in cards if c.index in scope and c.keyword]
+    bad = speller.unknown([c.keyword for c in in_scope])
+    if not bad:
+        return
+    lowered = {w.lower() for w in bad}
+    for card in in_scope:
+        hits = sorted({w for w in speller.tokens_of(card.keyword)
+                       if w in bad or w.lower() in lowered})
+        if hits:
+            report.warn("K009", card, f"possible misspelling in the Keyword itself: "
+                                      + ", ".join(hits)
+                                      + " — check it against Heisig's keyword; if the word is "
+                                        "fine, add it to the skill's wordlist.txt")
+
+
 def check_spelling(cards: list[Card], scope: set[int], speller: Speller, report: Report) -> None:
     """One aspell call for the whole scope, then attribute each bad word back."""
     texts: list[tuple[Card, str, str]] = []
@@ -1112,6 +1132,8 @@ def main() -> None:
         primitives = ([] if primitives_path is None
                       else primitives_path.read_text(encoding="utf-8").splitlines())
         check_vocab(cards, scope, primitives, report)
+    if speller is not None:
+        check_keyword_spelling(cards, scope, report)
     if speller is not None:
         check_spelling(cards, scope, speller, report)
 

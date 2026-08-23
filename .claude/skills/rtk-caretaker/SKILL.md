@@ -8,8 +8,9 @@ argument-hint: "[nothing = whole deck] | recent | 341-360 | 硝 | nitrate"
 
 You are the proof-reader of this repo's deck (`rtk1-v6.md`), a hand-written
 *Remembering the Kanji* deck in Anki markdown-import form. Find what is broken
-or off-key, **offer to fix the mechanical half yourself**, and **report the
-half that needs the user's judgment** — in severity order, with line numbers.
+or off-key, **fix the mechanical half yourself, without asking**, and **report
+the half that needs the user's judgment** — in severity order, with line
+numbers.
 
 Two rules about touching things:
 
@@ -43,6 +44,13 @@ END
 - `Japanese RTK` is the note type; the five fields always appear in the order
   `Keyword, Clue, Kanji, Story, Note`; the `<!--ID: …-->` comment is Anki's note
   id and must be unique and last.
+- **`Keyword`, `Kanji` and `Story` are mandatory and non-empty** — a card with
+  no story still says `[no story]`. `Keyword` must additionally be unique across
+  the deck, as must `Kanji`. These are invariants, never judgment calls: a blank
+  `Kanji:`, a blank `Story:` or a duplicated keyword gets filled in or fixed
+  like any other mechanical error. So does a **misspelled `Keyword`** — the
+  keyword is the front of the card, and `check.py` feeds every keyword into the
+  spell checker's dictionary, so K009 is the only thing that can catch it.
 - `Update:` is an accepted sixth field, after `Note`, holding a later second
   thought about the card (see 可 [can]). It is optional, follows the same
   conventions as `Note`, and is never a finding in itself — but any *other*
@@ -103,8 +111,9 @@ mistake: keyword not bolded, keyword marked as a component, bold on something
 that is not the keyword, unbalanced markers, misspellings, duplicated stories,
 a Story that starts lowercase or ends unpunctuated — unless it ends on a kanji
 or kana character, which the script accepts as-is — a Note that starts
-capitalized, a Clue that ends in a full stop or contains parentheses) and **INFO** (often deliberate: no component markup, an ID out of
-sequence, a keyword that doubles as a primitive name).
+capitalized, a Clue that ends in a full stop or contains parentheses, a
+misspelled Keyword) and **INFO** (often deliberate: no component markup, an ID
+out of sequence, a keyword that doubles as a primitive name).
 
 A keyword bolded more than once is not a finding — the deck does it on purpose.
 
@@ -168,15 +177,16 @@ findings while doing this — they are already in hand.
 Sort every finding into one of two piles.
 
 **Mechanical** — there is exactly one obvious correction and applying it needs
-no taste: a misspelling, a stray or duplicated field line, `_keyword_` that
-should be `**keyword**`, bold on a word that plainly isn't the keyword,
-an unbalanced or space-padded marker, a doubled word, a punctuation slip, a
-field label Anki won't import, an unemphasized keyword that only needs
-wrapping, a trailing full stop on a `Clue`. **Always offer to apply these**, as a compact list of one-line
-edits (`L1208 硝: _nitrate_ → **nitrate**`), and apply them when the user says
-yes — quietly and exactly, one `Edit` per card, changing nothing else on the
-line. Do not narrate them card by card afterwards; a count and the list is
-enough. If the user has already said to fix them, skip the asking.
+no taste: a misspelling (in a `Story`, a `Note` or the `Keyword` itself), a
+stray or duplicated field line, `_keyword_` that should be `**keyword**`, bold
+on a word that plainly isn't the keyword, an unbalanced or space-padded marker,
+a doubled word, a punctuation slip, a field label Anki won't import, an
+unemphasized keyword that only needs wrapping, a trailing full stop on a
+`Clue`, a violated invariant (empty `Kanji`, empty `Story`). **Apply these
+yourself, before you write the report, without asking and without listing
+them** — quietly and exactly, one `Edit` per card, changing nothing else on the
+line. They are not part of the report: one closing line saying how many you
+applied is enough.
 
 **Not mechanical** — anything needing judgment or a rewrite: a story that
 teaches the wrong character, missing or phantom components, a keyword that
@@ -190,7 +200,9 @@ identical findings instead of repeating the explanation, and never apply one of
 these without the user's go-ahead — even when they have blanket-approved
 "fix the mechanical stuff".
 
-Close with a one-line tally. If the deck is clean, say so plainly. Don't paste
+Open the report with the judgment calls, not the fixes. Close with a one-line
+tally that includes the mechanical-fix count. If the deck is clean, say so
+plainly. Don't paste
 the script's raw output back at the user, and don't pad with praise.
 
 ## Saying it once: the already-reported store

@@ -8,6 +8,8 @@
 
 # --- deck / RTK / Japanese jargon ---
 anki
+daiji
+decameron
 gejun
 hiragana
 ish
@@ -21,39 +23,55 @@ keyword
 koohii
 matsuri
 mnemonic
-nitaku
 nightbreak
+nitaku
+rin
 romaji
 rtk
+sashimi
 wanikani
 
 # --- names, places, brands, pop culture ---
 balrog
+bezos
 boromir
 copperfield
+dolder
+eisbahn
 gargleblaster
 geppetto
 gras
 heisig
 koohii
 mardi
+mckinsey
+midsommar
 momotaro
 momotarō
 mordor
+muchacho
 neville
+pancho
 paulownia
 pinocchio
 sauron
 schwester
 valser
+yakutsk
 zelda
 
 # --- modern English aspell's en dictionary lacks ---
+bottommost
 cowled
 ctrl
 dwarves
+else's
+illiquid
+merpeople
 narco
 oaky
 pre
 sayeth
 swordsmith
+there'll
+undercooked

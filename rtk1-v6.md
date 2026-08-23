@@ -1619,7 +1619,7 @@ END
 START
 Japanese RTK
 Keyword: soil
-Clue:
+Clue: not GROUND
 Kanji: 土
 Story: [no story]
 Note: primitive meaning _soil_, _ground_ and _dirt_.
@@ -1651,7 +1651,7 @@ Japanese RTK
 Keyword: cape
 Clue:
 Kanji: 埼
-Story: **Cape Cod** is odd, _strange_ things happen on the _land_ there.
+Story: **Cape** Cod is odd, _strange_ things happen on the _land_ there.
 Note:
 <!--ID: 1785442542671-->
 END
@@ -2769,7 +2769,7 @@ END
 START
 Japanese RTK
 Keyword: present
-Clue: time rather than gift
+Clue: time rather than PRESENTS
 Kanji: 現
 Story: It was a rather useless crystal _ball_, it only allowed us to _see_ into the **present**.
 Note:
@@ -4254,7 +4254,7 @@ Japanese RTK
 Keyword: bridegroom
 Clue:
 Kanji: 婿
-Story: Playing the **bridegroom** wasn't enough for Jeff Bezos, he built a _zoo_ on the _moon_ and took his _woman_ their for the ceremony.
+Story: Playing the **bridegroom** wasn't enough for Jeff Bezos, he built a _zoo_ on the _moon_ and took his _woman_ there for the ceremony.
 Note:
 <!--ID: 1786823467535-->
 END
@@ -4265,10 +4265,10 @@ Keyword: garment
 Clue:
 Kanji: 衣
 Story: The only **garments** permitted in this unusual club are a _top hat_ and _scarf_.
-Note: This is the most volatile element used in other kanji.
+Note: this is the most volatile element used in other kanji.
 On the left, it appears as ⻂ (meaning _cloak_).
 When below and attached to the above element, 衣 loses its 亠 (and becomes _scarf_).
-Another element can comes between _top hat_ and _scarf_, e.g. 哀
+Another element can come between _top hat_ and _scarf_, e.g. 哀
 When not bottommost (in any form), the レ in 衣 loses its hook, e.g 遠
 <!--ID: 1786823467536-->
 END
@@ -4278,7 +4278,7 @@ Japanese RTK
 Keyword: tailor
 Clue:
 Kanji: 裁
-Story: The **tailor** had to work hard to get everyone's _garments_ ready for the _harvest festival_ (think Midsommar or Wicker Man).
+Story: The **tailor** had to work hard to get everyone's _garments_ ready for the _harvest feast_ (think Midsommar or Wicker Man).
 Note:
 <!--ID: 1786823467537-->
 END
@@ -4308,7 +4308,7 @@ Japanese RTK
 Keyword: demolition
 Clue:
 Kanji: 壊
-Story: Wear the proper _garments_ during a **demolition** or the _dirt_ and debris will pierce you _eyes_ like _needles_.
+Story: Wear the proper _garments_ during a **demolition** or the _dirt_ and debris will pierce your _eyes_ like _needles_.
 Note:
 <!--ID: 1786823467540-->
 END
@@ -4348,7 +4348,7 @@ Japanese RTK
 Keyword: first time
 Clue:
 Kanji: 初
-Story: It was Sam's first time out of the Shire, his cloak pulled tight, his hand clutching the dagger he'd been given.
+Story: It was Sam's **first time** out of the Shire, his _cloak_ pulled tight, his hand clutching the _dagger_ he'd been given.
 Note:
 <!--ID: 1786823467544-->
 END
@@ -4358,7 +4358,7 @@ Japanese RTK
 Keyword: towel
 Clue:
 Kanji: 巾
-Story: [no story - think towel hanging on poll]
+Story: [no story - think towel hanging on pole]
 Note:
 <!--ID: 1786823467545-->
 END
@@ -4458,7 +4458,7 @@ Japanese RTK
 Keyword: elder sister
 Clue:
 Kanji: 姉
-Story: Each _woman_ has a tasks, his **elder sister** has to go to the _market_ everyday.
+Story: Each _woman_ has her tasks; his **elder sister** has to go to the _market_ everyday.
 Note:
 <!--ID: 1786893695744-->
 END
@@ -4610,10 +4610,10 @@ Japanese RTK
 Keyword: heavens
 Clue:
 Kanji: 天
-Story: [no story - think ceiling above St. Bernard].
+Story: [no story - think ceiling above St. Bernard]
 Note: primitive meaning _heaven_ as in both the skies and the after life.
 Or _witch_ when drawn as 夭 (first stroke reversed as in ノ)
-夭 isn't acutally 天, it's a separate non-jōyō kanji.
+夭 isn't actually 天, it's a separate non-jōyō kanji.
 <!--ID: 1786893695761-->
 END
 
@@ -4660,7 +4660,7 @@ END
 START
 Japanese RTK
 Keyword: stand up
-Clue: 
+Clue:
 Kanji: 立
 Story: A _vase_ that can't **stand up** won't be a _vase_ for long.
 Note: primitive meaning _stand_ or _stand up_ (in an unusual way) or _vase_.
@@ -4733,7 +4733,7 @@ Japanese RTK
 Keyword: pupil
 Clue: not a young student; iris and pupil
 Kanji: 瞳
-Story: The _juvenile_ offender, they brought in, was clearly on drugs, his _eyes_ bloodshot and _pupils_ like saucers.
+Story: The _juvenile_ offender, they brought in, was clearly on drugs, his _eyes_ bloodshot and **pupils** like saucers.
 Note:
 <!--ID: 1787001529041-->
 END
@@ -4865,8 +4865,8 @@ Japanese RTK
 Keyword: compare
 Clue:
 Kanji: 比
-Story: Compare these two spoons, the one on the left looks odd.
-Note: the left side of 比 is a single レ stroke. Stoke order is same for both.
+Story: **Compare** these two _spoons_, the one on the left looks odd.
+Note: the left side of 比 is a single レ stroke. Stroke order is same for both.
 But the 一 and the ノ are in different directions!
 <!--ID: 1787089331929-->
 END
@@ -4916,7 +4916,7 @@ Japanese RTK
 Keyword: mix
 Clue:
 Kanji: 混
-Story: Deep in the dark waters, men and fish mixed and their descendants were mermaids.
+Story: Deep in the dark _waters_, men and fish **mixed** and their _descendants_ were mermaids.
 Note: Japanese merpeople are 人魚 (にんぎょ).
 <!--ID: 1787089331935-->
 END
@@ -4966,7 +4966,7 @@ Japanese RTK
 Keyword: kudzu
 Clue:
 Kanji: 葛
-Story: Kudzu is a (pre jōyō) flowering plant that never takes a _siesta_, it grows continuously and has taken over much of the US South.
+Story: **Kudzu** is a (pre jōyō) _flowering_ plant that never takes a _siesta_, it grows continuously and has taken over much of the US South.
 Note: a 2010 jōyō kanji where the 亾  (人 and 乚) hasn't been simplified to 匕.
 <!--ID: 1787089331940-->
 END
@@ -5221,7 +5221,7 @@ Japanese RTK
 Keyword: divide
 Clue:
 Kanji: 剖
-Story: The psychopath said "when you divide someone in two, there'll be a lot of screaming, so _muzzle_ them first before using the _saber_!"
+Story: The psychopath said "when you **divide** someone in two, there'll be a lot of screaming, so _muzzle_ them first before using the _saber_!"
 Note:
 <!--ID: 1787171539011-->
 END
@@ -5392,7 +5392,7 @@ Japanese RTK
 Keyword: call on
 Clue:
 Kanji: 訪
-Story: She'd left her calling card, with _directions_, and he _called on_ her next day, but the clever _words_ he'd rehearsed just came out as a stammer.
+Story: She'd left her calling card, with _directions_, and he **called on** her next day, but the clever _words_ he'd rehearsed just came out as a stammer.
 Note:
 <!--ID: 1787419651719-->
 END
@@ -5455,4 +5455,205 @@ Kanji: 曽
 Story: This building site was **formerly** a rice _field_, where an ox with gigantic _horns_ ploughed all _day_.
 Note: primitive meaning _increase_ (from being the right side of the kanji 増 meaning increase).
 <!--ID: 1787419651725-->
+END
+
+START
+Japanese RTK
+Keyword: increase
+Clue:
+Kanji: 増
+Story: To **increase** the size of your kingdom, you must seize _land_ that was _formerly_ somebody else's.
+Note:
+<!--ID: 1787498984117-->
+END
+
+START
+Japanese RTK
+Keyword: presents
+Clue:
+Kanji: 贈
+Story: The amount of _clams_ needed to buy **presents** _increases_ every year.
+Note:
+<!--ID: 1787498984119-->
+END
+
+START
+Japanese RTK
+Keyword: east
+Clue:
+Kanji: 東
+Story: The _sun_ piercing through a _tree_ as it rises in the **east**.
+Note: primitive meaning _east_ and _the East_ (the Orient).
+<!--ID: 1787498984120-->
+END
+
+START
+Japanese RTK
+Keyword: ridgepole
+Clue:
+Kanji: 棟
+Story: It's auspicious to have the _wooden_ **ridgepole** of your house pointing _east_.
+Note: the horizontal beam where the roof's two sloping sides meet.
+<!--ID: 1787498984121-->
+END
+
+START
+Japanese RTK
+Keyword: frozen
+Clue:
+Kanji: 凍
+Story: Yakutsk, in the far _east_ of Siberia, is the coldest city on Earth, and stays **frozen** under _ice_ eight months of the year.
+Note:
+<!--ID: 1787498984122-->
+END
+
+START
+Japanese RTK
+Keyword: pregnancy
+Clue:
+Kanji: 妊
+Story: During **pregnancy**, a _woman_ becomes a _porter_, bearing the load of her unborn child (imagine her in porter's uniform and cap to help it stick).
+Note: introduces the non-jōyō kanji 壬 meaning _porter_ (the ノ is a load the 士 carries when serving as his master's _porter_).
+Cf. 土, 王, 士 and 壬
+<!--ID: 1787498984123-->
+END
+
+START
+Japanese RTK
+Keyword: courts
+Clue:
+Kanji: 廷
+Story: The **courts** ordered the _porter stretched_ to death on the rack for murdering his master.
+Note:
+<!--ID: 1787498984124-->
+END
+
+START
+Japanese RTK
+Keyword: dye
+Clue:
+Kanji: 染
+Story: To make this unusual **dye**, I used _water_ and the barks of _nine_ different _trees_.
+Note:
+<!--ID: 1787498984125-->
+END
+
+START
+Japanese RTK
+Keyword: burn
+Clue:
+Kanji: 燃
+Story: _Fire_ **burns** pretty much any _sort of thing_.
+Note:
+<!--ID: 1787498984126-->
+END
+
+START
+Japanese RTK
+Keyword: VIP
+Clue:
+Kanji: 賓
+Story: The top floor of our illustrious _house_, with its gilded _ceiling_, is reserved for **VIPs**; _few_ can afford the _clams_ needed.
+Note:
+<!--ID: 1787498984127-->
+END
+
+START
+Japanese RTK
+Keyword: year-end
+Clue:
+Kanji: 歳
+Story: At **year-end**, the elves _stopped_ working and celebrated with a _little march_.
+Note:
+<!--ID: 1787498984128-->
+END
+
+START
+Japanese RTK
+Keyword: prefecture
+Clue:
+Kanji: 県
+Story: In Japan, there's a weird **prefecture** that's known for selling _eyes_ on _little_ fish _hooks_ as delicacies!
+Note:
+<!--ID: 1787498984129-->
+END
+
+START
+Japanese RTK
+Keyword: horse chestnut
+Clue: not CHESTNUT
+Kanji: 栃
+Story: The _trees_ at the top of the _cliff_ drop over 10,000 **horse chestnuts** a year; the resulting conkers roll off the _cliff_, killing people, but nobody does anything!
+Note: a CHESTNUT (栗) is edible whereas a **horse chestnut** is for conkers (and is mildly poisonous).
+<!--ID: 1787498984130-->
+END
+
+START
+Japanese RTK
+Keyword: ground
+Clue: not SOIL
+Kanji: 地
+Story: They'd laid the **ground** with _scorpion_ mines, burying a live _scorpion_ every meter or so in the _soil_, ready to jump up.
+Note: introduces the non-jōyō kanji 也 meaning _scorpion_ (a pictogram with a final barbed hook as its tail).
+<!--ID: 1787498984131-->
+END
+
+START
+Japanese RTK
+Keyword: pond
+Clue: not LAKE
+Kanji: 池
+Story: The _scorpion_ asked the turtle to carry him across the **pond**, but halfway across the _water_ he stung him in the neck and they both sank to the bottom.
+Note:
+<!--ID: 1787498984132-->
+END
+
+START
+Japanese RTK
+Keyword: insect
+Clue:
+Kanji: 虫
+Story: [no story - 中 is a mosquito sucking blood from an arm with hand]
+Note:
+<!--ID: 1787498984133-->
+END
+
+START
+Japanese RTK
+Keyword: firefly
+Clue:
+Kanji: 蛍
+Story: Q: who's the smartest _insect_ in the _schoolhouse_? A: the **firefly**; because he's the brightest!
+Note: Heisig uses the American term "lightning bug".
+<!--ID: 1787498984134-->
+END
+
+START
+Japanese RTK
+Keyword: snake
+Clue:
+Kanji: 蛇
+Story: My **snake** is *house*-trained and eats his _insects_ with a _spoon_, daintily held using the tip of his tail.
+Note:
+<!--ID: 1787498984135-->
+END
+
+START
+Japanese RTK
+Keyword: rainbow
+Clue:
+Kanji: 虹
+Story: Trillions of colorful _insects_ are needed to _craft_ the **rainbows** the fairy queen loves.
+Note:
+<!--ID: 1787498984136-->
+END
+
+START
+Japanese RTK
+Keyword: butterfly
+Clue:
+Kanji: 蝶
+Story: Monarch **butterflies** are amazing _insects_, it takes many _generations_ to complete the migration to the _trees_ of Mexico where they survive the winter.
+Note:
+<!--ID: 1787498984137-->
 END
