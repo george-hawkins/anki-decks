@@ -5585,6 +5585,7 @@ Clue: not CHESTNUT
 Kanji: 栃
 Story: The _trees_ at the top of the _cliff_ drop over 10,000 **horse chestnuts** a year; the resulting conkers roll off the _cliff_, killing people, but nobody does anything!
 Note: a CHESTNUT (栗) is edible whereas a **horse chestnut** is for conkers (and is mildly poisonous).
+Watch out the 一 of cliff is really a ノ with its stroke direction.
 <!--ID: 1787498984130-->
 END
 
@@ -5656,4 +5657,208 @@ Kanji: 蝶
 Story: Monarch **butterflies** are amazing _insects_, it takes many _generations_ to complete the migration to the _trees_ of Mexico where they survive the winter.
 Note:
 <!--ID: 1787498984137-->
+END
+
+START
+Japanese RTK
+Keyword: single
+Clue:
+Kanji: 独
+Story: His bachelor pad looked like a _pack of wild dogs_ lived there, the kitchen was crawling with _insects_. No wonder he's **single**.
+Note:
+<!--ID: 1787604563361-->
+END
+
+START
+Japanese RTK
+Keyword: silkworm
+Clue:
+Kanji: 蚕
+Story: The **silkworm** is an _insect_ that produces a fabric worthy of the _heavens_ above.
+Note:
+<!--ID: 1787604563365-->
+END
+
+START
+Japanese RTK
+Keyword: wind
+Clue:
+Kanji: 風
+Story: A cloud of _gnats_ hangs in the air, but one _drop_ of **wind** and they all disappear.
+Note: Heisig calls the 䖝 bit a _gnat_, but doesn't call it a (non-kanji) primitive. It only appears again in 属 (much later).
+<!--ID: 1787604563367-->
+END
+
+START
+Japanese RTK
+Keyword: self
+Clue: not ONESELF
+Kanji: 己
+Story: When superman looks at him**self** in the mirror, this is what he sees, the S is actually for **self**, not for superman!
+Note: primitive meaning _snake_.
+Keep distinct from archaic I (吾) and ONESELF (自).
+自 is "by one's own actions," e.g. 自転車 (bike), while 己 is "one's personal identity," e.g. 利己 (egoism).
+<!--ID: 1787604563368-->
+END
+
+START
+Japanese RTK
+Keyword: rouse
+Clue:
+Kanji: 起
+Story: The screams of "_Run! Snake!_" **roused** us all with a start from our sleep.
+Note:
+<!--ID: 1787604563369-->
+END
+
+START
+Japanese RTK
+Keyword: queen
+Clue:
+Kanji: 妃
+Story: "**Queen** Cleopatra? Isn't she that woman who committed suicide with the help of a _snake_?" asked the ignorant Roman.
+Note:
+<!--ID: 1787604563370-->
+END
+
+START
+Japanese RTK
+Keyword: reformation
+Clue:
+Kanji: 改
+Story: The Slytherin (_snake_ symbol) _taskmaster_ planned a complete **reformation** of Hogwarts, expelling all he considered mudbloods.
+Note: 改 is not a religious **reformation**, it's secular and its unclear why Heisig didn't just use "reform".
+<!--ID: 1787604563371-->
+END
+
+START
+Japanese RTK
+Keyword: scribe
+Clue:
+Kanji: 記
+Story: **Scribes** are very popular with _snakes_ - lacking hands, they need one if they want their _words_ written down.
+Note:
+<!--ID: 1787604563372-->
+END
+
+START
+Japanese RTK
+Keyword: wrap
+Clue:
+Kanji: 包
+Story: The _snake bound up_ his prey by **wrapping** his body around it.
+Note: to avoid confusion with similar words, always think of the "snake coiled about it" when using _wrap_ as a primitive.
+<!--ID: 1787604563373-->
+END
+
+START
+Japanese RTK
+Keyword: placenta
+Clue:
+Kanji: 胞
+Story: The **placenta** (and the coiled snake of umbilical cord) is the _part of the body_ that _wraps_ the unborn baby.
+Note:
+<!--ID: 1787604563374-->
+END
+
+START
+Japanese RTK
+Keyword: cannon
+Clue:
+Kanji: 砲
+Story: Early _cannons_ fired _stones wrapped_ with poisonous snakes.
+Note:
+<!--ID: 1787604563375-->
+END
+
+START
+Japanese RTK
+Keyword: bubble
+Clue:
+Kanji: 泡
+Story: **Bubbles** are just air _wrapped_ up in a thin film of soapy _water_.
+Note:
+<!--ID: 1787604563376-->
+END
+
+START
+Japanese RTK
+Keyword: tortoise
+Clue: not PORTENT
+Kanji: 亀
+Story: Hard to believe, but the tortoise is a genetic cross with the head of a _fish_ and the tail of an _eel_ (where the shell comes from nobody knows).
+Note: not PORTENT (兆) or _turtle_ (⺦).
+Stoke-wise, it's PROSPEROUS (昌) with a final 乚 skewering both suns.
+The bottom (田 and 乚) has primitive meaning _eel_.
+<!--ID: 1787604563377-->
+END
+
+START
+Japanese RTK
+Keyword: electricity
+Clue:
+Kanji: 電
+Story: Before modern times, all **electricity** was either from electric _eels_ or from lightning during _rain_ storms.
+Note:
+<!--ID: 1787604563378-->
+END
+
+START
+Japanese RTK
+Keyword: dragon
+Clue:
+Kanji: 竜
+Story: The **dragon** demanded a _vase_ full of _eels_ every day or he'd destroy the village.
+Note:
+<!--ID: 1787604563379-->
+END
+
+START
+Japanese RTK
+Keyword: waterfall
+Clue:
+Kanji: 滝
+Story: Behind every great **waterfall** lives a mighty _dragon_ and it's he who makes the _water_ roar.
+Note:
+<!--ID: 1787604563380-->
+END
+
+START
+Japanese RTK
+Keyword: pork
+Clue:
+Kanji: 豚
+Story: **Pork** is the _flesh_ cut from a dead _sow_.
+Note: introduces the non-kanji primitive 豕 meaning _sow_ (think fat mother pig).
+<!--ID: 1787604563381-->
+END
+
+START
+Japanese RTK
+Keyword: pursue
+Clue:
+Kanji: 逐
+Story: _Miss Piggy_ (everyone's favorite _sow_) **pursued** poor Kermit as he fled down the _road_.
+Note:
+<!--ID: 1787604563382-->
+END
+
+START
+Japanese RTK
+Keyword: consummate
+Clue:
+Kanji: 遂
+Story: The sow may not have horns, but her tusks were just as deadly and she wanted the marriage consummated right now; she hauled her new husband off the road and into the bushes.
+Note:
+<!--ID: 1787604563383-->
+END
+
+START
+Japanese RTK
+Keyword: house
+Clue:
+Kanji: 家
+Story: In olden times, a family that owned a **house** and at least one _sow_ could consider itself truly successful.
+Note:
+<!--ID: 1787604563384-->
 END
