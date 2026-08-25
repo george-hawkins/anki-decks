@@ -743,7 +743,7 @@ Keyword: neck
 Clue:
 Kanji: 首
 Story: Under the moose's _horns_ was his long _nose_ and under that his long **neck**.
-Note: _horns_ can't be free-floating, so a pointless horizontal stroke is added.
+Note: _horns_ (丷) can't be free-floating, so a pointless horizontal stroke is added.
 <!--ID: 1784987896480-->
 END
 
@@ -5716,7 +5716,7 @@ Japanese RTK
 Keyword: queen
 Clue:
 Kanji: 妃
-Story: "**Queen** Cleopatra? Isn't she that woman who committed suicide with the help of a _snake_?" asked the ignorant Roman.
+Story: "**Queen** Cleopatra? Isn't she that _woman_ who committed suicide with the help of a _snake_?" asked the ignorant Roman.
 Note:
 <!--ID: 1787604563370-->
 END
@@ -5727,7 +5727,7 @@ Keyword: reformation
 Clue:
 Kanji: 改
 Story: The Slytherin (_snake_ symbol) _taskmaster_ planned a complete **reformation** of Hogwarts, expelling all he considered mudbloods.
-Note: 改 is not a religious **reformation**, it's secular and its unclear why Heisig didn't just use "reform".
+Note: 改 is not a religious **reformation**, it's secular and it's unclear why Heisig didn't just use "reform".
 <!--ID: 1787604563371-->
 END
 
@@ -5766,7 +5766,7 @@ Japanese RTK
 Keyword: cannon
 Clue:
 Kanji: 砲
-Story: Early _cannons_ fired _stones wrapped_ with poisonous snakes.
+Story: Early **cannons** fired _stones wrapped_ with poisonous snakes.
 Note:
 <!--ID: 1787604563375-->
 END
@@ -5786,9 +5786,9 @@ Japanese RTK
 Keyword: tortoise
 Clue: not PORTENT
 Kanji: 亀
-Story: Hard to believe, but the tortoise is a genetic cross with the head of a _fish_ and the tail of an _eel_ (where the shell comes from nobody knows).
+Story: Hard to believe, but the **tortoise** is a genetic cross with the head of a _fish_ and the tail of an _eel_ (where the shell comes from nobody knows).
 Note: not PORTENT (兆) or _turtle_ (⺦).
-Stoke-wise, it's PROSPEROUS (昌) with a final 乚 skewering both suns.
+Stroke-wise, it's PROSPEROUS (昌) with a final 乚 skewering both suns.
 The bottom (田 and 乚) has primitive meaning _eel_.
 <!--ID: 1787604563377-->
 END
@@ -5848,7 +5848,7 @@ Japanese RTK
 Keyword: consummate
 Clue:
 Kanji: 遂
-Story: The sow may not have horns, but her tusks were just as deadly and she wanted the marriage consummated right now; she hauled her new husband off the road and into the bushes.
+Story: The _sow_ may not have _horns_, but her tusks were just as deadly and she wanted the marriage **consummated** right now; she hauled her new husband off the _road_ and into the bushes.
 Note:
 <!--ID: 1787604563383-->
 END
@@ -5861,4 +5861,206 @@ Kanji: 家
 Story: In olden times, a family that owned a **house** and at least one _sow_ could consider itself truly successful.
 Note:
 <!--ID: 1787604563384-->
+END
+
+START
+Japanese RTK
+Keyword: marry into
+Clue: not MARRIAGE or MATRIMONY
+Kanji: 嫁
+Story: Traditionally, a _woman_ would **marry into** the _household_ of her husband.
+Note: notice how marriage-related kanji generally feature 女: BRIDEGROOM (婿), MATRIMONY (姻), MARRIAGE (婚) and **marry into** (嫁).
+<!--ID: 1787692723680-->
+END
+
+START
+Japanese RTK
+Keyword: overpowering
+Clue:
+Kanji: 豪
+Story: _Crowned_ champion of the show, that _sow_ was _taller_ than all the rest and her smell was completely **overpowering**.
+Note:
+<!--ID: 1787692723685-->
+END
+
+START
+Japanese RTK
+Keyword: intestines
+Clue:
+Kanji: 腸
+Story: In my nightmare, I smashed my _piggy bank_ and **intestines** and other _flesh_ slopped out instead of coins.
+Note: introduces two non-kanji primitives: the bottom bit of 昜 (the abbreviated _sow_) meaning _piglets_ and 昜 meaning _piggy bank_ (every*day* putting pennies in the _piglet_).
+<!--ID: 1787692723686-->
+END
+
+START
+Japanese RTK
+Keyword: location
+Clue: not PLACE
+Kanji: 場
+Story: I found the perfect **location** to bury my _piggy bank_ and marked the spot with a pile of loose _soil_.
+Note: don't confuse **location** (場) and PLACE (所).
+<!--ID: 1787692723687-->
+END
+
+START
+Japanese RTK
+Keyword: hot water
+Clue:
+Kanji: 湯
+Story: I boil **hot water** with my kettle that's bright pink and shaped like a _piggy bank_; it squeals when the _water_ is hot.
+Note:
+<!--ID: 1787692723688-->
+END
+
+START
+Japanese RTK
+Keyword: sheep
+Clue:
+Kanji: 羊
+Story: [no story - think head (丷 and 一) and neck, four legs and tail (キ)]
+Note: like COW (⺧), **sheep** loses its tail (⺷) when above another element.
+And the stroke order changes, the 丨 of 羊 skewers at the end, while ⺷ is drawn like 王.
+<!--ID: 1787692723689-->
+END
+
+START
+Japanese RTK
+Keyword: beauty
+Clue:
+Kanji: 美
+Story: It's turns out, it's not just the Welsh whose idea of **beauty** is a _large sheep_!
+Note: drawn as 丷, 王 and 大
+<!--ID: 1787692723690-->
+END
+
+START
+Japanese RTK
+Keyword: ocean
+Clue: not SEA
+Kanji: 洋
+Story: Out on the **ocean**, the _water_ as far as the horizon, was dotted with white crests, like fields of grazing _sheep_.
+Note:
+<!--ID: 1787692723691-->
+END
+
+START
+Japanese RTK
+Keyword: detailed
+Clue:
+Kanji: 詳
+Story: Trembling all over, the _sheep_ gave the detective a very **detailed** account of the wolf attack; in his own _words_, he described how he lost an ear, but was saved by the _sheep_ dog.
+Note:
+<!--ID: 1787692723692-->
+END
+
+START
+Japanese RTK
+Keyword: fresh
+Clue:
+Kanji: 鮮
+Story: _Fish_ and _sheep_ meat are two foods you must always buy **fresh** (in fact the "f" in **fresh** is for _fish_ and "sh" for _sheep_)!
+Note:
+<!--ID: 1787692723693-->
+END
+
+START
+Japanese RTK
+Keyword: accomplished
+Clue:
+Kanji: 達
+Story: The _sheep_ ran off down the _road_, covered in _dirt_ after having dug her way to freedom. That sheep has **accomplished** much and will **accomplish** more.
+Note:
+<!--ID: 1787692723694-->
+END
+
+START
+Japanese RTK
+Keyword: envious
+Clue:
+Kanji: 羨
+Story: A _sheep_ that _lacks water_ will be terribly **envious** of those who have it!
+Note: don't confuse NEXT (次) and 㳄 (not a kanji).
+<!--ID: 1787692723695-->
+END
+
+START
+Japanese RTK
+Keyword: distinction
+Clue:
+Kanji: 差
+Story: Every Aran sweater starts with the same _wool_; the **distinction** that doubles the price is the _craft_ that goes into it.
+Note: introduces the non-kanji primitive ⺶ meaning _wool_ (the shearer hold the tail of 羊 to the side while trimming off the _wool_).
+<!--ID: 1787692723696-->
+END
+
+START
+Japanese RTK
+Keyword: don
+Clue:
+Kanji: 着
+Story: If you pull the _wool_ over someone else's _eyes_, you're a conman; pull it over your own and you're simply **donning** a sweater.
+Note:
+<!--ID: 1787692723697-->
+END
+
+START
+Japanese RTK
+Keyword: solely
+Clue:
+Kanji: 唯
+Story: On Christmas Day, my _mouth_ is used **solely** to gobble up _turkey_.
+Note: introduces the non-kanji primitive 隹 meaning _turkey_ (the 亻 is its head and drooping chin, the rest its body).
+Practice the stroke order, it's 亻 followed by 主 (but with ⼃ rather than 丶 and one extra 一).
+<!--ID: 1787692723698-->
+END
+
+START
+Japanese RTK
+Keyword: piled high
+Clue:
+Kanji: 堆
+Story: After our pre-Christmas massacre, the corpses of _turkeys_ were **piled high** on the _soil_ of the farmyard.
+Note:
+<!--ID: 1787692723699-->
+END
+
+START
+Japanese RTK
+Keyword: sweet oak
+Clue:
+Kanji: 椎
+Story: The _turkeys_ flocked around the shii _tree_ to gobble up the **sweet oaky** shiitake mushrooms growing on it.
+Note: there's no tree called a "sweet oak" - the 椎 (shii) tree looks like an oak, but has sweet nuts. 椎茸 (shiitake, lit. "shii mushroom") are the mushrooms that grow on this tree.
+<!--ID: 1787692723700-->
+END
+
+START
+Japanese RTK
+Keyword: who
+Clue:
+Kanji: 誰
+Story: I thought I heard _words_ and shouted "**who**'s there?" but it was only a _turkey_, in the bushes, going gobble gobble.
+Note:
+<!--ID: 1787692723701-->
+END
+
+START
+Japanese RTK
+Keyword: char
+Clue: lightly scorch
+Kanji: 焦
+Story: The Christmas dinner was ruined, the _turkey_ had been left far too long in the _oven_ and was **charred** beyond recognition.
+Note:
+<!--ID: 1787692723702-->
+END
+
+START
+Japanese RTK
+Keyword: reef
+Clue:
+Kanji: 礁
+Story: Many once beautiful coral **reefs** are now _charred_ ruins, just _stones_ and bleached remains - all thanks to global warming.
+Note:
+<!--ID: 1787692723703-->
 END

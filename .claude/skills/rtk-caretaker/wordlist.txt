@@ -29,9 +29,11 @@ rin
 romaji
 rtk
 sashimi
+shii
 wanikani
 
 # --- names, places, brands, pop culture ---
+aran
 balrog
 bezos
 boromir
@@ -56,6 +58,7 @@ paulownia
 pinocchio
 sauron
 schwester
+slytherin
 valser
 yakutsk
 zelda
@@ -68,6 +71,7 @@ dwarves
 else's
 illiquid
 merpeople
+mudbloods
 narco
 oaky
 pre

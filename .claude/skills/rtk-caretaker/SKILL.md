@@ -214,8 +214,8 @@ something false — but choosing the repair is the user's:
   that is not the jōyō form.
 
 These are not suggestions. Report them first, say plainly that the deck stays
-broken until each is resolved, and offer the repair you would make — but do not
-apply it.
+broken until each is resolved, and name the repair you would make — but do not
+apply it and do not ask to.
 
 **3. Judgment calls.** Arguably off, and reasonable people could leave them:
 missing or phantom components, a keyword that appears nowhere in the story,
@@ -228,9 +228,14 @@ leeway, not a hard invariant.
 Piles 2 and 3 are the report. Most serious first, one line each:
 `rtk1-v6.md:LINE` + `#card 漢 [keyword]` + what is wrong + the concrete fix,
 quoting the replacement story text where a rewrite is the answer. Group
-identical findings instead of repeating the explanation, and never apply one of
-these without the user's go-ahead — even when they have blanket-approved
-"fix the mechanical stuff".
+identical findings instead of repeating the explanation.
+
+**Applying piles 2 and 3 is not your job.** Report them and stop. Don't apply
+them, don't offer to, and don't close by asking which ones the user wants done
+— they do the applying themselves, in their own time, and an unanswered
+question just adds a round trip. A later message asking you to make a specific
+change is of course an instruction like any other; a blanket "fix the
+mechanical stuff" is not.
 
 Close with a one-line tally that includes the count of fixes you applied. If the
 deck is clean, say so plainly. Don't paste the script's raw output back at the
