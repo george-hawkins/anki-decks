@@ -235,7 +235,7 @@ END
 START
 Japanese RTK
 Keyword: spine
-Clue:
+Clue: not SPINAL COLUMN
 Kanji: 呂
 Story: Two vertebrae in the **spine** linked by a single stroke.
 Note:
@@ -371,7 +371,7 @@ Keyword: white
 Clue:
 Kanji: 白
 Story: A _drop_ of _sun_ is a **white** ray.
-Note:
+Note: primitive meaning _white_ or _white bird_ or _dove_.
 <!--ID: 1784809271279-->
 END
 
@@ -529,7 +529,7 @@ END
 START
 Japanese RTK
 Keyword: morning
-Clue:
+Clue: not EARLY
 Kanji: 朝
 Story: In the **morning**, the _mist_ and _moon_ fade away.
 Note: introduces the non-kanji primitive 𠦝 meaning _mist_ (_mist_ falls _early_ in the morning, like little _needles_ of rain, to assure that the _sunflower_ blooms _early_).
@@ -5273,14 +5273,14 @@ Clue:
 Kanji: 鏡
 Story: She _stood_ in front of the _golden_ **mirror**, her own _tongue wagging_ in admiration of her beautiful _(human) legs_; "Who is the fairest?"
 Note: the right half (the non-jōyō kanji 竟) also means **mirror** as a primitive.
-It's not a 見 in 竟, that's a 日
+It's not a  目in 竟, it's a 日
 <!--ID: 1787420436185-->
 END
 
 START
 Japanese RTK
 Keyword: boundary
-Clue:
+Clue: not HEDGE
 Kanji: 境
 Story: He placed _mirrors_ all around the **boundary** of the _ground_ that made up his tiny urban garden to make it feel much bigger.
 Note:
@@ -5502,7 +5502,7 @@ Japanese RTK
 Keyword: frozen
 Clue:
 Kanji: 凍
-Story: Yakutsk, in the far _east_ of Siberia, is the coldest city on Earth, and stays **frozen** under _ice_ eight months of the year.
+Story: Yakutsk, in the **frozen** far _east_ (of Siberia), is covered in _ice_ 8 months of the year.
 Note:
 <!--ID: 1787498984122-->
 END
@@ -5512,7 +5512,7 @@ Japanese RTK
 Keyword: pregnancy
 Clue:
 Kanji: 妊
-Story: During **pregnancy**, a _woman_ becomes a _porter_, bearing the load of her unborn child (imagine her in porter's uniform and cap to help it stick).
+Story: During **pregnancy**, a _woman_ becomes a _porter_, bearing the load of her unborn child.
 Note: introduces the non-jōyō kanji 壬 meaning _porter_ (the ノ is a load the 士 carries when serving as his master's _porter_).
 Cf. 土, 王, 士 and 壬
 <!--ID: 1787498984123-->
@@ -5632,7 +5632,7 @@ END
 START
 Japanese RTK
 Keyword: snake
-Clue:
+Clue: not SELF
 Kanji: 蛇
 Story: My **snake** is *house*-trained and eats his _insects_ with a _spoon_, daintily held using the tip of his tail.
 Note:
@@ -5929,7 +5929,7 @@ Japanese RTK
 Keyword: beauty
 Clue:
 Kanji: 美
-Story: It's turns out, it's not just the Welsh whose idea of **beauty** is a _large sheep_!
+Story: It turns out, it's not just the Welsh whose idea of **beauty** is a _large sheep_!
 Note: drawn as 丷, 王 and 大
 <!--ID: 1787692723690-->
 END
@@ -6063,4 +6063,212 @@ Kanji: 礁
 Story: Many once beautiful coral **reefs** are now _charred_ ruins, just _stones_ and bleached remains - all thanks to global warming.
 Note:
 <!--ID: 1787692723703-->
+END
+
+START
+Japanese RTK
+Keyword: gather
+Clue:
+Kanji: 集
+Story: The smarter than usual _turkeys_ **gathered** on top of a _tree_ to plan their escape from the Christmas slaughter.
+Note:
+<!--ID: 1787857655608-->
+END
+
+START
+Japanese RTK
+Keyword: quasi-
+Clue: not SEMI-
+Kanji: 准
+Story: Our **quasi**-religious rite, each Christmas, involves hauling the _turkey_ out of the freezer _ice_.
+Note: where quasi- comes into things isn't clear, 准教授 (associate professor) is the only common word with this kanji.
+<!--ID: 1787857655611-->
+END
+
+START
+Japanese RTK
+Keyword: advance
+Clue:
+Kanji: 進
+Story: Their commander shouted "**Advance** brave _turkeys_!" And they stormed down the _road_ to death and glory.
+Note:
+<!--ID: 1787857655612-->
+END
+
+START
+Japanese RTK
+Keyword: miscellaneous
+Clue:
+Kanji: 雑
+Story: _Nine wooden turkeys_ were among the **miscellaneous** heap of items at the lost and found.
+Note:
+<!--ID: 1787857655613-->
+END
+
+START
+Japanese RTK
+Keyword: female
+Clue: gender
+Kanji: 雌
+Story: For all I knew it could have been the _footprint_ of a _spoon_, but the tracker said it was definitely a small **female** _turkey_.
+Note: MALE (雄) also features a _turkey_, but is introduced much later.
+<!--ID: 1787857655614-->
+END
+
+START
+Japanese RTK
+Keyword: semi-
+Clue: not QUASI-
+Kanji: 準
+Story: At the *turkey*-fighting **semi**-final, each turkey gets a _needle_ full of steroids and a bucket of _water_ over the head to keep them in the ring.
+Note:
+<!--ID: 1787857655615-->
+END
+
+START
+Japanese RTK
+Keyword: stirred up
+Clue:
+Kanji: 奮
+Story: The _St. Bernard_ **stirred up** a flock of _turkeys_. Catching one, he split its head open and its _brains_ spilled onto the rice _field_.
+Note:
+<!--ID: 1787857655616-->
+END
+
+START
+Japanese RTK
+Keyword: rob
+Clue: not BURGLARY
+Kanji: 奪
+Story: The neighbor's _St. Bernard_ tried to **rob** our _turkey_, so we just _glued_ it down.
+Note: BURGLARY (賊) is clandestine appropriation, **rob** is taking by force.
+<!--ID: 1787857655617-->
+END
+
+START
+Japanese RTK
+Keyword: assurance
+Clue:
+Kanji: 確
+Story: A _turkey coop_ with _rock_ walls a metre thick, the only **assurance** that the fox won't get in!
+Note: introduces the non-jōyō kanji primitive 隺 meaning _turkey coop_.
+Stroke-wise, it's a 冖 rather than a 宀, the ノ is part of the 隹
+<!--ID: 1787857655618-->
+END
+
+START
+Japanese RTK
+Keyword: noon
+Clue:
+Kanji: 午
+Story: **Noon** is a good time to _lie down_ and take a _ten_ minute nap.
+Note: primitive meaning _horse_.
+Remember 𠂉 for _lie down_. Stroke-wise, it's 午
+Cf. **noon** (午) and COW (牛). 午 is the Chinese zodiac sign for the horse, but 馬 is the kanji for HORSE.
+<!--ID: 1787857655619-->
+END
+
+START
+Japanese RTK
+Keyword: permit
+Clue:
+Kanji: 許
+Story: Say the right _words_ and I'll **permit** you to ride my _horse_ - "please" would be a good start.
+Note:
+<!--ID: 1787857655620-->
+END
+
+START
+Japanese RTK
+Keyword: delight
+Clue:
+Kanji: 歓
+Story: The small children shrieked with **delight** when the _Pegasus_ landed; the older kids just _yawned_.
+Note: introduces the non-kanji primitive (the right half of 権) meaning _Pegasus_ (the last stroke of 午 becomes the first of 隹).
+<!--ID: 1787857655621-->
+END
+
+START
+Japanese RTK
+Keyword: authority
+Clue:
+Kanji: 権
+Story: The _trees_ have **authority** over the forest, and _Pegasus_ has **authority** over the skies.
+Note:
+<!--ID: 1787857655622-->
+END
+
+START
+Japanese RTK
+Keyword: outlook
+Clue:
+Kanji: 観
+Story: Your **outlook** on life changes completely once you _see_ your first flying horse, like _Pegasus_, and discover magic is real!
+Note:
+<!--ID: 1787857655623-->
+END
+
+START
+Japanese RTK
+Keyword: feathers
+Clue:
+Kanji: 羽
+Story: Looks like two angel wings full of **feathers**.
+Note: primitive meaning _feathers_ or _wings_.
+Sometime has a normal compact look, as in 習, or more compact when combined with _turkey_, as in 曜
+<!--ID: 1787857655624-->
+END
+
+START
+Japanese RTK
+Keyword: learn
+Clue:
+Kanji: 習
+Story: The wise old owl, with his beautiful _white wings_, had **learned** a thing or two in life.
+Note:
+<!--ID: 1787857655625-->
+END
+
+START
+Japanese RTK
+Keyword: the following
+Clue: not NEXT
+Kanji: 翌
+Story: The mysterious note said "bring **the following**: two _feathers_, one _vase_ and no questions!"
+Note:
+<!--ID: 1787857655626-->
+END
+
+START
+Japanese RTK
+Keyword: weekday
+Clue:
+Kanji: 曜
+Story: The poor farmer spends every **weekday**, while the _sun_ shines, plucking _turkey feathers_.
+Note:
+<!--ID: 1787857655627-->
+END
+
+START
+Japanese RTK
+Keyword: laundry
+Clue:
+Kanji: 濯
+Story: At the **laundry**, my duvet (made from finest _turkey feathers_) got jammed in the machine and _water_ went everywhere.
+Note:
+<!--ID: 1787857655628-->
+END
+
+START
+Japanese RTK
+Keyword: sayeth
+Clue: not SPEAKETH
+Kanji: 曰
+Story: The _wagging tongues_ started even before the judge asked "what **sayeth** the jury?"
+Note: introduces the non-kanji primitive 囗 meaning _pent in_.
+口 and 囗 are distinct radicals (mouth/opening and enclosure/perimeter).
+Animal are "penned in" (confined) while people feel "pent in" (closely confined), e.g. by a tiny apartment.
+I _suspect_ Heisig has confused "penned in" and "pent in".
+The _wagging tongue in mouth_ meaning of 日 is really from this kanji.
+<!--ID: 1787857655629-->
 END
