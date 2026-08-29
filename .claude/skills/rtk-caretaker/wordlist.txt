@@ -21,6 +21,7 @@ kanji
 katakana
 keyword
 koohii
+kuchi
 matsuri
 mnemonic
 nightbreak

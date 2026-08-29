@@ -55,7 +55,7 @@ Keyword: six
 Clue:
 Kanji: 六
 Story: [no story]
-Note: _top hat_ and _animal legs_ primitives.
+Note: _top hat_ 亠 and _animal legs_ ハ primitives.
 <!--ID: 1784740837231-->
 END
 
@@ -248,7 +248,7 @@ Keyword: prosperous
 Clue:
 Kanji: 昌
 Story: If you work from _sun up_ to _sun down_ you will be **prosperous**.
-Note:
+Note: also found in 亀, the final ⺃ strikes through the 昌
 <!--ID: 1784809271237-->
 END
 
@@ -551,7 +551,7 @@ Japanese RTK
 Keyword: only
 Clue:
 Kanji: 只
-Story: A chihuahua - it's **only** a f...ing barking _mouth_ and _legs_.
+Story: A chihuahua - it's **only** a f...ing barking _mouth_ and (animal) _legs_.
 Note: unfortunately, chihuahua has its own meaning later.
 <!--ID: 1784893865698-->
 END
@@ -1300,7 +1300,7 @@ Japanese RTK
 Keyword: sniff
 Clue:
 Kanji: 嗅
-Story: He took one **sniff** and remarked bluntly that my _mouth_ was _stinking_.
+Story: He took one **sniff** and remarked, in that blunt pre-jōyō style, that my _mouth_ was _stinking_.
 Note: here the _dog_ has his tail even though it's missing in STINKING (臭). This is a historical screw up, STINKING was added to the jōyō set at the start and simplified (dropping the tail), while 嗅 was added in 2010 when they applied different rules/reasoning.
 <!--ID: 1785271721757-->
 END
@@ -1671,7 +1671,7 @@ Japanese RTK
 Keyword: inlay
 Clue:
 Kanji: 填
-Story: The archaeologists found a brooch with beautiful gold **inlay** when digging in the _ground_ for the _truth_ about the civilization of legend.
+Story: When digging in the _ground_ for the _truth_ about the ancient civilization, the archaeologists found a brooch with beautiful gold **inlay**
 Note:
 <!--ID: 1785442542678-->
 END
@@ -1803,7 +1803,7 @@ Japanese RTK
 Keyword: disaster
 Clue:
 Kanji: 災
-Story: What a **disaster**! First came the terrible _floods_ and, just as it dried up, the raging _fire_.
+Story: What a **disaster**! First came the terrible _floods_ and, just as they dried up, the raging _fire_.
 Note:
 <!--ID: 1785442542732-->
 END
@@ -4319,7 +4319,7 @@ Keyword: pathetic
 Clue:
 Kanji: 哀
 Story: In tattered _top hat_ and _scarf_, _mouth_ gaping as he drained his gin bottle, the drunken sod was a **pathetic** sight.
-Note:
+Note: 哀 has a 亠, while 猿 has a 土
 <!--ID: 1786823467541-->
 END
 
@@ -5273,7 +5273,7 @@ Clue:
 Kanji: 鏡
 Story: She _stood_ in front of the _golden_ **mirror**, her own _tongue wagging_ in admiration of her beautiful _(human) legs_; "Who is the fairest?"
 Note: the right half (the non-jōyō kanji 竟) also means **mirror** as a primitive.
-It's not a  目in 竟, it's a 日
+It's not a 目 in 竟, it's a 日
 <!--ID: 1787420436185-->
 END
 
@@ -5878,7 +5878,7 @@ Japanese RTK
 Keyword: overpowering
 Clue:
 Kanji: 豪
-Story: _Crowned_ champion of the show, that _sow_ was _taller_ than all the rest and her smell was completely **overpowering**.
+Story: _Taller_ than all the rest, they _crowned_ that _sow_ champion of the show, despite her completely **overpowering** smell.
 Note:
 <!--ID: 1787692723685-->
 END
@@ -6100,7 +6100,7 @@ Japanese RTK
 Keyword: miscellaneous
 Clue:
 Kanji: 雑
-Story: _Nine wooden turkeys_ were among the **miscellaneous** heap of items at the lost and found.
+Story: _Nine wooden turkeys_ were among the **miscellaneous** items at the lost and found.
 Note:
 <!--ID: 1787857655613-->
 END
@@ -6268,7 +6268,211 @@ Story: The _wagging tongues_ started even before the judge asked "what **sayeth*
 Note: introduces the non-kanji primitive 囗 meaning _pent in_.
 口 and 囗 are distinct radicals (mouth/opening and enclosure/perimeter).
 Animal are "penned in" (confined) while people feel "pent in" (closely confined), e.g. by a tiny apartment.
-I _suspect_ Heisig has confused "penned in" and "pent in".
+<!-- I _suspect_ Heisig has confused "penned in" and "pent in". -->
 The _wagging tongue in mouth_ meaning of 日 is really from this kanji.
 <!--ID: 1787857655629-->
+END
+
+START
+Japanese RTK
+Keyword: quandary
+Clue:
+Kanji: 困
+Story: What a **quandary**: should you stay _pent in_ forever with the _Tree_ of Knowledge (in paradise) or head out and explore the world?
+Note:
+<!--ID: 1788016199397-->
+END
+
+START
+Japanese RTK
+Keyword: harden
+Clue:
+Kanji: 固
+Story: An _old_ loaf left _pent in_ the breadbox will **harden** into a brick.
+Note:
+<!--ID: 1788016199400-->
+END
+
+START
+Japanese RTK
+Keyword: weld
+Clue:
+Kanji: 錮
+Story: To **weld** two pieces of _metal_, you melt and fuse them and leave them to _harden_.
+Note:
+<!--ID: 1788016199401-->
+END
+
+START
+Japanese RTK
+Keyword: country
+Clue:
+Kanji: 国
+Story: A **country's** most valuable _jewels_ are usually kept safely _pent in_ (like the Crown _Jewels_ at the Tower of London).
+Note:
+<!--ID: 1788016199402-->
+END
+
+START
+Japanese RTK
+Keyword: group
+Clue:
+Kanji: 団
+Story: _Pent in_ together, the **group** might have fallen apart, but they became _glued_ together in the face of shared adversity.
+Note:
+<!--ID: 1788016199403-->
+END
+
+START
+Japanese RTK
+Keyword: cause
+Clue:
+Kanji: 因
+Story: Our _St. Bernard_ was the **cause** of a very unpleasant mess, but it was our fault, we left him _pent in_ all day.
+Note:
+<!--ID: 1788016199404-->
+END
+
+START
+Japanese RTK
+Keyword: matrimony
+Clue: not MARRIAGE or MARRY INTO
+Kanji: 姻
+Story: The _cause_ of my current state of **matrimony**? That wretched _woman_ over there and an ill-advised trip to Las Vegas.
+Note:
+<!--ID: 1788016199405-->
+END
+
+START
+Japanese RTK
+Keyword: windpipe
+Clue:
+Kanji: 咽
+Story: The Dr. told me to open my _mouth_ wide so he could examine my **windpipe** and find the _cause_ of my breathing problem.
+Note:
+<!--ID: 1788016199406-->
+END
+
+START
+Japanese RTK
+Keyword: park
+Clue:
+Kanji: 園
+Story: The **park** was _pent in_ by tall railings; I brought our picnic in a _lidded crock_ wrapped up in a _scarf_ to make it easier to carry.
+Note: the _lidded crock_ and _scarf_ already appeared in MONKEY (猿).
+<!--ID: 1788016199407-->
+END
+
+START
+Japanese RTK
+Keyword: -times
+Clue:
+Kanji: 回
+Story: How many **times** do I have to write 口 (kuchi)? Two times?
+Note:
+<!--ID: 1788016199408-->
+END
+
+START
+Japanese RTK
+Keyword: podium
+Clue:
+Kanji: 壇
+Story: At _nightbreak_, Abe Lincoln, _top hat_ on, mounted the simple **podium** of packed _soil_ and gave the speech he'd practiced many _times_ to a rapt audience.
+<!--
+The man on the **podium** announced the contest's daft rules: fill a _top hat_ with _soil_ as many times as you can before _nightbreak_.
+-->
+Note:
+<!--ID: 1788016199409-->
+END
+
+START
+Japanese RTK
+Keyword: store
+Clue: not SHOP
+Kanji: 店
+Story: The huge _cave_ was full of **stores**, but the main one belonged to a legendary _fortune teller_.
+Note: introduces the non-kanji primitive 广 meaning _cave_ (a _cliff house_).
+Heisig uses **store** for the commonly used 店 kanji and _shop_ for the more formal/historic 舗. A British English speaker might choose differently.
+<!--ID: 1788016199410-->
+END
+
+START
+Japanese RTK
+Keyword: warehouse
+Clue:
+Kanji: 庫
+Story: The smugglers used a _cave_ as a **warehouse** for stolen luxury _cars_.
+Note:
+<!--ID: 1788016199411-->
+END
+
+START
+Japanese RTK
+Keyword: courtyard
+Clue:
+Kanji: 庭
+Story: _Court_ was usually held in a _cave_, but when it collapsed, they had to move to the **courtyard**.
+Note:
+<!--ID: 1788016199412-->
+END
+
+START
+Japanese RTK
+Keyword: government office
+Clue:
+Kanji: 庁
+Story: During the dictatorship, being "invited" to a **government office** really meant being dragged to a _cave_ and being _nailed_ to the wall!
+Note:
+<!--ID: 1788016199413-->
+END
+
+START
+Japanese RTK
+Keyword: bed
+Clue:
+Kanji: 床
+Story: Apes slept in _trees_, prehistoric man in _caves_ and now we sleep in nice comfy **beds**.
+Note:
+<!--ID: 1788016199414-->
+END
+
+START
+Japanese RTK
+Keyword: hemp
+Clue:
+Kanji: 麻
+Story: The _cave_ was full of little _groves_ of **hemp** plants all carefully tended by the drug boss's minions.
+Note:
+<!--ID: 1788016199415-->
+END
+
+START
+Japanese RTK
+Keyword: grind
+Clue:
+Kanji: 磨
+Story: They **grind** the _hemp_ on a giant mill _stone_ before it's shipped to enthusiastic customers.
+Note:
+<!--ID: 1788016199416-->
+END
+
+START
+Japanese RTK
+Keyword: heart
+Clue:
+Kanji: 心
+Story: [no story - think _hook_ and three _drops_ of blood]
+Note: in its kanji form, to the right or below, 心 means _heart_, to the left and compressed to just ⺖, it means a very emotional _state of mind_, and below and compressed to ⺗ it means _valentine_.
+<!--ID: 1788016199417-->
+END
+
+START
+Japanese RTK
+Keyword: forget
+Clue:
+Kanji: 忘
+Story: To **forget** an old love means letting those memories _perish_ in your _heart_.
+Note:
+<!--ID: 1788016199418-->
 END

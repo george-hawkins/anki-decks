@@ -181,9 +181,20 @@ def parse(lines: list[str], report: Report) -> list[Card]:
     card: Card | None = None
     last_field: str | None = None
     seen_header = False
+    in_comment = False  # inside a multi-line <!-- ... --> block
 
     for lineno, raw in enumerate(lines, 1):
         text = raw.strip()
+        # Comments are allowed anywhere, on one line or spanning several, inside
+        # a card or between cards. Only <!--ID: n--> carries meaning; the rest is
+        # the author's scratch space and is skipped whole.
+        if in_comment:
+            if "-->" in text:
+                in_comment = False
+            continue
+        if text.startswith("<!--") and "-->" not in text:
+            in_comment = True
+            continue
         if text == "START":
             if card is not None:
                 report.error("F003", card.start, "START at L%d never reached an END" % card.start)
@@ -209,8 +220,7 @@ def parse(lines: list[str], report: Report) -> list[Card]:
                 if lineno != 1:
                     report.info("F001", lineno, "TARGET DECK header is not the first line")
             elif text.startswith("<!--"):
-                report.info("F002", lineno, "free-standing comment outside any card — invisible "
-                                            f"to Anki, fine as a scratch note: {text[:50]!r}")
+                pass  # a scratch note between cards; invisible to Anki
             else:
                 report.error("F002", lineno, f"text outside any card: {text[:60]!r}")
             continue
@@ -230,8 +240,8 @@ def parse(lines: list[str], report: Report) -> list[Card]:
             if m:
                 card.ids.append((lineno, int(m.group(1))))
                 card.id_last = True
-            else:
-                report.warn("C006", card, f"malformed ID comment at L{lineno}: {text[:60]!r}")
+            # any other comment is an author aside: it neither counts as an ID
+            # nor displaces one, so leave id_last alone
             continue
 
         m = FIELD_RE.match(raw)
@@ -628,6 +638,11 @@ def check_file(lines: list[str], cards: list[Card], report: Report) -> None:
 def check_structure(cards: list[Card], scope: set[int], report: Report) -> None:
     ids: dict[int, Card] = {}
     previous_id = 0
+    # Anki writes the ID back on import, so the cards still missing one are the
+    # batch added since the last import — and they can only be at the bottom of
+    # the file. A card with no ID that is followed by one that has an ID was
+    # therefore missed, not merely new.
+    last_with_id = max((c.index for c in cards if c.ids), default=0)
     for card in cards:
         in_scope = card.index in scope
         for lineno, value in card.ids:  # the ID map must span the whole deck
@@ -658,8 +673,11 @@ def check_structure(cards: list[Card], scope: set[int], report: Report) -> None:
                 report.warn("C010", card, f"L{lineno} continues the {name}: field — "
                                           "only Story and Note are ever multi-line")
         if not card.ids:
-            report.error("C006", card, "no <!--ID: ...--> comment (Anki needs it to update "
-                                       "the existing note instead of adding a duplicate)")
+            if card.index < last_with_id:
+                report.error("C006", card, "no <!--ID: ...--> comment, yet later cards have one "
+                                           "(Anki needs it to update the existing note instead "
+                                           "of adding a duplicate)")
+            # otherwise: part of the un-imported tail, which is expected
         elif len(card.ids) > 1:
             report.error("C006", card, "several ID comments: "
                                        + ", ".join(f"L{l}" for l, _ in card.ids))

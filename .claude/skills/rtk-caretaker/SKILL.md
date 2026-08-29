@@ -43,7 +43,15 @@ END
 
 - `Japanese RTK` is the note type; the five fields always appear in the order
   `Keyword, Clue, Kanji, Story, Note`; the `<!--ID: …-->` comment is Anki's note
-  id and must be unique and last.
+  id, must be unique, and must sit inside the card with no field line after it.
+- **`<!-- … -->` comments are allowed anywhere** — inside a card or between
+  cards, on one line or spanning several — and are never a finding. They are the
+  author's scratch space (a discarded story, a doubt about Heisig) and the
+  parser skips them whole. `<!--ID: …-->` is the one comment with meaning.
+- A card may lack its `<!--ID: …-->` **only if every card below it also lacks
+  one**: Anki writes the id back on import, so the id-less cards are the batch
+  added since, and they can only be at the bottom of the file. An id-less card
+  with an id-bearing card below it was missed, and that is an error.
 - **`Keyword`, `Kanji` and `Story` are mandatory and non-empty** — a card with
   no story still says `[no story]`. `Keyword` must additionally be unique across
   the deck, as must `Kanji`. These are invariants, never judgment calls: a blank
