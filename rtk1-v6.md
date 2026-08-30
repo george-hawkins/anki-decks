@@ -1671,7 +1671,7 @@ Japanese RTK
 Keyword: inlay
 Clue:
 Kanji: 填
-Story: When digging in the _ground_ for the _truth_ about the ancient civilization, the archaeologists found a brooch with beautiful gold **inlay**
+Story: When digging in the _ground_ for the _truth_ about the ancient civilization, the archaeologists found a brooch with beautiful gold **inlay**.
 Note:
 <!--ID: 1785442542678-->
 END
@@ -6475,4 +6475,204 @@ Kanji: 忘
 Story: To **forget** an old love means letting those memories _perish_ in your _heart_.
 Note:
 <!--ID: 1788016199418-->
+END
+
+START
+Japanese RTK
+Keyword: selfish
+Clue:
+Kanji: 恣
+Story: A **selfish** lover casually breaks your _heart_ and moves on to the _next_ person.
+Note:
+<!--ID: 1788102811035-->
+END
+
+START
+Japanese RTK
+Keyword: endure
+Clue:
+Kanji: 忍
+Story: The ninja **endured** long hours clinging to the ceiling before dropping silently to thrust his _blade_ into his enemy's _heart_.
+Note:
+<!--ID: 1788102811039-->
+END
+
+START
+Japanese RTK
+Keyword: acknowledge
+Clue:
+Kanji: 認
+Story: During the Cultural Revolution, people were forced to _endure_ harsh _words_ of criticism and **acknowledge** the error of their ways.
+Note:
+<!--ID: 1788102811040-->
+END
+
+START
+Japanese RTK
+Keyword: mourning
+Clue:
+Kanji: 忌
+Story: In **mourning** for Mark Antony (and fearing for her future), Cleopatra held a _snake_ to her _heart_.
+Note:
+<!--ID: 1788102811042-->
+END
+
+START
+Japanese RTK
+Keyword: intention
+Clue:
+Kanji: 志
+Story: A _samurai's_ **intentions** and _heart_ are always as one, that is bushidō.
+Note:
+<!--ID: 1788102811043-->
+END
+
+START
+Japanese RTK
+Keyword: document
+Clue:
+Kanji: 誌
+Story: This **document** is important: you must set out your _intentions_ clearly and in your own _words_.
+Note:
+<!--ID: 1788102811044-->
+END
+
+START
+Japanese RTK
+Keyword: wick
+Clue:
+Kanji: 芯
+Story: The **wick** is to a candle what the pollen filled _heart_ is to a _flower_, without it, it's pointless.
+Note:
+<!--ID: 1788102811045-->
+END
+
+START
+Japanese RTK
+Keyword: loyalty
+Clue:
+Kanji: 忠
+Story: Their true **loyalty** was hidden deep in the _middle_ of their _hearts_.
+Note:
+<!--ID: 1788102811046-->
+END
+
+START
+Japanese RTK
+Keyword: shish kebab
+Clue:
+Kanji: 串
+Story: [no story - it's a pictogram]
+Note:
+<!--ID: 1788102811047-->
+END
+
+START
+Japanese RTK
+Keyword: afflicted
+Clue:
+Kanji: 患
+Story: He was **afflicted** by Turkish vampires; they could only be killed with a _shish kebab_ through the _heart_.
+Note:
+<!--ID: 1788102811048-->
+END
+
+START
+Japanese RTK
+Keyword: think
+Clue:
+Kanji: 思
+Story: The wise **think** with both their _brains_ and their _hearts_.
+Note: cf. STOMACH (胃). Neither really involve 田: in **think**, it's a simplified non-jōyō _skull_ (囟) and in 胃, it's simplified from a 囗 containing 米
+<!--ID: 1788102811049-->
+END
+
+START
+Japanese RTK
+Keyword: grace
+Clue: something freely bestowed
+Kanji: 恩
+Story: The old woman showed true **grace** when she forgave the thief. The _cause_? Her beautiful _heart_.
+Note:
+<!--ID: 1788102811050-->
+END
+
+START
+Japanese RTK
+Keyword: apply
+Clue: ... applies / is appropriate in this context
+Kanji: 応
+Story: Two rules **apply** in a vampire bat _cave_: no torches, and never let them hear your _heart_ pounding.
+Note:
+<!--ID: 1788102811051-->
+END
+
+START
+Japanese RTK
+Keyword: idea
+Clue:
+Kanji: 意
+Story: The stethoscope is an amazing **idea**, allowing us to hear clearly the _sound_ of a patient's _heart_.
+Note:
+<!--ID: 1788102811052-->
+END
+
+START
+Japanese RTK
+Keyword: cowardice
+Clue:
+Kanji: 臆
+Story: **Cowardice** is a great _idea_ if it means saving your own _flesh_!
+Note:
+<!--ID: 1788102811053-->
+END
+
+START
+Japanese RTK
+Keyword: concept
+Clue:
+Kanji: 想
+Story: The **concept** of love in a single picture? _Hearts_ becoming *inter*twined.
+Note: remember the *inter*faith summit of 相
+<!--ID: 1788102811054-->
+END
+
+START
+Japanese RTK
+Keyword: breath
+Clue:
+Kanji: 息
+Story: Your **breath** comes in through your _nose_ and brings the oxygen your _heart_ needs.
+Note:
+<!--ID: 1788102811055-->
+END
+
+START
+Japanese RTK
+Keyword: recess
+Clue:
+Kanji: 憩
+Story: During school **recess**, little boys stick out their _tongues_ and pick their _noses_ while little girls chalk _hearts_ on the ground below.
+Note: don't mix up with 息, you don't want the _tongue_ ending on its own to the left.
+<!--ID: 1788102811056-->
+END
+
+START
+Japanese RTK
+Keyword: favor
+Clue:
+Kanji: 恵
+Story: "Igor, do me a **favor** and pull the _needle_ out of that _brain_ and fetch me a fresh _heart_."
+Note:
+<!--ID: 1788102811057-->
+END
+
+START
+Japanese RTK
+Keyword: fear
+Clue:
+Kanji: 恐
+Story: Live in **fear** too long and it will _craft_ you a _mediocre heart_: timid and afraid.
+Note:
+<!--ID: 1788102811058-->
 END

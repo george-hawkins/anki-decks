@@ -111,6 +111,15 @@ Distilled from the deck's best entries:
   a set-piece about a guardian angel craning his neck is overwritten and slower
   to replay. Draft the obvious one-liner first and lead with it. Everything
   below is for when no obvious link exists.
+- **Get the facts inside the image right.** A vivid picture that is factually
+  wrong gets queried instead of memorised, and the card has to be rewritten:
+  Napoleon is a boar, not a _sow_; flowers have no hearts. Check the concrete
+  claims — species, sexes, what a thing actually does — before offering the
+  story.
+- **A primitive's name binds to its real English sense.** _doubling back_ means
+  retracing your path, not folding over; _pent in_ is confinement, not a pen.
+  If the story needs a meaning the name doesn't carry, it needs a different
+  primitive, not a looser reading of this one.
 - **Concrete and sensory over abstract.** A drop of blood clinging to a
   blade beats "the blade was used". Give the image texture: splashes,
   stink, sparkle, pain ("it **pierced** her ass! Ow!").
@@ -140,6 +149,14 @@ Distilled from the deck's best entries:
 2. The story, ready to paste into the `Story:` field, on its own line.
 3. Two brief alternates with different angles (e.g. one scene, one
    pseudo-logic), each on its own line, so the user can pick the one that
-   resonates — RTK stories only work if they click *personally*.
+   resonates — RTK stories only work if they click *personally*. When a
+   component arrived with `/` alternatives, spend one of the two on the
+   *other* name, so both are seen doing real work (泣: _vase_ in the main,
+   _stand up_ in an alternate) rather than all three leaning on one choice.
+
+**Every line you offer must be paste-ready**: keyword bolded exactly once,
+every component marked, no parenthetical telling the user to swap a word in
+afterwards. A candidate that doesn't satisfy the story rules is not a
+candidate — rewrite it or drop it.
 
 Do not pad the output with headers, tables, or explanations of RTK theory.

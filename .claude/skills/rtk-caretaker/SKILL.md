@@ -17,9 +17,13 @@ Two rules about touching things:
 - **Never commit, never push, never stage.** Fixing the deck is in scope;
   recording it in git is the user's call, always. Don't run `git commit`,
   `git add` or `git push`, and don't offer to.
-- **Only ever edit `rtk1-v6.md` and this skill's own `wordlist.txt` /
-  `reported.tsv` / `audited.tsv`.** `primitives.md`, the backups and the exports are read-only
-  reference.
+- **Only ever edit `rtk1-v6.md` and this skill's own files** — `check.py`,
+  `wordlist.txt`, `reported.tsv`, `audited.tsv`. `primitives.md`, the backups
+  and the exports are read-only reference. Twice now the honest fix for a
+  finding has been in `check.py` rather than the deck (a multi-line comment the
+  line-based parser mangled; a misspelled `Keyword` the spell check could not
+  see). When that is the case, fix the script — but say so in the report rather
+  than folding it into the fix count, and mind `CHECKS_VERSION` below.
 
 The deck lives in git and is pushed to GitHub, so an edit is recoverable — that
 is why mechanical fixes are offered up front rather than hedged.
@@ -89,6 +93,15 @@ END
   `[no story - but think _vermilion_]`. That is fine and not a finding.
 - Not every story has component markup: early pictogram frames (日, 木, 川) and
   the odd pseudo-explanation legitimately have none.
+
+## When the invocation carries a question
+
+`/rtk-caretaker Does X still break the parser?` is a **question**, not a work
+order. Investigate it, answer it, and stop: no pass-2 sweep, no fixes, no
+ledger stamp — the machinery below is for an unqualified run. The same goes for
+a question asked in ordinary conversation. Answer and offer; the deck is edited
+only when a run is actually asked for, or when the user asks for a specific
+change in so many words.
 
 ## Pass 1 — run the mechanical checks
 
@@ -199,11 +212,32 @@ stray or duplicated field line, `_keyword_` that should be `**keyword**`, bold
 on a word that plainly isn't the keyword, an unbalanced or space-padded marker,
 a doubled word, a punctuation slip, a field label Anki won't import, an
 unemphasized keyword that only needs wrapping, a trailing full stop on a
-`Clue`, an empty `Kanji` whose character is obvious from the keyword and story.
+`Clue`, an empty `Kanji` whose character is obvious from the keyword and story,
+**an unmarked component that only needs its markers** (see below).
 **Apply these before you write the report, without asking and without listing
 them** — quietly and exactly, one `Edit` per card, changing nothing else on the
 line. They are not part of the report; one closing line saying how many you
 applied is enough.
+
+An **unmarked component** qualifies as a mechanical fix only when adding the
+markers is the *whole* repair — the author plainly meant the markup and it is
+simply absent (想: `Hearts becoming *inter*twined` → `_Hearts_ becoming
+*inter*twined`). All four of these must hold:
+
+- the character **unambiguously contains** that primitive — decompose it and be
+  sure, because the mirror-image error is marking a word the character does not
+  contain (the store's 混 entry: unmarked "fish" that reads as the _fish_
+  primitive 混 lacks). If you are not certain of the decomposition, report it;
+- the word is **already in the story**, in the deck's established name for that
+  primitive or an inflection of it (_hearts_ for _heart_ is fine);
+- that component is **not already marked** elsewhere in the same story, and the
+  word is not the keyword itself;
+- use `_x_`, or `*x*` where the component is glued inside a larger word.
+
+Everything else about components stays a judgment call: a component the story
+never mentions (a rewrite, which is taste), a component named with a synonym
+the deck hasn't established (marking it would enshrine the synonym — flag the
+wording instead), and any phantom or misnamed component.
 
 **2. Must-fix.** Definitely wrong — an invariant is broken or the card teaches
 something false — but choosing the repair is the user's:
@@ -226,12 +260,13 @@ broken until each is resolved, and name the repair you would make — but do not
 apply it and do not ask to.
 
 **3. Judgment calls.** Arguably off, and reasonable people could leave them:
-missing or phantom components, a keyword that appears nowhere in the story,
-invented primitive vocabulary, grammar that wants recasting, a near-duplicate
-story, a `Clue` with parentheses in it. Note that mismarked components and
-absent keywords live *here*, not in must-fix: the store shows the user
-knowingly keeping several (戚, 語, 成, 弐), so the deck's rule is a little
-leeway, not a hard invariant.
+a component the story never mentions, a phantom or misnamed one, a keyword that
+appears nowhere in the story, invented primitive vocabulary, grammar that wants
+recasting, a near-duplicate story, a `Clue` with parentheses in it. Note that
+mismarked components and absent keywords live *here*, not in must-fix: the store
+shows the user knowingly keeping several (戚, 語, 成, 弐), so the deck's rule is
+a little leeway, not a hard invariant. The one component finding that does *not*
+belong here is the purely absent marker — that is pile 1.
 
 Piles 2 and 3 are the report. Most serious first, one line each:
 `rtk1-v6.md:LINE` + `#card 漢 [keyword]` + what is wrong + the concrete fix,
@@ -278,6 +313,11 @@ uv run --python 3.14 <base-dir>/check.py [same scope flags] --mark-audited \
 - **Bump `CHECKS_VERSION` in `check.py` whenever you add or change a check.**
   Every ledger entry written by an older version is then treated as unaudited,
   so the new check gets its chance over cards signed off before it existed.
+  Two exceptions, because a bump costs a full re-read of the deck: a change that
+  only *relaxes* a check can never turn a clean card dirty, and a stricter check
+  that you have run over the whole deck with `--all` has already had its chance
+  — pass 1 ignores the ledger. In either case skip the bump and say in the
+  report that you did, and why.
 
 The two stores answer different questions and neither can stand in for the
 other: `audited.tsv` says *"this card has been looked at, at this exact

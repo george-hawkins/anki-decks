@@ -64,7 +64,9 @@ CHECKS_VERSION = 1
 NO_STORY_RE = re.compile(r"^\[no story(?:\s*[-–—:]?\s+[^\]]+)?\]$")
 # a full emphasis span: **bold**, _italic_ or *italic*
 BOLD_RE = re.compile(r"\*\*([^*\n]*)\*\*")
-ITALIC_RE = re.compile(r"(?<![*\w])(?:_([^_\n]*)_|\*([^*\n]*)\*)(?![*\w])")
+# the *x* form may be glued to the rest of a word (*gold*fish, *inter*twined), so
+# only the _x_ form requires a non-word character after the closing marker
+ITALIC_RE = re.compile(r"(?<![*\w])(?:_([^_\n]*)_(?![*\w])|\*([^*\n]*)\*(?!\*))")
 CJK_RE = re.compile(r"[㐀-䶿一-鿿豈-﫿]")
 # hiragana, katakana and the iteration marks that ride along with them
 KANA_RE = re.compile(r"[々〆〻ぁ-ゟ゠-ヿｦ-ﾟ]")
