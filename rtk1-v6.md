@@ -6676,3 +6676,203 @@ Story: Live in **fear** too long and it will _craft_ you a _mediocre heart_: tim
 Note:
 <!--ID: 1788102811058-->
 END
+
+START
+Japanese RTK
+Keyword: beguile
+Clue:
+Kanji: 惑
+Story: At the _fiesta_, her _heart_ was **beguiled** by _one_ kiss to the _lips (mouth)_ (by that floor-kissing cowboy back on his home _range_).
+Note: cf. RANGE (域)
+<!--ID: 1788210341031-->
+END
+
+START
+Japanese RTK
+Keyword: emotion
+Clue:
+Kanji: 感
+Story: **Emotion** is a _march_ that sets off in the _heart_ and is out of your _mouth_ before you can stop it.
+Note: cf. DWINDLE (減). Cf. where 一 is relative to 口 in 惑 and 感
+<!--ID: 1788210341035-->
+END
+
+START
+Japanese RTK
+Keyword: melancholy
+Clue:
+Kanji: 憂
+Story: Even in the middle of _summer_, **melancholy** _crowns_ my _heart_.
+Note: cf. SUMMER (夏), the _head_ (頁) also loses its _animal legs_; the 冖 becomes the last stroke of the 目
+<!--ID: 1788210341036-->
+END
+
+START
+Japanese RTK
+Keyword: widow
+Clue:
+Kanji: 寡
+Story: The new **widow** sits in the _house_, her _head_ in her lap (the 一) and her _dagger_ in the back of her husband.
+Note: the final stroke of 目 is extended so the ハ can be stretched apart to fit the 刀
+<!--ID: 1788210341037-->
+END
+
+START
+Japanese RTK
+Keyword: busy
+Clue:
+Kanji: 忙
+Story: Too **busy** to eat, too **busy** to sleep: his _state of mind_ was the first thing to _perish_.
+Note: cf. FORGET (忘)
+<!--ID: 1788210341038-->
+END
+
+START
+Japanese RTK
+Keyword: ecstasy
+Clue: not PLEASURE
+Kanji: 悦
+Story: Some religious groups view **ecstasy** as a _state of mind_ induced by the _devil_.
+Note:
+<!--ID: 1788210341039-->
+END
+
+START
+Japanese RTK
+Keyword: constancy
+Clue:
+Kanji: 恒
+Story: Anyone can feel devotion for an evening, but **constancy** means holding that _state of mind_ for all the _span_ of your life.
+Note:
+<!--ID: 1788210341040-->
+END
+
+START
+Japanese RTK
+Keyword: lament
+Clue:
+Kanji: 悼
+Story: **Lament** is no ordinary grief: it's a _state of mind_ we reserve for the _eminent_ dead (especially _eminent_ magicians).
+Note:
+<!--ID: 1788210341041-->
+END
+
+START
+Japanese RTK
+Keyword: enlightenment
+Clue:
+Kanji: 悟
+Story: **Enlightenment** is a _state of mind_ that goes beyond the _five senses_ (the _I_).
+Note:
+<!--ID: 1788210341042-->
+END
+
+START
+Japanese RTK
+Keyword: dreadful
+Clue:
+Kanji: 怖
+Story: I was in a **dreadful** _state of mind_ when I woke up, I'd dreamed my _linen_ sheets were trying to eat me!
+Note:
+<!--ID: 1788210341043-->
+END
+
+START
+Japanese RTK
+Keyword: disconcerted
+Clue: not DISQUIETING
+Kanji: 慌
+Story: He was completely **disconcerted** by the barrister's opening question, his previously calm _state of mind laid waste_ in an instant.
+Note:
+<!--ID: 1788210341044-->
+END
+
+START
+Japanese RTK
+Keyword: repent
+Clue: not REMORSE
+Kanji: 悔
+Story: You must **repent** _every_ sin for a peaceful _state of mind_.
+Note:
+<!--ID: 1788210341045-->
+END
+
+START
+Japanese RTK
+Keyword: hate
+Clue:
+Kanji: 憎
+Story: **Hate** is a _state of mind_ that feeds on itself, ever _increasing_, **hate** begets **hate**.
+Note:
+<!--ID: 1788210341046-->
+END
+
+START
+Japanese RTK
+Keyword: accustomed
+Clue:
+Kanji: 慣
+Story: Train your _state of mind_ long enough and you can become **accustomed** to anything, like the Hindu devotee who can _pierce_ his body with steel skewers and not even flinch.
+Note:
+<!--ID: 1788210341047-->
+END
+
+START
+Japanese RTK
+Keyword: pleasure
+Clue: not ECSTASY
+Kanji: 愉
+Story: In a lighthearted _state of mind_, the speaker opened the _meeting of butchers_ with the corny joke "it's a **pleasure** to meat you!"
+Note: cf. REBUKE (諭).
+<!--ID: 1788210341048-->
+END
+
+START
+Japanese RTK
+Keyword: lazy
+Clue:
+Kanji: 惰
+Story: If I don't maintain the correct _state of mind_ the _left part of my _body_ gets very **lazy** when I ski or skate.
+Note:
+<!--ID: 1788210341049-->
+END
+
+START
+Japanese RTK
+Keyword: humility
+Clue:
+Kanji: 慎
+Story: **Humility** is the _state of mind_ in which you accept the _truth_ about yourself, both the good and the bad.
+Note:
+<!--ID: 1788210341050-->
+END
+
+START
+Japanese RTK
+Keyword: remorse
+Clue: not REPENT
+Kanji: 憾
+Story: The Terminator kills without **remorse**, his _state of mind_ knows no _emotion_.
+Note:
+<!--ID: 1788210341051-->
+END
+
+START
+Japanese RTK
+Keyword: recollection
+Clue:
+Kanji: 憶
+Story: Rachael's every **recollection** was just an _idea_ Tyrell had implanted — her entire _state of mind_ created in a lab.
+Note: here we get two heart forms: ⺖ and 心
+<!--ID: 1788210341052-->
+END
+
+START
+Japanese RTK
+Keyword: disquieting
+Clue: not DISCONCERTED
+Kanji: 惧
+Story: It's a very **disquieting** _state of mind_ when you notice your surgeon has just picked up the wrong _tool_.
+Note:
+<!--ID: 1788210341053-->
+END
