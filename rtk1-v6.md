@@ -356,7 +356,7 @@ END
 START
 Japanese RTK
 Keyword: oneself
-Clue: not SELF
+Clue: not SELF or archaic I
 Kanji: 自
 Story: In Japan, one refers to **oneself** by pointing to one's nose: the point/_drop_ between the _eyes_.
 Note: introduces the _drop_ / _eyedropper_ non-kanji primitive, 自 has primitive meaning _oneself_, _nose_ or _nostrils_.
@@ -1740,7 +1740,7 @@ END
 START
 Japanese RTK
 Keyword: fire
-Clue:
+Clue: not BURN
 Kanji: 火
 Story: [no story]
 Note: to keep 火 and its squashed ⺣ form distinct, try not to use **fire** for either. For 火, use _fireplace_, _fire storm_, when squashed to ⺣, use _flames_, _cauldron_, _cooking/oven fire_.
@@ -5541,7 +5541,7 @@ END
 START
 Japanese RTK
 Keyword: burn
-Clue:
+Clue: not FIRE
 Kanji: 燃
 Story: _Fire_ **burns** pretty much any _sort of thing_.
 Note:
@@ -6832,7 +6832,7 @@ Japanese RTK
 Keyword: lazy
 Clue:
 Kanji: 惰
-Story: If I don't maintain the correct _state of mind_ the _left part of my _body_ gets very **lazy** when I ski or skate.
+Story: If I don't maintain the correct _state of mind_ the _left part of my body_ gets very **lazy** when I ski or skate.
 Note:
 <!--ID: 1788210341049-->
 END
@@ -6875,4 +6875,207 @@ Kanji: 惧
 Story: It's a very **disquieting** _state of mind_ when you notice your surgeon has just picked up the wrong _tool_.
 Note:
 <!--ID: 1788210341053-->
+END
+
+START
+Japanese RTK
+Keyword: yearn
+Clue: not HANKER
+Kanji: 憧
+Story: What a _juvenile state of mind_ **yearns** for is not more algebra, it's the girl two desks over (and he's not thinking about her homework).
+Note:
+<!--ID: 1788373582990-->
+END
+
+START
+Japanese RTK
+Keyword: hanker
+Clue: not YEARN
+Kanji: 憬
+Story: After a few weeks in a cell, your _state of mind_ will be **hankering** after a complete change of _scenery_.
+Note:
+<!--ID: 1788373582993-->
+END
+
+START
+Japanese RTK
+Keyword: pining
+Clue: longing due to absence or loss
+Kanji: 慕
+Story: I'm forever **pining** for my _valentine_ who is buried beneath the _graveyard_.
+Note: the stroke order for ⺗ is 小 then 丶, i.e. nothing like ⺖
+Cf. 幕
+<!--ID: 1788373582994-->
+END
+
+START
+Japanese RTK
+Keyword: annexed
+Clue:
+Kanji: 添
+Story: The witch **annexed** the _water_ at the bottom of my garden and took my darling _valentine_ too (**annexing** is just attaching what you fancy to what you already own).
+Note: although 添 is closer to append/attach (添付 - file attachment), **annexed** works if you read it as adding territory.
+Cf. 沃
+<!--ID: 1788373582995-->
+END
+
+START
+Japanese RTK
+Keyword: invariably
+Clue:
+Kanji: 必
+Story: He always falls madly in love, but **invariably** his _heart_ ends up _broken in two_.
+Note: the stroke order is horrible, first the central ｿ, then 小 style, i.e. long, short, short. Its origin is not 心
+<!--ID: 1788373582997-->
+END
+
+START
+Japanese RTK
+Keyword: ooze
+Clue:
+Kanji: 泌
+Story: If you _divide a heart in two_, _invariably_ something **oozes** out, but it's definitely not water.
+Note:
+<!--ID: 1788373582998-->
+END
+
+START
+Japanese RTK
+Keyword: hand
+Clue:
+Kanji: 手
+Story: [no story - slanted/curved 丁 and 二, shirt cuff at top, then five fingers]
+Note: final skewering vertical is much more curved than 丁 (and first stroke shorter and slanted)
+<!--ID: 1788373582999-->
+END
+
+START
+Japanese RTK
+Keyword: watch over
+Clue:
+Kanji: 看
+Story: The lifeguard, with his _hand_ over his _eyes_, **watches over** all the swimmers, even the idiots heading too far out.
+Note:
+<!--ID: 1788373583000-->
+END
+
+START
+Japanese RTK
+Keyword: chafe
+Clue:
+Kanji: 摩
+Story: He slid down the _hemp_ rope with just his bare _hands_, no gloves; the **chafing** was horrible.
+Note: cf. HEMP (麻) and GRIND (磨).
+<!--ID: 1788373583001-->
+END
+
+START
+Japanese RTK
+Keyword: ego
+Clue:
+Kanji: 我
+Story: Her **ego** was so large she had to have her _hand_ in every step of planning the village _fiesta_.
+Note: it is a _hand_, not _fingers_ (扌), but like 扌, the bottom ノ comes after the skewer.
+<!--ID: 1788373583002-->
+END
+
+START
+Japanese RTK
+Keyword: righteous
+Clue:
+Kanji: 義
+Story: That _sheep's ego_ is enormous, his belief in his own **righteousness** is unshakeable.
+Note:
+<!--ID: 1788373583003-->
+END
+
+START
+Japanese RTK
+Keyword: deliberation
+Clue:
+Kanji: 議
+Story: Parliamentary **deliberation**: hours of _words_, each side sure of their _righteousness_ and nothing decided by teatime.
+Note:
+<!--ID: 1788373583004-->
+END
+
+START
+Japanese RTK
+Keyword: sacrifice
+Clue: not ANIMAL SACRIFICE
+Kanji: 犠
+Story: She loved steak, so her **sacrifice** in becoming vegan was real, and the payment was her feeling of self-*righteousness* at every _cow_ saved.
+Note: both **sacrifice** (犠) and ANIMAL SACRIFICE (牲) involve a cow. And together - 犠牲 (ぎせい) - they're simply the word for _sacrifice_.
+<!--ID: 1788373583005-->
+END
+
+START
+Japanese RTK
+Keyword: rub
+Clue:
+Kanji: 抹
+Story: The young man asked the masseuse to use her _fingers_ to **rub** his _extremities_, but she explained it wasn't that kind of place.
+Note: introduces the abbreviated _hand_ form 扌 with primitive meaning _fingers_.
+<!--ID: 1788373583006-->
+END
+
+START
+Japanese RTK
+Keyword: wipe
+Clue:
+Kanji: 拭
+Story: Using your _fingers_ to **wipe** is not my _style_, I really much prefer toilet paper!
+Note:
+<!--ID: 1788373583007-->
+END
+
+START
+Japanese RTK
+Keyword: yank
+Clue:
+Kanji: 拉
+Story: He quickly **yanked** his _fingers_ out of the _vase_. Maybe no one had noticed his attempt to steal the cookies...
+Note:
+<!--ID: 1788373583008-->
+END
+
+START
+Japanese RTK
+Keyword: embrace
+Clue:
+Kanji: 抱
+Story: For a truly intimate **embrace**, you must _wrap_ your _fingers_ around her...
+Note:
+<!--ID: 1788373583009-->
+END
+
+START
+Japanese RTK
+Keyword: board
+Clue: boarding to travel
+Kanji: 搭
+Story: All a**board**! _Fingers_ waving goodbye, _flowers_ tossed in the air, a final _meeting of mouths_ as lovers say goodbye.
+Note: I also liked "Now **boarding** the _pagoda_ express. Please keep your _fingers_ inside at all times..."
+Cf. PAGODA (塔)
+<!--ID: 1788373583010-->
+END
+
+START
+Japanese RTK
+Keyword: extract
+Clue:
+Kanji: 抄
+Story: I never read Ulysses, only **extracts** — a _few_ lines here and there pinched out with my _fingers_.
+Note:
+<!--ID: 1788373583011-->
+END
+
+START
+Japanese RTK
+Keyword: confront
+Clue:
+Kanji: 抗
+Story: Gandalf **confronts** the forces of evil, holding up the _fingers_ of one hand, he calls forth a _whirlwind_.
+Note:
+<!--ID: 1788373583012-->
 END
