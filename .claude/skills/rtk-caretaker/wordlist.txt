@@ -66,6 +66,7 @@ yakutsk
 zelda
 
 # --- modern English aspell's en dictionary lacks ---
+aunty
 bottommost
 cowled
 ctrl

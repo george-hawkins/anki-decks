@@ -7079,3 +7079,203 @@ Story: Gandalf **confronts** the forces of evil, holding up the _fingers_ of one
 Note:
 <!--ID: 1788373583012-->
 END
+
+START
+Japanese RTK
+Keyword: criticism
+Clue: not ADMONISH or CHASTISE
+Kanji: 批
+Story: When I _compared_ her cooking to my mother's, my **criticism** earned me a raised middle _finger_.
+Note:
+<!--ID: 1788555869353-->
+END
+
+START
+Japanese RTK
+Keyword: beckon
+Clue:
+Kanji: 招
+Story: The scantily clad lady in the window **beckoned** _seductively_ with her _fingers_.
+Note:
+<!--ID: 1788555869356-->
+END
+
+START
+Japanese RTK
+Keyword: clear the land
+Clue:
+Kanji: 拓
+Story: God's _fingers_ descended from the sky and **cleared the land** of all _boulders, stones and rocks_ in preparation for his chosen people.
+Note:
+<!--ID: 1788555869357-->
+END
+
+START
+Japanese RTK
+Keyword: clap
+Clue:
+Kanji: 拍
+Story: Wearing his elegant _white_ evening gloves, Lord Henry **clapped** gently with his _fingers_ (despite having found the show rather vulgar).
+Note:
+<!--ID: 1788555869358-->
+END
+
+START
+Japanese RTK
+Keyword: strike
+Clue:
+Kanji: 打
+Story: Your _fingers_ or the _nail_. Which will the hammer **strike**?
+Note:
+<!--ID: 1788555869359-->
+END
+
+START
+Japanese RTK
+Keyword: arrest
+Clue:
+Kanji: 拘
+Story: When you're **arrested** two things will happen: you'll hear the well worn _phrase_ "you have the right to remain silent..." and you'll be *finger*printed.
+Note:
+<!--ID: 1788555869360-->
+END
+
+START
+Japanese RTK
+Keyword: discard
+Clue:
+Kanji: 捨
+Story: The witch from Hansel and Gretel ate the children but **discarded** their _fingers_ out of her _cottage_ window — too bony.
+Note:
+<!--ID: 1788555869361-->
+END
+
+START
+Japanese RTK
+Keyword: kidnap
+Clue:
+Kanji: 拐
+Story: **Kidnapping** 101: put your _fingers_ over their _mouth_ and hold a _dagger_ to the chin to convince them not to shout or yelp.
+Note: cf. BECKON (招), so close! Kidnapping is the opposite of beckoning.
+<!--ID: 1788555869362-->
+END
+
+START
+Japanese RTK
+Keyword: pinch
+Clue:
+Kanji: 摘
+Story: If you touched aunty's precious _antiques_ with a single _finger_, she gave you a vicious **pinch**.
+Note:
+<!--ID: 1788555869363-->
+END
+
+START
+Japanese RTK
+Keyword: challenge
+Clue:
+Kanji: 挑
+Story: The oracle drew a _portent_ of doom in the sand. I laughed, ran my _fingers_ through it and accepted the demon's **challenge**.
+Note:
+<!--ID: 1788555869364-->
+END
+
+START
+Japanese RTK
+Keyword: finger
+Clue:
+Kanji: 指
+Story: Kentucky Fried Chicken isn't just **finger** lickin' good, it's **finger** lickin' _delicious_ (according to the ads).
+Note:
+<!--ID: 1788555869365-->
+END
+
+START
+Japanese RTK
+Keyword: hold
+Clue:
+Kanji: 持
+Story: On joining the _Buddhist temple_, the acolyte can only bring with him what he can **hold** in his _fingers_.
+Note:
+<!--ID: 1788555869366-->
+END
+
+START
+Japanese RTK
+Keyword: imminent
+Clue:
+Kanji: 拶
+Story: Granny's arthritic _fingers_ throb every _evening_ a _flood_ is **imminent**. Tonight she's screaming!
+Note:
+<!--ID: 1788555869367-->
+END
+
+START
+Japanese RTK
+Keyword: fasten
+Clue:
+Kanji: 括
+Story: He **fastened** his _tongue_ piercing with his _fingers_ - it was a ghastly sight.
+Note:
+<!--ID: 1788555869368-->
+END
+
+START
+Japanese RTK
+Keyword: brandish
+Clue:
+Kanji: 揮
+Story: The _chariot_ rider thunders around the arena, reins in one hand, the _fingers_ of the other **brandishing** a whip at any who dare pull alongside.
+Note:
+<!--ID: 1788555869369-->
+END
+
+START
+Japanese RTK
+Keyword: conjecture
+Clue:
+Kanji: 推
+Story: Dinosaur researchers **conjecture** that T. Rex was basically a giant _turkey_ with two stubby little _fingers_ on each hand.
+Note:
+<!--ID: 1788555869370-->
+END
+
+START
+Japanese RTK
+Keyword: hoist
+Clue:
+Kanji: 揚
+Story: I'll **hoist** you by your neck if I find your _fingers_ in my _piggy bank_ again!
+Note:
+<!--ID: 1788555869371-->
+END
+
+START
+Japanese RTK
+Keyword: propose
+Clue:
+Kanji: 提
+Story: Holmes settled back, pressed his _fingers_ together _just so_ beneath his chin and **proposed** that it was the butler wot done it.
+Note:
+<!--ID: 1788555869372-->
+END
+
+START
+Japanese RTK
+Keyword: damage
+Clue:
+Kanji: 損
+Story: When an _employee_ loses a _finger_ in the machinery, they sue for **damages**. Some of the more desperate ones do it on purpose!
+Note:
+<!--ID: 1788555869373-->
+END
+
+START
+Japanese RTK
+Keyword: pick up
+Clue:
+Kanji: 拾
+Story: I tried to **pick up** the bowling ball, but my _fingers_ didn't _fit_ the holes.
+Note: cf. BOARD (搭) - the pagoda express.
+<!--ID: 1788555869374-->
+END
