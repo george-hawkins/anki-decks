@@ -1669,7 +1669,7 @@ END
 START
 Japanese RTK
 Keyword: inlay
-Clue:
+Clue: not INSCRIPTION
 Kanji: 填
 Story: When digging in the _ground_ for the _truth_ about the ancient civilization, the archaeologists found a brooch with beautiful gold **inlay**.
 Note:
@@ -1954,7 +1954,7 @@ END
 START
 Japanese RTK
 Keyword: trunk
-Clue:
+Clue: of body, not elephant or baggage
 Kanji: 胴
 Story: Dead _flesh_ all looks the _same_ when you chop off everything but the **trunk**.
 Note:
@@ -1984,7 +1984,7 @@ END
 START
 Japanese RTK
 Keyword: character
-Clue:
+Clue: Chinese character
 Kanji: 字
 Story: The poor _child_ never leaves the _house_ as he has to spend all his time learning kanji **characters**.
 Note: introduces the non-kanji primitive 宀 meaning _house/housetop/home/roof_.
@@ -2067,7 +2067,7 @@ Keyword: wealth
 Clue:
 Kanji: 富
 Story: The family kept all their **wealth** under one _roof_.
-Note: a little confusingly, the kanji loses its root but keeps its meaning as the primitive 畐 (a non-jōyō kanji that actually has a completely different meaning).
+Note: a little confusingly, the kanji loses its roof but keeps its meaning as the primitive 畐 (a non-jōyō kanji that actually has a completely different meaning).
 <!--ID: 1785677363164-->
 END
 
@@ -2286,7 +2286,7 @@ END
 START
 Japanese RTK
 Keyword: plan
-Clue:
+Clue: not PLOT
 Kanji: 案
 Story: _Relaxing_ over the _trees_ in his glider, he **planned** his flight home.
 Note:
@@ -2951,7 +2951,7 @@ END
 START
 Japanese RTK
 Keyword: inscription
-Clue:
+Clue: not INLAY
 Kanji: 銘
 Story: The **inscription** on her beautiful _gold_ bracelet was just her _name_. Not very original!
 Note:
@@ -3517,7 +3517,7 @@ Keyword: write
 Clue:
 Kanji: 書
 Story: I tried **writing** with a _brush_, but it takes all _day_ to **write** anything.
-Note: introduces the non-kanji primitive ⾀ meaning _brush_ (and the squashed form ⺻ when it appears above another element). The horizontals are in strict order top-to-bottom, then the skewering stroke.
+Note: introduces the non-jōyō kanji primitive 聿 meaning _brush_. The horizontals are in strict order top-to-bottom, then the skewering stroke. The skewering stroke doesn't extend beyond the final horizontal when above another element (as in 書).
 <!--ID: 1786394870359-->
 END
 
@@ -4120,7 +4120,7 @@ END
 START
 Japanese RTK
 Keyword: lock
-Clue:
+Clue: not KEY
 Kanji: 錠
 Story: Even if you **lock** up your _gold_, a _determined_ thief can still get at it.
 Note:
@@ -4468,7 +4468,7 @@ Japanese RTK
 Keyword: lungs
 Clue:
 Kanji: 肺
-Story: Of all the _flesh_ hung out up the _market_, the **lungs** looked the most revolting.
+Story: Of all the _flesh_ hung out at the _market_, the **lungs** looked the most revolting.
 Note:
 <!--ID: 1786893695745-->
 END
@@ -6453,7 +6453,7 @@ Keyword: grind
 Clue:
 Kanji: 磨
 Story: They **grind** the _hemp_ on a giant mill _stone_ before it's shipped to enthusiastic customers.
-Note:
+Note: cf. 暦, it's not just the 日 and 石 that change, it's also cliff vs. cave.
 <!--ID: 1788016199416-->
 END
 
@@ -7063,7 +7063,7 @@ END
 START
 Japanese RTK
 Keyword: extract
-Clue:
+Clue: text excerpt
 Kanji: 抄
 Story: I never read Ulysses, only **extracts** — a _few_ lines here and there pinched out with my _fingers_.
 Note:
@@ -7278,4 +7278,205 @@ Kanji: 拾
 Story: I tried to **pick up** the bowling ball, but my _fingers_ didn't _fit_ the holes.
 Note: cf. BOARD (搭) - the pagoda express.
 <!--ID: 1788555869374-->
+END
+
+START
+Japanese RTK
+Keyword: shouldering
+Clue:
+Kanji: 担
+Story: One of Hercules' labors was **shouldering** Atlas's burden, holding the world in his _fingers_ until _nightbreak_.
+Note:
+<!--ID: 1790004802090-->
+END
+
+START
+Japanese RTK
+Keyword: foothold
+Clue:
+Kanji: 拠
+Story: Once you have a secure **foothold**, your _fingers_ can _dispose_ of their old hold.
+Note:
+<!--ID: 1790004802092-->
+END
+
+START
+Japanese RTK
+Keyword: sketch
+Clue:
+Kanji: 描
+Story: Using just his _fingers_, he **sketched** a surprisingly beautiful picture of _seedlings_ in the sand.
+Note:
+<!--ID: 1790004802093-->
+END
+
+START
+Japanese RTK
+Keyword: maneuver
+Clue:
+Kanji: 操
+Story: In Marie's dollhouse, I just needed my _fingers_ to **maneuver** the _furniture_ to exactly where I wanted it. Rather easier than in real life.
+Note:
+<!--ID: 1790004802094-->
+END
+
+START
+Japanese RTK
+Keyword: touch
+Clue:
+Kanji: 接
+Story: "Don't **touch**" shouted the _woman_ as he reached out his _fingers_ toward the precious jade _vase_.
+Note: 妾 is a non-jōyō kanji meaning _concubine_.
+<!--ID: 1790004802095-->
+END
+
+START
+Japanese RTK
+Keyword: put up a notice
+Clue: not AFFIX
+Kanji: 掲
+Story: The piano teacher had **put up a notice** explaining that his _fingers_ were tired and that he was going to take an extended _siesta_.
+Note:
+<!--ID: 1790004802096-->
+END
+
+START
+Japanese RTK
+Keyword: hang
+Clue:
+Kanji: 掛
+Story: _Fingers_ pointed at the poor guard, the wizard waved his _wand_, causing the _ivy_ on the wall to wrap around his neck and swiftly **hang** him.
+Note:
+<!--ID: 1790004802097-->
+END
+
+START
+Japanese RTK
+Keyword: make headway
+Clue:
+Kanji: 捗
+Story: "Let your _fingers_ do the _walking_, to **make headway** here is going to require a lot of cold calling" yelled the boss (in the old film where the Yellow Pages was still a thing).
+Note:
+<!--ID: 1790004802098-->
+END
+
+START
+Japanese RTK
+Keyword: polish
+Clue:
+Kanji: 研
+Story: To **polish** a _stone_ you need _two hands_: one to hold it and the other to do the actual **polishing**.
+Note: introduces the non-kanji primitive 开 meaning _two hands_ or _both hands_ (drawn as 二 followed by verticals). Drawn as 廾 when below anything (even if there's no 一 involved).
+<!--ID: 1790004802099-->
+END
+
+START
+Japanese RTK
+Keyword: commandment
+Clue:
+Kanji: 戒
+Story: Holding the **commandments** in _both hands_, Moses descended Mount Sinai only to find a wild _fiesta_ in progress, golden idols and all, and, in his rage, he smashed the tablets.
+Note:
+<!--ID: 1790004802100-->
+END
+
+START
+Japanese RTK
+Keyword: tinker with
+Clue:
+Kanji: 弄
+Story: The palace electrician nearly fainted when he found the _king_ with _both hands_ in the fuse box, **tinkering** with the wiring.
+Note:
+<!--ID: 1790004802101-->
+END
+
+START
+Japanese RTK
+Keyword: contraption
+Clue:
+Kanji: 械
+Story: In medieval times, anyone who broke the _commandments_ was locked up in an unpleasant _wooden_ **contraption** called the stocks.
+Note:
+<!--ID: 1790004802102-->
+END
+
+START
+Japanese RTK
+Keyword: nose
+Clue:
+Kanji: 鼻
+Story: I sneezed so hard that it looked like most of my _brains_ had come out of my **nose** and ended up on my _both hands_. Revolting!
+Note: 自 means _oneself_, but we've used it, on its own, to mean _nose_.
+<!--ID: 1790004802103-->
+END
+
+START
+Japanese RTK
+Keyword: punish
+Clue:
+Kanji: 刑
+Story: In some Middle Eastern countries, theft is **punished** by chopping off _both hands_ with a _saber_.
+Note: don't confuse with PENALTY (罰) which also features a _saber_.
+<!--ID: 1790004802104-->
+END
+
+START
+Japanese RTK
+Keyword: mould
+Clue:
+Kanji: 型
+Story: To create the **mould** for a new _saber_, press an old one with _both hands_ into clay taken from the _soil_.
+Note:
+<!--ID: 1790004802105-->
+END
+
+START
+Japanese RTK
+Keyword: genius
+Clue:
+Kanji: 才
+Story: All amps go to _ten_, but it takes an extra _stroke_ of **genius** to make one that goes to eleven!
+Note: primitive meaning _genie_, drawn as オ when right or below, but as non-子 bit of 存 when left and means _genie in the bottle_.
+The ノ is drawn the opposite direction to 扌
+<!--ID: 1790004802106-->
+END
+
+START
+Japanese RTK
+Keyword: property
+Clue:
+Kanji: 財
+Story: I paid a lot of _clams_ for you, _genie_. You're my **property** now!
+Note:
+<!--ID: 1790004802107-->
+END
+
+START
+Japanese RTK
+Keyword: lumber
+Clue:
+Kanji: 材
+Story: In an amazing feat, the _genie_ turned the felled **lumber** back into a living _tree_.
+Note:
+<!--ID: 1790004802108-->
+END
+
+START
+Japanese RTK
+Keyword: suppose
+Clue:
+Kanji: 存
+Story: "I **suppose** you're expecting three wishes!" said the angry _genie in the bottle_ as the small _child_ mocked it.
+Note:
+<!--ID: 1790004802109-->
+END
+
+START
+Japanese RTK
+Keyword: exist
+Clue:
+Kanji: 在
+Story: I tell you, the _genie in the bottle_ does **exist**, but it'll take a lot of digging up _soil_ to find him, he was buried deep.
+Note:
+<!--ID: 1790004802110-->
 END
