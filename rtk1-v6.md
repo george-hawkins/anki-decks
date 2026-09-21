@@ -462,7 +462,7 @@ Keyword: elbow
 Clue:
 Kanji: 肘
 Story: The **elbow** is the _flesh_ that _glues_ together the upper and lower arm.
-Note:
+Note: 肘 is a 2010 jōyō kanji addition. So, oddly, the unrelated non-kanji primitive ム also has the meaning _elbow_ from earlier RTK editions and keeps it.
 <!--ID: 1784893865666-->
 END
 
@@ -4140,7 +4140,7 @@ END
 START
 Japanese RTK
 Keyword: transcend
-Clue:
+Clue: not ENLIGHTENMENT
 Kanji: 超
 Story: To **transcend** temptation you must out-*run* it; stand still and it will _seduce_ you.
 Note: **transcend** means to rise above.
@@ -5987,10 +5987,10 @@ END
 START
 Japanese RTK
 Keyword: distinction
-Clue:
+Clue: not DISCRIMINATING
 Kanji: 差
 Story: Every Aran sweater starts with the same _wool_; the **distinction** that doubles the price is the _craft_ that goes into it.
-Note: introduces the non-kanji primitive ⺶ meaning _wool_ (the shearer hold the tail of 羊 to the side while trimming off the _wool_).
+Note: introduces the non-kanji primitive (⺷ plus ノ) meaning _wool_ (the shearer holds the tail of 羊 to the side while trimming off the _wool_).
 <!--ID: 1787692723696-->
 END
 
@@ -6163,7 +6163,7 @@ Clue:
 Kanji: 午
 Story: **Noon** is a good time to _lie down_ and take a _ten_ minute nap.
 Note: primitive meaning _horse_.
-Remember 𠂉 for _lie down_. Stroke-wise, it's 午
+Remember 𠂉 for _lie down_. Stroke-wise, it's the same as 牛
 Cf. **noon** (午) and COW (牛). 午 is the Chinese zodiac sign for the horse, but 馬 is the kanji for HORSE.
 <!--ID: 1787857655619-->
 END
@@ -6650,7 +6650,7 @@ END
 START
 Japanese RTK
 Keyword: recess
-Clue:
+Clue: a short break, not a hollow space
 Kanji: 憩
 Story: During school **recess**, little boys stick out their _tongues_ and pick their _noses_ while little girls chalk _hearts_ on the ground below.
 Note: don't mix up with 息, you don't want the _tongue_ ending on its own to the left.
@@ -6760,7 +6760,7 @@ END
 START
 Japanese RTK
 Keyword: enlightenment
-Clue:
+Clue: not TRANSCEND
 Kanji: 悟
 Story: **Enlightenment** is a _state of mind_ that goes beyond the _five senses_ (the _I_).
 Note:
@@ -7426,7 +7426,7 @@ Keyword: mould
 Clue:
 Kanji: 型
 Story: To create the **mould** for a new _saber_, press an old one with _both hands_ into clay taken from the _soil_.
-Note:
+Note: the story treats 开 and ⺉ as separate elements rather than as PUNISH (刑).
 <!--ID: 1790004802105-->
 END
 
@@ -7479,4 +7479,209 @@ Kanji: 在
 Story: I tell you, the _genie in the bottle_ does **exist**, but it'll take a lot of digging up _soil_ to find him, he was buried deep.
 Note:
 <!--ID: 1790004802110-->
+END
+
+START
+Japanese RTK
+Keyword: from
+Clue:
+Kanji: 乃
+Story: "**From** my cold, dead hand!" he said, raising his clenched _fist_.
+Note: primitive meaning _fist_
+No good story - you just have to learn it. Some compare it to the Facebook thumbs-up (fist with raised thumb).
+乃 is the origin of の and ノ (write it fast and you sort of get の).
+<!--ID: 1790097524594-->
+END
+
+START
+Japanese RTK
+Keyword: portable
+Clue:
+Kanji: 携
+Story: Because they have no _fingers_, _turkeys_ must use their _fists_ when using a **portable** phone.
+Note: 携帯(ケータイ) means _mobile phone_.
+<!--ID: 1790097524598-->
+END
+
+START
+Japanese RTK
+Keyword: reach out
+Clue:
+Kanji: 及
+Story: He **reached out** and with a single _stroke_ turned the _fist_ of aggression into kindness.
+Note: primitive meaning _outstretched hand_ (don't confuse with BEG).
+The second stroke of 及 is noticeably different to that of 乃 (more angled and no hook).
+<!--ID: 1790097524599-->
+END
+
+START
+Japanese RTK
+Keyword: suck
+Clue:
+Kanji: 吸
+Story: With _mouth_ open and _outstretched hand_, the baby reaches to **suck** on its mother's breast.
+Note: 吸う is the verb to suck, it also means to smoke (a cigarette).
+<!--ID: 1790097524600-->
+END
+
+START
+Japanese RTK
+Keyword: handle
+Clue:
+Kanji: 扱
+Story: You should **handle** nitroglycerin with extreme care, hold it carefully in the _fingers_ of your _outstretched hand_ for fear of blowing your face off.
+Note:
+<!--ID: 1790097524601-->
+END
+
+START
+Japanese RTK
+Keyword: length
+Clue:
+Kanji: 丈
+Story: Both a meter and a yard are about *one arm*-**length**.
+Note: introduces the non-kanji primitive (丈 minus the 一) meaning _arm_ or _tucked under the arm_ - body (ノ) with arm (丶) sticking out. Has no connection with ARM (腕).
+<!--ID: 1790097524602-->
+END
+
+START
+Japanese RTK
+Keyword: history
+Clue:
+Kanji: 史
+Story: I slept through **history** with my _mouth tucked under my arm_.
+Note:
+<!--ID: 1790097524603-->
+END
+
+START
+Japanese RTK
+Keyword: officer
+Clue:
+Kanji: 吏
+Story: _One_ **officer** can change _history_ if he leads his troops well.
+Note:
+<!--ID: 1790097524604-->
+END
+
+START
+Japanese RTK
+Keyword: grow late
+Clue:
+Kanji: 更
+Story: I know it's **growing late** when Zeus reaches up, unhooks the _sun_ from the _ceiling_ and shuffles off to bed with it _tucked under his arm_.
+Note:
+<!--ID: 1790097524605-->
+END
+
+START
+Japanese RTK
+Keyword: stiff
+Clue: not SNIFF
+Kanji: 硬
+Story: I had to sit on the _rock_ until it _grew late_ and so my back became as **stiff** as a board.
+Note:
+<!--ID: 1790097524606-->
+END
+
+START
+Japanese RTK
+Keyword: spiny
+Clue:
+Kanji: 梗
+Story: When the year _grows late_, the _trees_ look all barren and **spiny**.
+Note:
+<!--ID: 1790097524607-->
+END
+
+START
+Japanese RTK
+Keyword: or again
+Clue: not AGAIN
+Kanji: 又
+Story: "Cross your legs, **or again** I'll see your _crotch_" she said annoyed.
+Note: primitive meaning _crotch_.
+The また in またね (see you _again_) is actually 又 but it's usually spelled with all kana.
+Koohii users aren't keen on _or again_, but plain AGAIN (再) is taken later, some suggest _or then again_.
+<!--ID: 1790097524608-->
+END
+
+START
+Japanese RTK
+Keyword: pair
+Clue:
+Kanji: 双
+Story: Noah had to check the _two crotches_ of each **pair** of animals that boarded the ark to make sure they were different sexes.
+Note:
+<!--ID: 1790097524609-->
+END
+
+START
+Japanese RTK
+Keyword: mulberry
+Clue:
+Kanji: 桑
+Story: Not knowing they were hallucinogenic, he foolishly ate the unripe fruit of the **mulberry** _tree_ and before he knew it, he was seeing _crotches, crotches everywhere_.
+Note: the mulberry tree is the tree silkworms grow on.
+<!--ID: 1790097524610-->
+END
+
+START
+Japanese RTK
+Keyword: vessels
+Clue:
+Kanji: 隻
+Story: It was a fine seaworthy **vessel**, but the USS _Turkeycrotch_ was one of Trump's ever more bizarre naming choices.
+Note:
+<!--ID: 1790097524611-->
+END
+
+START
+Japanese RTK
+Keyword: safeguard
+Clue:
+Kanji: 護
+Story: There was a final exchange of _words_ and _flowers_ between sailors and loved ones before finally boarding the _vessel_ to **safeguard** the world.
+Note:
+<!--ID: 1790097524612-->
+END
+
+START
+Japanese RTK
+Keyword: seize
+Clue:
+Kanji: 獲
+Story: Pirates, the sea's _pack of wild dogs_, **seized** the _vessel_ carrying poppy _flowers_ destined for the opium trade.
+Note:
+<!--ID: 1790097524613-->
+END
+
+START
+Japanese RTK
+Keyword: guy
+Clue:
+Kanji: 奴
+Story: **Guys** are very simple, they spend most of their time thinking about _women's crotches_.
+Note:
+<!--ID: 1790097524614-->
+END
+
+START
+Japanese RTK
+Keyword: angry
+Clue:
+Kanji: 怒
+Story: A _woman_ will get very **angry** if she thinks a _guy_ is more interested in her _crotch_ than her _heart_.
+Note:
+<!--ID: 1790097524615-->
+END
+
+START
+Japanese RTK
+Keyword: friend
+Clue:
+Kanji: 友
+Story: A **friend** stands _by your side_; a **friend** "with benefits" also sometimes has their hand on your _crotch_.
+Note:
+<!--ID: 1790097524616-->
 END
