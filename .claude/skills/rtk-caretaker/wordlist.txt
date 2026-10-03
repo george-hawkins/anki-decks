@@ -43,6 +43,7 @@ copperfield
 dolder
 eisbahn
 gargleblaster
+garrotte
 geppetto
 gras
 heisig

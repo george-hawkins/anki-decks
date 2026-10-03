@@ -7685,3 +7685,205 @@ Story: A **friend** stands _by your side_; a **friend** "with benefits" also som
 Note:
 <!--ID: 1790097524616-->
 END
+
+START
+Japanese RTK
+Keyword: slip out
+Clue:
+Kanji: 抜
+Story: Don't let good _friends_ **slip out** from between your _fingers_.
+Note:
+<!--ID: 1791049708166-->
+END
+
+START
+Japanese RTK
+Keyword: throw
+Clue:
+Kanji: 投
+Story: A dart is a _missile_ you can **throw** with your _fingers_.
+Note: introduces the non-jōyō kanji 殳 meaning _missile_ - the (very non-Heisig) origin is a hand (又) holding a shaft or implement (⼏).
+<!--ID: 1791049708171-->
+END
+
+START
+Japanese RTK
+Keyword: drown
+Clue: not DROWNING
+Kanji: 没
+Story: The _water missile_ (torpedo) hit the ship causing the entire crew to **drown**.
+Note: this isn't popular on Koohii as DROWNING (溺) is also a keyword.
+<!--ID: 1791049708172-->
+END
+
+START
+Japanese RTK
+Keyword: thigh
+Clue:
+Kanji: 股
+Story: Fired from the hip, a _missile_ of warm _flesh_ landed between her **thighs** - and she didn't exactly complain.
+Note:
+<!--ID: 1791049708173-->
+END
+
+START
+Japanese RTK
+Keyword: establishment
+Clue:
+Kanji: 設
+Story: There are two ways to take down the **establishment**. One is with _words_ and the other is with _missiles_.
+Note:
+<!--ID: 1791049708174-->
+END
+
+START
+Japanese RTK
+Keyword: beat
+Clue:
+Kanji: 撃
+Story: With _chariots_ and _missiles_, led by a strong _hand_, we can't fail to **beat** our enemies.
+Note:
+<!--ID: 1791049708176-->
+END
+
+START
+Japanese RTK
+Keyword: husk
+Clue:
+Kanji: 殻
+Story: The _samurai_ was made _superfluous_ by _missile_ technology and is now just a **husk** of his former self.
+Note:
+<!--ID: 1791049708177-->
+END
+
+START
+Japanese RTK
+Keyword: branch
+Clue: not BOUGH
+Kanji: 支
+Story: Urology is the **branch** of medicine that involves more _needles_ in the _crotch_ than anyone should be comfortable with.
+Note:
+<!--ID: 1791049708178-->
+END
+
+START
+Japanese RTK
+Keyword: skill
+Clue:
+Kanji: 技
+Story: Grasping _branches_ with their _fingers_ is the most important **skill** baby monkeys have to learn.
+Note:
+<!--ID: 1791049708179-->
+END
+
+START
+Japanese RTK
+Keyword: bough
+Clue: not BRANCH
+Kanji: 枝
+Story: A _tree's_ primary _branches_ are known as **boughs**.
+Note: cf. BOUGH (枝), BRANCH (支) and TWIG (条).
+All _boughs_ are _branches_, but not all _branches_ are _boughs_. A _bough_ is a heavy, primary limb.
+<!--ID: 1791049708180-->
+END
+
+START
+Japanese RTK
+Keyword: limb
+Clue:
+Kanji: 肢
+Story: **Limbs** are the _parts of the body_ that _branch_ off from the torso.
+Note:
+<!--ID: 1791049708181-->
+END
+
+START
+Japanese RTK
+Keyword: stalk
+Clue:
+Kanji: 茎
+Story: The **stalks** of fake _flowers_ are made by winding green wire off a _spool_.
+Note: introduces the non-jōyō kanji 圣 meaning _spool_ (_crotch_ on _soil_ - no good story, see it as a pictogram of a _spool_).
+<!--ID: 1791049708182-->
+END
+
+START
+Japanese RTK
+Keyword: suspicious
+Clue:
+Kanji: 怪
+Story: In a **suspicious** _state of mind_, even an innocent _spool_ of thread can look like a garrotte waiting to be used.
+Note:
+<!--ID: 1791049708183-->
+END
+
+START
+Japanese RTK
+Keyword: lightly
+Clue:
+Kanji: 軽
+Story: The _car_ rolled along so **lightly** that a single thread from a _spool_ was enough to tow it home.
+Note:
+<!--ID: 1791049708184-->
+END
+
+START
+Japanese RTK
+Keyword: uncle
+Clue:
+Kanji: 叔
+Story: The **uncle** hoisted his _little_ nephew _above_ his head and got an accidental kick in the _crotch_ for his trouble.
+Note: the same 上 小 combo as seen in 戚
+叔 actually means a parent's younger sibling. So 叔父 is uncle and 叔母 is aunt, if younger, or 伯父 or 伯母 if older.
+<!--ID: 1791049708185-->
+END
+
+START
+Japanese RTK
+Keyword: coach
+Clue:
+Kanji: 督
+Story: My _uncle_ is also my life **coach**. He always keeps a close _eye_ on me.
+Note:
+<!--ID: 1791049708186-->
+END
+
+START
+Japanese RTK
+Keyword: loneliness
+Clue:
+Kanji: 寂
+Story: My unmarried _uncle's house_ is the picture of **loneliness**.
+Note:
+<!--ID: 1791049708187-->
+END
+
+START
+Japanese RTK
+Keyword: graceful
+Clue:
+Kanji: 淑
+Story: Once in the _water_, my overweight _uncle_ is a surprisingly **graceful** swimmer.
+Note:
+<!--ID: 1791049708188-->
+END
+
+START
+Japanese RTK
+Keyword: anti-
+Clue:
+Kanji: 反
+Story: The **anti**-hero's signature move was kicking an enemy in the _crotch_ before pushing him over a _cliff_.
+Note: cf. ANTI- (反) and FRIEND (友).
+<!--ID: 1791049708189-->
+END
+
+START
+Japanese RTK
+Keyword: slope
+Clue:
+Kanji: 坂
+Story: A **slope** is *anti*-flat: it's _soil_ that refuses to lie down properly.
+Note:
+<!--ID: 1791049708190-->
+END
