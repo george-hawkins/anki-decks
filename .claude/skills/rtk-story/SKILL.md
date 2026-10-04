@@ -141,11 +141,13 @@ Distilled from the deck's best entries:
 
 ## Output format
 
-1. One line stating any choices made (which `/` alternative you picked and
-   why, plus anything relevant found in the deck). Only mention things that
-   affect the story or the vocabulary — a substituted keyword, a binding ⚠
-   note, a clash with an existing entry. Skip housekeeping the user didn't
-   ask for; never mention component order.
+1. **Only if there is something to flag**, one line stating it: which `/`
+   alternative you picked and why, a substituted keyword, a binding ⚠ note,
+   a clash with an existing entry. If none of those apply, omit this line
+   entirely and start with the story — never write "nothing to flag", never
+   recite which kanji the primitives are, never list neighbouring cards that
+   turned out *not* to clash. Skip housekeeping the user didn't ask for;
+   never mention component order.
 2. The story, ready to paste into the `Story:` field, on its own line.
 3. Two brief alternates with different angles (e.g. one scene, one
    pseudo-logic), each on its own line, so the user can pick the one that

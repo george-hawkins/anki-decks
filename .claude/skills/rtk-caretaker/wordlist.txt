@@ -37,6 +37,7 @@ wanikani
 # --- names, places, brands, pop culture ---
 aran
 balrog
+batcave
 bezos
 boromir
 copperfield

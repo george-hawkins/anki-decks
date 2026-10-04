@@ -814,7 +814,7 @@ Keyword: left
 Clue:
 Kanji: 左
 Story: You keep your _craft_ tools hanging _by your side_ on your **left** hip.
-Note: introduces the 十-like non-kanji primitive meaning _by one's side_.
+Note: introduces the non-kanji primitive 𠂇 meaning _by one's side_.
 <!--ID: 1785070789823-->
 END
 
@@ -3022,7 +3022,7 @@ END
 START
 Japanese RTK
 Keyword: urge
-Clue:
+Clue: not YEARN
 Kanji: 迫
 Story: He felt an inexplicable **urge** to follow the mysterious _white_ horseman down the _road_ to inevitable destruction.
 Note:
@@ -7702,7 +7702,7 @@ Keyword: throw
 Clue:
 Kanji: 投
 Story: A dart is a _missile_ you can **throw** with your _fingers_.
-Note: introduces the non-jōyō kanji 殳 meaning _missile_ - the (very non-Heisig) origin is a hand (又) holding a shaft or implement (⼏).
+Note: introduces the non-jōyō kanji primitive 殳 meaning _missile_ - the (very non-Heisig) origin is a hand (又) holding a shaft or implement (⼏).
 <!--ID: 1791049708171-->
 END
 
@@ -7803,7 +7803,7 @@ Keyword: stalk
 Clue:
 Kanji: 茎
 Story: The **stalks** of fake _flowers_ are made by winding green wire off a _spool_.
-Note: introduces the non-jōyō kanji 圣 meaning _spool_ (_crotch_ on _soil_ - no good story, see it as a pictogram of a _spool_).
+Note: introduces the non-jōyō kanji primitive 圣 meaning _spool_ (_crotch_ on _soil_ - no good story, see it as a pictogram of a _spool_).
 <!--ID: 1791049708182-->
 END
 
@@ -7886,4 +7886,210 @@ Kanji: 坂
 Story: A **slope** is *anti*-flat: it's _soil_ that refuses to lie down properly.
 Note:
 <!--ID: 1791049708190-->
+END
+
+START
+Japanese RTK
+Keyword: plank
+Clue:
+Kanji: 板
+Story: The **plank** industry is definitely _anti-tree_.
+Note:
+<!--ID: 1791127019082-->
+END
+
+START
+Japanese RTK
+Keyword: return
+Clue: return something, not return to somewhere
+Kanji: 返
+Story: The _anti-road_ protesters roared "**return** our land" as the bulldozers moved in.
+Note: 返す(かえす) is to return something, 戻る(もどる) is to return to somewhere
+<!--ID: 1791127019086-->
+END
+
+START
+Japanese RTK
+Keyword: marketing
+Clue:
+Kanji: 販
+Story: **Marketing** tries to get consumers to be _anti-money_ and pro-products.
+Note:
+<!--ID: 1791127019087-->
+END
+
+START
+Japanese RTK
+Keyword: claw
+Clue:
+Kanji: 爪
+Story: [no story - pictogram of hand and three claws]
+Note: primitive meaning _claw_ or _vulture_.
+Generally appears on-top in squashed form ⺤.
+Used for animal claws and human fingernails.
+<!--ID: 1791127019088-->
+END
+
+START
+Japanese RTK
+Keyword: gentle
+Clue:
+Kanji: 妥
+Story: _Women_ are usually quite **gentle**, but if provoked their _claws_ come out.
+Note:
+<!--ID: 1791127019090-->
+END
+
+START
+Japanese RTK
+Keyword: milk
+Clue:
+Kanji: 乳
+Story: The _fledgling_ had to be nursed with **milk** fed through a small tube bent into a _hook_ so it fitted under its beak (of course _fledglings_ don't drink milk, but...).
+Note: introduces the non-jōyō kanji primitive 孚 meaning _fledgling_ (a _baby vulture_).
+[ 孚 features the non-jōyō 爫 rather than the ⺤ seen in 乳 ]
+Cf. MILK (乳) and CAVITY (孔).
+<!--ID: 1791127019091-->
+END
+
+START
+Japanese RTK
+Keyword: floating
+Clue:
+Kanji: 浮
+Story: Simply **floating** on the _water_ was the first thing the _fledgling_ ducks learned.
+Note:
+<!--ID: 1791127019092-->
+END
+
+START
+Japanese RTK
+Keyword: lewd
+Clue:
+Kanji: 淫
+Story: The _porter_ is dripping with _water_ and has pre-jōyō _claw_ marks down his back after the unspeakably **lewd** acts he committed with the wealthy heiress who wanted more than just her bags brought up to her suite.
+Note: 淫 is a 2010 jōyō addition with the old-style 爫 (more similar to 爪) rather than ⺤. There are no other such jōyō cases. Drawing with ⺤ is allowed.
+<!--ID: 1791127019093-->
+END
+
+START
+Japanese RTK
+Keyword: leader
+Clue:
+Kanji: 将
+Story: A good **leader** has the slow, steady patience of a _turtle_, the sharp eye and opportunism of a _vulture_, and enough charisma that people stick to them like _glue_.
+Note:
+<!--ID: 1791127019094-->
+END
+
+START
+Japanese RTK
+Keyword: exhort
+Clue:
+Kanji: 奨
+Story: The mountain rescue _leader_ **exhorted** the exhausted _St. Bernard_ to head back into the blizzard.
+Note:
+<!--ID: 1791127019095-->
+END
+
+START
+Japanese RTK
+Keyword: grab
+Clue:
+Kanji: 采
+Story: The _vulture_ sat patiently on the _tree_, looking out for prey to **grab**.
+Note:
+<!--ID: 1791127019096-->
+END
+
+START
+Japanese RTK
+Keyword: pick
+Clue: pick fruit, not PICK UP
+Kanji: 採
+Story: **Picking** fruit isn't complicated, just _grab_ them with your _fingers_.
+Note: don't confuse with PICK UP (拾) or PINCH (摘) which also features 扌
+<!--ID: 1791127019097-->
+END
+
+START
+Japanese RTK
+Keyword: vegetable
+Clue:
+Kanji: 菜
+Story: Nobody _grabs_ a _rose_ for dinner, that's what separates a **vegetable** from a _flower_.
+Note:
+<!--ID: 1791127019098-->
+END
+
+START
+Japanese RTK
+Keyword: accept
+Clue:
+Kanji: 受
+Story: The _birdhouse_ brothel isn't the classiest joint, they'll **accept** any old _crotch_.
+Note: introduces the non-kanji primitive (受 minus 又) meaning _birdhouse_.
+<!--ID: 1791127019099-->
+END
+
+START
+Japanese RTK
+Keyword: impart
+Clue:
+Kanji: 授
+Story: On the Sistine Chapel ceiling, God stretches out his _finger_ to **impart** the spark of life, and Adam lolls there, barely bothering to _accept_ it.
+Note:
+<!--ID: 1791127019100-->
+END
+
+START
+Japanese RTK
+Keyword: love
+Clue:
+Kanji: 愛
+Story: When your _heart_ gets up on its _walking legs_ and moves itself into her _birdhouse_, you'll know it's **love**.
+Note: cf. MELANCHOLY (憂) and LOVE (愛).
+愛してる (あいしてる) is "I love you" (てる is a casual contraction of te-iru).
+<!--ID: 1791127019101-->
+END
+
+START
+Japanese RTK
+Keyword: unclear
+Clue:
+Kanji: 曖
+Story: In the cold light of _day_, what had seemed like _love_ the drunken night before now felt altogether more **unclear**.
+Note:
+<!--ID: 1791127019102-->
+END
+
+START
+Japanese RTK
+Keyword: pay
+Clue:
+Kanji: 払
+Story: The waiter grabbed my _elbow_ lightly with his _fingers_ and whispered "excuse me sir, but I think you've forgotten to **pay**."
+Note: introduces the non-jōyō kanji primitive 厶 meaning _elbow_.
+厶 had the established RTK meaning _elbow_ long before ELBOW (肘) was added as a 2010 jōyō kanji.
+<!--ID: 1791127019103-->
+END
+
+START
+Japanese RTK
+Keyword: wide
+Clue:
+Kanji: 広
+Story: The Bat*cave* is very **wide** and has a lot of _elbow_ room for Batman to do his yoga.
+Note:
+<!--ID: 1791127019104-->
+END
+
+START
+Japanese RTK
+Keyword: hooked
+Clue:
+Kanji: 勾
+Story: Peter Pan tried to escape, but Hook **hooked** him by the _elbow_ and _bound him up_.
+Note:
+<!--ID: 1791127019105-->
 END
