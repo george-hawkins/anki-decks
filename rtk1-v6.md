@@ -8093,3 +8093,205 @@ Story: Peter Pan tried to escape, but Hook **hooked** him by the _elbow_ and _bo
 Note:
 <!--ID: 1791127019105-->
 END
+
+START
+Japanese RTK
+Keyword: broaden
+Clue:
+Kanji: 拡
+Story: Superman **broadened** the already _wide_ Batcave with the power of his super strong _fingers_.
+Note:
+<!--ID: 1791232739843-->
+END
+
+START
+Japanese RTK
+Keyword: mineral
+Clue:
+Kanji: 鉱
+Story: Unlike rare _gold_, most **minerals** are found over a _wide_ area.
+Note:
+<!--ID: 1791232739848-->
+END
+
+START
+Japanese RTK
+Keyword: valve
+Clue:
+Kanji: 弁
+Story: Don't be silly, you can't turn that **valve** with your _elbow_; you'll have to use _both hands_.
+Note:
+<!--ID: 1791232739849-->
+END
+
+START
+Japanese RTK
+Keyword: male
+Clue:
+Kanji: 雄
+Story: The **male** _turkey_ strutted about like a nightclub bouncer, _elbows_ out and wing tips trailing _by his side_, all to impress the hens.
+Note: cf. FEMALE (雌) and MALE (雄), both feature a 隹
+<!--ID: 1791232739850-->
+END
+
+START
+Japanese RTK
+Keyword: pedestal
+Clue: plinth for a statue, not PODIUM
+Kanji: 台
+Story: Rodin's The Thinker sits on a **pedestal**, _elbow_ on knee and _mouth_ clamped shut.
+Note:
+<!--ID: 1791232739851-->
+END
+
+START
+Japanese RTK
+Keyword: neglect
+Clue:
+Kanji: 怠
+Story: Once her _heart_ had fallen from the _pedestal_ I'd put it on, **neglect** soon followed.
+Note:
+<!--ID: 1791232739852-->
+END
+
+START
+Japanese RTK
+Keyword: reign
+Clue:
+Kanji: 治
+Story: His long **reign** was marked by castles filled with no end of busts on _pedestals_ and fountains flowing with _water_.
+Note:
+<!--ID: 1791232739853-->
+END
+
+START
+Japanese RTK
+Keyword: metallurgy
+Clue:
+Kanji: 冶
+Story: In the forges of Winterfell, **metallurgy** means a stone _pedestal_ for an anvil and a bucket of _ice_ for quenching; nothing else will hold against the Night King.
+Note:
+<!--ID: 1791232739854-->
+END
+
+START
+Japanese RTK
+Keyword: commence
+Clue:
+Kanji: 始
+Story: Once his muse (an attractive young _woman_) had settled herself on the _pedestal_, he **commenced** painting his masterpiece.
+Note:
+<!--ID: 1791232739855-->
+END
+
+START
+Japanese RTK
+Keyword: womb
+Clue: not PLACENTA
+Kanji: 胎
+Story: The **womb** is the _part of the body_ that serves as the baby's first _pedestal_, supporting it proudly before it meets the world.
+Note:
+<!--ID: 1791232739856-->
+END
+
+START
+Japanese RTK
+Keyword: window
+Clue:
+Kanji: 窓
+Story: When I looked through the **window** of my girlfriend's _house_, I saw her _(human) legs_ and _elbows_ wrapped around another man; it broke my _heart_.
+Note:
+<!--ID: 1791232739857-->
+END
+
+START
+Japanese RTK
+Keyword: gone
+Clue:
+Kanji: 去
+Story: "Going, going, **gone**," joked the gangster as we shoveled a final spade full of _soil_ over the still protruding _elbow_ of his victim.
+Note:
+<!--ID: 1791232739858-->
+END
+
+START
+Japanese RTK
+Keyword: method
+Clue: not SYSTEM or TECHNIQUE
+Kanji: 法
+Story: The standard Mafia **method**: concrete shoes, a quiet splash into the _water_, and the witness is _gone_.
+Note:
+<!--ID: 1791232739859-->
+END
+
+START
+Japanese RTK
+Keyword: meeting
+Clue:
+Kanji: 会
+Story: Every **meeting** eventually hits a _wall_: nobody agrees, and the biscuits have already run out.
+Note: introduces the non-kanji primitive (the non-soil bit of 至) meaning _wall_ (no good story - _ceiling_ over _elbow_).
+We've already established the top-half of 会 as _meeting_ (e.g. see 合); now we have it as a full kanji and keyword.
+Cf. with 云 (the _rising clouds_ non-jōyō kanji).
+<!--ID: 1791232739860-->
+END
+
+START
+Japanese RTK
+Keyword: climax
+Clue:
+Kanji: 至
+Story: The **climax** was so earth-shattering that the _walls_ shook and the _soil_ itself trembled beneath us.
+Note:
+<!--ID: 1791232739861-->
+END
+
+START
+Japanese RTK
+Keyword: room
+Clue:
+Kanji: 室
+Story: They rented a **room** in a Japanese love hotel with the cheesy name _Climax House_.
+Note:
+<!--ID: 1791232739862-->
+END
+
+START
+Japanese RTK
+Keyword: arrival
+Clue:
+Kanji: 到
+Story: Just as the unfortunate young man was about to _climax_, her father **arrived** with a _saber_.
+Note:
+<!--ID: 1791232739863-->
+END
+
+START
+Japanese RTK
+Keyword: doth
+Clue:
+Kanji: 致
+Story: She _climaxed_ so noisily in her _taskmaster's_ arms that he muttered "the lady **doth** protest too much."
+Note:
+<!--ID: 1791232739864-->
+END
+
+START
+Japanese RTK
+Keyword: mutually
+Clue:
+Kanji: 互
+Story: [no story - two ユ characters 69ing each other.]
+Note: stroke order is 一, then L, then rotated L, then 一.
+<!--ID: 1791232739865-->
+END
+
+START
+Japanese RTK
+Keyword: abandon
+Clue:
+Kanji: 棄
+Story: The **abandoned** _infant_ was _buckled_ to a _tree_.
+Note: introduces the non-kanji primitive (the non-legs bit of 充) meaning _infant_, not to be confused with CHILD (子). No good story - _top hat_ and _elbow_.
+<!--ID: 1791232739866-->
+END
