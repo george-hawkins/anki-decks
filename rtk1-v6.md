@@ -349,7 +349,7 @@ Keyword: olden times
 Clue:
 Kanji: 旧
 Story: In **olden times**, gentlemen used _walking sticks_ every _day_.
-Note: introduces the _walking stick_ non-kanji primitive - think also _lameness_ etc.
+Note: introduces the non-kanji primitive 丨 meaning _walking stick_ - think also _lameness_ etc.
 <!--ID: 1784809271271-->
 END
 
@@ -1652,7 +1652,7 @@ Keyword: cape
 Clue:
 Kanji: 埼
 Story: **Cape** Cod is odd, _strange_ things happen on the _land_ there.
-Note:
+Note: cf. PROMONTORY (崎).
 <!--ID: 1785442542671-->
 END
 
@@ -8294,4 +8294,205 @@ Kanji: 棄
 Story: The **abandoned** _infant_ was _buckled_ to a _tree_.
 Note: introduces the non-kanji primitive (the non-legs bit of 充) meaning _infant_, not to be confused with CHILD (子). No good story - _top hat_ and _elbow_.
 <!--ID: 1791232739866-->
+END
+
+START
+Japanese RTK
+Keyword: bring up
+Clue: raise/rear
+Kanji: 育
+Story: I'm told it's easier to **bring up** an _infant_ on the _moon_, something to do with the lower gravity.
+Note: cf. RAISE (挙) meaning to elevate, not rear.
+<!--ID: 1791315775286-->
+END
+
+START
+Japanese RTK
+Keyword: remove
+Clue:
+Kanji: 撤
+Story: The _taskmaster's_ idea of how to _bring up_ infants was to regularly threaten to **remove** a _finger_ as punishment.
+Note: cf. PENETRATE (徹).
+<!--ID: 1791315775290-->
+END
+
+START
+Japanese RTK
+Keyword: allot
+Clue:
+Kanji: 充
+Story: The lab produced _infants_ to order, each was **allotted** _(human) legs_ and everything else according to the parent's specification.
+Note:
+<!--ID: 1791315775292-->
+END
+
+START
+Japanese RTK
+Keyword: gun
+Clue:
+Kanji: 銃
+Story: In Switzerland, every young man is _allotted_ a _metal_ **gun** when he's old enough for military service.
+Note:
+<!--ID: 1791315775293-->
+END
+
+START
+Japanese RTK
+Keyword: sulfur
+Clue:
+Kanji: 硫
+Story: Hell has a _rock_ floor, a _flood_ of burning **sulfur** for a river, and the unbaptised _infants_ paddle in its shallows.
+Note:
+<!--ID: 1791315775294-->
+END
+
+START
+Japanese RTK
+Keyword: current
+Clue: flowing
+Kanji: 流
+Story: The _infant_ Moses' basket was set adrift on calm _water_, but then the Nile _floods_ came and the enormous **current** carried him straight past Pharaoh's daughter and out to sea.
+Note:
+<!--ID: 1791315775295-->
+END
+
+START
+Japanese RTK
+Keyword: license
+Clue:
+Kanji: 允
+Story: He immediately lost his boxing **license** when he used his _elbows_ and _(human) legs_ in the prize fight.
+Note: cf. LICENSE (允) and ALLOT (充) - the _infant_ is missing his _top hat_.
+<!--ID: 1791315775296-->
+END
+
+START
+Japanese RTK
+Keyword: tempt
+Clue:
+Kanji: 唆
+Story: In Amsterdam, your _walking legs_ get you to the window, her _mouth_ **tempts** you in, and her _license_ makes the whole thing legal.
+Note:
+<!--ID: 1791315775297-->
+END
+
+START
+Japanese RTK
+Keyword: exit
+Clue: not EXIST
+Kanji: 出
+Story: The **exit** from Mordor involved a pass between two steep _mountains_.
+Note: the skewering stroke comes first.
+<!--ID: 1791315775298-->
+END
+
+START
+Japanese RTK
+Keyword: mountain
+Clue:
+Kanji: 山
+Story: [no story - pictogram]
+Note: the central 丨 comes first.
+<!--ID: 1791315775299-->
+END
+
+START
+Japanese RTK
+Keyword: bungling
+Clue:
+Kanji: 拙
+Story: The **bungling** bank robber got his _fingers_ stuck in the _exit_ as he tried to escape.
+Note:
+<!--ID: 1791315775300-->
+END
+
+START
+Japanese RTK
+Keyword: boulder
+Clue:
+Kanji: 岩
+Story: **Boulders** are huge _rocks_ that fall from the _mountain_ above.
+Note:
+<!--ID: 1791315775301-->
+END
+
+START
+Japanese RTK
+Keyword: charcoal
+Clue:
+Kanji: 炭
+Story: Burn enough **charcoal** and you'll end up with a _mountain_ of _ash_.
+Note:
+<!--ID: 1791315775302-->
+END
+
+START
+Japanese RTK
+Keyword: branch off
+Clue:
+Kanji: 岐
+Story: I reached the point on my path where it **branched off** towards the great _mountain_ I'd seen in the distance.
+Note: _branch_ is a component and part of the keyword.
+<!--ID: 1791315775303-->
+END
+
+START
+Japanese RTK
+Keyword: mountain pass
+Clue:
+Kanji: 峠
+Story: A **mountain pass** takes you neither _above_, nor _below_, but through the _mountains_.
+Note:
+<!--ID: 1791315775304-->
+END
+
+START
+Japanese RTK
+Keyword: crumble
+Clue:
+Kanji: 崩
+Story: Sam and Frodo were steadfast _companions_ even as _Mount_ Doom **crumbled** above them.
+Note:
+<!--ID: 1791315775305-->
+END
+
+START
+Japanese RTK
+Keyword: secrecy
+Clue:
+Kanji: 密
+Story: To maintain **secrecy**, secret societies _invariably_ have a _house_ hidden away on top of a _mountain_.
+Note: try to use the "on top" to remember everything else is on top of the 山
+<!--ID: 1791315775306-->
+END
+
+START
+Japanese RTK
+Keyword: honey
+Clue:
+Kanji: 蜜
+Story: **Honey** left open in my _house_ will _invariably_ attract _insects_.
+Note:
+<!--ID: 1791315775307-->
+END
+
+START
+Japanese RTK
+Keyword: storm
+Clue:
+Kanji: 嵐
+Story: _Winds_ are gathering at the base of the _mountain_, a great **storm** is coming.
+Note:
+<!--ID: 1791315775308-->
+END
+
+START
+Japanese RTK
+Keyword: promontory
+Clue:
+Kanji: 崎
+Story: A **promontory** is a _strange mountain_ that juts out like Cape Cod.
+Note: cf. CAPE (埼).
+Every cape is a promontory, but a promontory need not be a cape: a cape projects into water, a promontory into water or lower-lying land.
+<!--ID: 1791315775309-->
 END
