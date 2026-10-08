@@ -43,6 +43,7 @@ boromir
 copperfield
 dolder
 eisbahn
+elven
 gargleblaster
 garrotte
 geppetto
@@ -56,11 +57,14 @@ momotaro
 momotarō
 mordor
 muchacho
+nausicaä
 neville
 pancho
 paulownia
 pinocchio
+rivendell
 sauron
+shinjuku
 schwester
 slytherin
 valser

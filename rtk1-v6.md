@@ -8496,3 +8496,209 @@ Note: cf. CAPE (埼).
 Every cape is a promontory, but a promontory need not be a cape: a cape projects into water, a promontory into water or lower-lying land.
 <!--ID: 1791315775309-->
 END
+
+START
+Japanese RTK
+Keyword: bluffs
+Clue:
+Kanji: 崖
+Story: **Bluffs** are _mountainous cliffs_ covered in _ivy_.
+Note: cf. BLUFF (崖) and HORIZON (涯).
+Cliff is not a keyword and BLUFF and cliff are synonyms in casual use. Gemini _claims_ a cliff is a sheer drop of hard stone, but a bluff is softer material that's not quite as steep.
+<!--ID: 1791493866038-->
+END
+
+START
+Japanese RTK
+Keyword: enter
+Clue: opposite of exit
+Kanji: 入
+Story: [no story - a tent, a flipped 人]
+Note: primitive meaning _enter_, _go in_, _put in_, _come in_ etc.
+Heisig says it gains a gap when it appears above other components, as in 分
+This is nonsense, 込 is the only other jōyō kanji it appears in, the top of 分 etc. is EIGHT (八).
+<!--ID: 1791493866042-->
+END
+
+START
+Japanese RTK
+Keyword: crowded
+Clue:
+Kanji: 込
+Story: During rush hour, you can only _enter_ the **crowded** _roads_ of Shinjuku by foot.
+Note:
+<!--ID: 1791493866043-->
+END
+
+START
+Japanese RTK
+Keyword: part
+Clue:
+Kanji: 分
+Story: Anything a _dagger enters_, ends up in several **parts**.
+Note:
+<!--ID: 1791493866044-->
+END
+
+START
+Japanese RTK
+Keyword: poverty
+Clue:
+Kanji: 貧
+Story: His extreme **poverty** meant he only had a _part_ of the _clams_ he needed to survive.
+Note:
+<!--ID: 1791493866045-->
+END
+
+START
+Japanese RTK
+Keyword: partition
+Clue:
+Kanji: 頒
+Story: The _part_ of my _head_ where I remember all these characters is called the kanji **partition**.
+Note:
+<!--ID: 1791493866046-->
+END
+
+START
+Japanese RTK
+Keyword: public
+Clue:
+Kanji: 公
+Story: I always _enter_ **public** toilets using my _elbows_ because I don't want to touch the doors with my hands.
+Note:
+<!--ID: 1791493866047-->
+END
+
+START
+Japanese RTK
+Keyword: pine tree
+Clue:
+Kanji: 松
+Story: _Public_ toilets often reek of **pine tree** scented disinfectant.
+Note:
+<!--ID: 1791493866048-->
+END
+
+START
+Japanese RTK
+Keyword: venerable old man
+Clue: not OLD MAN
+Kanji: 翁
+Story: The tribe's _public_ figurehead was a **venerable old man** whose headband always held two beautiful _feathers_.
+Note: cf. OLD MAN (老).
+<!--ID: 1791493866049-->
+END
+
+START
+Japanese RTK
+Keyword: sue
+Clue:
+Kanji: 訟
+Story: Take care what _words_ you say in _public_, someone could take offence and **sue** you for slander.
+Note:
+<!--ID: 1791493866050-->
+END
+
+START
+Japanese RTK
+Keyword: valley
+Clue:
+Kanji: 谷
+Story: As I _entered_ the _mouth_ of the **valley** it started pouring, and I was very glad of my _umbrella_.
+Note: almost a little picture.
+Nausicaä of the Valley of the Wind is 風の谷のナウシカ
+<!--ID: 1791493866051-->
+END
+
+START
+Japanese RTK
+Keyword: bathe
+Clue:
+Kanji: 浴
+Story: The mountain man uses the _water_ from the _valley_ to **bathe**.
+Note:
+<!--ID: 1791493866052-->
+END
+
+START
+Japanese RTK
+Keyword: contain
+Clue:
+Kanji: 容
+Story: The beautiful _valley_ **contained** just a single _house_, perched high up overlooking everything.
+Note:
+<!--ID: 1791493866053-->
+END
+
+START
+Japanese RTK
+Keyword: melt
+Clue:
+Kanji: 溶
+Story: The glacier **melted** away as _water_, releasing the bodies it had _contained_ for centuries.
+Note:
+<!--ID: 1791493866054-->
+END
+
+START
+Japanese RTK
+Keyword: longing
+Clue: covetous, not PINING
+Kanji: 欲
+Story: Looking down the _valley_ I spotted the farmer's daughter sunbathing topless, and was filled with **longing** for what I _lacked_.
+Note: this is a covetous longing, as in greed, passion, desire, craving.
+Don't confuse with PINING (慕).
+<!--ID: 1791493866055-->
+END
+
+START
+Japanese RTK
+Keyword: abundant
+Clue:
+Kanji: 裕
+Story: Elven _cloaks_ are **abundant** in the _valley_ of Rivendell.
+Note:
+<!--ID: 1791493866056-->
+END
+
+START
+Japanese RTK
+Keyword: lead (metal)
+Clue:
+Kanji: 鉛
+Story: The **lead** and other heavy _metals_ were allowed to overflow into the _gully_ behind the factory, they didn't care.
+Note: introduces the non-kanji primitive 㕣 meaning _gully_, it's VALLEY (谷) minus the _umbrella_.
+<!--ID: 1791493866057-->
+END
+
+START
+Japanese RTK
+Keyword: run alongside
+Clue:
+Kanji: 沿
+Story: Those dry _gullies_, that **run alongside** the paths, will be roaring with _water_ when the rains start.
+Note:
+<!--ID: 1791493866058-->
+END
+
+START
+Japanese RTK
+Keyword: prize
+Clue:
+Kanji: 賞
+Story: He won first **prize** in the _clam_ eating contest, but got food poisoning, and spent the whole night in the _outhouse_.
+Note: introduces the non-kanji primitive (the non-soil bit of 堂) meaning _outhouse_ (no good story - _little_, _roof_ and _opening_).
+Important - it's not _schoolhouse_, that's a 冖 with ツ on top, this is 冖 with 小 on top (like 肖 and 尚).
+<!--ID: 1791493866059-->
+END
+
+START
+Japanese RTK
+Keyword: party
+Clue: political party, not gala affair
+Kanji: 党
+Story: The Reform **party** is basically an _outhouse_ on _(human) legs_, spewing endless bullshit.
+Note: cf. ELDER BROTHER (兄).
+<!--ID: 1791493866060-->
+END
