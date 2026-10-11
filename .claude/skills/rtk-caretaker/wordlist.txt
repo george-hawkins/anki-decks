@@ -18,6 +18,7 @@ joyo
 jōyō
 kana
 kanji
+kanjivg
 katakana
 keyword
 koohii
@@ -32,6 +33,7 @@ rtk
 sashimi
 shii
 shish
+skritter
 wanikani
 
 # --- names, places, brands, pop culture ---
@@ -56,6 +58,7 @@ midsommar
 momotaro
 momotarō
 mordor
+moulin
 muchacho
 nausicaä
 neville
@@ -85,9 +88,11 @@ mudbloods
 narco
 oaky
 pre
+risqué
 sayeth
 swordsmith
 there'll
 tyrell
+undead
 undercooked
 winterfell

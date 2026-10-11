@@ -85,8 +85,9 @@ END
   excepted. All three are mechanical fixes. The exception: a sentence that ends
   on a kanji or kana character (`… written 上`) needs no full stop — leave it
   alone, in a `Story` or a `Note`.
-- In a story, **the keyword is wrapped in `**bold**`** (once) and **each
-  component primitive in `_underscores_`** — or `*single asterisks*` where the
+- In a story, **the keyword is wrapped in `**bold**`** (every time it
+  appears — more than once is fine) and **each component primitive in
+  `_underscores_`** — or `*single asterisks*` where the
   component is glued inside a larger word (`*gold*fish`, `*water*-pistol`,
   `*king*-size`).
 - A card with no story yet says exactly `[no story]`, optionally with a hint:
@@ -188,9 +189,9 @@ the part that matters most, so read the cards in scope (`--dump` output, or
    punctuation, exclamations, or the deck's edgy humour. Casual speech and a
    little punctuation abuse are the house style; only call out what actually
    trips a reader.
-7. **Markup judgment.** Keyword in `**bold**` exactly once, components in
-   `_…_`/`*…*`; bold on a non-keyword word (`**opening**` on the card for
-   *stone*) is a finding; a keyword doubling as a genuine primitive name
+7. **Markup judgment.** Keyword in `**bold**` (more than once is fine, as is
+   a component named more than once), components in `_…_`/`*…*`; bold on a
+   non-keyword word (`**opening**` on the card for *stone*) is a finding; a keyword doubling as a genuine primitive name
    (具: `**tools**` … `_tool_` table) is not.
 8. **Duplication.** Repeated keywords or kanji are errors the script catches;
    also watch for two cards leaning on the same image or scene in a way that
@@ -364,9 +365,14 @@ names the stories borrow (Frodo, Momotarō, Geppetto), deck jargon (jōyō, Kooh
 and modern words missing from aspell's dictionary. Heisig's keywords are added
 automatically.
 
-When a run flags a word that is genuinely fine and will recur, append the base
-form (lowercase, alphabetical) yourself — no need to ask — and mention it in a
-single closing line. Judge it: a name, a brand, a loanword or a real word
+When a run flags a word that is genuinely fine and will recur, add the base
+form yourself — no need to ask — and mention it in a single closing line.
+**Insert it by hand** (an `Edit`, or a targeted `sed` that adds one line after
+its alphabetical neighbour) into the section it belongs to. **Never run the
+file through `sort`**: the file has commented section headers that a sort
+would scramble, and GNU `sort -f` dies on the non-ASCII characters in those
+headers while `sort -o` has already truncated the file — that once emptied the
+wordlist and it had to be recovered from git. Judge it: a name, a brand, a loanword or a real word
 aspell simply lacks belongs in the file; a word that is only *probably* right,
 or that appears once, is better raised in the report. Never add a word to
 silence a finding you haven't checked.

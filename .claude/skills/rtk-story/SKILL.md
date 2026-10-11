@@ -78,13 +78,16 @@ Search the deck so the story fits what's already established:
 ## Story rules (non-negotiable)
 
 1. **One or two sentences.** Short enough to replay mentally in seconds.
-2. The target keyword appears exactly once, wrapped in `**double asterisks**`.
-   Natural inflection is fine (**farm**, **risky** for "risk",
-   **separated** for "separate").
+2. The target keyword appears, wrapped in `**double asterisks**`. Natural
+   inflection is fine (**farm**, **risky** for "risk", **separated** for
+   "separate"). It may appear more than once, bolded each time — a keyword or
+   component doing double duty in a story is fine, not a flaw, so never
+   "correct" a candidate for it.
 3. **Every** component keyword appears, each wrapped in `_underscores_`.
-   Inflection and pluralization are fine (_fields_, _fishooks_). Adjacent
-   components may share one underscore span when they read naturally as a
-   phrase (e.g. _ten brains glued_, _white ladle_).
+   Inflection and pluralization are fine (_fields_, _fishooks_), and so is
+   a component appearing more than once. Adjacent components may share one
+   underscore span when they read naturally as a phrase (e.g. _ten brains
+   glued_, _white ladle_).
 4. **Component order doesn't matter.** Mention them in whatever order makes
    the best story. Never contort a sentence to march through them in the
    given order, and never reorder-and-report: no "reordered to match the
@@ -156,9 +159,9 @@ Distilled from the deck's best entries:
    *other* name, so both are seen doing real work (泣: _vase_ in the main,
    _stand up_ in an alternate) rather than all three leaning on one choice.
 
-**Every line you offer must be paste-ready**: keyword bolded exactly once,
-every component marked, no parenthetical telling the user to swap a word in
-afterwards. A candidate that doesn't satisfy the story rules is not a
+**Every line you offer must be paste-ready**: keyword bolded wherever it
+appears, every component marked, no parenthetical telling the user to swap a
+word in afterwards. A candidate that doesn't satisfy the story rules is not a
 candidate — rewrite it or drop it.
 
 Do not pad the output with headers, tables, or explanations of RTK theory.

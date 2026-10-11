@@ -8688,7 +8688,7 @@ Keyword: prize
 Clue:
 Kanji: 賞
 Story: He won first **prize** in the _clam_ eating contest, but got food poisoning, and spent the whole night in the _outhouse_.
-Note: introduces the non-kanji primitive (the non-soil bit of 堂) meaning _outhouse_ (no good story - _little_, _roof_ and _opening_).
+Note: introduces the non-kanji primitive (the non-soil bit of 堂) meaning _outhouse_ (no good story - _little_, _roof_ and _opening_), cf. ESTEEM (尚).
 Important - it's not _schoolhouse_, that's a 冖 with ツ on top, this is 冖 with 小 on top (like 肖 and 尚).
 <!--ID: 1791493866059-->
 END
@@ -8701,4 +8701,209 @@ Kanji: 党
 Story: The Reform **party** is basically an _outhouse_ on _(human) legs_, spewing endless bullshit.
 Note: cf. ELDER BROTHER (兄).
 <!--ID: 1791493866060-->
+END
+
+START
+Japanese RTK
+Keyword: hall
+Clue:
+Kanji: 堂
+Story: The cult's secret **hall** is hidden deep in the _soil_ and you enter via a shabby-looking _outhouse_.
+Note:
+<!--ID: 1791733503933-->
+END
+
+START
+Japanese RTK
+Keyword: usual
+Clue:
+Kanji: 常
+Story: As **usual**, there's no toilet paper in the _outhouse_, just a filthy _towel_ hanging on a nail.
+Note:
+<!--ID: 1791733503937-->
+END
+
+START
+Japanese RTK
+Keyword: skirt
+Clue:
+Kanji: 裳
+Story: The _garment_ worn by the little figure on the door of the women's _outhouse_ is a **skirt**, so it's easy to tell it apart from the men's.
+Note:
+<!--ID: 1791733503939-->
+END
+
+START
+Japanese RTK
+Keyword: manipulate
+Clue: not MANEUVER
+Kanji: 掌
+Story: Instead of magazines, we keep a Rubik's Cube in the _outhouse_ to **manipulate** with your _hands_ while you do your business.
+Note:
+<!--ID: 1791733503940-->
+END
+
+START
+Japanese RTK
+Keyword: pelt
+Clue:
+Kanji: 皮
+Story: [no story - a pelt hanging from a branch with a hook]
+Note: stroke order is 丿 first, then BRANCH (支) but with a hook on its first stroke.
+<!--ID: 1791733503941-->
+END
+
+START
+Japanese RTK
+Keyword: waves
+Clue:
+Kanji: 波
+Story: The Inuit can ride the **waves** in their kayaks covered with *water*proof seal _pelts_.
+Note:
+<!--ID: 1791733503942-->
+END
+
+START
+Japanese RTK
+Keyword: old woman
+Clue:
+Kanji: 婆
+Story: The **old woman** spent her last years, watching the _waves_ and thinking of her husband who never returned from the seas.
+Note:
+<!--ID: 1791733503943-->
+END
+
+START
+Japanese RTK
+Keyword: expose
+Clue:
+Kanji: 披
+Story: The hunter peeled off the _pelt_ with his _fingers_ to **expose** the bloody carcass beneath.
+Note:
+<!--ID: 1791733503944-->
+END
+
+START
+Japanese RTK
+Keyword: rend
+Clue:
+Kanji: 破
+Story: Cavemen have no knives, so they **rend** the _pelt_ violently from the carcass with a jagged _rock_.
+Note: rend - "to tear something apart or into pieces violently."
+<!--ID: 1791733503945-->
+END
+
+START
+Japanese RTK
+Keyword: incur
+Clue:
+Kanji: 被
+Story: These days a _cloak_ of finest seal _pelts_ will **incur** the wrath of animal lovers.
+Note:
+<!--ID: 1791733503946-->
+END
+
+START
+Japanese RTK
+Keyword: remainder
+Clue: not REMAINS
+Kanji: 残
+Story: Toss the _bones_ off the butcher's _float_ to the dogs: they'll divide them evenly, then fight over the **remainder**.
+Note: introduces the non-kanji primitive 歹 meaning _bone_ (_flesh_ - actually _evening_ - handing off _one_ piece of bone).
+<!--ID: 1791733503947-->
+END
+
+START
+Japanese RTK
+Keyword: martyrdom
+Clue:
+Kanji: 殉
+Story: To commemorate the saint's **martyrdom** his _bones_ will be displayed for a _decameron_.
+Note: _decameron_ means "ten days" in Greek, but in English, it means the famous 14th-century book by Boccaccio.
+<!--ID: 1791733503948-->
+END
+
+START
+Japanese RTK
+Keyword: particularly
+Clue:
+Kanji: 殊
+Story: The collector was **particularly** interested in the bizarre _vermilion_ colored _bones_ recovered from the ancient site.
+Note:
+<!--ID: 1791733503949-->
+END
+
+START
+Japanese RTK
+Keyword: augment
+Clue:
+Kanji: 殖
+Story: The surgeon's special offer: breasts **augmented** _straightaway_, and new cheek _bones_ thrown in for free.
+Note:
+<!--ID: 1791733503950-->
+END
+
+START
+Japanese RTK
+Keyword: file
+Clue: lined up in a row
+Kanji: 列
+Story: The undead warriors charged in single **file**, _sabers_ up, _bones_ clattering with every step.
+Note: this is _file_ as in people or things lined up in a row.
+<!--ID: 1791733503951-->
+END
+
+START
+Japanese RTK
+Keyword: split
+Clue:
+Kanji: 裂
+Story: The Moulin Rouge chorus girls high-kicked in a long _file_ and their _garments_ **split** at the seams one after the other, rip, rip, rip. All part of the show and very risqué.
+Note:
+<!--ID: 1791733503952-->
+END
+
+START
+Japanese RTK
+Keyword: ardent
+Clue:
+Kanji: 烈
+Story: She warmed herself at the _oven fire_ while her **ardent** suitors shivered in a long _file_ outside, hoping for just a glimpse.
+Note:
+<!--ID: 1791733503953-->
+END
+
+START
+Japanese RTK
+Keyword: death
+Clue:
+Kanji: 死
+Story: **Death**, the grim reaper, eats _bones_ for breakfast with a _spoon_.
+Note: the first stroke of 歹 extends over the 匕
+<!--ID: 1791733503954-->
+END
+
+START
+Japanese RTK
+Keyword: interment
+Clue: not BURY
+Kanji: 葬
+Story: At the sweet maiden's **interment** even _Death_ stood hidden with _flowers_ in _both hands_.
+Note: don't confuse with BURY (埋).
+Interment - "the act or ceremony of burying a dead body in a grave or tomb."
+Appears in the title 葬送のフリーレン
+<!--ID: 1791733503955-->
+END
+
+START
+Japanese RTK
+Keyword: wink
+Clue:
+Kanji: 瞬
+Story: You hid your _eyes_ behind _sunglasses_ at the _birdhouse_ brothel so nobody would recognise you, but now the girl you fancy can't see you **wink** at her.
+Note: introduces the non-jōyō kanji 舛 meaning _sunglasses_ (夕 and a new shape).
+The _sunglasses_ meaning is arbitrary (it's actually the dancing radical).
+The ㄴ bit of 㐄 is two strokes.
+<!-- See https://github.com/KanjiVG/kanjivg/issues/533 -->
+<!--ID: 1791733503956-->
 END
