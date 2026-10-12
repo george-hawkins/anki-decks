@@ -31,6 +31,7 @@ rin
 romaji
 rtk
 sashimi
+seppuku
 shii
 shish
 skritter
@@ -62,6 +63,7 @@ moulin
 muchacho
 nausicaä
 neville
+palantír
 pancho
 paulownia
 pinocchio

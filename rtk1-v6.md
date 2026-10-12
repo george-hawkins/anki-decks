@@ -8907,3 +8907,205 @@ The ㄴ bit of 㐄 is two strokes.
 <!-- See https://github.com/KanjiVG/kanjivg/issues/533 -->
 <!--ID: 1791733503956-->
 END
+
+START
+Japanese RTK
+Keyword: ear
+Clue:
+Kanji: 耳
+Story: [no story]
+Note:
+<!--ID: 1791840705955-->
+END
+
+START
+Japanese RTK
+Keyword: take
+Clue:
+Kanji: 取
+Story: **Take** a man by the _ear_ and he'll follow you anywhere; **take** him by the _crotch_ and he'll follow you faster.
+Note:
+<!--ID: 1791840705958-->
+END
+
+START
+Japanese RTK
+Keyword: gist
+Clue:
+Kanji: 趣
+Story: The **gist** of our master plan is to _take_ the money and _run_. It's a stretch.
+Note:
+<!--ID: 1791840705959-->
+END
+
+START
+Japanese RTK
+Keyword: utmost
+Clue:
+Kanji: 最
+Story: _Take_ the **utmost** care on a sunny _day_ or you'll come home red as a tomato.
+Note: the first stroke of 取 stretches over the 又
+<!--ID: 1791840705960-->
+END
+
+START
+Japanese RTK
+Keyword: snapshot
+Clue:
+Kanji: 撮
+Story: Take _utmost_ care that you don't have your _fingers_ in the way when you take a **snapshot**.
+Note: 撮る is to take (a photograph).
+<!--ID: 1791840705961-->
+END
+
+START
+Japanese RTK
+Keyword: shame
+Clue:
+Kanji: 恥
+Story: The priest had his _ear_ to the grille as my **shame**-filled _heart_ (to the right) poured out its confession.
+Note: this is the only jōyō kanji where 心 appears to the right like this.
+<!--ID: 1791840705962-->
+END
+
+START
+Japanese RTK
+Keyword: post
+Clue:
+Kanji: 職
+Story: The soldier's **post** was to keep his _ear_ to the ground and blow his _kazoo_ when he heard the enemy coming (he'd lost his whistle).
+Note:
+<!--ID: 1791840705963-->
+END
+
+START
+Japanese RTK
+Keyword: holy
+Clue:
+Kanji: 聖
+Story: The **holy** man uses his _ears_ to listen to God before opening his _mouth_ to advise the _king_.
+Note:
+<!--ID: 1791840705964-->
+END
+
+START
+Japanese RTK
+Keyword: daring
+Clue:
+Kanji: 敢
+Story: The slave's **daring** escape ended badly and his _ear_ was _nailed_ to the _taskmaster's_ door as a warning to others.
+Note: Heisig says the first element is a _nail_ (丁) but it's its own thing, a 丅
+<!--ID: 1791840705965-->
+END
+
+START
+Japanese RTK
+Keyword: listen
+Clue:
+Kanji: 聴
+Story: **Listen** with your _ear_, your _eye_ and your _heart_, and you'll hear a _needle_ drop.
+Note: cf. DEMOLITION (壊) and BENEVOLENCE (徳).
+<!--ID: 1791840705966-->
+END
+
+START
+Japanese RTK
+Keyword: pocket
+Clue:
+Kanji: 懐
+Story: In a frantic _state of mind_ and with one _eye_ on the door, the spy stitched a secret **pocket** into her _garment_ using a _needle_ and thread she'd just found.
+Note: cf. DEMOLITION (壊), the _soil_ becomes a _heart_.
+<!--ID: 1791840705967-->
+END
+
+START
+Japanese RTK
+Keyword: ridicule
+Clue:
+Kanji: 慢
+Story: One look at the _mandala_ I'd hung up to improve my _state of mind_ and his **ridicule** began.
+Note: introduces the non-jōyō kanji 曼 meaning _mandala_ (no good story - _sun_, _eye_ and _crotch_).
+Mandala - "a geometric, often circular design symbolizing the universe, used as an aid in Hindu and Buddhist meditation."
+<!--ID: 1791840705968-->
+END
+
+START
+Japanese RTK
+Keyword: loose
+Clue:
+Kanji: 漫
+Story: _Water_ leaked down the temple wall and the great _mandala_ scroll came **loose** from its frame and floated away.
+Note: 漫 appears in 漫画(まんが).
+<!--ID: 1791840705969-->
+END
+
+START
+Japanese RTK
+Keyword: buy
+Clue:
+Kanji: 買
+Story: When something really catches my _eye_, I take out my _clams_ and **buy** it before anyone else does.
+Note:
+<!--ID: 1791840705970-->
+END
+
+START
+Japanese RTK
+Keyword: placement
+Clue:
+Kanji: 置
+Story: Good product **placement** catches the _eye straightaway_.
+Note:
+<!--ID: 1791840705971-->
+END
+
+START
+Japanese RTK
+Keyword: penalty
+Clue: not PUNISH
+Kanji: 罰
+Story: The **penalty** for disobeying your lord is seppuku, close your _eyes_, say your last _words_ and cut out your belly with your _saber_.
+Note: don't confuse with PUNISH (刑) which also features a _saber_.
+<!--ID: 1791840705972-->
+END
+
+START
+Japanese RTK
+Keyword: rather
+Clue:
+Kanji: 寧
+Story: I'd **rather** die peacefully at _home_ of a _heart_ attack than from a _spike_ through the _eye_.
+Note:
+<!--ID: 1791840705973-->
+END
+
+START
+Japanese RTK
+Keyword: voiced
+Clue:
+Kanji: 濁
+Story: A _bound up insect_ with _water_ in its _eyes_ buzzes miserably; that buzz is all that separates a **voiced** が from a quiet か.
+Note: し has a soft consonant, じ is the _voiced_ form (done with vibrating vocal cords).
+゛ is called the 濁点(だくてん), the "muddy dot" (_voiced_ sounds are muddied).
+<!--ID: 1791840705974-->
+END
+
+START
+Japanese RTK
+Keyword: ring
+Clue:
+Kanji: 環
+Story: The _Eye_ of Sauron glared through the _floor_ at the _Mouth_ of Sauron, muffled in a _scarf_, hunting for the **Ring** with his palantír _ball_.
+Note:
+<!--ID: 1791840705975-->
+END
+
+START
+Japanese RTK
+Keyword: send back
+Clue:
+Kanji: 還
+Story: The _Eye_ of Sauron glared through the _floor_ at the _Mouth_ of Sauron, muffled in a _scarf_, and never noticed Frodo and Sam on the _road_ about to **send back** the Ring to the fires of Mount Doom.
+Note:
+<!--ID: 1791840705976-->
+END
