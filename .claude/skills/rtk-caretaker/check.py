@@ -50,6 +50,7 @@ NOTETYPE = "Japanese RTK"
 HEADER_RE = re.compile(r"^TARGET DECK: .+$")
 FIELD_RE = re.compile(r"^([A-Z][A-Za-z ]*):(.*)$")
 ID_RE = re.compile(r"^<!--ID: *(\d+)-->$")
+INLINE_COMMENT_RE = re.compile(r"\s*<!--.*?-->")
 REQUIRED = ("Keyword", "Clue", "Kanji", "Story", "Note")
 # Update is optional and, like Note, holds free prose — a later second thought
 # about the card kept apart from the Note itself.
@@ -197,6 +198,10 @@ def parse(lines: list[str], report: Report) -> list[Card]:
         if text.startswith("<!--") and "-->" not in text:
             in_comment = True
             continue
+        if "<!--" in text and not text.startswith("<!--"):
+            # an aside tacked onto the end of a field line is scratch space too
+            raw = INLINE_COMMENT_RE.sub("", raw).rstrip()
+            text = raw.strip()
         if text == "START":
             if card is not None:
                 report.error("F003", card.start, "START at L%d never reached an END" % card.start)

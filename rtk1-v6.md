@@ -35,7 +35,7 @@ Keyword: four
 Clue:
 Kanji: 四
 Story: [no story]
-Note: _mouth_ and _human legs_ primitives.
+Note: _mouth_ (口) and _human legs_ (儿) primitives.
 <!--ID: 1784740837226-->
 END
 
@@ -195,7 +195,7 @@ END
 START
 Japanese RTK
 Keyword: bright
-Clue:
+Clue: the easy one
 Kanji: 明
 Story: The _sun_ makes the _moon_ **bright**.
 Note:
@@ -6590,7 +6590,7 @@ END
 START
 Japanese RTK
 Keyword: grace
-Clue: something freely bestowed
+Clue: something freely bestowed, not GRACEFUL
 Kanji: 恩
 Story: The old woman showed true **grace** when she forgave the thief. The _cause_? Her beautiful _heart_.
 Note:
@@ -6934,7 +6934,7 @@ Japanese RTK
 Keyword: ooze
 Clue:
 Kanji: 泌
-Story: If you _divide a heart in two_, _invariably_ something **oozes** out, but it's definitely not water.
+Story: If you _divide a heart in two_, _invariably_ something **oozes** out, but it's definitely not _water_.
 Note:
 <!--ID: 1788373582998-->
 END
@@ -7741,7 +7741,7 @@ Japanese RTK
 Keyword: beat
 Clue:
 Kanji: 撃
-Story: With _chariots_ and _missiles_, led by a strong _hand_, we can't fail to **beat** our enemies.
+Story: With _wagons_ full of _missiles_, led by a strong _hand_, we can't fail to **beat** our enemies.
 Note:
 <!--ID: 1791049708176-->
 END
@@ -7861,7 +7861,7 @@ END
 START
 Japanese RTK
 Keyword: graceful
-Clue:
+Clue: not GRACE
 Kanji: 淑
 Story: Once in the _water_, my overweight _uncle_ is a surprisingly **graceful** swimmer.
 Note:
@@ -8664,8 +8664,8 @@ END
 
 START
 Japanese RTK
-Keyword: lead (metal)
-Clue:
+Keyword: lead
+Clue: metal
 Kanji: 鉛
 Story: The **lead** and other heavy _metals_ were allowed to overflow into the _gully_ behind the factory, they didn't care.
 Note: introduces the non-kanji primitive 㕣 meaning _gully_, it's VALLEY (谷) minus the _umbrella_.
@@ -9105,7 +9105,213 @@ Japanese RTK
 Keyword: send back
 Clue:
 Kanji: 還
-Story: The _Eye_ of Sauron glared through the _floor_ at the _Mouth_ of Sauron, muffled in a _scarf_, and never noticed Frodo and Sam on the _road_ about to **send back** the Ring to the fires of Mount Doom.
+Story: The _Eye_ of Sauron glared through the _floor_ at the _Mouth_ of Sauron, muffled in a _scarf_, and never noticed Frodo and Sam on the _road_, about to **send back** the Ring to the fires of Mount Doom.
 Note:
 <!--ID: 1791840705976-->
+END
+
+START
+Japanese RTK
+Keyword: husband
+Clue:
+Kanji: 夫
+Story: _One large_ **husband**.
+Note: like 二, the top stroke is smaller.
+Cf. HEAVEN (天).
+<!--ID: 1791923582140-->
+END
+
+START
+Japanese RTK
+Keyword: aid
+Clue: not HELP
+Kanji: 扶
+Story: A good _husband_ will readily lift his _fingers_ to **aid** his wife.
+Note: don't confuse with HELP (助).
+<!--ID: 1791923582144-->
+END
+
+START
+Japanese RTK
+Keyword: mountain stream
+Clue:
+Kanji: 渓
+Story: The _water_ from the **mountain stream** saved her _husband_ from the _vultures_.
+Note:
+<!--ID: 1791923582145-->
+END
+
+START
+Japanese RTK
+Keyword: standard
+Clue:
+Kanji: 規
+Story: Back in the day, the _husband's_ way of _seeing_ things was simply the **standard**.
+Note:
+<!--ID: 1791923582146-->
+END
+
+START
+Japanese RTK
+Keyword: exchange
+Clue:
+Kanji: 替
+Story: The wives agreed to **exchange** their two _husbands_ for one _day_.
+Note:
+<!--ID: 1791923582147-->
+END
+
+START
+Japanese RTK
+Keyword: approve
+Clue:
+Kanji: 賛
+Story: Of the two potential _husbands_, which did mom and dad **approve** of? The one with more _clams_, of course!
+Note:
+<!--ID: 1791923582148-->
+END
+
+START
+Japanese RTK
+Keyword: submerge
+Clue:
+Kanji: 潜
+Story: Submarine 101: _exchange_ air for _water_ to **submerge**.
+Note:
+<!--ID: 1791923582149-->
+END
+
+START
+Japanese RTK
+Keyword: lose
+Clue: misplace
+Kanji: 失
+Story: The _drop_ is the _husband's_ toupee, and he **loses** it about the house at least once a day.
+Note: primitive meaning _lose_ or _to drop_.
+Not LOSE as in DEFEAT (負) but as in misplace.
+Cf. COW (牛) and ARROW (矢).
+<!--ID: 1791923582150-->
+END
+
+START
+Japanese RTK
+Keyword: iron
+Clue: metal
+Kanji: 鉄
+Story: **Iron** is a _metal_ that weighs a lot and is easy _to drop_ by accident.
+Note: cf. PIG IRON (銑), the only difference is the 儿
+<!--ID: 1791923582151-->
+END
+
+START
+Japanese RTK
+Keyword: alternate
+Clue:
+Kanji: 迭
+Story: I _dropped_ my money on the _road_ and it blew away; I had to take an **alternate** way home that went past an ATM.
+Note:
+<!--ID: 1791923582152-->
+END
+
+START
+Japanese RTK
+Keyword: retainer
+Clue:
+Kanji: 臣
+Story: [no story - 丨, two 丅 and a 口]
+Note: primitive meaning _slave_.
+It looks wild, but the stroke order is fine, the 丨 comes first.
+Retainer - "a servant, attendant, or follower who serves a person of high rank."
+<!--ID: 1791923582153-->
+END
+
+START
+Japanese RTK
+Keyword: princess
+Clue:
+Kanji: 姫
+Story: In ancient times, a _woman_ who had loyal _slaves_ standing by her was probably a **princess**.
+Note:
+<!--ID: 1791923582154-->
+END
+
+START
+Japanese RTK
+Keyword: storehouse
+Clue:
+Kanji: 蔵
+Story: The _slaves_ moved _flowers_ from the **storehouse** in preparation for the _parade_.
+Note:
+<!--ID: 1791923582155-->
+END
+
+START
+Japanese RTK
+Keyword: entrails
+Clue:
+Kanji: 臓
+Story: The hunter hangs the _flesh_ in his _storehouse_, but throws the **entrails** to the dogs.
+Note:
+<!--ID: 1791923582156-->
+END
+
+START
+Japanese RTK
+Keyword: intelligent
+Clue:
+Kanji: 賢
+Story: The **intelligent** _eunuch_ ended up managing the palace and all the emperor's _clams_.
+Note: introduces the non-jōyō kanji primitive 臤 (_slave's crotch_) meaning _eunuch_.
+<!--ID: 1791923582157-->
+END
+
+START
+Japanese RTK
+Keyword: kidney
+Clue:
+Kanji: 腎
+Story: The _eunuch_ sold the only _flesh_ he had left to sell: a **kidney**.
+Note:
+<!--ID: 1791923582158-->
+END
+
+START
+Japanese RTK
+Keyword: strict
+Clue:
+Kanji: 堅
+Story: **Strict** palace rule: any _eunuch_ who sets foot on the great garden's _soil_ gets whatever's left chopped off too.
+Note:
+<!--ID: 1791923582159-->
+END
+
+START
+Japanese RTK
+Keyword: look to
+Clue:
+Kanji: 臨
+Story: The _slave lies_ among the _goods_ in the ship's hold and **looks to** a future without chains (an impossible dream).
+Note:
+<!--ID: 1791923582160-->
+END
+
+START
+Japanese RTK
+Keyword: perusal
+Clue:
+Kanji: 覧
+Story: The _slave lying_ on the _floor_ could _see_ enough of the will to give it a quick **perusal** and learn he'd been left to the nephew.
+Note:
+<!--ID: 1791923582161-->
+END
+
+START
+Japanese RTK
+Keyword: gigantic
+Clue:
+Kanji: 巨
+Story: A **gigantic** 巨lephant. <!-- Note to Claude: "巨lephant" looks like Elephant -->
+Note: someone on Koohii said the 巨 and 臣 look like x-wing fighters seen from above and facing right.
+Attack on Titan is 進撃の巨人, lit. 'The Advancing Giant'.
+<!--ID: 1791923582162-->
 END
