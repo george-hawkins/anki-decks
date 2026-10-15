@@ -5249,7 +5249,7 @@ END
 START
 Japanese RTK
 Keyword: rhyme
-Clue:
+Clue: not RHYTHM
 Kanji: 韻
 Story: The Ministry of _Sound_ pays _employees_ for **rhyme** after **rhyme**.
 Note: remember 員 is _employee_.
@@ -7123,7 +7123,7 @@ END
 START
 Japanese RTK
 Keyword: strike
-Clue:
+Clue: whack
 Kanji: 打
 Story: Your _fingers_ or the _nail_. Which will the hammer **strike**?
 Note:
@@ -7527,7 +7527,7 @@ END
 START
 Japanese RTK
 Keyword: handle
-Clue:
+Clue: handle something
 Kanji: 扱
 Story: You should **handle** nitroglycerin with extreme care, hold it carefully in the _fingers_ of your _outstretched hand_ for fear of blowing your face off.
 Note:
@@ -9314,4 +9314,207 @@ Story: A **gigantic** 巨lephant. <!-- Note to Claude: "巨lephant" looks like E
 Note: someone on Koohii said the 巨 and 臣 look like x-wing fighters seen from above and facing right.
 Attack on Titan is 進撃の巨人, lit. 'The Advancing Giant'.
 <!--ID: 1791923582162-->
+END
+
+START
+Japanese RTK
+Keyword: repel
+Clue:
+Kanji: 拒
+Story: King Kong **repelled** the attacking biplanes, flicking them out of the sky with his _gigantic fingers_.
+Note:
+<!--ID: 1792180687928-->
+END
+
+START
+Japanese RTK
+Keyword: power
+Clue: no story
+Kanji: 力
+Story: [no story - think 男]
+Note: primitive meaning _power_ or _muscle_.
+Cf. SWORD (刀) and katakana カ.
+Compared to カ, the second stroke of 力 extends further to the right of the first stroke and then descends almost vertically rather than slanting inwards.
+<!--ID: 1792180687931-->
+END
+
+START
+Japanese RTK
+Keyword: man
+Clue: not PERSON
+Kanji: 男
+Story: A **man** is just _muscle_ for working the _rice field_.
+Note:
+<!--ID: 1792180687932-->
+END
+
+START
+Japanese RTK
+Keyword: labor
+Clue:
+Kanji: 労
+Story: In the _schoolhouse_, they develop the children's _muscles_ by forcing them to do manual **labor**.
+Note:
+<!--ID: 1792180687933-->
+END
+
+START
+Japanese RTK
+Keyword: recruit
+Clue:
+Kanji: 募
+Story: The Russian **recruit** was told he was just _muscle_ and here to replace those already in the _graveyard_.
+Note:
+<!--ID: 1792180687934-->
+END
+
+START
+Japanese RTK
+Keyword: inferiority
+Clue:
+Kanji: 劣
+Story: Physical **inferiority** can be felt by some with _few muscles_.
+Note:
+<!--ID: 1792180687935-->
+END
+
+START
+Japanese RTK
+Keyword: achievement
+Clue:
+Kanji: 功
+Story: **Achievement** takes _craft_ and _muscle_; one without the other is just a plan or a sweat.
+Note:
+<!--ID: 1792180687936-->
+END
+
+START
+Japanese RTK
+Keyword: persuade
+Clue:
+Kanji: 勧
+Story: Only a hero of great _power_ could **persuade** _Pegasus_ to be ridden at all.
+Note: it's Bellerophon (and not Perseus) who tamed _Pegasus_.
+<!--ID: 1792180687937-->
+END
+
+START
+Japanese RTK
+Keyword: toil
+Clue:
+Kanji: 努
+Story: _Guys_ with _muscles_ often find themselves **toiling** at nasty unpleasant work.
+Note:
+<!--ID: 1792180687938-->
+END
+
+START
+Japanese RTK
+Keyword: uprising
+Clue:
+Kanji: 勃
+Story: The legend said that during the **uprising**, the _children_ hid in the _chapel_ and were protected by the _power_ of the Lord.
+Note: introduces the non-kanji primitive (the 十 on top of 冖) meaning _chapel_.
+<!--ID: 1792180687939-->
+END
+
+START
+Japanese RTK
+Keyword: encourage
+Clue:
+Kanji: 励
+Story: I finally **encouraged** people to find the _muscle_ to do something about the _ten thousand_ conkers rolling off that _cliff_ and killing people.
+Note: cf. HORSE CHESTNUT (栃) - of course, here the first stroke is left-to-right.
+<!--ID: 1792180687940-->
+END
+
+START
+Japanese RTK
+Keyword: add
+Clue:
+Kanji: 加
+Story: Mr. _Power Mouth_, the world's most annoying neighbour, always has something to **add** to other people's discussions.
+Note: the 加 combination is the only one where 力 isn't in its preferred right-side position.
+<!--ID: 1792180687941-->
+END
+
+START
+Japanese RTK
+Keyword: congratulations
+Clue:
+Kanji: 賀
+Story: **Congratulations** are great, but _add_ in some _clams_ and it's even better.
+Note:
+<!--ID: 1792180687942-->
+END
+
+START
+Japanese RTK
+Keyword: erect
+Clue:
+Kanji: 架
+Story: _Adding_ one _wooden_ block at a time to the top, you **erect** a very unstable structure in Jenga.
+Note: or "just _add_ Viagra and you'll be as _erect_ as a _tree_."
+But it's not really that kind of _erect_, erection (as in Viagra etc.) is actually UPRISING (勃) and ROUSE (起).
+<!--ID: 1792180687943-->
+END
+
+START
+Japanese RTK
+Keyword: armpit
+Clue:
+Kanji: 脇
+Story: What _part of your body_ smells terrible if you work on your _triceps_? Your **armpits**.
+Note: introduces the non-jōyō kanji primitive 劦 meaning _triceps_ (the large muscles on the back of the upper arm).
+<!--ID: 1792180687944-->
+END
+
+START
+Japanese RTK
+Keyword: threaten
+Clue:
+Kanji: 脅
+Story: The bouncer's _triceps_ loomed over me; every _part of my body_ felt **threatened**.
+Note: this has the exact same components as ARMPIT (脇) but just in different positions.
+<!--ID: 1792180687945-->
+END
+
+START
+Japanese RTK
+Keyword: co-
+Clue:
+Kanji: 協
+Story: "If you just **co-**operate, sticking this _needle_ in your _triceps_ won't hurt a bit," said the nurse unconvincingly.
+Note:
+<!--ID: 1792180687946-->
+END
+
+START
+Japanese RTK
+Keyword: going
+Clue: to go
+Kanji: 行
+Story: [no story - 丁 is the only familiar element]
+Note: 行 appears whole in one other jōyō kanji - GIRDER (桁). Otherwise, it appears as ⼻ meaning a _column_, _going_, or a _line_ of something, or it appears split with a component in-between, where it means _boulevard_, as in 街 (彳, 圭 and 亍). BOULEVARD is also the keyword for 街
+<!--ID: 1792180687947-->
+END
+
+START
+Japanese RTK
+Keyword: rhythm
+Clue: not RHYME
+Kanji: 律
+Story: In Japanese calligraphy, the _brush_ moves down the _column_ in one beautiful unbroken **rhythm**.
+Note:
+<!--ID: 1792180687948-->
+END
+
+START
+Japanese RTK
+Keyword: restore
+Clue:
+Kanji: 復
+Story: The _column_ of soldiers had to _double back_ and **restore** peace in the village they'd just left.
+Note:
+<!--ID: 1792180687949-->
 END

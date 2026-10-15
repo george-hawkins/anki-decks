@@ -41,6 +41,7 @@ wanikani
 aran
 balrog
 batcave
+bellerophon
 bezos
 boromir
 copperfield
@@ -52,6 +53,7 @@ garrotte
 geppetto
 gras
 heisig
+jenga
 koohii
 mardi
 mckinsey
