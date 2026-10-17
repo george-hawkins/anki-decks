@@ -6892,7 +6892,7 @@ Japanese RTK
 Keyword: hanker
 Clue: not YEARN
 Kanji: 憬
-Story: After a few weeks in a cell, your _state of mind_ will be **hankering** after a complete change of _scenery_.
+Story: After a few weeks in a cell, your _state of mind_ will **hanker** after a complete change of _scenery_.
 Note:
 <!--ID: 1788373582993-->
 END
@@ -8971,7 +8971,7 @@ END
 START
 Japanese RTK
 Keyword: post
-Clue:
+Clue: job
 Kanji: 職
 Story: The soldier's **post** was to keep his _ear_ to the ground and blow his _kazoo_ when he heard the enemy coming (he'd lost his whistle).
 Note:
@@ -9216,7 +9216,7 @@ END
 START
 Japanese RTK
 Keyword: retainer
-Clue:
+Clue: servant
 Kanji: 臣
 Story: [no story - 丨, two 丅 and a 口]
 Note: primitive meaning _slave_.
@@ -9517,4 +9517,205 @@ Kanji: 復
 Story: The _column_ of soldiers had to _double back_ and **restore** peace in the village they'd just left.
 Note:
 <!--ID: 1792180687949-->
+END
+
+START
+Japanese RTK
+Keyword: gain
+Clue:
+Kanji: 得
+Story: _Glued_ to my screen, watching _columns_ of share prices until _nightbreak_, I eventually **gained** a fortune.
+Note:
+<!--ID: 1792246782483-->
+END
+
+START
+Japanese RTK
+Keyword: accompany
+Clue:
+Kanji: 従
+Story: The _column_ of (movie) vikings is always **accompanied** by their _horn mending_ specialist.
+Note:
+<!--ID: 1792246782487-->
+END
+
+START
+Japanese RTK
+Keyword: junior
+Clue:
+Kanji: 徒
+Story: "Where you _going_, **junior**?" asked the old man, "no need to _run_, you'll still get there in the end!"
+Note:
+<!--ID: 1792246782488-->
+END
+
+START
+Japanese RTK
+Keyword: wait
+Clue:
+Kanji: 待
+Story: On New Year's Day, they queued in _line_ outside the _Buddhist temple_, **waiting** patiently to visit its shrine.
+Note:
+<!--ID: 1792246782489-->
+END
+
+START
+Japanese RTK
+Keyword: journey
+Clue:
+Kanji: 往
+Story: The _line_ of adventurers **journeyed** through the dungeon, holding their _candlesticks_ high to light their way.
+Note:
+<!--ID: 1792246782490-->
+END
+
+START
+Japanese RTK
+Keyword: subjugate
+Clue:
+Kanji: 征
+Story: The empire sent _columns_ of troops to **subjugate** the natives and _correct_ their foolish ways.
+Note:
+<!--ID: 1792246782491-->
+END
+
+START
+Japanese RTK
+Keyword: diameter
+Clue: not CIRCUMFERENCE
+Kanji: 径
+Story: The _column_ of soldiers measured the **diameter** of each bomb crater with a giant _spool_ of measuring tape.
+Note:
+<!--ID: 1792246782492-->
+END
+
+START
+Japanese RTK
+Keyword: he
+Clue: the textbook pronoun
+Kanji: 彼
+Story: **He** was a crazy caveman - **he** wore a _pelt_ and attacked the _column_ of invading newcomers single-handedly.
+Note:
+<!--ID: 1792246782493-->
+END
+
+START
+Japanese RTK
+Keyword: duty
+Clue:
+Kanji: 役
+Story: The _column_ of soldiers did their **duty** bravely even as the _missiles_ exploded around them.
+Note:
+<!--ID: 1792246782494-->
+END
+
+START
+Japanese RTK
+Keyword: benevolence
+Clue:
+Kanji: 徳
+Story: **Benevolence** is not just _listening_ to (ear-less) people's troubles but _going_ out and fixing them.
+Note: cf. LISTEN (聴).
+<!--ID: 1792246782495-->
+END
+
+START
+Japanese RTK
+Keyword: penetrate
+Clue:
+Kanji: 徹
+Story: The _taskmaster_ walks down the _column_ of cadets he has to _bring up_, tapping each backside with his cane: a reminder of what it will **penetrate** if they disappoint.
+Note: cf. REMOVE (撤), the 扌 is replaced by ⼻
+<!--ID: 1792246782496-->
+END
+
+START
+Japanese RTK
+Keyword: indications
+Clue:
+Kanji: 徴
+Story: A _column_ of nobles, with the _king_ at the front, trudging up the _mountain_ under the _taskmaster's_ whip, is a strong **indication** of a coup.
+Note:
+<!--ID: 1792246782497-->
+END
+
+START
+Japanese RTK
+Keyword: penal
+Clue: not PENALTY
+Kanji: 懲
+Story: All _indications_ are that the American **penal** system has a _heart_ of stone.
+Note:
+<!--ID: 1792246782498-->
+END
+
+START
+Japanese RTK
+Keyword: delicate
+Clue:
+Kanji: 微
+Story: At the _beginning_ of the _mountain_ trek was an extremely **delicate** rope bridge that the _taskmaster_ forced the _column_ of slaves over one at a time.
+Note: it's really the non-kanji component 兀, not BEGINNING (元), but Heisig pretends the first stroke is absorbed into the 山
+cf. INDICATIONS (徴), KING (王) replaced by 兀
+<!--ID: 1792246782499-->
+END
+
+START
+Japanese RTK
+Keyword: boulevard
+Clue:
+Kanji: 街
+Story: The **boulevard** was so overgrown, there was _ivy_ all down the middle of it.
+Note:
+<!--ID: 1792246782500-->
+END
+
+START
+Japanese RTK
+Keyword: girder
+Clue:
+Kanji: 桁
+Story: Those _wooden_ **girders** have to _go_, use steel i-beams instead.
+Note: the only jōyō kanji where the 行 component appears whole like this.
+<!--ID: 1792246782501-->
+END
+
+START
+Japanese RTK
+Keyword: equilibrium
+Clue:
+Kanji: 衡
+Story: The monstrosity, half _fish_, half _St. Bernard_, flopped down the center of the _boulevard_, incapable of maintaining **equilibrium** between its two halves.
+Note:
+<!--ID: 1792246782502-->
+END
+
+START
+Japanese RTK
+Keyword: draft
+Clue:
+Kanji: 稿
+Story: They presented their **draft** plan to make _wheat_ grow _taller_.
+Note: introduces the non-jōyō kanji primitive 禾 meaning _wheat_ or _cereal_ (a _tree_ with a _drop_).
+<!--ID: 1792246782503-->
+END
+
+START
+Japanese RTK
+Keyword: earnings
+Clue:
+Kanji: 稼
+Story: In the old days, a family's **earnings** were the sacks of _wheat_ they had stacked inside their _house_ before winter.
+Note:
+<!--ID: 1792246782504-->
+END
+
+START
+Japanese RTK
+Keyword: extent
+Clue: not EXTREMITY
+Kanji: 程
+Story: The king _displayed_ the **extent** of his cruel power, feeding the _wheat_ to the pigeons rather than letting the peasants keep it.
+Note:
+<!--ID: 1792246782505-->
 END
