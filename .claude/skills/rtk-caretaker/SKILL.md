@@ -192,7 +192,10 @@ the part that matters most, so read the cards in scope (`--dump` output, or
 7. **Markup judgment.** Keyword in `**bold**` (more than once is fine, as is
    a component named more than once), components in `_…_`/`*…*`; bold on a
    non-keyword word (`**opening**` on the card for *stone*) is a finding; a keyword doubling as a genuine primitive name
-   (具: `**tools**` … `_tool_` table) is not.
+   (具: `**tools**` … `_tool_` table) is not. Nor is a bold keyword that
+   swallows a component's name instead of marking it separately
+   (`**peach tree**`, `**old woman**`, `**ears of wheat**` for 穂): the deck
+   does this in several places and the user has said it is fine.
 8. **Duplication.** Repeated keywords or kanji are errors the script catches;
    also watch for two cards leaning on the same image or scene in a way that
    would blur them, and for near-identical stories. A deliberate contrast pair

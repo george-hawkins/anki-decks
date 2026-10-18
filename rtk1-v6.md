@@ -6600,7 +6600,7 @@ END
 START
 Japanese RTK
 Keyword: apply
-Clue: ... applies / is appropriate in this context
+Clue: what applies here?
 Kanji: 応
 Story: Two rules **apply** in a vampire bat _cave_: no torches, and never let them hear your _heart_ pounding.
 Note:
@@ -8459,7 +8459,7 @@ END
 START
 Japanese RTK
 Keyword: secrecy
-Clue:
+Clue: not SECRET
 Kanji: 密
 Story: To maintain **secrecy**, secret societies _invariably_ have a _house_ hidden away on top of a _mountain_.
 Note: try to use the "on top" to remember everything else is on top of the 山
@@ -9697,6 +9697,7 @@ Clue:
 Kanji: 稿
 Story: They presented their **draft** plan to make _wheat_ grow _taller_.
 Note: introduces the non-jōyō kanji primitive 禾 meaning _wheat_ or _cereal_ (a _tree_ with a _drop_).
+_Wheat_ is a poor translation, but it's complicated - an LLM can explain. LITTLE (小) BARLEY (麦) is _wheat_, LARGE (大) BARLEY (麦) is barley!
 <!--ID: 1792246782503-->
 END
 
@@ -9718,4 +9719,205 @@ Kanji: 程
 Story: The king _displayed_ the **extent** of his cruel power, feeding the _wheat_ to the pigeons rather than letting the peasants keep it.
 Note:
 <!--ID: 1792246782505-->
+END
+
+START
+Japanese RTK
+Keyword: tax
+Clue:
+Kanji: 税
+Story: **Tax** is like the _devil_ taking your hard earned _wheat_.
+Note:
+<!--ID: 1792354883108-->
+END
+
+START
+Japanese RTK
+Keyword: immature
+Clue:
+Kanji: 稚
+Story: **Immature** _turkeys_ are stuffed with _wheat_ until they're big enough for slaughter.
+Note:
+<!--ID: 1792354883111-->
+END
+
+START
+Japanese RTK
+Keyword: harmony
+Clue:
+Kanji: 和
+Story: When there's enough _wheat_ to feed every _mouth_, people live in **harmony**.
+Note:
+<!--ID: 1792354883113-->
+END
+
+START
+Japanese RTK
+Keyword: shift
+Clue: from x to y
+Kanji: 移
+Story: It took _many_ mice to **shift** all the _wheat_, grain by grain, into their nest.
+Note:
+<!--ID: 1792354883114-->
+END
+
+START
+Japanese RTK
+Keyword: second
+Clue: second of time
+Kanji: 秒
+Story: He had an hourglass filled with _wheat_ seeds and every **second**, a _few_ seeds fell through.
+Note: only one reading (and you know it), ビョウ
+<!--ID: 1792354883115-->
+END
+
+START
+Japanese RTK
+Keyword: autumn
+Clue:
+Kanji: 秋
+Story: When **autumn** comes, the _wheat_ is safely stored and it's time to start lighting _fires_ again.
+Note: don't mix up with FARM (畑) that also involves _fire_ and agriculture.
+<!--ID: 1792354883116-->
+END
+
+START
+Japanese RTK
+Keyword: distress
+Clue:
+Kanji: 愁
+Story: The damsel in **distress**: the charmer who won her _heart_ in summer dumped her when _autumn_ arrived.
+Note:
+<!--ID: 1792354883117-->
+END
+
+START
+Japanese RTK
+Keyword: private
+Clue:
+Kanji: 私
+Story: Warning sign: this _wheat_ field is **private**, trespassers will be severely _elbowed_.
+Note: you know it as 私(わたし), but in compounds it generally means PRIVATE or personal, e.g. 公私 - PUBLIC and PRIVATE matters.
+<!--ID: 1792354883118-->
+END
+
+START
+Japanese RTK
+Keyword: regularity
+Clue:
+Kanji: 秩
+Story: For the farmer, **regularity** is sacred: he'd rather _lose_ a finger than have a single row of _wheat_ sown out of line.
+Note:
+<!--ID: 1792354883119-->
+END
+
+START
+Japanese RTK
+Keyword: secret
+Clue: not SECRECY
+Kanji: 秘
+Story: The free gift at the bottom of a _cereal_ box is _invariably_ a **secret** decoder ring.
+Note:
+<!--ID: 1792354883120-->
+END
+
+START
+Japanese RTK
+Keyword: appellation
+Clue:
+Kanji: 称
+Story: After a day of tastings in the Champagne **appellation**, I had a _little lie down_ in a _wheat_ field by the vines and slept it off.
+Note: appellation - "a legally defined growing region", e.g. the Champagne appellation.
+<!--ID: 1792354883121-->
+END
+
+START
+Japanese RTK
+Keyword: profit
+Clue: not GAIN or EARNINGS
+Kanji: 利
+Story: There's not much **profit** in growing _wheat_ if other men come with _sabers_ and take it all.
+Note: cf. EARNINGS (稼)
+<!--ID: 1792354883122-->
+END
+
+START
+Japanese RTK
+Keyword: pear tree
+Clue:
+Kanji: 梨
+Story: The **pear tree** is Japan's most _profitable tree_, people pay a fortune for beautiful pears as gifts.
+Note: 梨(なし) is both the fruit and the species - 梨の木 is a pear tree.
+<!--ID: 1792354883123-->
+END
+
+START
+Japanese RTK
+Keyword: harvest
+Clue:
+Kanji: 穫
+Story: The **harvest** of _wheat_ and _flowers_ was loaded onto _vessels_ for export.
+Note: cf. SAFEGUARD (護) and SEIZE (獲), there are fun Koohii stories that mix in both for HARVEST.
+<!--ID: 1792354883124-->
+END
+
+START
+Japanese RTK
+Keyword: ear of a plant
+Clue: think Pilgrims
+Kanji: 穂
+Story: The Pilgrims' **ears of wheat** failed to grow, and the Indians did them a _favor_ they could never repay, sharing their meat and maize with them.
+Note:
+<!--ID: 1792354883125-->
+END
+
+START
+Japanese RTK
+Keyword: rice plant
+Clue: not RICE
+Kanji: 稲
+Story: In _olden times_, the _vultures_ ate all the _wheat_, so the Gods gave the Japanese the **rice plant**.
+Note: here using _wheat_ for 禾 really becomes confusing.
+稲 is the living plant and 米 is the harvested grain.
+<!--ID: 1792354883126-->
+END
+
+START
+Japanese RTK
+Keyword: incense
+Clue:
+Kanji: 香
+Story: For the farmer, ripe _wheat_ baking in the _sun_ gives off the sweetest **incense** he knows.
+Note: there's a small group of four jōyō kanji where _wheat_ is on top - 香, 季, 委 and 秀
+<!--ID: 1792354883127-->
+END
+
+START
+Japanese RTK
+Keyword: seasons
+Clue:
+Kanji: 季
+Story: The villagers know what makes the **seasons** turn and every year they take a _child_ down to the _wheat_ fields; its blood a gift to the hungry gods.
+Note:
+<!--ID: 1792354883128-->
+END
+
+START
+Japanese RTK
+Keyword: committee
+Clue:
+Kanji: 委
+Story: There's one token _woman_ on the _wheat_ growing **committee**, and she's actually the only one who knows how to grow _wheat_.
+Note:
+<!--ID: 1792354883129-->
+END
+
+START
+Japanese RTK
+Keyword: excel
+Clue:
+Kanji: 秀
+Story: The champion harvester **excels** yet again: _fist_ raised with the last sheaf of _wheat_ while the others have barely got started.
+Note:
+<!--ID: 1792354883130-->
 END
