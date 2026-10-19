@@ -663,7 +663,7 @@ Keyword: mediocre
 Clue:
 Kanji: 凡
 Story: A _drop_ of breeze is naught but a **mediocre** _wind_.
-Note:
+Note: introduces the non-jōyō kanji primitive 几 meaning _wind_.
 <!--ID: 1784987896445-->
 END
 
@@ -1107,6 +1107,7 @@ Clue: don't confuse with FEW
 Kanji: 小
 Story: A **little** penguin with its wings at its side.
 Note: means little as in small or tiny, not as in a little bit or few.
+As a component, it sometimes appears inverted and squashed down to ⺌
 <!--ID: 1785183563264-->
 END
 
@@ -9920,4 +9921,206 @@ Kanji: 秀
 Story: The champion harvester **excels** yet again: _fist_ raised with the last sheaf of _wheat_ while the others have barely got started.
 Note:
 <!--ID: 1792354883130-->
+END
+
+START
+Japanese RTK
+Keyword: transparent
+Clue:
+Kanji: 透
+Story: If you want to _excel_ at driving down the _road_, it's best if your windows are **transparent**.
+Note:
+<!--ID: 1792525898175-->
+END
+
+START
+Japanese RTK
+Keyword: entice
+Clue:
+Kanji: 誘
+Story: The sirens _excel_ at **enticing** sailors onto the rocks with nothing but _words_.
+Note: we already had BECKON, URGE, SEDUCE, ENCOURAGE and now ENTICE. Try to keep them distinct in your head.
+<!--ID: 1792525898179-->
+END
+
+START
+Japanese RTK
+Keyword: training
+Clue:
+Kanji: 稽
+Story: The hardest part of my **training** as a cook was when they gave me some _wheat_ and a _chihuahua with a human leg_ and said, "Now make something _delicious_."
+Note: it's not a 犬, it's a 尤 a Jinmeiyō (name) kanji meaning reasonable. It appears in TRAINING (稽), CONCERNING (就) and its "sibling" KICK 蹴
+<!--ID: 1792525898180-->
+END
+
+START
+Japanese RTK
+Keyword: cereals
+Clue:
+Kanji: 穀
+Story: Every country has its favorite breakfast **cereals**: Japan has _Samurai_ Flakes, Britain _Crowned Wheat_, and Russia _Missile_ Pops.
+Note: cf. HUSK (殻), the 几 of SUPERFLUOUS (冗) replaced by 禾
+<!--ID: 1792525898181-->
+END
+
+START
+Japanese RTK
+Keyword: germ
+Clue:
+Kanji: 菌
+Story: Leave _wheat pent up_ somewhere damp and **germs** will sprout on it like _flowers_.
+Note:
+<!--ID: 1792525898182-->
+END
+
+START
+Japanese RTK
+Keyword: numb
+Clue:
+Kanji: 萎
+Story: As the _flower committee_ meeting went on and on, my mind went **numb** and everything faded away.
+Note: 萎む(しぼむ) means to fade (away).
+<!--ID: 1792525898183-->
+END
+
+START
+Japanese RTK
+Keyword: rice
+Clue:
+Kanji: 米
+Story: [no story - horns and tree]
+Note: primitive meaning _rice_ or _United States_ or _America_.
+丷 first, then 木
+Heisig says it sometimes appears as ⺢ on its own or below a horizontal stroke, but really ⺢ is a form of 水 but with 冫 either side.
+<!--ID: 1792525898184-->
+END
+
+START
+Japanese RTK
+Keyword: flour
+Clue:
+Kanji: 粉
+Story: _Rice_ **flour** is _rice_ ground into _parts_.
+Note: rice flour is a real thing, it's gluten free and used in rice noodles and the wrappers for dumplings.
+<!--ID: 1792525898185-->
+END
+
+START
+Japanese RTK
+Keyword: sticky
+Clue:
+Kanji: 粘
+Story: "The _rice_ in Japan will be **sticky**" said the _fortune teller_, foretelling the blindingly obvious.
+Note:
+<!--ID: 1792525898186-->
+END
+
+START
+Japanese RTK
+Keyword: grains
+Clue:
+Kanji: 粒
+Story: Guess how many **grains** of _rice_ are in the _vase_ and win a wonderful prize.
+Note:
+<!--ID: 1792525898187-->
+END
+
+START
+Japanese RTK
+Keyword: cosmetics
+Clue:
+Kanji: 粧
+Story: In _America_, **cosmetics** are just _soil_ scraped out of some _cave_ and sold in tiny pots for $80.
+Note:
+<!--ID: 1792525898188-->
+END
+
+START
+Japanese RTK
+Keyword: astray
+Clue:
+Kanji: 迷
+Story: You won't go **astray** if you leave a trail of _rice_ behind you on the _road_.
+Note:
+<!--ID: 1792525898189-->
+END
+
+START
+Japanese RTK
+Keyword: chic
+Clue:
+Kanji: 粋
+Story: It's apparently **chic** in _America_ to pretend you understand a _game of cricket_.
+Note:
+<!--ID: 1792525898190-->
+END
+
+START
+Japanese RTK
+Keyword: riddle
+Clue:
+Kanji: 謎
+Story: A pre-jōyō **riddle** is _words_ designed to lead you _astray_
+Note: unlike 迷, there are two _drops_ on the road as 謎 is a 2010 addition.
+<!--ID: 1792525898191-->
+END
+
+START
+Japanese RTK
+Keyword: provisions
+Clue:
+Kanji: 糧
+Story: All Japanese **provisions** contain a large _quantity_ of _rice_.
+Note:
+<!--ID: 1792525898192-->
+END
+
+START
+Japanese RTK
+Keyword: chrysanthemum
+Clue:
+Kanji: 菊
+Story: A **chrysanthemum** is a _flower_ that looks like a fistful of _rice bound up_ into one tight ball.
+Note: the **Chrysanthemum** Throne is the throne of the Emperor of Japan.
+<!--ID: 1792525898193-->
+END
+
+START
+Japanese RTK
+Keyword: core
+Clue:
+Kanji: 奥
+Story: A _St. Bernard_ adds a _drop_ of water now and then to the _rice pent up_ in the **core** of the unusual Japanese reactor.
+Note: the bottom of 囗 is replaced by 大 (the _St. Bernard's_ head really starts above the 一 like normal).
+<!--ID: 1792525898194-->
+END
+
+START
+Japanese RTK
+Keyword: number
+Clue:
+Kanji: 数
+Story: The _taskmaster_ puts a **number** on each sack of _rice_ that the _women_ carry in from the fields.
+Note:
+<!--ID: 1792525898195-->
+END
+
+START
+Japanese RTK
+Keyword: watchtower
+Clue:
+Kanji: 楼
+Story: From a _tree_ used as a **watchtower**, the guards keep an eye on the *rice*-carrying _women_.
+Note:
+<!--ID: 1792525898196-->
+END
+
+START
+Japanese RTK
+Keyword: sort
+Clue: kind, variety
+Kanji: 類
+Story: A _St. Bernard_ can tell every **sort** of _rice_ apart just by sticking his _head_ in the sack.
+Note:
+<!--ID: 1792525898197-->
 END
