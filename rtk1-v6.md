@@ -9837,7 +9837,7 @@ Japanese RTK
 Keyword: profit
 Clue: not GAIN or EARNINGS
 Kanji: 利
-Story: There's not much **profit** in growing _wheat_ if other men come with _sabers_ and take it all.
+Story: There's not much **profit** in growing _wheat_ if men with _sabers_ come and take it all.
 Note: cf. EARNINGS (稼)
 <!--ID: 1792354883122-->
 END
@@ -9992,6 +9992,7 @@ Story: [no story - horns and tree]
 Note: primitive meaning _rice_ or _United States_ or _America_.
 丷 first, then 木
 Heisig says it sometimes appears as ⺢ on its own or below a horizontal stroke, but really ⺢ is a form of 水 but with 冫 either side.
+⺢ has primitive meaning _grains of rice_.
 <!--ID: 1792525898184-->
 END
 
@@ -10020,8 +10021,8 @@ Japanese RTK
 Keyword: grains
 Clue:
 Kanji: 粒
-Story: Guess how many **grains** of _rice_ are in the _vase_ and win a wonderful prize.
-Note:
+Story: Guess how many **grains** are in the _vase_ of _rice_ and win a wonderful prize.
+Note: the story wording is a result of trying to avoid "grains of rice" which is reserved for 氺
 <!--ID: 1792525898187-->
 END
 
@@ -10060,7 +10061,7 @@ Japanese RTK
 Keyword: riddle
 Clue:
 Kanji: 謎
-Story: A pre-jōyō **riddle** is _words_ designed to lead you _astray_
+Story: A pre-jōyō **riddle** is _words_ designed to lead you _astray_.
 Note: unlike 迷, there are two _drops_ on the road as 謎 is a 2010 addition.
 <!--ID: 1792525898191-->
 END
@@ -10123,4 +10124,209 @@ Kanji: 類
 Story: A _St. Bernard_ can tell every **sort** of _rice_ apart just by sticking his _head_ in the sack.
 Note:
 <!--ID: 1792525898197-->
+END
+
+START
+Japanese RTK
+Keyword: lacquer
+Clue:
+Kanji: 漆
+Story: _Water_ drips from the _tree_ onto my **lacquer**-coated paper _umbrella_ and skitters off like _grains of rice_.
+Note:
+<!--ID: 1792697117866-->
+END
+
+START
+Japanese RTK
+Keyword: knee
+Clue:
+Kanji: 膝
+Story: Samurai _lacquer_ their beautiful armour, right down to the plates protecting the _flesh_ of their **knees**.
+Note: cf. LACQUER (漆), ⺡ is replaced by 月
+<!--ID: 1792697117870-->
+END
+
+START
+Japanese RTK
+Keyword: Esq.
+Clue:
+Kanji: 様
+Story: Bertie Wooster, **Esq.**, knew little of farming and fattened his prize _sheep_ on imported _grains of rice_ in the shade of his estate's ancient _trees_.
+Note: the last stroke of 羊 becomes the first stroke of 氺
+<!--ID: 1792697117871-->
+END
+
+START
+Japanese RTK
+Keyword: request
+Clue:
+Kanji: 求
+Story: The beggar's **request** for a few _grains of rice_ started politely, but ended with him holding an _arrowhead_ to my throat.
+Note: introduces the non-kanji primitive (the 一 and 丶 already seen in 弋, 博 and _acupuncturist_) meaning _arrowhead_.
+The strokes are 一 then 亅, the two 冫 and ends with the drop.
+<!--ID: 1792697117872-->
+END
+
+START
+Japanese RTK
+Keyword: ball
+Clue: not KING or JEWEL
+Kanji: 球
+Story: Always the same _request_: "can we have our **ball** back," after kicking it into my garden yet again.
+Note: tennis is COURTYARD (庭) BALL (球).
+We've had keywords and components overlap before, as here with _ball_.
+<!--ID: 1792697117873-->
+END
+
+START
+Japanese RTK
+Keyword: salvation
+Clue:
+Kanji: 救
+Story: The slaves' only _request_ to heaven was for **salvation** from their cruel _taskmaster_.
+Note:
+<!--ID: 1792697117874-->
+END
+
+START
+Japanese RTK
+Keyword: bamboo
+Clue:
+Kanji: 竹
+Story: The two _reclining_ victims were impaled on **bamboo** _spikes_.
+Note: as a primitive the two verticals are extremely short: ⺮
+In handwriting, the verticals are slanted \ and /.
+<!--ID: 1792697117875-->
+END
+
+START
+Japanese RTK
+Keyword:  laugh
+Clue:
+Kanji: 笑
+Story: The old _witch_ **laughed** at her apprentices flying lightweight _bamboo_ brooms.
+Note:
+<!--ID: 1792697117876-->
+END
+
+START
+Japanese RTK
+Keyword: bamboo hat
+Clue:
+Kanji: 笠
+Story: The _bamboo vase_ was beautiful, but the ignorant tourist mistakenly wore it as a tiny **bamboo hat**.
+Note:
+<!--ID: 1792697117877-->
+END
+
+START
+Japanese RTK
+Keyword: bamboo grass
+Clue:
+Kanji: 笹
+Story: Pandas have eaten **bamboo grass** for untold _generations_.
+Note:
+<!--ID: 1792697117878-->
+END
+
+START
+Japanese RTK
+Keyword: stationery
+Clue: writing materials, not moving is stationary with an 'a'
+Kanji: 箋
+Story: I got invitations to _two fiestas_, on beautiful _bamboo_ **stationery**.
+Note: this is a 2010 addition and the two _fiestas_ are the unsimplified form of _float_, i.e. 㦮
+The e/a difference between stationery (office supplies) and stationary (not moving) was news to me.
+<!--ID: 1792697117879-->
+END
+
+START
+Japanese RTK
+Keyword: muscle
+Clue: not the basic primitive
+Kanji: 筋
+Story: Every _part of his body_ turned to **muscle** after carrying those heavy loads on _bamboo_ poles all day long.
+Note:
+<!--ID: 1792697117880-->
+END
+
+START
+Japanese RTK
+Keyword: box
+Clue:
+Kanji: 箱
+Story: The small **box** was made of *inter*-woven _bamboo_ strips.
+Note:
+<!--ID: 1792697117881-->
+END
+
+START
+Japanese RTK
+Keyword: writing brush
+Clue: not the basic component
+Kanji: 筆
+Story: A traditional **writing brush** has a _bamboo_ handle and an animal hair tip.
+Note: 聿 is a non-jōyō kanji.
+<!--ID: 1792697117882-->
+END
+
+START
+Japanese RTK
+Keyword: cylinder
+Clue:
+Kanji: 筒
+Story: Cut a _bamboo_ stick into sections and you get a lot of **cylinders** that all look the _same_.
+Note:
+<!--ID: 1792697117883-->
+END
+
+START
+Japanese RTK
+Keyword: etc.
+Clue:
+Kanji: 等
+Story: Our boring day: a _Buddhist temple_, a _bamboo_ grove, **etc., etc.**
+Note:
+<!--ID: 1792697117884-->
+END
+
+START
+Japanese RTK
+Keyword: calculate
+Clue:
+Kanji: 算
+Story: With _both hands_ flying over his _bamboo_ abacus, he **calculated** the bill in a blink of the _eye_.
+Note:
+<!--ID: 1792697117885-->
+END
+
+START
+Japanese RTK
+Keyword: solution
+Clue:
+Kanji: 答
+Story: The **solution** to this puzzle is to make the _bamboo_ pieces _fit_ together.
+Note:
+<!--ID: 1792697117886-->
+END
+
+START
+Japanese RTK
+Keyword: scheme
+Clue:
+Kanji: 策
+Story: His cunning **scheme** didn't go as planned and he ended up _belted_ to a _tree_ in the _bamboo_ forest.
+Note: don't confuse with _buckled_ to a _tree_ as in ABANDON (棄).
+Cf. THORN (刺).
+<!--ID: 1792697117887-->
+END
+
+START
+Japanese RTK
+Keyword: register
+Clue: record book
+Kanji: 簿
+Story: He was in the **register** of certified _acupuncturists_ and famous for _diluting bamboo_ rather than flowers.
+Note: cf. DILUTE (薄), 艹 replaced by ⺮
+<!--ID: 1792697117888-->
 END
