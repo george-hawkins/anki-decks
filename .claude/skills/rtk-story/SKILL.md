@@ -34,6 +34,8 @@ themselves.
   group loose words sensibly; if genuinely ambiguous, ask.
 - If the user also supplies the kanji itself, use it to sanity-check the
   component list, but never invent components the user didn't list.
+- A component of `person` (⺅ / 人; `Mr. T`, `人` and `⺅` are accepted too)
+  is a **special case**: see "The _person_ primitive is Mr. T" below.
 
 ## Before writing: ground yourself in the deck
 
@@ -59,7 +61,9 @@ Search the deck so the story fits what's already established:
    surface via story/note mentions. If a *component* keyword gets NO
    MATCHES, the script suggests the nearest established deck vocabulary:
    pick the one the user plainly meant, use *that* in the story, and say
-   you did so.
+   you did so. For a `person` component the script prints a different
+   block — the `person.md` casting row for the target and every story
+   that already features Mr. T — covered in the next section.
 2. The target keyword is normally *new*: no deck entry, or an entry whose
    story is still empty. Neither is worth remarking on — just write the
    stories. Only if the script warns the target ALREADY HAS A STORY should
@@ -75,6 +79,47 @@ Search the deck so the story fits what's already established:
 5. Only fall back to manual `grep -in` over `rtk1-v6.md` if the script
    fails to run.
 
+## The _person_ primitive (人 / ⺅) is Mr. T
+
+Heisig warns that so many stories already have people in them that a bare
+_person_ is a risky primitive, and tells the learner to cast one specific,
+colourful individual in the role for good. This deck casts **Mr. T** (B.A.
+Baracus of *The A-Team*). `person.md` at the repo root is the casting
+sheet: one row per RTK1 kanji in which ⺅/人 stands on its own, giving who
+plays the part and a Koohii-derived angle, plus a list of kanji where ⺅ is
+buried inside a larger named component. The grounding script prints the
+target's row, so you never need to read the table yourself.
+
+- **Who plays the part is binding.** The script's `WHO PLAYS ⺅` line says
+  `Mr. T` (the default), `person` (仙 [hermit], 伴 [consort] — the keyword is
+  itself a kind of person and a plain definition-style story wins), or a
+  variant such as `Mr. T impersonator` (似) to be used verbatim. If the target
+  isn't in the table, Mr. T plays any ⺅/人 that stands on its own.
+- **Mark him as the component.** Mr. T *is* the primitive, so he is written
+  `_Mr. T_` (or `_Mr. T's_`) — capital M, full stop, space — and must appear
+  marked at least once; "he"/"his" is fine after that. Never write
+  `_person_` in a Mr. T story, and don't write "person" unmarked either: a
+  stray person next to Mr. T leaves the reader wondering which is the
+  primitive. In the two `person` rows, `_person_` is marked as usual.
+- **EXCLUDED means leave him out.** When the script flags the target as
+  excluded, the ⺅ is buried inside a named component (_change_ in 花,
+  _adhere_ in 符, _rag_ in 旅, _genie_ in 存 …). Say so in the flag line,
+  write the stories with that larger component, and don't mention Mr. T.
+- **The angle is a suggestion, nothing more.** It is lifted from Koohii's
+  top-rated stories and the user finds those hit and miss. Draft your own
+  obvious link first; use the table's angle in a candidate only when it is
+  genuinely the best one, and never add a note about having ignored it.
+- **His persona is the toolkit, so get it right**: the mohawk, the gold
+  chains, "I pity the fool!", "jibber-jabber", the A-Team's black van, B.A.'s
+  terror of flying (the team has to drug him to get him on a plane), Clubber
+  Lang in *Rocky III*, the milk-drinking anti-drug message to kids. The man
+  and the character are both fair game. Props may recur freely — Heisig wants
+  the same person turning up again and again — but check the script's
+  `MR. T SO FAR` list and don't rewrite a scene the deck already has.
+- **Other people may still appear** (a used-car salesman, Hamlet) as long as
+  Mr. T is unmistakably the one the ⺅ points at. Don't bring in a second
+  named celebrity who could be mistaken for a primitive.
+
 ## Story rules (non-negotiable)
 
 1. **One or two sentences.** Short enough to replay mentally in seconds.
@@ -83,7 +128,8 @@ Search the deck so the story fits what's already established:
    "separate"). It may appear more than once, bolded each time — a keyword or
    component doing double duty in a story is fine, not a flaw, so never
    "correct" a candidate for it.
-3. **Every** component keyword appears, each wrapped in `_underscores_`.
+3. **Every** component keyword appears, each wrapped in `_underscores_`
+   (for a standalone ⺅/人 that is `_Mr. T_`, see above).
    Inflection and pluralization are fine (_fields_, _fishooks_), and so is
    a component appearing more than once. Adjacent components may share one
    underscore span when they read naturally as a phrase (e.g. _ten brains
@@ -146,8 +192,9 @@ Distilled from the deck's best entries:
 
 1. **Only if there is something to flag**, one line stating it: which `/`
    alternative you picked and why, a substituted keyword, a binding ⚠ note,
-   a clash with an existing entry. If none of those apply, omit this line
-   entirely and start with the story — never write "nothing to flag", never
+   a clash with an existing entry, a `person` component that the casting
+   sheet says is *not* Mr. T or is EXCLUDED. If none of those apply, omit this
+   line entirely and start with the story — never write "nothing to flag", never
    recite which kanji the primitives are, never list neighbouring cards that
    turned out *not* to clash. Skip housekeeping the user didn't ask for;
    never mention component order.

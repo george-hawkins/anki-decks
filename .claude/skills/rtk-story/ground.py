@@ -15,6 +15,12 @@ For every keyword this prints, from rtk1-v6.md and primitives.md:
   * matching primitives.md lines.
 Matching is case-insensitive and inflection-tolerant (field/fields,
 fortune-teller/fortune-telling).
+
+A component of 'person' (or 'Mr. T', 人, ⺅) is special-cased: instead of
+the (useless) list of every story that mentions a person, it prints the
+person.md row for TARGET — who plays the part (Mr. T by default) and the
+suggested angle — plus every story that already features Mr. T, so the
+same scene isn't written twice.
 """
 
 import difflib
@@ -24,6 +30,9 @@ from pathlib import Path
 
 DECK = "rtk1-v6.md"
 PRIMITIVES = "primitives.md"
+PERSON = "person.md"
+PERSON_ALIASES = {"person", "mr t", "mrt", "人", "⺅", "亻"}
+MR_T_RE = re.compile(r"\bMr\.?\s*T\b(?!\w)")
 FIELD_RE = re.compile(r"(Keyword|Clue|Kanji|Reading|Story|Note):\s*(.*)")
 
 
@@ -100,6 +109,108 @@ def suggest(alternatives, vocab):
         for term in difflib.get_close_matches(alt.lower(), vocab, n=4, cutoff=0.75):
             hits[term] = vocab[term]
     return hits
+
+
+def person_key(term):
+    return " ".join(re.split(r"[\s.\-_]+", term.strip().lower())).strip()
+
+
+def is_person(alternatives):
+    return any(person_key(alt) in PERSON_ALIASES for alt in alternatives)
+
+
+def parse_person(path):
+    """person.md: the table of who plays ⺅, and the excluded list."""
+    rows, excluded, in_excluded = [], [], False
+    for line in path.read_text(encoding="utf-8").splitlines():
+        if line.startswith("## ") and "xclude" in line:
+            in_excluded = True
+        elif line.startswith("|") and not line.startswith("|---"):
+            cells = [c.strip() for c in line.strip().strip("|").split("|")]
+            if len(cells) == 5 and cells[0].isdigit():
+                rows.append(dict(zip(("frame", "kanji", "keyword", "use", "angle"), cells)))
+        elif in_excluded and line.startswith("- ") and ":" in line:
+            left, right = line[2:].split(":", 1)
+            component = re.sub(r"\s*\(.*\)\s*$", "", left).strip()
+            for item in right.split(","):
+                parts = item.strip().split(None, 1)
+                if len(parts) == 2:
+                    excluded.append((component, parts[0], parts[1]))
+    return rows, excluded
+
+
+def report_person(target_alts, entries, prim_lines):
+    print("=" * 72)
+    print("COMPONENT KEYWORD: person  ->  special case, see person.md")
+    person_path = find_file(PERSON, required=False)
+    if person_path is None:
+        print("  ⚠ person.md not found — default: Mr. T plays every standalone ⺅/人.")
+        print()
+        return
+    rows, excluded = parse_person(person_path)
+    wanted = {person_key(alt) for alt in target_alts}
+    kanji = {e.get("Kanji", "") for e in entries
+             if person_key(e.get("Keyword", "")) in wanted} - {""}
+
+    hit = [r for r in rows if person_key(r["keyword"]) in wanted or r["kanji"] in kanji]
+    excl = [x for x in excluded if person_key(x[2]) in wanted or x[1] in kanji]
+    if excl:
+        for component, k, keyword in excl:
+            print(f"  ⚠ EXCLUDED: in {k} [{keyword}] the ⺅ is buried inside the named")
+            print(f"    component _{component}_. Leave Mr. T out and use _{component}_")
+            print(f"    as the component (re-run with it instead of 'person').")
+    elif hit:
+        for r in hit:
+            print(f"  person.md: frame {r['frame']} {r['kanji']} [{r['keyword']}]")
+            print(f"    WHO PLAYS ⺅: {r['use']}")
+            print(f"    suggested angle (Koohii-derived, optional): {r['angle']}")
+    else:
+        print("  target not listed in person.md — if ⺅/人 stands on its own, Mr. T")
+        print("  plays it; if it is buried inside a named component, use that name.")
+    print()
+
+    own = [e for e in entries if person_key(e.get("Keyword", "")) == "person"]
+    if own:
+        print("  DECK ENTRY for the primitive itself:")
+        for e in own:
+            print_entry(e)
+        print()
+
+    mentions = []
+    for e in entries:
+        for field in ("Story", "Note"):
+            for line in e.get(field, "").splitlines():
+                if MR_T_RE.search(line):
+                    flag = "⚠ " if field == "Note" else "  "
+                    mentions.append(f"{flag}{e.get('Kanji', '?')} [{e.get('Keyword', '?')}] {field}: {line}")
+    if mentions:
+        print("  MR. T SO FAR (he should recur; a scene should not):")
+        for m in mentions:
+            print("    " + m)
+    else:
+        print("  MR. T SO FAR: no story features him yet.")
+
+    span = re.compile(r"(?<![\w*])_([^_\n]{1,40})_(?![\w*])")
+    word = re.compile(r"\bpersons?\b", re.IGNORECASE)
+    plain = []
+    for e in entries:
+        if e in own:
+            continue
+        for field in ("Story", "Note"):
+            for line in e.get(field, "").splitlines():
+                if any(word.search(m.group(1)) for m in span.finditer(line)):
+                    flag = "⚠ " if field == "Note" else "  "
+                    plain.append(f"{flag}{e.get('Kanji', '?')} [{e.get('Keyword', '?')}] {field}: {line}")
+    if plain:
+        print("  _person_ MARKED AS A PRIMITIVE ELSEWHERE:")
+        for m in plain:
+            print("    " + m)
+    prim_hits = [line for line in prim_lines if re.search(r"\bperson", line, re.IGNORECASE)]
+    if prim_hits:
+        print("  PRIMITIVES.MD:")
+        for line in prim_hits:
+            print("    " + line.strip())
+    print()
 
 
 def print_entry(entry, indent="    "):
@@ -195,7 +306,10 @@ def main():
         if line.lstrip().startswith("*")]
     vocab = harvest_vocab(deck, prim_lines)
     for i, arg in enumerate(args):
-        report(arg, arg.split("/"), deck, prim_lines, vocab, is_target=(i == 0))
+        if i > 0 and is_person(arg.split("/")):
+            report_person(args[0].split("/"), deck, prim_lines)
+        else:
+            report(arg, arg.split("/"), deck, prim_lines, vocab, is_target=(i == 0))
     print("=" * 72)
     print("Reminder: use the deck's exact primitive vocabulary shown above;")
     print("⚠ lines are established usage warnings — follow them when picking")
