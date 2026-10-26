@@ -573,7 +573,7 @@ Clue:
 Kanji: 唄
 Story: Bono just opens his _mouth_ and makes tons of _money_ with his **pop songs**.
 Note: actually means a traditional song, not a pop song.
-Don't mix up 員 and 唄 (there are very few other similar cases).
+Don't mix up EMPLOYEE (員) and 唄 (there are very few other similar cases).
 <!--ID: 1784893865703-->
 END
 
@@ -593,7 +593,7 @@ Keyword: employee
 Clue:
 Kanji: 員
 Story: An **employee** has to earn _money_ to feed his _mouth_.
-Note: don't mix up 員 and 唄 (there are very few other similar cases).
+Note: don't mix up 員 and POP SONG (唄) (there are very few other similar cases).
 <!--ID: 1784893865709-->
 END
 
@@ -2187,7 +2187,7 @@ END
 START
 Japanese RTK
 Keyword: plant
-Clue:
+Clue: to plant
 Kanji: 植
 Story: If you dig up a _tree_, you must **plant** it somewhere new _straightaway_ or it'll die!
 Note:
@@ -4929,6 +4929,7 @@ Clue:
 Kanji: 渇
 Story: The muchacho enjoying his _siesta_ cries out that he's **thirsty**, so you turn a _water_ hose on him!
 Note: introduces the non-kanji primitive (the right side of 渇) meaning _siesta_ (a little man sitting in shade sheltered from the midday sun).
+Cf. AROMA (匂).
 <!--ID: 1787089331936-->
 END
 
@@ -5028,7 +5029,7 @@ END
 START
 Japanese RTK
 Keyword: cleverness
-Clue:
+Clue: not INTELLIGENT
 Kanji: 敏
 Story: **Cleverness** is required of _every_ successful _taskmaster_, or the slaves will get the better of him.
 Note:
@@ -7144,7 +7145,7 @@ END
 START
 Japanese RTK
 Keyword: discard
-Clue:
+Clue: not DISPOSE
 Kanji: 捨
 Story: The witch from Hansel and Gretel ate the children but **discarded** their _fingers_ out of her _cottage_ window — too bony.
 Note:
@@ -8208,7 +8209,7 @@ END
 START
 Japanese RTK
 Keyword: gone
-Clue:
+Clue: not GOING / to go
 Kanji: 去
 Story: "Going, going, **gone**," joked the gangster as we shoveled a final spade full of _soil_ over the still protruding _elbow_ of his victim.
 Note:
@@ -9259,7 +9260,7 @@ END
 START
 Japanese RTK
 Keyword: intelligent
-Clue:
+Clue: not CLEVERNESS
 Kanji: 賢
 Story: The **intelligent** _eunuch_ ended up managing the palace and all the emperor's _clams_.
 Note: introduces the non-jōyō kanji primitive 臤 (_slave's crotch_) meaning _eunuch_.
@@ -9787,7 +9788,7 @@ Japanese RTK
 Keyword: distress
 Clue:
 Kanji: 愁
-Story: The damsel in **distress**: the charmer who won her _heart_ in summer dumped her when _autumn_ arrived.
+Story: The damsel in **distress**: the scoundrel who won her _heart_ in summer dumped her when _autumn_ arrived.
 Note:
 <!--ID: 1792354883117-->
 END
@@ -10051,7 +10052,7 @@ Japanese RTK
 Keyword: chic
 Clue:
 Kanji: 粋
-Story: It's apparently **chic** in _America_ to pretend you understand a _game of cricket_.
+Story: It's apparently **chic** in _America_ to pretend you understand the _game of cricket_.
 Note:
 <!--ID: 1792525898190-->
 END
@@ -10162,7 +10163,7 @@ Keyword: request
 Clue:
 Kanji: 求
 Story: The beggar's **request** for a few _grains of rice_ started politely, but ended with him holding an _arrowhead_ to my throat.
-Note: introduces the non-kanji primitive (the 一 and 丶 already seen in 弋, 博 and _acupuncturist_) meaning _arrowhead_.
+Note: introduces the non-kanji primitive (the 一 and 丶 already seen in 弋, 犬, 博 and _acupuncturist_) meaning _arrowhead_.
 The strokes are 一 then 亅, the two 冫 and ends with the drop.
 <!--ID: 1792697117872-->
 END
@@ -10329,4 +10330,205 @@ Kanji: 簿
 Story: He was in the **register** of certified _acupuncturists_ and famous for _diluting bamboo_ rather than flowers.
 Note: cf. DILUTE (薄), 艹 replaced by ⺮
 <!--ID: 1792697117888-->
+END
+
+START
+Japanese RTK
+Keyword: fabricate
+Clue:
+Kanji: 築
+Story: A builder who's _mediocre_ at his _craft_ may **fabricate** a house from _bamboo_ and _wood_, but I wouldn't live in it.
+Note: cf. FEAR (恐)
+<!--ID: 1793219517270-->
+END
+
+START
+Japanese RTK
+Keyword: basket
+Clue:
+Kanji: 篭
+Story: I keep my _dragon_ in a magic _bamboo_ **basket**, don't you?
+Note: this is an odd one, 籠 is the official 2010 jōyō form, but the non-official 篭 simplification had become common and even before Unicode both had JIS encodings.
+Skritter unusually uses 篭
+<!--ID: 1793219517272-->
+END
+
+START
+Japanese RTK
+Keyword: person
+Clue: no story
+Kanji: 人
+Story: [no story]
+Note:
+<!--ID: 1793219517273-->
+END
+
+START
+Japanese RTK
+Keyword: assistant
+Clue:
+Kanji: 佐
+Story: _Mr. T_ keeps his **assistant** on his _left_, within reach but out of his way.
+Note:
+<!--ID: 1793219517274-->
+END
+
+START
+Japanese RTK
+Keyword: partner
+Clue:
+Kanji: 侶
+Story: Only someone with a _spine_ of steel would volunteer to be _Mr. T's_ **partner**.
+Note:
+<!--ID: 1793219517275-->
+END
+
+START
+Japanese RTK
+Keyword: however
+Clue:
+Kanji: 但
+Story: _Mr. T_ had agreed to the plan, **however** by _nightbreak_ he'd changed his mind.
+Note:
+<!--ID: 1793219517276-->
+END
+
+START
+Japanese RTK
+Keyword: dwell
+Clue:
+Kanji: 住
+Story: _Mr. T_ **dwells** in a lighthouse, the lamp is just a _candlestick_ he holds up all night.
+Note:
+<!--ID: 1793219517277-->
+END
+
+START
+Japanese RTK
+Keyword: rank
+Clue:
+Kanji: 位
+Story: _Mr. T's_ **rank** means everyone _stands up_ when _Mr. T_ walks in, and he _stands up_ for nobody.
+Note:
+<!--ID: 1793219517278-->
+END
+
+START
+Japanese RTK
+Keyword: go-between
+Clue:
+Kanji: 仲
+Story: _Mr. T_ was the **go-between** in the hostage negotiations, the one _in the middle_ between the police and the terrorists.
+Note:
+<!--ID: 1793219517279-->
+END
+
+START
+Japanese RTK
+Keyword: body
+Clue:
+Kanji: 体
+Story: _Mr. T's_ **body** is on the cover of every weight training _book_.
+Note:
+<!--ID: 1793219517280-->
+END
+
+START
+Japanese RTK
+Keyword: remote
+Clue:
+Kanji: 悠
+Story: _Mr. T's_ old _taskmaster_ has a _walking stick_, a bad _heart_ and a cabin so **remote** that only _Mr. T_ visits.
+Note:
+<!--ID: 1793219517281-->
+END
+
+START
+Japanese RTK
+Keyword: affair
+Clue: the incident
+Kanji: 件
+Story: _Mr. T_ never got to the bottom of the stolen _cow_ **affair**.
+Note:
+<!--ID: 1793219517282-->
+END
+
+START
+Japanese RTK
+Keyword: attend
+Clue: to something
+Kanji: 仕
+Story: The _samurai_ expects someone to **attend** to his every whim, and _Mr. T_ expects to be paid for doing so.
+Note:
+<!--ID: 1793219517283-->
+END
+
+START
+Japanese RTK
+Keyword: other
+Clue:
+Kanji: 他
+Story: _Mr. T_ kept one _scorpion_ as a pet and ate the **other**.
+Note:
+<!--ID: 1793219517284-->
+END
+
+START
+Japanese RTK
+Keyword: prostrated
+Clue:
+Kanji: 伏
+Story: Even a _chihuahua_ lies **prostrated** on the floor, when _Mr. T_ walks in.
+Note:
+<!--ID: 1793219517285-->
+END
+
+START
+Japanese RTK
+Keyword: transmit
+Clue:
+Kanji: 伝
+Story: _Mr. T_ doesn't trust phones, he **transmits** messages with _rising clouds_ of smoke.
+Note:
+<!--ID: 1793219517286-->
+END
+
+START
+Japanese RTK
+Keyword: Buddha
+Clue:
+Kanji: 仏
+Story: _Mr. T_ shoved past the **Buddha** with his _elbows_ and the **Buddha** just smiled.
+Note:
+<!--ID: 1793219517287-->
+END
+
+START
+Japanese RTK
+Keyword: rest
+Clue: sleep, not RELAX
+Kanji: 休
+Story: The _tree_ gave way when _Mr. T_ leaned back against it for a **rest**.
+Note: cf. RELAX (安).
+<!--ID: 1793219517288-->
+END
+
+START
+Japanese RTK
+Keyword: provisional
+Clue:
+Kanji: 仮
+Story: _Mr. T_ was _anti_ the **provisional** government from day one, and so it lasted less than a week.
+Note:
+<!--ID: 1793219517289-->
+END
+
+START
+Japanese RTK
+Keyword: performing artist
+Clue:
+Kanji: 伎
+Story: _Mr. T's_ career as a **performing artist** ended when he broke the _branch_ he was dancing on.
+Note:
+<!--ID: 1793219517290-->
 END
