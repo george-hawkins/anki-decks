@@ -101,17 +101,33 @@ need to read the table yourself.
   excluded, the ⺅ is buried inside a named component (_change_ in 花,
   _adhere_ in 符, _rag_ in 旅, _genie_ in 存 …). Say so in the flag line, write
   the stories with that larger component, and don't mention Mr. T.
-- **The angle is a suggestion, nothing more.** It is lifted from Koohii's
-  top-rated stories and the user finds those hit and miss. Draft your own
-  obvious link first; use the table's angle in a candidate only when it is
-  genuinely the best one, and never add a note about having ignored it.
-- **His persona is the toolkit, so get it right**: the mohawk, the gold
-  chains, "I pity the fool!", "jibber-jabber", the A-Team's black van, B.A.'s
-  terror of flying (the team has to drug him to get him on a plane), Clubber
-  Lang in *Rocky III*, the milk-drinking anti-drug message to kids. The man and
-  the character are both fair game. Props may recur freely — Heisig wants the
-  same person turning up again and again — but check the script's
-  `MR. T SO FAR` list and don't rewrite a scene the deck already has.
+- **Mr. T is the actor, not the theme.** He is a constant across ninety-odd
+  ⺅ cards, so he carries no discriminating information: the only thing that
+  tells 佐 from 侶 from 伯 is how the *other* components meet the keyword, and
+  that is where the word budget goes. He does whatever the story needs (does
+  the shopping, stands on someone's left, explores the outer planets) and may
+  do it gruffly, literally and physically, but the logic comes from the other
+  primitives. The two cards the user wrote are the register: "_Mr. T_ keeps
+  his **assistant** on his _left_, within reach but out of his way." "Only
+  someone with a _spine_ of steel would volunteer to be _Mr. T's_
+  **partner**." No catchphrase, no props, and still unmistakably him.
+- **A trope earns its place only when it is the link.** The toolkit — the
+  mohawk, the gold chains, "I pity the fool!", "jibber-jabber", the A-Team's
+  black van, B.A.'s terror of flying (the team has to drug him to get him on a
+  plane), Clubber Lang in *Rocky III*, the milk-drinking anti-drug message to
+  kids — is for when a prop *is* the connection to another component or the
+  keyword: the van for a vehicle component, the fear of flying for a keyword
+  about flight or dread. "Pity the fool" as the verb, or chains as colour, is
+  scenery, and scenery is cut. Most Mr. T stories should use no trope at all.
+- **Cap recurrence.** Check the script's `MR. T SO FAR` list: a prop or
+  catchphrase that has already appeared twice in the deck stays out unless
+  nothing else works, and never rewrite a scene the deck already has. Ninety
+  stories that all end in gold chains blur into one.
+- **The angle is a weak suggestion.** It is lifted from Koohii's top-rated
+  stories, most of which are trope-first, and the user finds them hit and
+  miss. Draft your own obvious link first; use the table's angle in a
+  candidate only when it is genuinely the best one, and never add a note
+  about having ignored it.
 - **Other people may still appear** (a used-car salesman, Hamlet) as long as
   Mr. T is unmistakably the one the ⺅ points at. Don't bring in a second named
   celebrity who could be mistaken for a primitive.

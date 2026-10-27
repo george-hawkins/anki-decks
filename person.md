@@ -117,3 +117,17 @@ Use the component's name in these and leave Mr. T out.
 - rag: 旅 trip, 衆 masses
 - drag + rag (zombie): 派 faction, 脈 vein
 - genie (Heisig's reading of the shape): 存 suppose, 在 exist
+
+## Appendix: full-form 人 standing on its own
+
+The table above was compiled from kanji with the left-side ⺅. These seven have the full-form 人 on its own instead (bound, penned, belted or under a ceiling), which Heisig also calls *person*. None of their keywords is a kind of person, so Mr. T plays all of them. Candidates are in mr-t-stories.md.
+
+| Frame | Kanji | Keyword | Use | Angle |
+|---|---|---|---|---|
+| 1092 | 久 | long time | Mr. T | Bound up in bandages for a long time, a mummy. |
+| 1094 | 囚 | captured | Mr. T | Captured and pent in, though no cell holds him past breakfast. |
+| 1095 | 内 | inside | Mr. T | Everything inside the belt is Mr. T. |
+| 1096 | 丙 | third class | Mr. T | A no-frills flight, low ceiling and tight belt. |
+| 1105 | 以 | by means of | Mr. T | Lives by means of the plow he drags and the drops of sweat. |
+| 1302 | 不 | negative | Mr. T | Head against the ceiling, a drop of sweat, the answer is negative. |
+| 1481 | 幾 | how many | Mr. T | How many moths in the two cocoons he brought to the fiesta. |
