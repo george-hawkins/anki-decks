@@ -29,6 +29,7 @@ from pathlib import Path
 DECK = "rtk1-v6.md"
 PRIMITIVES = "primitives.md"
 PERSON = "person.md"
+STORIES = "mr-t-stories.md"
 FIELD_RE = re.compile(r"(Keyword|Clue|Kanji|Reading|Story|Note|Update):\s*(.*)")
 CJK_RE = re.compile(r"^[㐀-䶿一-鿿豈-﫿]$")
 # a marked primitive span: _x_ (asterisk-glued forms are matched as plain words)
@@ -243,6 +244,56 @@ def report_target(keyword_alts, kanji, cards):
     print()
 
 
+def parse_stories(path):
+    """mr-t-stories.md: one dict per '## frame kanji keyword' block."""
+    blocks = []
+    for chunk in re.split(r"^## ", path.read_text(encoding="utf-8"), flags=re.M)[1:]:
+        head, *lines = chunk.splitlines()
+        parts = head.split(" ", 2)
+        if len(parts) < 3:
+            continue
+        b = {"frame": parts[0], "kanji": parts[1], "keyword": parts[2], "stories": []}
+        for i, line in enumerate(lines):
+            m = re.match(r"([a-z]+): (.*)", line)
+            if m and not line.startswith(" "):
+                b[m.group(1)] = m.group(2).strip()
+            elif line.startswith("- "):
+                score = None
+                if i + 1 < len(lines):
+                    sm = re.match(r"\s+score: ([\d.]+)", lines[i + 1])
+                    score = float(sm.group(1)) if sm else None
+                b["stories"].append((score, line[2:].strip()))
+        blocks.append(b)
+    return blocks
+
+
+def report_prewritten(keyword_alts, kanji):
+    """Stories already written in bulk for this target, best score first."""
+    path = find_file(STORIES, required=False)
+    if path is None:
+        return False
+    wanted = {normalize(a) for a in keyword_alts}
+    hits = [b for b in parse_stories(path)
+            if normalize(b["keyword"]) in wanted or (kanji and b["kanji"] == kanji)]
+    if not hits:
+        return False
+    hr()
+    for b in hits:
+        print(f"PRE-WRITTEN STORIES ({STORIES}): {b['frame']} {b['kanji']} [{b['keyword']}]")
+        print("  Present these instead of drafting new ones (see the skill's")
+        print("  'Pre-written Mr. T stories' section). Highest score first:")
+        print(f"  components: {b.get('components', '?')}")
+        if b.get("status") == "in deck":
+            print("  ⚠ status: in deck — the deck already holds this story")
+        if b.get("flag"):
+            print(f"  flag: {b['flag']}")
+        ranked = sorted(b["stories"], key=lambda t: -(t[0] if t[0] is not None else -1))
+        for score, story in ranked:
+            print(f"  {score:.2f}  {story}" if score is not None else f"  ----  {story}")
+    print()
+    return True
+
+
 def report_component(label, alternatives, cards, prim_lines, vocab):
     hr()
     print(f"COMPONENT: {label}")
@@ -373,6 +424,7 @@ def main():
         print(f"⚠ '{keyword_alts[0]}' is the TARGET keyword here — did you leave the keyword out?")
 
     report_target(keyword_alts, kanji, cards)
+    report_prewritten(keyword_alts, kanji)
     for arg in components:
         alts = arg.split("/")
         if any(normalize(a).replace(".", "") in PERSON_ALIASES or a.strip() in PERSON_ALIASES

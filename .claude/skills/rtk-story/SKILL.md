@@ -73,7 +73,31 @@ matching `primitives.md` lines. What that output is for:
   deserves a word. Only if the script says the target ALREADY HAS A STORY (or
   flags a keyword/kanji mismatch), point it out and quote it — usually a
   mistyped keyword — and still offer fresh stories.
+- A `PRE-WRITTEN STORIES` section means the stories already exist: see
+  "Pre-written Mr. T stories" below.
 - Fall back to `grep -in` over `rtk1-v6.md` only if the script fails to run.
+
+## Pre-written Mr. T stories
+
+`mr-t-stories.md` at the repo root holds three scored candidates for every
+kanji in which Mr. T plays ⺅, written in bulk. When the script prints a
+`PRE-WRITTEN STORIES` section for the target, **present those instead of
+drafting new ones**, and make the reply indistinguishable from a normal one:
+
+- Output exactly the usual three lines: the highest-scoring story first, the
+  other two as the alternates, in score order. Strip the scores. Don't say
+  they were pre-written, don't name the file, don't mention scores.
+- The flag line follows the usual rules. The block's `flag:` line, if any,
+  is the flag (shortened to one sentence); a `⚠ status: in deck` line is the
+  usual "already has a story" flag. If the components the user typed differ
+  from the block's `components:` line, say so in one clause and still present
+  the block.
+- Read the rest of the script's output anyway. Follow-ups ("variants on",
+  "tighten", "more", "snappier") work exactly as they do for freshly written
+  stories: you write new lines on the spot, grounded in the same component
+  reports and the Mr. T rules below. "More" means fresh angles, never a
+  re-listing of the block.
+- `mr-t-stories.md` is never edited from here, like everything else.
 
 ## The _person_ primitive (人 / ⺅) is Mr. T
 
