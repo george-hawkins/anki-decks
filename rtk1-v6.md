@@ -10532,3 +10532,203 @@ Story: _Mr. T's_ career as a **performing artist** ended when he broke the _bran
 Note:
 <!--ID: 1793219517290-->
 END
+
+START
+Japanese RTK
+Keyword: chief
+Clue:
+Kanji: 伯
+Story: The tribe let a _white_ bird choose their **chief**, and it chose to land on _Mr. T_.
+Note:
+<!--ID: 1793308500144-->
+END
+
+START
+Japanese RTK
+Keyword: vulgar
+Clue:
+Kanji: 俗
+Story: _Mr. T_ swapped his big-city manners for the **vulgar** ways of the _valley_ folk.
+Note:
+<!--ID: 1793308500145-->
+END
+
+START
+Japanese RTK
+Keyword: faith
+Clue:
+Kanji: 信
+Story: The preacher's _words_ washed over _Mr. T_, whose only **faith** is in himself.
+Note:
+<!--ID: 1793308500147-->
+END
+
+START
+Japanese RTK
+Keyword: excellent
+Clue: not EXCEL
+Kanji: 佳
+Story: _Mr. T_ got into an **excellent** college by climbing over its *ivy*-clad walls.
+Note: not EXCEL (秀).
+<!--ID: 1793308500148-->
+END
+
+START
+Japanese RTK
+Keyword: reliant
+Clue:
+Kanji: 依
+Story: _Mr. T_ is **reliant** on no one and nothing, he even makes his own _garments_.
+Note:
+<!--ID: 1793308500149-->
+END
+
+START
+Japanese RTK
+Keyword: example
+Clue:
+Kanji: 例
+Story: Walking down a _file_ of recruits, _Mr. T_ pulls one out and makes an **example** of him.
+Note:
+<!--ID: 1793308500150-->
+END
+
+START
+Japanese RTK
+Keyword: individual
+Clue:
+Kanji: 個
+Story: The army _hardened Mr. T_ into one tough **individual**.
+Note:
+<!--ID: 1793308500151-->
+END
+
+START
+Japanese RTK
+Keyword: healthy
+Clue:
+Kanji: 健
+Story: To stay **healthy**, _Mr. T builds_ walls, knocks them down and _builds_ them again.
+Note:
+<!--ID: 1793308500152-->
+END
+
+START
+Japanese RTK
+Keyword: side
+Clue:
+Kanji: 側
+Story: _Mr. T_ makes the _rules_, so everybody wants to be on his **side**.
+Note: cf. RULE (則).
+<!--ID: 1793308500153-->
+END
+
+START
+Japanese RTK
+Keyword: waiter
+Clue:
+Kanji: 侍
+Story: _Mr. T_ is the **waiter** at the _Buddhist temple_, which is why nobody complains about the rice or anything else.
+Note:
+<!--ID: 1793308500154-->
+END
+
+START
+Japanese RTK
+Keyword: halt
+Clue:
+Kanji: 停
+Story: The whole army came to a **halt** at the _pavilion_ when _Mr. T_ raised his hand.
+Note:
+<!--ID: 1793308500155-->
+END
+
+START
+Japanese RTK
+Keyword: price
+Clue:
+Kanji: 値
+Story: When _Mr. T_ sells a car the **price** is paid _straightaway_, in cash, no questions.
+Note:
+<!--ID: 1793308500156-->
+END
+
+START
+Japanese RTK
+Keyword: emulate
+Clue:
+Kanji: 倣
+Story: The boys wanted to **emulate** _Mr. T_, so when he _set free_ some sad looking apes at the zoo, they _set free_ the lions!
+Note: cf. SET FREE (放).
+<!--ID: 1793308500157-->
+END
+
+START
+Japanese RTK
+Keyword: arrogance
+Clue:
+Kanji: 傲
+Story: In his **arrogance** _Mr. T_ won't _emulate_ anyone, he'd sooner eat _dirt_.
+Note: 傲 is the same as EMULATE (倣), except the 方 is squashed down by 土
+<!--ID: 1793308500158-->
+END
+
+START
+Japanese RTK
+Keyword: overthrow
+Clue:
+Kanji: 倒
+Story: Within an hour of _Mr. T's arrival_, they'd **overthrown** the dictator.
+Note:
+<!--ID: 1793308500159-->
+END
+
+START
+Japanese RTK
+Keyword: spy
+Clue:
+Kanji: 偵
+Story: _Mr. T_ made a poor **spy**, he was too _upright_ and honest to lie about anything.
+Note:
+<!--ID: 1793308500160-->
+END
+
+START
+Japanese RTK
+Keyword: Buddhist priest
+Clue:
+Kanji: 僧
+Story: _Mr. T_ became a **Buddhist priest** and everyone's donations suddenly _increased_.
+Note:
+<!--ID: 1793308500161-->
+END
+
+START
+Japanese RTK
+Keyword: hundred million
+Clue:
+Kanji: 億
+Story: _Mr. T_ has just one _idea_, but it's worth a **hundred million**.
+Note: 万 is 10^4, 億 is 10^8 and 兆 is 10^12. Ten thousand, hundred million and trillion.
+<!--ID: 1793308500162-->
+END
+
+START
+Japanese RTK
+Keyword: ceremony
+Clue:
+Kanji: 儀
+Story: _Mr. T_ glared with _righteous_ fury at the stragglers turning up late for his solemn **ceremony**.
+Note:
+<!--ID: 1793308500163-->
+END
+
+START
+Japanese RTK
+Keyword: reparation
+Clue: not COMPENSATION
+Kanji: 償
+Story: _Mr. T_ said "**reparations** for slavery are no _prize_, they're a debt paid centuries late."
+Note:
+<!--ID: 1793308500164-->
+END
