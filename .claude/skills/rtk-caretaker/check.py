@@ -401,10 +401,14 @@ def keyword_in(text: str, keyword: str) -> bool:
     """Does `text` contain the keyword, allowing inflection and partial hits?
 
     A multi-word keyword only needs one of its content words to show up: the
-    deck legitimately bolds **Judas** for 'japanese judas-tree'.
+    deck legitimately bolds **Judas** for 'japanese judas-tree'. The raw words
+    are compared too, because IRREGULAR can stem a keyword into a different
+    verb: 'fell' (cut down) becomes 'fall', which **felled** never matches.
     """
-    return any(loose_match(t, h) for t in content_stems(keyword)
-               for h in content_stems(text))
+    if any(loose_match(t, h) for t in content_stems(keyword) for h in content_stems(text)):
+        return True
+    raw = [w.lower() for w in words_of(text)]
+    return any(loose_match(t.lower(), h) for t in words_of(keyword) for h in raw)
 
 
 def normalize_keyword(text: str) -> str:

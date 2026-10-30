@@ -10732,3 +10732,203 @@ Story: _Mr. T_ said "**reparations** for slavery are no _prize_, they're a debt 
 Note:
 <!--ID: 1793308500164-->
 END
+
+START
+Japanese RTK
+Keyword: hermit
+Clue:
+Kanji: 仙
+Story: A **hermit** is a _person_ who has gone to live alone on a _mountain_.
+Note:
+<!--ID: 1793398389347-->
+END
+
+START
+Japanese RTK
+Keyword: sponsor
+Clue:
+Kanji: 催
+Story: Even a _hermit_ needs a **sponsor**, someone has to pay for his Christmas _turkey_.
+Note: the 山 of HERMIT (仙) gets squashed upwards by the 隹
+<!--ID: 1793398389350-->
+END
+
+START
+Japanese RTK
+Keyword: humanity
+Clue: compassion, not TENDERNESS
+Kanji: 仁
+Story: _Mr. T_ shows his **humanity** by giving _two_ bucks to every beggar he meets.
+Note: 仁 is the first of the five Confucian virtues, the highest moral quality.
+<!--ID: 1793398389352-->
+END
+
+START
+Japanese RTK
+Keyword: scorn
+Clue:
+Kanji: 侮
+Story: _Mr. T_ has nothing but **scorn** for _every_ bully.
+Note:
+<!--ID: 1793398389353-->
+END
+
+START
+Japanese RTK
+Keyword: use
+Clue:
+Kanji: 使
+Story: The _officer_ **uses** _Mr. T_ when he needs a human battering ram.
+Note:
+<!--ID: 1793398389354-->
+END
+
+START
+Japanese RTK
+Keyword: convenience
+Clue:
+Kanji: 便
+Story: The **convenience** store is the only place _Mr. T_ can buy socks once it's _grown late_.
+Note: also means faeces and excrement!
+<!--ID: 1793398389355-->
+END
+
+START
+Japanese RTK
+Keyword: double
+Clue: twice as much
+Kanji: 倍
+Story: Try to _muzzle Mr. T_ and you'll get **double** trouble.
+Note:
+<!--ID: 1793398389356-->
+END
+
+START
+Japanese RTK
+Keyword: tenderness
+Clue:
+Kanji: 優
+Story: _Mr. T_ showed surprising **tenderness**, keeping the _melancholy_ child company.
+Note:
+<!--ID: 1793398389357-->
+END
+
+START
+Japanese RTK
+Keyword: fell
+Clue: cut or strike down
+Kanji: 伐
+Story: _Mr. T_ **felled** the drunks who were spoiling the _fiesta_.
+Note:
+<!--ID: 1793398389358-->
+END
+
+START
+Japanese RTK
+Keyword: inn
+Clue:
+Kanji: 宿
+Story: The **inn** is a _house_ that sleeps a _hundred_ people, or just _Mr. T_ and his luggage.
+Note:
+<!--ID: 1793398389359-->
+END
+
+START
+Japanese RTK
+Keyword: wound
+Clue:
+Kanji: 傷
+Story: _Mr. T_ got his **wound** _reclining_ on a _piggy bank_ that broke under him.
+Note:
+<!--ID: 1793398389360-->
+END
+
+START
+Japanese RTK
+Keyword: protect
+Clue:
+Kanji: 保
+Story: _Mr. T_ **protects** the world's _trees_ by letting his _mouth_ do the fighting.
+Note:
+<!--ID: 1793398389361-->
+END
+
+START
+Japanese RTK
+Keyword: praise
+Clue:
+Kanji: 褒
+Story: Dressed in _top hat and scarf_, the mayor was full of **praise** for the soldiers who'd _protected_ the town.
+Note: the 木 in PROTECT (保) changes into its _wooden pole_ form ホ here.
+<!--ID: 1793398389362-->
+END
+
+START
+Japanese RTK
+Keyword: greatness
+Clue:
+Kanji: 傑
+Story: _Mr. T_ showed his **greatness** by pulling up a _tree_ without even taking his _sunglasses_ off.
+Note: cf. PROTECT (保).
+<!--ID: 1793398389363-->
+END
+
+START
+Japanese RTK
+Keyword: adhere
+Clue:
+Kanji: 付
+Story: _Mr. T_ **adheres** to one rule, make a plan and stick to it like _glue_.
+Note: don't mix up ADHERE with _glue_ when using it as a primitive.
+<!--ID: 1793398389364-->
+END
+
+START
+Japanese RTK
+Keyword: token
+Clue:
+Kanji: 符
+Story: The coveted _bamboo_ **tokens** were only awarded to those who successfully _adhered_ to the vow of silence during the retreat.
+Note:
+<!--ID: 1793398389365-->
+END
+
+START
+Japanese RTK
+Keyword: municipality
+Clue:
+Kanji: 府
+Story: The **municipality** still _adheres_ to laws written back when everybody lived in _caves_.
+Note: municipality - "a city, town, or other district with its own local government."
+<!--ID: 1793398389366-->
+END
+
+START
+Japanese RTK
+Keyword: responsibility
+Clue:
+Kanji: 任
+Story: Because he's so strong, it's always _Mr. T's_ **responsibility** to be the _porter_.
+Note:
+<!--ID: 1793398389367-->
+END
+
+START
+Japanese RTK
+Keyword: fare
+Clue:
+Kanji: 賃
+Story: It's your _responsibility_ to pay the **fare**, so have the _clams_ ready.
+Note:
+<!--ID: 1793398389368-->
+END
+
+START
+Japanese RTK
+Keyword: substitute
+Clue:
+Kanji: 代
+Story: When the bullets ran out, _Mr. T_ grabbed a bow and **substituted** _arrows_ for bullets.
+Note: cf. FELL (伐).
+<!--ID: 1793398389369-->
+END
