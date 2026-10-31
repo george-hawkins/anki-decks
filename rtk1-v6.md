@@ -10359,7 +10359,8 @@ Keyword: person
 Clue: no story
 Kanji: 人
 Story: [no story]
-Note:
+Note: when it appears to the left it has the form ⺅
+Heisig recommends choosing a particular person for the primitive meaning, I chose Mr. T.
 <!--ID: 1793219517273-->
 END
 
@@ -10931,4 +10932,186 @@ Kanji: 代
 Story: When the bullets ran out, _Mr. T_ grabbed a bow and **substituted** _arrows_ for bullets.
 Note: cf. FELL (伐).
 <!--ID: 1793398389369-->
+END
+
+START
+Japanese RTK
+Keyword: sack
+Clue: not BAG
+Kanji: 袋
+Story: The large potato **sack** made a passable _substitute_ for a _garment_.
+Note: cf. BAG (俵) that also has _person_ and _scarf_ components.
+END
+
+START
+Japanese RTK
+Keyword: lend
+Clue:
+Kanji: 貸
+Story: **Lend** a friend _clams_ and you risk excuses as a _substitute_ for repayment.
+Note:
+END
+
+START
+Japanese RTK
+Keyword: change
+Clue:
+Kanji: 化
+Story: Prison **changed** _Mr. T_, he learned to dig with a _spoon_.
+Note: cf. NORTH (北). Instead of a story, this could just be a pictogram of a _person_ **changing** position between standing and _sitting_.
+END
+
+START
+Japanese RTK
+Keyword: flower
+Clue:
+Kanji: 花
+Story: The **flowers** _change_ with the seasons.
+Note: this is the full kanji, we've been using just 艹
+END
+
+START
+Japanese RTK
+Keyword: freight
+Clue:
+Kanji: 貨
+Story: The slavers saw their captives as **freight**, cargo to be _changed_ into _clams_ at market.
+Note: cf. FARE (賃).
+END
+
+START
+Japanese RTK
+Keyword: lean
+Clue: on/over/towards
+Kanji: 傾
+Story: "**Lean** over so I can _change_ your _head_," the engineer told his robot.
+Note:
+END
+
+START
+Japanese RTK
+Keyword: what
+Clue: easy one
+Kanji: 何
+Story: _Mr. T_ pushed **what** the _little engine that could_ couldn't.
+Note:
+END
+
+START
+Japanese RTK
+Keyword: baggage
+Clue:
+Kanji: 荷
+Story: Customs asked "_what's_ in the **baggage**?" and I swore it was just _flowers_.
+Note:
+END
+
+START
+Japanese RTK
+Keyword: sagacious
+Clue:
+Kanji: 俊
+Story: _Mr. T_ is too **sagacious** to risk his driving _license_ after a drink, so he leaves the van and lets his _walking legs_ get him home.
+Note: sagacious - "showing good judgement and wisdom."
+END
+
+START
+Japanese RTK
+Keyword: bystander
+Clue:
+Kanji: 傍
+Story: Steal the _crown_ and the **bystanders** will all _stand up_ and point _Mr. T_ in your _direction_.
+Note:
+END
+
+START
+Japanese RTK
+Keyword: myself
+Clue:
+Kanji: 俺
+Story: "I caught that _eel_ **myself**," said Mr. T, "the _St. Bernard_ just barked at it."
+Note: the ⺃ starts above the top of 日, this only happens here (and for some other non-jōyō kanji with the same 奄 component).
+俺(おれ) is a rough form of "I" used by males in very casual situations.
+END
+
+START
+Japanese RTK
+Keyword: long time
+Clue:
+Kanji: 久
+Story: After a **long time** _bound_ up in bandages even _Mr. T_ turned into a mummy.
+Note:
+END
+
+START
+Japanese RTK
+Keyword: furrow
+Clue:
+Kanji: 畝
+Story: Every **furrow** in the _field_ took a _long time_ to plough for the gentleman farmer in his ridiculous _top hat_.
+Note:
+END
+
+START
+Japanese RTK
+Keyword: captured
+Clue:
+Kanji: 囚
+Story: _Mr. T_ was **captured** at last, but no cell could keep him _pent in_ past breakfast.
+Note:
+END
+
+START
+Japanese RTK
+Keyword: inside
+Clue:
+Kanji: 内
+Story: _Mr. T_ keeps his lunch money **inside** his _belt_ (which has a secret pocket).
+Note: Heisig says to use _belt_ rather than _hood_ for 冂 as 人 intersects it.
+END
+
+START
+Japanese RTK
+Keyword: third class
+Clue:
+Kanji: 丙
+Story: In **third class** _Mr. T's_ head touches the _ceiling_ and his _belt_ won't fasten.
+Note: Heisig says don't use _inside_ in this story as he says it'll get confused with IN (中).
+END
+
+START
+Japanese RTK
+Keyword: design
+Clue:
+Kanji: 柄
+Story: Ikea sells great Swedish **design**, but its chipboard is _third class wood_.
+Note:
+END
+
+START
+Japanese RTK
+Keyword: meat
+Clue:
+Kanji: 肉
+Story: Cut a _person_ open and _inside_ there's nothing but **meat**.
+Note: squashed 月 was always ⺝, but squashed 肉 used to be ⺼ but now shares the ⺝ form.
+END
+
+START
+Japanese RTK
+Keyword: rot
+Clue: The _meat_ in every bin began to **rot** when the _municipality's_ bin men went on strike,
+Kanji: 腐
+Story:
+Note:
+END
+
+START
+Japanese RTK
+Keyword: sit
+Clue:
+Kanji: 座
+Story: The _assembly line_ in the troll's _cave_ has no stools, so the workers **sit** on the _dirt_.
+Note: introduces the non-kanji primitive 从 meaning _assembly line_ (people working in line).
+The skewering vertical becomes the first stroke of 土 (rather than the 一).
 END
