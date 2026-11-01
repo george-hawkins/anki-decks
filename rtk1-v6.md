@@ -468,20 +468,20 @@ END
 
 START
 Japanese RTK
-Keyword: speciality
+Keyword: specialty
 Clue: think area of expertise
 Kanji: 専
-Story: She's so good at her **speciality**, it's like _ten brains glued_ together.
+Story: She's so good at her **specialty**, it's like _ten brains glued_ together.
 Note: a single stroke skewers _ten_ and _brain_.
 <!--ID: 1784893865668-->
 END
 
 START
 Japanese RTK
-Keyword: dr.
+Keyword: Dr.
 Clue: a learned person, not a medical DOCTOR
 Kanji: 博
-Story: _Ten specialties_ grant you the title of **Dr**. with a _dot_.
+Story: _Ten specialties_ grant you the title of **Dr.** with a _dot_.
 Note: as a primitive, it loses the _needle_ and has the meaning _acupuncturist_.
 <!--ID: 1784893865672-->
 END
@@ -6983,7 +6983,7 @@ END
 
 START
 Japanese RTK
-Keyword: righteous
+Keyword: righteousness
 Clue:
 Kanji: 義
 Story: That _sheep's ego_ is enormous, his belief in his own **righteousness** is unshakeable.
