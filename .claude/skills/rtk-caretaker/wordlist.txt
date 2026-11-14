@@ -26,6 +26,7 @@ koohii
 kuchi
 matsuri
 mnemonic
+monme
 nightbreak
 nitaku
 rin
@@ -93,6 +94,7 @@ illiquid
 LLM
 lickin
 merpeople
+mohawk
 mudbloods
 narco
 oaky

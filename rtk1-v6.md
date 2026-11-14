@@ -539,7 +539,7 @@ END
 START
 Japanese RTK
 Keyword: derision
-Clue:
+Clue: not RIDICULE
 Kanji: 嘲
 Story: If I don't brush my teeth in the _morning_, I face **derision** when I open my _mouth_.
 Note:
@@ -552,7 +552,7 @@ Keyword: only
 Clue:
 Kanji: 只
 Story: A chihuahua - it's **only** a f...ing barking _mouth_ and (animal) _legs_.
-Note: unfortunately, chihuahua has its own meaning later.
+Note: unfortunately, chihuahua is used for 犬 later and becomes a very common story element.
 <!--ID: 1784893865698-->
 END
 
@@ -723,7 +723,7 @@ Keyword: ladle
 Clue:
 Kanji: 勺
 Story: If you want to _bind up drops_, you scoop them together with a **ladle**.
-Note:
+Note: dropped as a jōyō kanji in 2010.
 <!--ID: 1784987896473-->
 END
 
@@ -1865,7 +1865,7 @@ Keyword: ri
 Clue: Japanese unit for ~4 km
 Kanji: 里
 Story: Historically, when measuring the _land_ making up _rice fields_, you used the **ri** as the unit.
-Note: primitive meaning _computer_ (yes, really).
+Note: primitive meaning _computer_ (makes more sense when you reach LOGIC (理) later).
 Watch out - the vertical is a single stroke drawn before soil, but skewering both elements.
 Lots of Koohii users hate this keyword.
 <!--ID: 1785587062666-->
@@ -2905,7 +2905,7 @@ Keyword: pig iron
 Clue:
 Kanji: 銑
 Story: _Before_ it was fine _metal_, it was just **pig iron**.
-Note:
+Note: dropped as a jōyō kanji in 2010.
 <!--ID: 1786051484855-->
 END
 
@@ -5415,7 +5415,7 @@ Keyword: violent
 Clue:
 Kanji: 激
 Story: The calm _waters_ suddenly turned **violent**: *white*-capped waves crashing onto the deck, the galley swinging in every _direction_, and the _taskmaster_ whipping the rowers to keep her afloat.
-Note: 激 contains the elements of 放 but the 方 is squashed by 白
+Note: 激 contains the elements of SET FREE (放) but the 方 is squashed by 白
 <!--ID: 1787419651721-->
 END
 
@@ -7835,7 +7835,7 @@ Keyword: uncle
 Clue:
 Kanji: 叔
 Story: The **uncle** hoisted his _little_ nephew _above_ his head and got an accidental kick in the _crotch_ for his trouble.
-Note: the same 上 小 combo as seen in 戚
+Note: the same 上 小 combo as seen in RELATIVES (戚).
 叔 actually means a parent's younger sibling. So 叔父 is uncle and 叔母 is aunt, if younger, or 伯父 or 伯母 if older.
 <!--ID: 1791049708185-->
 END
@@ -8068,7 +8068,7 @@ END
 START
 Japanese RTK
 Keyword: pay
-Clue:
+Clue: not BUY or PRICE
 Kanji: 払
 Story: The waiter grabbed my _elbow_ lightly with his _fingers_ and whispered "excuse me sir, but I think you've forgotten to **pay**."
 Note: introduces the non-jōyō kanji primitive 厶 meaning _elbow_.
@@ -8905,8 +8905,10 @@ Kanji: 瞬
 Story: You hid your _eyes_ behind _sunglasses_ at the _birdhouse_ brothel so nobody would recognise you, but now the girl you fancy can't see you **wink** at her.
 Note: introduces the non-jōyō kanji 舛 meaning _sunglasses_ (夕 and a new shape).
 The _sunglasses_ meaning is arbitrary (it's actually the dancing radical).
-The ㄴ bit of 㐄 is two strokes.
+The ㄴ bit of 㐄 is two strokes in all jōyō kanji (but one in 舛).
+Oddly, ヰ exists and is stroke-wise identical to the right-hand element of 舛 as seen in 瞬. But ヰ is actually the old katakana syllable wi.
 <!-- See https://github.com/KanjiVG/kanjivg/issues/533 -->
+<!-- See https://kakijun.jp/etc/k9i.html -->
 <!--ID: 1791733503956-->
 END
 
@@ -11134,4 +11136,215 @@ Story: The _assembly line_ in the troll's _cave_ has no stools, so the workers *
 Note: introduces the non-kanji primitive 从 meaning _assembly line_ (people working in line).
 The skewering vertical becomes the first stroke of 土 (rather than the 一).
 <!--ID: 1793478759090-->
+END
+
+START
+Japanese RTK
+Keyword: sprain
+Clue:
+Kanji: 挫
+Story: I **sprained** my _fingers_ catching the sacks of _soil_ as they fell off the end of the _assembly line_.
+Note:
+<!--ID: 1794749171633-->
+END
+
+START
+Japanese RTK
+Keyword: graduate
+Clue:
+Kanji: 卒
+Story: The university is an _assembly line_ that sticks a _top hat_ on a new **graduate** every _ten_ seconds.
+Note: the 一 of 十 not intersecting at the middle looked odd to me. But this is the common "squeezed" bottom form, e.g. 早. Just more noticeable due to not touching a horizontal above.
+Unlike 土 in SIT (座), SPRAIN (挫) and UMBRELLA (傘), the 十 here doesn't intersect the 从 and the vertical comes last (as normal for 十).
+<!--ID: 1794749171640-->
+END
+
+START
+Japanese RTK
+Keyword: umbrella
+Clue:
+Kanji: 傘
+Story: The _two assembly lines_ churn out _ten_ cheap **umbrellas** a minute, and every one leaks.
+Note: stroke order is unexpected; it's left two 人, then right two, then 十
+<!--ID: 1794749171644-->
+END
+
+START
+Japanese RTK
+Keyword: monme
+Clue:
+Kanji: 匁
+Story: After the accident, one _arm_ was _bound up_ and the other _arm_ was bent backwards and I couldn't lift more than a **monme**.
+Note: an old unit of weight of about 3.75 grams. Like RI (里) and RIN (厘), this is a purely Japanese unit.
+Similar to NOT (勿), but with that last bent-backwards stroke.
+Dropped as a jōyō kanji in 2010.
+<!--ID: 1794749171648-->
+END
+
+START
+Japanese RTK
+Keyword: by means of
+Clue:
+Kanji: 以
+Story: **By means of** a _plow_ and a _drop_ or so of sweat, _Mr. T_ kept them all fed.
+Note: introduces the non-kanji primitive (the left-half of 以) meaning _plow_.
+The 丶 comes before 人
+<!--ID: 1794749171651-->
+END
+
+START
+Japanese RTK
+Keyword: similar
+Clue:
+Kanji: 似
+Story: _By means of_ a growl and a mohawk, the _Mr. T_ impersonator is **similar** enough for a kid's party.
+Note:
+<!--ID: 1794749171654-->
+END
+
+START
+Japanese RTK
+Keyword: join
+Clue:
+Kanji: 併
+Story: _Mr. T_ just **joins** _puzzle_ pieces together by brute force even if they don't match.
+Note: introduces the non-jōyō kanji primitive 并 meaning _puzzle_ (interlocking pieces - _horns_ and _both hands_).
+The story for SOLUTION (答) mentions "puzzle" but is unrelated.
+<!--ID: 1794749171657-->
+END
+
+START
+Japanese RTK
+Keyword: tile
+Clue:
+Kanji: 瓦
+Story: Hanging from the _ceiling_ were a _plow_ and a _fishhook_, and blood _dropped_ from them onto the **tiles** below.
+Note: stroke order is 一, plow, hook and drop.
+<!--ID: 1794749171667-->
+END
+
+START
+Japanese RTK
+Keyword: flower pot
+Clue:
+Kanji: 瓶
+Story: To solve the _puzzle_ all you need to do is place the **flower pot** on the correct _tile_.
+Note:
+<!--ID: 1794749171669-->
+END
+
+START
+Japanese RTK
+Keyword: Shinto shrine
+Clue:
+Kanji: 宮
+Story: The _house_ that serves as the _spine_ of Japanese religion is the **Shinto shrine**.
+Note: GODS (神) COMPANY (社) - 神社(じんじゃ) is any Shinto shrine, 宮(ぐう) is a more important shrine.
+Don't confuse SHINTO SHRINE (宮) and OCCUPATION (営).
+<!--ID: 1794749171672-->
+END
+
+START
+Japanese RTK
+Keyword: occupation
+Clue:
+Kanji: 営
+Story: The _schoolhouse_ prepares you for the **occupation** you do until your _spine_ gives out.
+Note: don't confuse SHINTO SHRINE (宮) and OCCUPATION (営).
+<!--ID: 1794749171674-->
+END
+
+START
+Japanese RTK
+Keyword: virtuous
+Clue:
+Kanji: 善
+Story: The **virtuous** _sheep_ never uses his _horns_ in anger and only opens his _mouth_ to graze.
+Note: stroke order is 羊, then 䒑 again and finally 口
+<!--ID: 1794749171676-->
+END
+
+START
+Japanese RTK
+Keyword: dining tray
+Clue:
+Kanji: 膳
+Story: The _virtuous_ vegan didn't go near the **dining tray** with the _flesh_ on it.
+Note:
+<!--ID: 1794749171678-->
+END
+
+START
+Japanese RTK
+Keyword: year
+Clue:
+Kanji: 年
+Story: At least once every **year** I _lie down_ on my _sunglasses_ and a lens pops out.
+Note: this uses only the 㐄 half of 舛, hence the popped-out-lens story part.
+Stroke order is 𠂉 plus the four-stroke version of 㐄 seen in WINK (瞬) etc.
+<!--ID: 1794749171685-->
+END
+
+START
+Japanese RTK
+Keyword: night
+Clue:
+Kanji: 夜
+Story: _Mr. T_ puts on his _top hat_ for an _evening_ out, and only on the _last long stroke_ of midnight does he call it a **night**.
+Note: don't mix up with EVENING (夕) or NIGHT BREAK (旦).
+The bottom-right looks like 夂 and 丶, but stroke-wise it's 夕 followed by ㇏
+<!--ID: 1794749171687-->
+END
+
+START
+Japanese RTK
+Keyword: fluid
+Clue:
+Kanji: 液
+Story: I keep a jug of _water_ by my bed at _night_ as my doctor told me to drink plenty of **fluids**.
+Note:
+<!--ID: 1794749171689-->
+END
+
+START
+Japanese RTK
+Keyword: hillock
+Clue:
+Kanji: 塚
+Story: Standing on a small **hillock** of _dirt_ and rock, the _sow crowned_ herself queen of the other farm animals.
+Note: cf. OVERPOWERING (豪).
+The story is similar to Napoleon making himself "president" in Animal Farm.
+<!--ID: 1794749171691-->
+END
+
+START
+Japanese RTK
+Keyword: cash
+Clue:
+Kanji: 幣
+Story: The counterfeiter put old _towels_ through a _shredder_ to make rag paper for his fake **cash**.
+Note: introduces the non-kanji primitive 敝 meaning _shredder_ (_taskmaster_ and ESTEEM (尚) with no-hook 小 instead of 口)
+The first three strokes of 敝 are in simplified ⺌ form in 幣
+Dollars are printed on paper that's actually mainly cotton.
+<!--ID: 1794749171693-->
+END
+
+START
+Japanese RTK
+Keyword: cover over
+Clue:
+Kanji: 蔽
+Story: The murderer **covered over** the shallow grave with _flowers_ he'd put through the _shredder_.
+Note: as this is a 2010 addition, unlike 幣, the first three strokes of 敝 are not in simplified ⺌ form.
+<!--ID: 1794749171696-->
+END
+
+START
+Japanese RTK
+Keyword: abuse
+Clue:
+Kanji: 弊
+Story: The Mafioso's **abuse** of his victim was terrible, he'd shoved _both his hands_ into a _shredder_.
+Note:
+<!--ID: 1794749171699-->
 END

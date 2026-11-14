@@ -33,6 +33,7 @@ writes is the suppression store.
 """
 
 import argparse
+import csv
 import datetime
 import difflib
 import hashlib
@@ -42,10 +43,12 @@ import subprocess
 import sys
 import unicodedata
 from collections import Counter, defaultdict
+from itertools import pairwise
 from dataclasses import dataclass, field
 from pathlib import Path
 
 DECK = "rtk1-v6.md"
+KEYWORDS_CSV = "rtk1-keywords.csv"  # frame,kanji,keyword,...: only used for K010
 NOTETYPE = "Japanese RTK"
 HEADER_RE = re.compile(r"^TARGET DECK: .+$")
 FIELD_RE = re.compile(r"^([A-Z][A-Za-z ]*):(.*)$")
@@ -648,7 +651,11 @@ def check_file(lines: list[str], cards: list[Card], report: Report) -> None:
 
 def check_structure(cards: list[Card], scope: set[int], report: Report) -> None:
     ids: dict[int, Card] = {}
-    previous_id = 0
+    # There is deliberately no check on the *order* of IDs. Anki only needs them
+    # unique, and an ID re-issued on a later import (鏡 got one 13 minutes after
+    # its batch) made every card below it look "out of order" while nothing was
+    # wrong. A card that really is in the wrong place is caught by K011, which
+    # compares frame numbers from rtk1-keywords.csv.
     # Anki writes the ID back on import, so the cards still missing one are the
     # batch added since the last import — and they can only be at the bottom of
     # the file. A card with no ID that is followed by one that has an ID was
@@ -662,11 +669,6 @@ def check_structure(cards: list[Card], scope: set[int], report: Report) -> None:
                                            f"{ids[value].label()} — Anki would treat them as "
                                            "the same note")
             ids.setdefault(value, card)
-            if value < previous_id and in_scope:
-                report.info("C008", card, f"ID {value} is older than the previous card's "
-                                          f"{previous_id} — a card may have been moved or "
-                                          "copy-pasted out of order")
-            previous_id = max(previous_id, value)
         if not in_scope:
             continue
         if card.notetype is None:
@@ -742,6 +744,46 @@ def check_identity(cards: list[Card], scope: set[int], report: Report) -> None:
         if card.kanji and twins:
             report.error("K007", card, "duplicate Kanji, also on "
                                        + ", ".join(c.label() for c in twins))
+
+
+def check_frames(cards: list[Card], frames: list[dict[str, str]],
+                         report: Report) -> None:
+    """A frame of rtk1-keywords.csv that the deck skipped over, e.g. 1116 left
+    out while adding 1101-1120. Frames above the deck's highest one are simply
+    not added yet, so the last frame of a batch can't be told from that. A
+    frame whose kanji is absent but whose keyword is on a card counts as
+    present: that card's empty or wrong Kanji is K004/K005's business. The
+    finding sits on the card the frame belongs just before, so scoping works:
+    --recent sees the hole in the batch it was made in."""
+    def nfc(text: str) -> str:  # folds CJK compatibility ideographs too
+        return unicodedata.normalize("NFC", text.strip())
+
+    frame_of = {nfc(row["kanji"]): int(row["frame"]) for row in frames}
+    placed = [(frame_of[nfc(c.kanji)], c) for c in cards if nfc(c.kanji) in frame_of]
+    if not placed:
+        return
+    present = {f for f, _ in placed}
+    keywords = {normalize_keyword(c.keyword) for c in cards if c.keyword}
+    highest = max(present)
+    for row in frames:
+        number = int(row["frame"])
+        if number >= highest or number in present:
+            continue
+        names = (row["keyword"], row.get("british_english", ""), row.get("usual_form", ""))
+        if any(name and normalize_keyword(name) in keywords for name in names):
+            continue
+        after = next(c for f, c in placed if f > number)  # file order, normally frame order
+        report.warn("K010", after, f"frame {number} {row['kanji']} [{row['keyword']}] from "
+                                   "rtk1-keywords.csv is not in the deck — it belongs just "
+                                   "before this card; skipped while adding a batch?")
+    # K011: the deck should run in frame order. Compare each card with the one
+    # placed just above it, so a single misplaced card yields one finding, not a
+    # run of them. Which of the two is out of place is for the reader to say.
+    for (above, upper), (number, card) in pairwise(placed):
+        if number < above:
+            report.warn("K011", card, f"frame {number} comes straight after frame {above} "
+                                      f"({upper.label()}) — rtk1-keywords.csv puts it earlier, "
+                                      "so one of the two cards is in the wrong place")
 
 
 def check_markup(card: Card, text: str, where: str, report: Report) -> bool:
@@ -1247,6 +1289,10 @@ def main() -> None:
     check_file(lines, cards, report)
     check_structure(cards, scope, report)
     check_identity(cards, scope, report)
+    keywords_csv = find_file(KEYWORDS_CSV, required=False)
+    if keywords_csv is not None:
+        with keywords_csv.open(encoding="utf-8", newline="") as handle:
+            check_frames(cards, list(csv.DictReader(handle)), report)
     for card in cards:
         if card.index not in scope:
             continue

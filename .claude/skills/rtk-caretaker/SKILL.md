@@ -65,6 +65,21 @@ END
   decision to make, so report it and leave it. So is a **misspelled `Keyword`** — the
   keyword is the front of the card, and `check.py` feeds every keyword into the
   spell checker's dictionary, so K009 is the only thing that can catch it.
+- **Cards follow Heisig's frame order with no gaps.** K010 checks the deck
+  against `rtk1-keywords.csv` (`frame,kanji,keyword,british_english,usual_form`)
+  and reports any frame below the deck's highest one whose kanji and keyword
+  (in any of its three spellings) are both absent. That is usually a kanji
+  skipped while adding a batch, e.g. 1116 left out of 1101–1120. The finding
+  sits on the card the frame belongs just before, so `--recent` catches the
+  gap in the batch that made it. A missing frame at the very end of a batch
+  looks the same as one not added yet, so K010 can't catch it. Report the
+  gap and never add the card yourself. K011 uses the same frame numbers to
+  flag a card placed straight after a higher frame. The finding names both
+  cards, and you decide which one has moved. Neither check compares keywords,
+  but the CSV is now trusted more generally: when it disagrees with
+  the deck (a keyword, a kanji, a frame), presume the deck is wrong and name
+  the CSV value as the likely fix. It isn't infallible, so keep an open mind
+  if the evidence points the other way.
 - `Update:` is an accepted sixth field, after `Note`, holding a later second
   thought about the card (see 可 [can]). It is optional, follows the same
   conventions as `Note`, and is never a finding in itself — but any *other*
@@ -142,8 +157,13 @@ that is not the keyword, unbalanced markers, misspellings, duplicated stories,
 a Story that starts lowercase or ends unpunctuated — unless it ends on a kanji
 or kana character, which the script accepts as-is — a Note that starts
 capitalized, a Clue that ends in a full stop or contains parentheses, a
-misspelled Keyword) and **INFO** (often deliberate: no component markup, an ID
-out of sequence, a keyword that doubles as a primitive name).
+misspelled Keyword, a frame missing or out of order) and **INFO** (often
+deliberate: no component markup, a keyword that doubles as a primitive name).
+
+The order of `<!--ID:-->` values is deliberately not checked. Anki only needs
+them unique. An ID issued on a later import makes every card below it look out
+of sequence even though nothing is wrong, and a card that really is misplaced
+shows up as K011.
 
 A keyword bolded more than once is not a finding — the deck does it on purpose.
 
