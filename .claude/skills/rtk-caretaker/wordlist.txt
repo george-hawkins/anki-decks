@@ -44,6 +44,7 @@ aran
 balrog
 batcave
 bellerophon
+bernard
 bezos
 boromir
 copperfield
@@ -89,6 +90,7 @@ ctrl
 dwarves
 else's
 encoding
+footgear
 handedly
 illiquid
 LLM

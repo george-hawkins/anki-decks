@@ -492,7 +492,7 @@ Keyword: fortune-telling
 Clue:
 Kanji: 占
 Story: A _magic wand_ and a big _mouth_ are all you need for **fortune telling**.
-Note: introduces the non-jōyō kanji ⼘ with primitive meaning _divining rod_ or _magic wand_.
+Note: introduces the non-jōyō kanji 卜 with primitive meaning _divining rod_ or _magic wand_.
 <!--ID: 1784893865676-->
 END
 
@@ -8465,6 +8465,7 @@ Clue: not SECRET
 Kanji: 密
 Story: To maintain **secrecy**, secret societies _invariably_ have a _house_ hidden away on top of a _mountain_.
 Note: try to use the "on top" to remember everything else is on top of the 山
+Both SECRECY (密) and SECRET (秘) feature INVARIABLY (必).
 <!--ID: 1791315775306-->
 END
 
@@ -9821,7 +9822,7 @@ Keyword: secret
 Clue: not SECRECY
 Kanji: 秘
 Story: The free gift at the bottom of a _cereal_ box is _invariably_ a **secret** decoder ring.
-Note:
+Note: both SECRECY (密) and SECRET (秘) feature INVARIABLY (必).
 <!--ID: 1792354883120-->
 END
 
@@ -11347,4 +11348,207 @@ Kanji: 弊
 Story: The Mafioso's **abuse** of his victim was terrible, he'd shoved _both his hands_ into a _shredder_.
 Note:
 <!--ID: 1794749171699-->
+END
+
+START
+Japanese RTK
+Keyword: yell
+Clue: not SHOUT
+Kanji: 喚
+Story: The **yelling** and yelping from the _mouths_ of the _four St. Bernards bound up_ to your sled never stops.
+Note: the final stroke of the 四 is provided by the 大
+Cf. INTERCHANGE (換).
+<!--ID: 1794946686232-->
+END
+
+START
+Japanese RTK
+Keyword: interchange
+Clue:
+Kanji: 換
+Story: With a snap of your _fingers_ the _four St. Bernards bound up_ to your sled **interchange** places.
+Note: cf. YELL (喚).
+<!--ID: 1794946686242-->
+END
+
+START
+Japanese RTK
+Keyword: dissolve
+Clue:
+Kanji: 融
+Story: The witch adds a large _insect_ to the brew in her _tripod_ and watches it **dissolve**.
+Note: introduces the non-jōyō kanji primitive 鬲 meaning _tripod_ - a _ceiling_ lid over its _mouth_, and a _hood_ with three legs (_human legs_ and a no-hook _spike_).
+Cf. ISOLATE (隔).
+<!--ID: 1794946686246-->
+END
+
+START
+Japanese RTK
+Keyword: alms
+Clue:
+Kanji: 施
+Story: The volunteers under that _banner_ are collecting **alms** for people stung by _scorpions_.
+Note: introduces the non-kanji primitive (the non _scorpion_ bit of 施 - _direction_ and _recline_) meaning _banner_.
+<!--ID: 1794946686261-->
+END
+
+START
+Japanese RTK
+Keyword: rotation
+Clue:
+Kanji: 旋
+Story: The _zoo's banner_ shows a smiling tiger, the real one is on his thousandth sad **rotation** of his cage.
+Note:
+<!--ID: 1794946686278-->
+END
+
+START
+Japanese RTK
+Keyword: play
+Clue:
+Kanji: 遊
+Story: The _banner_ across the _road_ says slow down, _children_ at **play**.
+Note:
+<!--ID: 1794946686294-->
+END
+
+START
+Japanese RTK
+Keyword: trip
+Clue: travel, not fall
+Kanji: 旅
+Story: On our package **trip**, we followed the guide's _banner_ which was just a _rag_ on a stick.
+Note: introduces the non-kanji primitive meaning _rag_ (the bit of 旅 that looks like the _scarf_ of 衣 but without a hook on the second stroke).
+<!--ID: 1794946686312-->
+END
+
+START
+Japanese RTK
+Keyword: not
+Clue:
+Kanji: 勿
+Story: This kanji is **not** a _piglet_ with a _knot_ in his tail.
+Note: primitive meaning _knot_
+This is **not** the _piglet_ of INTESTINES (腸) etc. as it has no _ceiling_.
+<!--ID: 1794946686328-->
+END
+
+START
+Japanese RTK
+Keyword: thing
+Clue:
+Kanji: 物
+Story: The first **thing** they teach you at cowboy school is how to tie a _knot_ that will hold a _cow_.
+Note:
+<!--ID: 1794946686345-->
+END
+
+START
+Japanese RTK
+Keyword: easy
+Clue:
+Kanji: 易
+Story: Tying a _knot_ is **easy** in the _sun_ and almost impossible in the dark.
+Note:
+<!--ID: 1794946686366-->
+END
+
+START
+Japanese RTK
+Keyword: grant
+Clue:
+Kanji: 賜
+Story: Once the research **grant** comes in, spending the _clams_ is the _easy_ part.
+Note:
+<!--ID: 1794946686379-->
+END
+
+START
+Japanese RTK
+Keyword: urine
+Clue:
+Kanji: 尿
+Story: For a dog, **urine** is a _flag_, a splash of _water_ on every lamppost to mark his patch.
+Note: introduces the non-kanji primitive 尸 meaning _flag_. ノ comes last.
+<!--ID: 1794946686395-->
+END
+
+START
+Japanese RTK
+Keyword: nun
+Clue:
+Kanji: 尼
+Story: The **nun** waved a small _flag_ to start the convent school's egg and _spoon_ race.
+Note:
+<!--ID: 1794946686413-->
+END
+
+START
+Japanese RTK
+Keyword: buttocks
+Clue:
+Kanji: 尻
+Story: A streaker ran across the _baseball_ field, **buttocks** and everything visible to all, waving a protest _flag_.
+Note:
+<!--ID: 1794946686430-->
+END
+
+START
+Japanese RTK
+Keyword: mud
+Clue:
+Kanji: 泥
+Story: The _nuns_ use holy _water_ when preparing their **mud** wrestling ring.
+Note:
+<!--ID: 1794946686446-->
+END
+
+START
+Japanese RTK
+Keyword: fence
+Clue:
+Kanji: 塀
+Story: A world map is a _puzzle_, each country a patch of _soil_ with a **fence** round it and a _flag_ on it.
+Note:
+<!--ID: 1794946686462-->
+END
+
+START
+Japanese RTK
+Keyword: footgear
+Clue:
+Kanji: 履
+Story: The shoeshine used a ragged old _flag_ to _restore_ the polish on my **footgear**.
+Note: cf. RESTORE (復).
+<!--ID: 1794946686479-->
+END
+
+START
+Japanese RTK
+Keyword: roof
+Clue:
+Kanji: 屋
+Story: On the **roof** of the brothel, they raise a _flag_ every time a customer _climaxes_.
+Note: we've often associated _roof_ with 宀; this character has no relationship to it.
+<!--ID: 1794946686496-->
+END
+
+START
+Japanese RTK
+Keyword: grip
+Clue:
+Kanji: 握
+Story: Hanging from the _roof_ by your _fingers_ will definitely improve your **grip**.
+Note:
+<!--ID: 1794946686513-->
+END
+
+START
+Japanese RTK
+Keyword: yield
+Clue:
+Kanji: 屈
+Story: When you **yield** in battle, you wave the _flag_ of surrender and _exit_ the field of combat.
+Note:
+<!--ID: 1794946686529-->
 END
