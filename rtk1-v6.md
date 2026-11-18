@@ -11552,3 +11552,204 @@ Story: When you **yield** in battle, you wave the _flag_ of surrender and _exit_
 Note:
 <!--ID: 1794946686529-->
 END
+
+START
+Japanese RTK
+Keyword: dig
+Clue:
+Kanji: 掘
+Story: If you **dig** hard enough with your _fingers_, even hard-packed clay will eventually _yield_.
+Note: cf. DIG (掘) and DITCH (堀).
+<!--ID: 1795037849690-->
+END
+
+START
+Japanese RTK
+Keyword: ditch
+Clue:
+Kanji: 堀
+Story: The soldiers who _yielded_ now have to dig **ditches** in the _soil_.
+Note: cf. DIG (掘) and DITCH (堀).
+<!--ID: 1795037849697-->
+END
+
+START
+Japanese RTK
+Keyword: reside
+Clue: not DWELL
+Kanji: 居
+Story: I've truly planted my _flag_ and will **reside** here until I grow _old_.
+Note: don't mix up with DWELL (住).
+<!--ID: 1795037849703-->
+END
+
+START
+Japanese RTK
+Keyword: set
+Clue: put something firmly in place
+Kanji: 据
+Story: He **set** his _fingers_ firmly on the map and said "here is where I _reside_."
+Note: cf. SET (据) and HEM (裾).
+<!--ID: 1795037849715-->
+END
+
+START
+Japanese RTK
+Keyword: hem
+Clue:
+Kanji: 裾
+Story: A moth _resides_ in the **hem** of my _cloak_.
+Note: cf. SET (据) and HEM (裾).
+<!--ID: 1795037849731-->
+END
+
+START
+Japanese RTK
+Keyword: stratum
+Clue:
+Kanji: 層
+Story: Archaeologists mark each **stratum** with a little _flag_, and the age _increases_ the deeper they dig.
+Note: stratum - "a layer or level of something, especially layers of rock or soil."
+<!--ID: 1795037849747-->
+END
+
+START
+Japanese RTK
+Keyword: bureau
+Clue:
+Kanji: 局
+Story: The Tourist Information **Bureau** has little _flags_ on the counter and *phrase*books by the door.
+Note: the last stroke _flag_ (尸) is the first of PHRASE (句).
+<!--ID: 1795037849764-->
+END
+
+START
+Japanese RTK
+Keyword: slow
+Clue:
+Kanji: 遅
+Story: A small boy walked ahead of the _sheep_ waving a red _flag_ to warn drivers on the _road_ to go **slow**.
+Note:
+<!--ID: 1795037849781-->
+END
+
+START
+Japanese RTK
+Keyword: leak
+Clue:
+Kanji: 漏
+Story: The damage surveyor gave us small _flags_ to mark every spot where _water_ **leaks** in when it _rains_.
+Note:
+<!--ID: 1795037849798-->
+END
+
+START
+Japanese RTK
+Keyword: printing
+Clue:
+Kanji: 刷
+Story: I cut my _towel_ in half with a _saber_ and fed it through the **printing** press to make a _flag_.
+Note:
+<!--ID: 1795037849814-->
+END
+
+START
+Japanese RTK
+Keyword: shaku
+Clue:
+Kanji: 尺
+Story: [no story - "R", head blowing a flute]
+Note: primitive meaning _shakuhachi flute_.
+Another Japanese unit like RI (里), RIN (厘) and MONME (匁); a SHAKU is about a foot.
+<!--ID: 1795037849831-->
+END
+
+START
+Japanese RTK
+Keyword: exhaust
+Clue:
+Kanji: 尽
+Story: Playing a _shakuhachi flute_ filled with _ice_ would **exhaust** anyone.
+Note:
+<!--ID: 1795037849848-->
+END
+
+START
+Japanese RTK
+Keyword: swamp
+Clue: not MARSH
+Kanji: 沢
+Story: The ninja hid under the **swamp** _water_, breathing through his _shakuhachi flute_.
+Note: don't mix up with MARSH (沼).
+<!--ID: 1795037849864-->
+END
+
+START
+Japanese RTK
+Keyword: translate
+Clue:
+Kanji: 訳
+Story: The mute boy spoke only with his _shakuhachi flute_ and his brother **translated** his notes into _words_.
+Note:
+<!--ID: 1795037849882-->
+END
+
+START
+Japanese RTK
+Keyword: choose
+Clue:
+Kanji: 択
+Story: **Choose** carefully where to put your _fingers_ when playing a _shakuhachi flute_.
+Note:
+<!--ID: 1795037849899-->
+END
+
+START
+Japanese RTK
+Keyword: daytime
+Clue:
+Kanji: 昼
+Story: Japanese roosters play a _shakuhachi flute_ at _nightbreak_ to announce that **daytime** has begun.
+Note:
+<!--ID: 1795037849915-->
+END
+
+START
+Japanese RTK
+Keyword: door
+Clue:
+Kanji: 戸
+Story: We hung a large _flag_ from the _ceiling_ as a makeshift **door**.
+Note:
+<!--ID: 1795037849932-->
+END
+
+START
+Japanese RTK
+Keyword: shoulder
+Clue:
+Kanji: 肩
+Story: The **shoulder** is the _part of the body_ to use if you have to knock down a _door_.
+Note:
+<!--ID: 1795037849949-->
+END
+
+START
+Japanese RTK
+Keyword: tassel
+Clue:
+Kanji: 房
+Story: The **tassel** on the _door_ swings in the _direction_ of the wind.
+Note:
+<!--ID: 1795037849965-->
+END
+
+START
+Japanese RTK
+Keyword: fan
+Clue: folding fan, ventilator
+Kanji: 扇
+Story: The geisha stood at the _door_ with her **fan** made of _feathers_.
+Note:
+<!--ID: 1795037849982-->
+END
