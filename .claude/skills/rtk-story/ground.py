@@ -314,7 +314,7 @@ def report_component(label, alternatives, cards, prim_lines, vocab):
     used = mentions(cards, own, hit)
     if used:
         print("  USED ELSEWHERE — vocabulary and clash-avoidance only, never borrow the")
-        print("  imagery (⚠ = a Note, i.e. a binding usage rule):")
+        print("  imagery (⚠ = a Note, i.e. a usage rule, binding unless it hedges itself):")
         for m in used:
             print("    " + m)
     prim_hits = [line.strip() for line in prim_lines if hit(line)]
@@ -433,8 +433,9 @@ def main():
         else:
             report_component(arg, alts, cards, prim_lines, vocab)
     hr()
-    print("Use the deck's exact vocabulary; ⚠ lines are binding; never borrow another")
-    print("card's imagery — the lists above are for clash-avoidance only.")
+    print("Use the deck's exact vocabulary; ⚠ lines are binding unless the note hedges")
+    print("itself; never borrow another card's imagery — the lists above are for")
+    print("clash-avoidance only.")
 
 
 if __name__ == "__main__":

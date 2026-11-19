@@ -59,10 +59,20 @@ matching `primitives.md` lines. What that output is for:
   established names: use the one the user plainly meant and say you did. If
   nothing matches at all, fall back on your RTK knowledge and flag it. (A few
   names legitimately have no card of their own, e.g. _ceiling_/_floor_ for 一.)
-- **⚠ lines are binding.** They come from `Note:` fields and record usage
-  rules — e.g. 火: avoid plain _fire_; the full form is _fireplace_ or
-  _fire storm_, the squashed ⺣ is _flames_, _cauldron_ or _oven fire_; and
-  "grains of rice" is reserved for 氺, never used for 米.
+- **⚠ lines are binding, unless the note hedges itself.** They come from
+  `Note:` fields and record usage rules — e.g. "grains of rice" is reserved
+  for 氺, never used for 米. A note that calls itself a suggestion ("try not
+  to", "weak suggestion") is not a rule: go by what the deck's stories
+  actually do, and never flag it. The same goes for a `Note:` on the
+  component's own card.
+- **火 is plain _fire_.** Its note proposes _fireplace_/_fire storm_ for the
+  full form, but no story in the deck uses either and every full-form 火
+  story says _fire_. Write _fire_, don't substitute and don't flag it. The
+  squashed ⺣ names (_flames_, _cauldron_, _oven fire_) are in real use and
+  fine to reach for when the fire is squashed.
+- **The user's own word wins.** When a seed or a follow-up names a component
+  with an established deck name, keep that name. Swap it only when it is
+  wrong, not because a note prefers another.
 - **Vocabulary and clash-avoidance only.** Never carry imagery, characters or
   angles over from another card: recycling 北's "sit back to back" into
   背 [stature], or 喬's "towering" into 嬌 [attractive], drags in baggage and

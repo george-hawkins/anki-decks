@@ -1745,7 +1745,7 @@ Clue: not BURN
 Kanji: 火
 Story: [no story]
 Note: to keep 火 and its squashed ⺣ form distinct, try not to use **fire** for either. For 火, use _fireplace_, _fire storm_, when squashed to ⺣, use _flames_, _cauldron_, _cooking/oven fire_.
-This is a weak suggestion and Heisig ignores it in 炎 - the very next character.
+This is a weak suggestion and Heisig ignores it in 炎 - the very next character. In fact _fireplace_ is never used in a story, 火 is always **fire**.
 <!--ID: 1785442542707-->
 END
 
@@ -4267,10 +4267,10 @@ Clue:
 Kanji: 衣
 Story: The only **garments** permitted in this unusual club are a _top hat_ and _scarf_.
 Note: this is the most volatile element used in other kanji.
-On the left, it appears as ⻂ (meaning _cloak_).
+On the left, it appears as 衤 (meaning _cloak_).
 When below and attached to the above element, 衣 loses its 亠 (and becomes _scarf_).
 Another element can come between _top hat_ and _scarf_, e.g. 哀
-When not bottommost (in any form), the レ in 衣 loses its hook, e.g 遠
+When not bottommost (in any form), the レ in 衣 loses its hook, e.g. 遠
 <!--ID: 1786823467536-->
 END
 
@@ -7562,7 +7562,7 @@ Keyword: officer
 Clue:
 Kanji: 吏
 Story: _One_ **officer** can change _history_ if he leads his troops well.
-Note:
+Note: it turns out 吏 is really a bureaucrat, MILITARY OFFICER (尉) comes later.
 <!--ID: 1790097524604-->
 END
 
@@ -11752,4 +11752,205 @@ Kanji: 扇
 Story: The geisha stood at the _door_ with her **fan** made of _feathers_.
 Note:
 <!--ID: 1795037849982-->
+END
+
+START
+Japanese RTK
+Keyword: hearth
+Clue:
+Kanji: 炉
+Story: A pinch of Floo powder on the _fire_ turns a **hearth** into a _door_.
+Note:
+<!--ID: 1795126668332-->
+END
+
+START
+Japanese RTK
+Keyword: re-
+Clue:
+Kanji: 戻
+Story: On **re**turning to the mountain rescue hut, the _St. Bernard_ pawed at the _door_ to be let in.
+Note:
+<!--ID: 1795126668339-->
+END
+
+START
+Japanese RTK
+Keyword: tears
+Clue: not CRY
+Kanji: 涙
+Story: When the lifeguard pulled the dog from the _water_ and *re*turned him, his owner shed **tears** of joy.
+Note: don't mix up with CRY (泣).
+<!--ID: 1795126668344-->
+END
+
+START
+Japanese RTK
+Keyword: employ
+Clue: not EMPLOYEE
+Kanji: 雇
+Story: At our firm, we'll **employ** any _turkey_ who shows up at the _door_.
+Note: don't mix up with EMPLOYEE (員).
+<!--ID: 1795126668352-->
+END
+
+START
+Japanese RTK
+Keyword: look back
+Clue:
+Kanji: 顧
+Story: **Looking back**, the _head_ of our firm wishes he'd never _employed_ me.
+Note:
+<!--ID: 1795126668368-->
+END
+
+START
+Japanese RTK
+Keyword: disclose
+Clue:
+Kanji: 啓
+Story: Once the _door_ closes and the _taskmaster_ gets to work on the prisoner, his _mouth_ soon opens and **discloses** everything.
+Note:
+<!--ID: 1795126668385-->
+END
+
+START
+Japanese RTK
+Keyword: show
+Clue: children's show
+Kanji: 示
+Story: A Punch and Judy **show** is just _two little_ puppets hitting each other.
+Note: primitive meaning _altar_. On the left, it appears as 礻, identical to _cloak_ (衤) but without the second-last stroke.
+For the story, it's SHOW as in performance, but really it's SHOW as in demonstrate.
+<!--ID: 1795126668402-->
+END
+
+START
+Japanese RTK
+Keyword: salutation
+Clue:
+Kanji: 礼
+Story: If you don't make the right **salutation** at the _altar_, they drag you away with a _hook_.
+Note: salutation - "a greeting or expression of goodwill, written or spoken, e.g. 'hello' or 'Dear Sir' or, in Japanese, bowing."
+<!--ID: 1795126668419-->
+END
+
+START
+Japanese RTK
+Keyword: auspicious
+Clue:
+Kanji: 祥
+Story: To ensure an **auspicious** future, you must sacrifice a _sheep_ on the _altar_.
+Note:
+<!--ID: 1795126668436-->
+END
+
+START
+Japanese RTK
+Keyword: celebrate
+Clue:
+Kanji: 祝
+Story: The pregnant _teenager_ **celebrated** getting her unwilling boyfriend to the _altar_.
+Note:
+<!--ID: 1795126668452-->
+END
+
+START
+Japanese RTK
+Keyword: blessing
+Clue:
+Kanji: 福
+Story: The priest's **blessing** goes to whoever leaves the most _wealth_ on his _altar_.
+Note:
+<!--ID: 1795126668469-->
+END
+
+START
+Japanese RTK
+Keyword: welfare
+Clue:
+Kanji: 祉
+Story: The church was once the main source of social **welfare**; you'd _stop_ at the _altar_ and hope for help.
+Note:
+<!--ID: 1795126668486-->
+END
+
+START
+Japanese RTK
+Keyword: company
+Clue: business
+Kanji: 社
+Story: The **company** bulldozed the ancient _altar_ and dug up the _soil_ to build its new headquarters.
+Note:
+<!--ID: 1795126668503-->
+END
+
+START
+Japanese RTK
+Keyword: inspection
+Clue:
+Kanji: 視
+Story: During his **inspection** of the church, the visiting priest really wanted to _see_ the famous _altar_.
+Note:
+<!--ID: 1795126668520-->
+END
+
+START
+Japanese RTK
+Keyword: Nara
+Clue:
+Kanji: 奈
+Story: **Nara** may be beautiful, but the sacrifice of _St. Bernards_ on bloody _altars_ is rampant there.
+Note: Nara, the place name, is 奈(な)良(ら). 奈 is a 2010 addition and appears mainly in place names.
+<!--ID: 1795126668536-->
+END
+
+START
+Japanese RTK
+Keyword: military officer
+Clue: not OFFICER
+Kanji: 尉
+Story: The **military officer** _glued_ his country's tattered _flag_ above the _altar_ of the captured cathedral.
+Note:
+<!--ID: 1795126668553-->
+END
+
+START
+Japanese RTK
+Keyword: consolation
+Clue:
+Kanji: 慰
+Story: A _military officer_ must offer **consolation** to the grieving _hearts_ of the families of his fallen men.
+Note:
+<!--ID: 1795126668570-->
+END
+
+START
+Japanese RTK
+Keyword: goodwill
+Clue:
+Kanji: 款
+Story: The _samurai_ _lacked_ all **goodwill** for the monks at the _altar_ and killed them all.
+Note:
+<!--ID: 1795126668587-->
+END
+
+START
+Japanese RTK
+Keyword: prohibition
+Clue:
+Kanji: 禁
+Story: There's a strict **prohibition** against touching the _altar_ in the sacred _grove_.
+Note: the kanji in no-smoking signs in Japan.
+<!--ID: 1795126668603-->
+END
+
+START
+Japanese RTK
+Keyword: collar
+Clue:
+Kanji: 襟
+Story: Our dog still wears a **collar** and tartan _cloak_ despite a local _prohibition_ on dressing up animals.
+Note: left is _cloak_ (衤) and bottom right is _altar_ (示) which is often 礻
+<!--ID: 1795126668620-->
 END
