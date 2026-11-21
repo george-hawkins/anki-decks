@@ -116,7 +116,7 @@ Keyword: day
 Clue:
 Kanji: 日
 Story: Open the window to a new **day** (looks like a sash window).
-Note: primitive meaning _day_ or _tongue wagging in the mouth_.
+Note: primitive meaning _sun_ or _day_ or _tongue wagging in the mouth_.
 The tongue wagging bit really comes from the almost identical non-jōyō kanji 曰 meaning something like _sayeth_.
 <!--ID: 1784741826666-->
 END
@@ -9789,7 +9789,7 @@ END
 START
 Japanese RTK
 Keyword: distress
-Clue:
+Clue: not DISQUIETING or DISCONCERTED
 Kanji: 愁
 Story: The damsel in **distress**: the scoundrel who won her _heart_ in summer dumped her when _autumn_ arrived.
 Note:
@@ -11953,4 +11953,212 @@ Kanji: 襟
 Story: Our dog still wears a **collar** and tartan _cloak_ despite a local _prohibition_ on dressing up animals.
 Note: left is _cloak_ (衤) and bottom right is _altar_ (示) which is often 礻
 <!--ID: 1795126668620-->
+END
+
+START
+Japanese RTK
+Keyword: religion
+Clue:
+Kanji: 宗
+Story: A **religion** needs just two things, an _altar_ and a _house_ to put it in.
+Note:
+<!--ID: 1795292498973-->
+END
+
+START
+Japanese RTK
+Keyword: adore
+Clue:
+Kanji: 崇
+Story: Every _religion_ seems to have a holy _mountain_ that its followers **adore**.
+Note:
+<!--ID: 1795292498980-->
+END
+
+START
+Japanese RTK
+Keyword: ritual
+Clue:
+Kanji: 祭
+Story: For the fertility **ritual**, the _flesh_ from a bull's _crotch_ is placed on the _altar_.
+Note: the first stroke of 又 cut short, so the curved 月 and 又 combine into an _umbrella_ (𠆢) shape. The curved moon/meat is also seen in SORT OF THING (然).
+The origin is a hand (又) placing MEAT (肉) on an _altar_ (示).
+<!--ID: 1795292498988-->
+END
+
+START
+Japanese RTK
+Keyword: guess
+Clue:
+Kanji: 察
+Story: The detective made an informed **guess** as to whose _house_ was being used for the dark _rituals_.
+Note: **guess** as in a measured conjecture.
+<!--ID: 1795292498993-->
+END
+
+START
+Japanese RTK
+Keyword: grate
+Clue:
+Kanji: 擦
+Story: From the blood in the Parmesan, I _guess_ you also **grated** your _fingers_.
+Note:
+<!--ID: 1795292499002-->
+END
+
+START
+Japanese RTK
+Keyword: wherefore
+Clue:
+Kanji: 由
+Story: Juliet asked "**wherefore** art thou Romeo," as he stuck his head up out of a _rice field_.
+Note: primitive meaning _sprout_. A RICE FIELD (田) with a _sprout_ poking out the top.
+As in 田, the final 丨 comes before the two 一
+Sprout - "a young shoot or bud newly grown from a seed or plant" or "to begin to grow."
+<!--ID: 1795292499019-->
+END
+
+START
+Japanese RTK
+Keyword: pluck
+Clue:
+Kanji: 抽
+Story: His friends told him if he **plucked** a _finger_, a new one would _sprout_ in its place. The result - a lot of blood and an ambulance.
+Note:
+<!--ID: 1795292499035-->
+END
+
+START
+Japanese RTK
+Keyword: oil
+Clue:
+Kanji: 油
+Story: That's not _water sprouting_ from your field, it's **oil**.
+Note:
+<!--ID: 1795292499053-->
+END
+
+START
+Japanese RTK
+Keyword: sleeve
+Clue:
+Kanji: 袖
+Story: If a _cloak sprouts_ **sleeves** then it's a coat.
+Note:
+<!--ID: 1795292499069-->
+END
+
+START
+Japanese RTK
+Keyword: mid-air
+Clue:
+Kanji: 宙
+Story: Jack's beanstalk _sprouted_, pushed up through the _roof_ and when he climbed it he found a castle floating in **mid-air**.
+Note:
+<!--ID: 1795292499086-->
+END
+
+START
+Japanese RTK
+Keyword: deliver
+Clue:
+Kanji: 届
+Story: Every burger the waiter **delivers** has a silly little _flag sprouting_ from the bun.
+Note:
+<!--ID: 1795292499102-->
+END
+
+START
+Japanese RTK
+Keyword: flute
+Clue: not _shakuhachi flute_
+Kanji: 笛
+Story: A **flute** is a _bamboo sprout_ that grew up and had holes drilled in it.
+Note:
+<!--ID: 1795292499119-->
+END
+
+START
+Japanese RTK
+Keyword: axis
+Clue:
+Kanji: 軸
+Story: A _car_ drives along the x-**axis** and a _sprout_ grows up the y-**axis**.
+Note: axis - "a central line or shaft around which something rotates."
+<!--ID: 1795292499136-->
+END
+
+START
+Japanese RTK
+Keyword: armor
+Clue: no story
+Kanji: 甲
+Story: [no story - tank seen from above or kendo mask]
+Note: primitive meaning _roots_, so a _sprout_ (由) pushes up and _roots_ (甲) push down.
+Unlike 由, the 丨 comes last, so it's 日, then 丨.
+<!--ID: 1795292499154-->
+END
+
+START
+Japanese RTK
+Keyword: push
+Clue:
+Kanji: 押
+Story: **Push** the _roots_ down with your _fingers_ when planting a plant.
+Note: cf. PLUCK (抽).
+<!--ID: 1795292499169-->
+END
+
+START
+Japanese RTK
+Keyword: headland
+Clue:
+Kanji: 岬
+Story: A **headland** is a _mountain_ so firmly _rooted_ that the sea on three sides can't shift it.
+Note: cf. PROMONTORY (崎) and CAPE (埼).
+A headland is a smaller, more localized projection into water than a cape.
+<!--ID: 1795292499203-->
+END
+
+START
+Japanese RTK
+Keyword: insert
+Clue:
+Kanji: 挿
+Story: The farmer **inserted** a _thousand_ plants with his _fingers_ and every one of them took _root_.
+Note: the final 丨 completes both 千 and 甲
+<!--ID: 1795292499220-->
+END
+
+START
+Japanese RTK
+Keyword: speaketh
+Clue: not SAYETH
+Kanji: 申
+Story: The _monkey_ **speaketh** no evil only because there's a _walking stick_ jammed through his _wagging tongue_.
+Note: primitive meaning _monkey_ (it's the zodiac sign for _monkey_, the one who **speaketh** no evil).
+Like 甲, it's 日, then 丨
+言う(いう) is the normal form of "to say", 申す(もうす) is the humble (kenjōgo) form.
+Don't mix up with SAYETH (曰). The 日 bit is not even 曰
+<!--ID: 1795292499237-->
+END
+
+START
+Japanese RTK
+Keyword: expand
+Clue:
+Kanji: 伸
+Story: To **expand** his gang, _Mr. T_ was reduced to hiring trained fighting _monkeys_.
+Note:
+<!--ID: 1795292499254-->
+END
+
+START
+Japanese RTK
+Keyword: gods
+Clue:
+Kanji: 神
+Story: The temple _monkeys_ steal the food on the _altar_ that was left for the **gods**.
+Note:
+<!--ID: 1795292499269-->
 END
