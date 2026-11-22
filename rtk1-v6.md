@@ -2055,10 +2055,10 @@ END
 START
 Japanese RTK
 Keyword: draw near
-Clue:
+Clue: not NEAR
 Kanji: 寄
 Story: As I **drew near**, I became more and more worried as I saw how _strange_ the _house_ was that I'd so thoughtlessly booked online.
-Note:
+Note: don't mix up with NEAR (近).
 <!--ID: 1785677363163-->
 END
 
@@ -5292,10 +5292,11 @@ END
 START
 Japanese RTK
 Keyword: deceased
-Clue:
+Clue: not DEPARTED
 Kanji: 亡
 Story: The **deceased** gentleman left his _top hat_ hanging on that _hook_ the day he died and we haven't moved it since.
 Note: primitive meaning _deceased_ or _perish_.
+Don't mix up with DEPARTED (逝).
 <!--ID: 1787419651709-->
 END
 
@@ -12161,4 +12162,206 @@ Kanji: 神
 Story: The temple _monkeys_ steal the food on the _altar_ that was left for the **gods**.
 Note:
 <!--ID: 1795292499269-->
+END
+
+START
+Japanese RTK
+Keyword: search
+Clue:
+Kanji: 捜
+Story: The _monkey_ **searched** its _crotch_ for fleas with its _fingers_.
+Note: Jisho lists 捜す as an alternative form for 探す, both read さがす. 探す is looking for something you want but don't have yet, 捜す is for something lost or missing that you know exists. But 探す is commonly used for both and 捜す is mainly for news reports of police searches and missing people. 探 gets the keyword GROPE later.
+<!--ID: 1795377096984-->
+END
+
+START
+Japanese RTK
+Keyword: fruit
+Clue:
+Kanji: 果
+Story: If only Eve had used her _brains_ and left the forbidden **fruit** on the _tree_.
+Note: stroke-wise, it's 日, then 一, then 丨, i.e. the 丨 of the tree completes the 田
+果物(くだもの) is fruit.
+<!--ID: 1795377096991-->
+END
+
+START
+Japanese RTK
+Keyword: confectionery
+Clue:
+Kanji: 菓
+Story: The best **confectionery** is _flower_ shaped and _fruit_ flavored.
+Note:
+<!--ID: 1795377096997-->
+END
+
+START
+Japanese RTK
+Keyword: chapter
+Clue:
+Kanji: 課
+Story: A few _words_ into the **chapter** and I was already bored, so I switched to eating _fruit_ instead.
+Note:
+<!--ID: 1795377097016-->
+END
+
+START
+Japanese RTK
+Keyword: naked
+Clue:
+Kanji: 裸
+Story: Eve was **naked** until she ate the forbidden _fruit_ and then put on a _cloak_.
+Note:
+<!--ID: 1795377097033-->
+END
+
+START
+Japanese RTK
+Keyword: ax
+Clue:
+Kanji: 斤
+Story: The **ax** maniac first _nails_ his victims to a _cliff_ (with hook-less _nails_).
+Note: stroke-wise, it's like the 斤 bit of HORSE CHESTNUT (栃).
+<!--ID: 1795377097050-->
+END
+
+START
+Japanese RTK
+Keyword: chop
+Clue: not CHOP OFF
+Kanji: 析
+Story: You use an _ax_ to **chop** down a _tree_, obvious really.
+Note: don't mix up with CHOP OFF (斬).
+<!--ID: 1795377097066-->
+END
+
+START
+Japanese RTK
+Keyword: place
+Clue:
+Kanji: 所
+Story: You can get into any **place** if you just take an _ax_ to the _door_.
+Note: 所(ところ)
+<!--ID: 1795377097083-->
+END
+
+START
+Japanese RTK
+Keyword: pray
+Clue:
+Kanji: 祈
+Story: With his _ax_ at his side, the dwarf **prayed** at the _altar_ for glory.
+Note:
+<!--ID: 1795377097100-->
+END
+
+START
+Japanese RTK
+Keyword: near
+Clue: not DRAW NEAR
+Kanji: 近
+Story: The murderer must be **near**, he's dropped his _ax_ on the _road_ in his panic to escape.
+Note: don't mix up with DRAW NEAR (寄).
+<!--ID: 1795377097117-->
+END
+
+START
+Japanese RTK
+Keyword: fold
+Clue:
+Kanji: 折
+Story: An _ax_ cuts paper, but if you want to **fold** origami you need _fingers_.
+Note:
+<!--ID: 1795377097133-->
+END
+
+START
+Japanese RTK
+Keyword: philosophy
+Clue:
+Kanji: 哲
+Story: _Fold_ your legs, close your _mouth_ and quietly reflect on Buddhist **philosophy**.
+Note:
+<!--ID: 1795377097150-->
+END
+
+START
+Japanese RTK
+Keyword: departed
+Clue: not DECEASED
+Kanji: 逝
+Story: The **departed** haven't gone far, just beyond that invisible _fold_ in the _road_ we all walk.
+Note: don't mix up with DECEASED (亡).
+<!-- Alternatively, "When the earthquake hit, the _road folded_ up like paper, and the list of the **departed** grew by the hour." -->
+<!--ID: 1795377097167-->
+END
+
+START
+Japanese RTK
+Keyword: vow
+Clue:
+Kanji: 誓
+Story: My **vow** of revenge is just a few _words_ on a scrap of paper, _folded_ up and carried with me to this day.
+Note:
+<!--ID: 1795377097183-->
+END
+
+START
+Japanese RTK
+Keyword: chop off
+Clue: not CHOP
+Kanji: 斬
+Story: He said "touch my _car_ again and I'll **chop off** your head with an _ax_."
+Note: don't mix up with CHOP (析).
+<!--ID: 1795377097200-->
+END
+
+START
+Japanese RTK
+Keyword: temporarily
+Clue:
+Kanji: 暫
+Story: Hercules spent all _day chopping off_ the Hydra's heads, but each was gone only **temporarily**.
+Note:
+<!--ID: 1795377097218-->
+END
+
+START
+Japanese RTK
+Keyword: steadily
+Clue:
+Kanji: 漸
+Story: The *water*-powered sawmill **steadily** _chops off_ one plank after another.
+Note:
+<!--ID: 1795377097234-->
+END
+
+START
+Japanese RTK
+Keyword: severance
+Clue:
+Kanji: 断
+Story: After taking an _ax_ into work, his generous **severance** package was some _rice_ and an old fish*hook*.
+Note:
+<!--ID: 1795377097251-->
+END
+
+START
+Japanese RTK
+Keyword: substance
+Clue:
+Kanji: 質
+Story: When the police raided the drug dealer's flat, they found illegal **substances**, _two axes_ and a bag of _clams_.
+Note:
+<!--ID: 1795377097267-->
+END
+
+START
+Japanese RTK
+Keyword: reject
+Clue:
+Kanji: 斥
+Story:  The kids at school **rejected** him, and that _drop_ of blood on his father's _ax_ tells you what happened next.
+Note:
+<!--ID: 1795377097288-->
 END
