@@ -12365,3 +12365,205 @@ Story:  The kids at school **rejected** him, and that _drop_ of blood on his fat
 Note:
 <!--ID: 1795377097288-->
 END
+
+START
+Japanese RTK
+Keyword: accusation
+Clue:
+Kanji: 訴
+Story: For the witch-hunter, one **accusation** was enough; he _rejected_ every _word_ in her defense.
+Note:
+<!--ID: 1795636836910-->
+END
+
+START
+Japanese RTK
+Keyword: yesterday
+Clue:
+Kanji: 昨
+Story: Each _day_ ends the same, midnight takes a _saw_ to it and it becomes **yesterday**.
+Note: introduces the non-jōyō kanji primitive 乍 meaning _saw_. Like 斤 without the first stroke, and additional teeth on the "blade".
+<!--ID: 1795636836917-->
+END
+
+START
+Japanese RTK
+Keyword: lie
+Clue: falsehood
+Kanji: 詐
+Story: Every _word_ of a **lie** makes Pinocchio's nose grow, so it's out with his _saw_ again.
+Note:
+<!--ID: 1795636836924-->
+END
+
+START
+Japanese RTK
+Keyword: make
+Clue:
+Kanji: 作
+Story: _Mr. T_ can **make** literally anything with his trusty _saw_.
+Note: 作る(つくる) - to make
+<!--ID: 1795636836940-->
+END
+
+START
+Japanese RTK
+Keyword: snow
+Clue:
+Kanji: 雪
+Story: Unlike _rain_, **snow** can be swept away with a _broom_.
+Note: introduces the non-kanji primitive 彐 meaning _broom_. 彑 is an alternative form, and results (via the rare kanji 彔 and 彖) in the different final stroke seen in RECORD (録), PEEL OFF (剥) and later in GREEN (緑) and AFFINITY (縁).
+雪(ゆき).
+<!--ID: 1795636836957-->
+END
+
+START
+Japanese RTK
+Keyword: record
+Clue: sound/images
+Kanji: 録
+Story: He **records** your name in _gold_ on a _grain of rice_, sweeping up the botched ones with a _broom_.
+Note:
+<!--ID: 1795636836990-->
+END
+
+START
+Japanese RTK
+Keyword: peel off
+Clue:
+Kanji: 剥
+Story: The sticky _grains of rice_ that stuck to my _broom_ had to be **peeled off** with a _saber_.
+Note:
+<!--ID: 1795636837007-->
+END
+
+START
+Japanese RTK
+Keyword: inquire
+Clue:
+Kanji: 尋
+Story: I opened my _mouth_ in the _craft_ shop to **inquire** which _glue_ would fix a _broom_.
+Note:
+<!--ID: 1795636837023-->
+END
+
+START
+Japanese RTK
+Keyword: hurry
+Clue:
+Kanji: 急
+Story: My parents were due and I **hurried** round with the _broom, heart_ racing, the rubbish _bound up_ in a bag and hidden.
+Note:
+<!--ID: 1795636837041-->
+END
+
+START
+Japanese RTK
+Keyword: calm
+Clue:
+Kanji: 穏
+Story: Granny swept up the _wheat_ in her yard with her _broom_, her _heart_ **calm** despite the _vulture_ watching her.
+Note:
+<!--ID: 1795636837057-->
+END
+
+START
+Japanese RTK
+Keyword: encroach
+Clue:
+Kanji: 侵
+Story: _Mr. T_ watched nervously as the _french maid_ **encroached** under his duvet.
+Note: introduces the non-Heisig primitive (the right-side of 侵) meaning _french maid_ (_broom_, _crown_ and _crotch_).
+<!--ID: 1795636837074-->
+END
+
+START
+Japanese RTK
+Keyword: immersed
+Clue:
+Kanji: 浸
+Story: The _french maid_ only came in to run my bath, but happily, we both ended up **immersed** in the _water_.
+Note:
+<!--ID: 1795636837090-->
+END
+
+START
+Japanese RTK
+Keyword: lie down
+Clue: not _reclining_ or _lie_
+Kanji: 寝
+Story: His _french maid_ was as slow as a _turtle_, but happy to **lie down** with him on every bed in the _house_.
+Note:
+<!--ID: 1795636837108-->
+END
+
+START
+Japanese RTK
+Keyword: lady
+Clue:
+Kanji: 婦
+Story: A **lady** is the kind of _woman_ who never touches a _broom_ or an _apron_.
+Note:
+<!--ID: 1795636837124-->
+END
+
+START
+Japanese RTK
+Keyword: sweep
+Clue:
+Kanji: 掃
+Story: He pointed his _fingers_ at the _apron_ and _broom_ and ordered her to **sweep** his apartment.
+Note:
+<!--ID: 1795636837141-->
+END
+
+START
+Japanese RTK
+Keyword: hit
+Clue:
+Kanji: 当
+Story: She kept a _little broom_ by the back door to **hit** any rats that crept in.
+Note:
+<!--ID: 1795636837157-->
+END
+
+START
+Japanese RTK
+Keyword: glossary
+Clue:
+Kanji: 彙
+Story: The pre-jōyō adventure book's **glossary** covered the witch's _broom_, the queen's _crown_ and the poisoned _fruit_.
+Note: a 2010 addition that uses 彑 rather than 彐, using 彐 in handwriting is allowed.
+Stroke order is MUTUALLY (互) without the first stroke.
+<!--ID: 1795636837174-->
+END
+
+START
+Japanese RTK
+Keyword: contend
+Clue:
+Kanji: 争
+Story: Never **contend** with a man holding a _rake_, unless he's already _bound up_.
+Note: introduces the non kanji primitive (the コ一亅 part) meaning _rake_ (a skewered _brush_). It's genuinely a thing in its own right and not e.g. a contraction of 聿. When above another component, it loses the lower part of the 亅
+<!--ID: 1795636837191-->
+END
+
+START
+Japanese RTK
+Keyword: clean
+Clue:
+Kanji: 浄
+Story: Nothing can _contend_ with soap and _water_ when it comes to getting things **clean**.
+Note:
+<!--ID: 1795636837207-->
+END
+
+START
+Japanese RTK
+Keyword: matter
+Clue: laughing
+Kanji: 事
+Story: It's no laughing **matter** getting smacked in the _mouth_ by _one_ stray _rake_, lying in the grass.
+Note: the final 亅 skewers the 一 and the 口
+<!--ID: 1795636837224-->
+END
