@@ -12567,3 +12567,210 @@ Story: It's no laughing **matter** getting smacked in the _mouth_ by _one_ stray
 Note: the final 亅 skewers the 一 and the 口
 <!--ID: 1795636837224-->
 END
+
+START
+Japanese RTK
+Keyword: Tang
+Clue:
+Kanji: 唐
+Story: Archaeologists _raked_ the ground around the _mouth_ of the _cave_ and found shards of **Tang** dynasty pottery.
+Note: T'ang is a pre-Pinyin spelling (like how Mao Tse-tung is now Mao Zedong).
+The Tang dynasty, from 618 to 907 CE, is regarded as China's golden age.
+Tang - "strong, sharp, distinctive flavor or smell".
+The vertical of the _cave_ and _rake_ are not shared.
+<!--ID: 1795731600054-->
+END
+
+START
+Japanese RTK
+Keyword: sugar
+Clue:
+Kanji: 糖
+Story: A _rice_ dish with sweet and sour sauce uses **sugar** for the sweet and vinegar for that distinctive sour _tang_.
+Note:
+<!--ID: 1795731600061-->
+END
+
+START
+Japanese RTK
+Keyword: sane
+Clue:
+Kanji: 康
+Story: To stay **sane**, I meditate quietly in a _cave_ and let my mind _sieve_ out the accumulated madness.
+Note: introduces the rare kanji primitive 隶 meaning _sieve_ (_rake_ and _grains of rice_).
+Don't mix up 录 and 隶
+The vertical of the _cave_ and _sieve_ are not shared.
+<!--ID: 1795731600067-->
+END
+
+START
+Japanese RTK
+Keyword: apprehend
+Clue:
+Kanji: 逮
+Story: Late at night, the police _sieve_ the _roads_ for drunks, **apprehending** those they find.
+Note:
+<!--ID: 1795731600087-->
+END
+
+START
+Japanese RTK
+Keyword: Italy
+Clue:
+Kanji: 伊
+Story: _Mr. T_ got a job in **Italy** taking a _mop_ to the mafia.
+Note: introduces the hyōgai kanji primitive 尹 meaning _mop_ (a swish instead of the _rake's_ hook).
+Italy is now generally written as イタリア
+<!--ID: 1795731600120-->
+END
+
+START
+Japanese RTK
+Keyword: old boy
+Clue:
+Kanji: 君
+Story: After the boozy **old boys'** reunion, everything that came out of their _mouths_, had to be _mopped_ up by the janitor.
+Note: in English, "old boy" is a familiar term between male equals. 君 as きみ means "you", said to equals or juniors; as くん it's a name suffix for boys and juniors.
+<!--ID: 1795731600154-->
+END
+
+START
+Japanese RTK
+Keyword: flock
+Clue:
+Kanji: 群
+Story: The _old boys_ **flock** together like _sheep_ at every school reunion.
+Note:
+<!--ID: 1795731600188-->
+END
+
+START
+Japanese RTK
+Keyword: -proof
+Clue:
+Kanji: 耐
+Story: My _comb_ is rust**-proof**, water**-proof** and fire**-proof**, but not idiot**-proof**, so I _glued_ it to my head.
+Note: introduces the jinmeiyō kanji primitive 而 meaning _comb_ (pictograph).
+<!--ID: 1795731600222-->
+END
+
+START
+Japanese RTK
+Keyword: demand
+Clue:
+Kanji: 需
+Story: She **demanded** a _comb_ from me as the _rain_ had just ruined her hair.
+Note:
+<!--ID: 1795731600255-->
+END
+
+START
+Japanese RTK
+Keyword: Confucian
+Clue:
+Kanji: 儒
+Story: **Confucian** teaching _demands_ respect for elders, and so does _Mr. T_.
+Note:
+<!--ID: 1795731600289-->
+END
+
+START
+Japanese RTK
+Keyword: edge
+Clue:
+Kanji: 端
+Story: At the **edge** of the _mountain_ path, we found a _vase_ containing a _comb_ and other small mementos of a dead climber.
+Note:
+<!--ID: 1795731600323-->
+END
+
+START
+Japanese RTK
+Keyword: both
+Clue:
+Kanji: 両
+Story: A _belt_ from the _ceiling_ or a leap off a _mountain_ are **both** good ways to end it all.
+Note: stroke order is _ceiling_, _belt_, then _mountain_.
+<!--ID: 1795731600356-->
+END
+
+START
+Japanese RTK
+Keyword: full
+Clue:
+Kanji: 満
+Story: Ophelia drowned herself in the river _water_ with _both_ arms **full** of _flowers_.
+Note:
+<!--ID: 1795731600392-->
+END
+
+START
+Japanese RTK
+Keyword: brushstroke
+Clue:
+Kanji: 画
+Story: Every **brushstroke** on the damp cellar _ceiling sprouted_ so much mold I needed a _shovel_ to scrape it off.
+Note: introduces the kanji component primitive 凵 meaning _shovel_.
+Manga is LOOSE (漫) BRUSH-STROKE (画).
+<!--ID: 1795731600423-->
+END
+
+START
+Japanese RTK
+Keyword: tooth
+Clue:
+Kanji: 歯
+Story: _Stop_ using a _shovel_ for _rice_, you'll break a **tooth**, chopsticks work far better.
+Note:
+<!--ID: 1795731600457-->
+END
+
+START
+Japanese RTK
+Keyword: bend
+Clue:
+Kanji: 曲
+Story: I put _two sprouts_ on the windowsill and watched them slowly **bend** towards the light.
+Note: stroke-wise it's just 由 with another 丨 straight after the first one.
+<!--ID: 1795731600491-->
+END
+
+START
+Japanese RTK
+Keyword: cadet
+Clue:
+Kanji: 曹
+Story: Under the midday _sun_, the **cadets** must _bend_, touch their toes, repeat until _one_ of them drops.
+Note: stroke order is 一, 曲 and then 日
+<!--ID: 1795731600526-->
+END
+
+START
+Japanese RTK
+Keyword: encounter
+Clue:
+Kanji: 遭
+Story: You'll always **encounter** _cadets_ out for a run on the _roads_ near their base.
+Note:
+<!--ID: 1795731600557-->
+END
+
+START
+Japanese RTK
+Keyword: rowing
+Clue:
+Kanji: 漕
+Story: Naval _cadets_ spend their whole first winter **rowing** on freezing _water_.
+Note:
+<!--ID: 1795731600590-->
+END
+
+START
+Japanese RTK
+Keyword: vat
+Clue:
+Kanji: 槽
+Story: As an initiation ritual, each _cadet_ must jump from a _tree_ into a **vat** of treacle.
+Note:
+<!--ID: 1795731600624-->
+END

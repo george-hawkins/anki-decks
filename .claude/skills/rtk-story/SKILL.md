@@ -55,10 +55,14 @@ matching `primitives.md` lines. What that output is for:
 
 - **The deck's exact vocabulary.** Use the established name — _St. Bernard_,
   _magic wand_, _walking stick_, _drop_, _glue_, _by one's side_ — never a
-  synonym. If a component gets NO MATCHES, the script lists the nearest
-  established names: use the one the user plainly meant and say you did. If
-  nothing matches at all, fall back on your RTK knowledge and flag it. (A few
-  names legitimately have no card of their own, e.g. _ceiling_/_floor_ for 一.)
+  synonym. A component with NO MATCHES is usually just a primitive the deck
+  hasn't used yet (_mop_, _comb_): if the user's word is Heisig's name for
+  it, use it as given and say nothing. Flag only what actually needs the
+  user's attention: you swapped their word for an established deck name
+  (the script lists the nearest ones, which may be unrelated, e.g. _womb_
+  for _comb_), or their word is neither in the deck nor a Heisig name you
+  recognise and you had to guess what they meant. (A few names legitimately
+  have no card of their own, e.g. _ceiling_/_floor_ for 一.)
 - **⚠ lines are binding, unless the note hedges itself.** They come from
   `Note:` fields and record usage rules — e.g. "grains of rice" is reserved
   for 氺, never used for 米. A note that calls itself a suggestion ("try not
@@ -308,11 +312,16 @@ Most kept stories come out of a follow-up, not the first reply, so these
 modes matter as much as the first three lines. All of them return paste-ready
 lines only, and none of them edits the deck.
 
-- **"Variants on: …" / "More like: …"** The user's line is the skeleton.
-  Keep its structure, its components' roles and most of its words; change one
-  thing per variant (the verb, the ending, the anchor). Offer four to six.
-  Never hand the seed back unchanged, and never drift into a new scene unless
-  they also ask for "completely new ideas".
+- **"Variants on: …" / "Variations on: …" / "More like: …"** The user's
+  line supplies the idea: keep its core image and the role each component
+  plays in it, but re-express it, don't jiggle the words. Each variant should
+  differ from the seed in more than one way: a different sentence shape
+  (definition, general truth with "you", one moment told by "I"), a
+  different opening, a different verb, or a different angle on the same
+  scene. A few words from the seed may carry over, but not a long run of
+  them. No two variants share an opening, and the seed itself is never handed
+  back. Offer four to six. "Strong variants" pushes further from the wording,
+  still on the same idea. A new scene is only for "completely new ideas".
 - **"Tighten up" / "improve" / "clean up: …"** Same story, shorter and more
   natural: cut any second beat, fix the awkward phrase, swap the odd word for
   the plain one. Two or three versions, closest to the original first. Don't

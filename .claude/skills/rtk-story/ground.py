@@ -325,13 +325,14 @@ def report_component(label, alternatives, cards, prim_lines, vocab):
     if not own and not used and not prim_hits:
         suggestions = suggest(alternatives, vocab)
         if suggestions:
-            print("  NO MATCHES — nearest established names; use the one the user plainly")
-            print("  meant and say that you substituted it:")
+            print("  NO MATCHES — if the user's word is Heisig's name for the primitive,")
+            print("  use it silently; otherwise these are the nearest established names")
+            print("  (possibly unrelated), and swapping to one of them gets a flag:")
             for term, source in sorted(suggestions.items())[:12]:
                 print(f"    _{term}_  ({source})")
         else:
-            print("  NO MATCHES anywhere in the deck — fall back on your own RTK knowledge")
-            print("  and flag that in your output.")
+            print("  NO MATCHES anywhere in the deck — if the user's word is Heisig's name")
+            print("  for the primitive, use it silently; flag it only if you had to guess.")
     print()
 
 
