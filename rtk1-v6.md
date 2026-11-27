@@ -12774,3 +12774,209 @@ Story: As an initiation ritual, each _cadet_ must jump from a _tree_ into a **va
 Note:
 <!--ID: 1795731600624-->
 END
+
+START
+Japanese RTK
+Keyword: Plough
+Clue: constellation
+Kanji: 斗
+Story: The **Plough** is a _measuring cup_ in the sky, four stars for the cup and three for the handle.
+Note: primitive meaning _measuring cup_.
+Heisig uses the American name the Big Dipper for Ursa Major's seven main stars, I'm using the Plough.
+Stroke order is dots, then 十
+<!--ID: 1795818256852-->
+END
+
+START
+Japanese RTK
+Keyword: fee
+Clue:
+Kanji: 料
+Story: The ferryman's **fee** to the land of the dead was one _measuring cup_ of _rice_ for each passenger.
+Note:
+<!--ID: 1795818256862-->
+END
+
+START
+Japanese RTK
+Keyword: department
+Clue:
+Kanji: 科
+Story: The **Department** of Agriculture measures the nation's _wheat_ production one _measuring cup_ at a time.
+Note:
+<!--ID: 1795818256866-->
+END
+
+START
+Japanese RTK
+Keyword: map
+Clue:
+Kanji: 図
+Story: It's a **map** of my flat, a tiny _pent in_ space with _two chairs_ and an _X_ marking the fridge.
+Note: stroke-wise it's ツ and then a crossing slash.
+Heisig says it's a _measuring cup_ in the box, but it's not, it's got a different stroke order.
+<!--ID: 1795818256870-->
+END
+
+START
+Japanese RTK
+Keyword: utilize
+Clue: not USE
+Kanji: 用
+Story: In the wilderness, I **utilized** my _walking stick_ to tenderize the _flesh_ I'd cut from a wild boar.
+Note: primitive meaning _screwdriver_ (a commonly **utilized** tool).
+It's a fat 月 and then a 丨
+Don't mix up with USE (使).
+<!--ID: 1795818256883-->
+END
+
+START
+Japanese RTK
+Keyword: comfortable
+Clue:
+Kanji: 庸
+Story: My _cave_ was quite **comfortable** once I'd _raked_ out the bones and put up some shelves with a _screwdriver_.
+Note: cf. SANE (康). Similarly, the final 丨 completes both 肀 and 用.
+<!--ID: 1795818256901-->
+END
+
+START
+Japanese RTK
+Keyword: equip
+Clue:
+Kanji: 備
+Story: **Equipped** with only a _screwdriver_, _Mr. T_ scaled the _cliff_ to pick the _flowers_ at the top.
+Note: in print it looks like 艹 and 厂; in handwriting (and KanjiVG), it looks like 龷 with a tail (as in 石). But the 厂 style is also allowed in handwriting.
+<!--ID: 1795818256917-->
+END
+
+START
+Japanese RTK
+Keyword: once upon a time
+Clue:
+Kanji: 昔
+Story: **Once upon a time**, before the apple, Adam and Eve lived on _salad_ and lay naked in the _sun_.
+Note: introduces the kanji component 龷 meaning _salad_ (_flowers_ on a horizontal).
+昔々(むかしむかし) is **once upon a time**.
+<!--ID: 1795818256934-->
+END
+
+START
+Japanese RTK
+Keyword: confused
+Clue:
+Kanji: 錯
+Story: _Once upon a time_, **confused** alchemists believed they could transmute base _metal_ into _gold_.
+Note:
+<!--ID: 1795818256951-->
+END
+
+START
+Japanese RTK
+Keyword: borrow
+Clue:
+Kanji: 借
+Story: _Once upon a time_, _Mr. T_ **borrowed** Red Riding Hood's cape, and the wolf met a terrible end.
+Note:
+<!--ID: 1795818256968-->
+END
+
+START
+Japanese RTK
+Keyword: pity
+Clue:
+Kanji: 惜
+Story: What a **pity** my _state of mind_ isn't as carefree as it was _once upon a time_.
+Note:
+<!--ID: 1795818256984-->
+END
+
+START
+Japanese RTK
+Keyword: set aside
+Clue:
+Kanji: 措
+Story: _Once upon a time_ we ate only with our _fingers_, but we've **set aside** that habit and now use cutlery.
+Note:
+<!--ID: 1795818257001-->
+END
+
+START
+Japanese RTK
+Keyword: scatter
+Clue:
+Kanji: 散
+Story: The _taskmaster_ kicked over the slaves' lunch, **scattering** _salad_ and _flesh_ across the dirt.
+Note:
+<!--ID: 1795818257018-->
+END
+
+START
+Japanese RTK
+Keyword: twenty
+Clue:
+Kanji: 廿
+Story: A _generation_ is 30, one less stroke is **twenty**.
+Note: 廿 is actually a jinmeiyō kanji. There are more 丗 (rare) and 卌 (archaic). 丗 is a variant of GENERATION (世), so the GENERATION story is actually spot on.
+<!--ID: 1795818257035-->
+END
+
+START
+Japanese RTK
+Keyword: commoner
+Clue:
+Kanji: 庶
+Story: While the gentry enjoy central heating, the **commoners** huddle round _campfires_ in the _caverns_.
+Note: introduces the non-kanji primitive (庶 minus ⺣) meaning _caverns_ (_twenty caves_ is a maze of _caverns_).
+<!--ID: 1795818257052-->
+END
+
+START
+Japanese RTK
+Keyword: intercept
+Clue:
+Kanji: 遮
+Story: The _commoners_ are revolting, we must **intercept** them on the _road_ before they reach the castle!
+Note:
+<!--ID: 1795818257068-->
+END
+
+START
+Japanese RTK
+Keyword: seat
+Clue:
+Kanji: 席
+Story: The **seats** in the _caverns_ are so damp you'll need a _towel_ when you sit on them.
+Note:
+<!--ID: 1795818257085-->
+END
+
+START
+Japanese RTK
+Keyword: degrees
+Clue: of temperature
+Kanji: 度
+Story: At a constant five **degrees**, the _caverns_ will shrink any man's _crotch_ to almost nothing.
+Note:
+<!--ID: 1795818257102-->
+END
+
+START
+Japanese RTK
+Keyword: transit
+Clue:
+Kanji: 渡
+Story: When it hits forty _degrees_, the public **transit** authority hands out free _water_ at every station.
+Note:
+<!--ID: 1795818257119-->
+END
+
+START
+Japanese RTK
+Keyword: bustle
+Clue:
+Kanji: 奔
+Story: In the hustle and **bustle** of New York, I came across the bizarre sight of a _St. Bernard_ sleeping on top of a _haystack_.
+Note: introduces the hyōgai kanji primitive 卉 meaning _haystack_ (_needle_ in a ...); stroke-wise it's TEN (十) then _both hands_ (廾).
+<!--ID: 1795818257135-->
+END
