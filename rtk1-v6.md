@@ -360,7 +360,7 @@ Clue: not SELF or archaic I
 Kanji: 自
 Story: In Japan, one refers to **oneself** by pointing to one's nose: the point/_drop_ between the _eyes_.
 Note: introduces the _drop_ / _eyedropper_ non-kanji primitive, 自 has primitive meaning _oneself_, _nose_ or _nostrils_.
-Don't confuse with keyword SELF (your inner identity, "know thyself" / "your true self").
+Don't confuse with keyword SELF (己) (your inner identity, "know thyself" / "your true self").
 **oneself** is a reflexive modifier (doing something by oneself, self-propelled), e.g. 自転車 (bicycle).
 <!--ID: 1784809271274-->
 END
@@ -4387,10 +4387,10 @@ END
 START
 Japanese RTK
 Keyword: hanging scroll
-Clue:
+Clue: not SCROLL
 Kanji: 幅
 Story: The _wealthiest_ man in Japan is a philistine, he uses precious **hanging scrolls** as _towels_.
-Note:
+Note: don't mix up with SCROLL (巻).
 <!--ID: 1786823467548-->
 END
 
@@ -5899,10 +5899,10 @@ END
 START
 Japanese RTK
 Keyword: location
-Clue: not PLACE
+Clue: not PLACE or SAVINGS
 Kanji: 場
 Story: I found the perfect **location** to bury my _piggy bank_ and marked the spot with a pile of loose _soil_.
-Note: don't confuse **location** (場) and PLACE (所).
+Note: don't confuse **location** (場) and PLACE (所) or SAVINGS (貯).
 <!--ID: 1787692723687-->
 END
 
@@ -9357,7 +9357,7 @@ END
 START
 Japanese RTK
 Keyword: labor
-Clue:
+Clue: not OCCUPATION
 Kanji: 労
 Story: In the _schoolhouse_, they develop the children's _muscles_ by forcing them to do manual **labor**.
 Note:
@@ -9954,7 +9954,7 @@ Keyword: training
 Clue:
 Kanji: 稽
 Story: The hardest part of my **training** as a cook was when they gave me some _wheat_ and a _chihuahua with a human leg_ and said, "Now make something _delicious_."
-Note: it's not a 犬, it's a 尤 a Jinmeiyō (name) kanji meaning reasonable. It appears in TRAINING (稽), CONCERNING (就) and its "sibling" KICK 蹴
+Note: it's not a 犬, it's a 尤, a Jinmeiyō (name) kanji meaning reasonable. It appears in TRAINING (稽), CONCERNING (就) and its "sibling" KICK 蹴
 <!--ID: 1792525898180-->
 END
 
@@ -10064,7 +10064,7 @@ END
 START
 Japanese RTK
 Keyword: riddle
-Clue:
+Clue: not METAPHOR
 Kanji: 謎
 Story: A pre-jōyō **riddle** is _words_ designed to lead you _astray_.
 Note: unlike 迷, there are two _drops_ on the road as 謎 is a 2010 addition.
@@ -11034,7 +11034,7 @@ Keyword: bystander
 Clue:
 Kanji: 傍
 Story: Steal the _crown_ and the **bystanders** will all _stand up_ and point _Mr. T_ in your _direction_.
-Note:
+Note: 冖 is the final stroke of 立
 <!--ID: 1793478759080-->
 END
 
@@ -11419,7 +11419,7 @@ Keyword: trip
 Clue: travel, not fall
 Kanji: 旅
 Story: On our package **trip**, we followed the guide's _banner_ which was just a _rag_ on a stick.
-Note: introduces the non-kanji primitive meaning _rag_ (the bit of 旅 that looks like the _scarf_ of 衣 but without a hook on the second stroke).
+Note: introduces the non-kanji primitive _rag_, which looks like the _scarf_ of GARMENT (衣) without the hook. We've already seen unhooked _scarves_, e.g. RING (環), but _rag_ has a different origin: it's a squashed _assembly line_ (从).
 <!--ID: 1794946686312-->
 END
 
@@ -12250,7 +12250,7 @@ Japanese RTK
 Keyword: pray
 Clue:
 Kanji: 祈
-Story: With his _ax_ at his side, the dwarf **prayed** at the _altar_ for glory.
+Story: The dwarf lord **prayed** for glory at the _altar_ with his trusty _ax_ by his side.
 Note:
 <!--ID: 1795377097100-->
 END
@@ -12462,7 +12462,7 @@ Japanese RTK
 Keyword: calm
 Clue:
 Kanji: 穏
-Story: Granny swept up the _wheat_ in her yard with her _broom_, her _heart_ **calm** despite the _vulture_ watching her.
+Story: Granny swept up the _wheat_ with her _broom_, her _heart_ **calm** despite the _vulture_ watching her.
 Note:
 <!--ID: 1795636837057-->
 END
@@ -12512,7 +12512,7 @@ Japanese RTK
 Keyword: sweep
 Clue:
 Kanji: 掃
-Story: He pointed his _fingers_ at the _apron_ and _broom_ and ordered her to **sweep** his apartment.
+Story: He pointed his _fingers_ at the _broom_ and _apron_ and ordered her to **sweep** his apartment.
 Note:
 <!--ID: 1795636837141-->
 END
@@ -12979,4 +12979,189 @@ Kanji: 奔
 Story: In the hustle and **bustle** of New York, I came across the bizarre sight of a _St. Bernard_ sleeping on top of a _haystack_.
 Note: introduces the hyōgai kanji primitive 卉 meaning _haystack_ (_needle_ in a ...); stroke-wise it's TEN (十) then _both hands_ (廾).
 <!--ID: 1795818257135-->
+END
+
+START
+Japanese RTK
+Keyword: erupt
+Clue:
+Kanji: 噴
+Story: When the volcano **erupted**, lava from its _mouth_ buried both farmers making _haystacks_ and fishermen digging for _clams_.
+Note:
+END
+
+START
+Japanese RTK
+Keyword: tomb
+Clue: not GRAVE
+Kanji: 墳
+Story: After digging through tons of _soil_, the grave robbers found nothing but a _haystack_ and one _clam_ in the Pharaoh's **tomb**.
+Note: don't mix up with GRAVE (墓).
+END
+
+START
+Japanese RTK
+Keyword: aroused
+Clue: anger, not sexual
+Kanji: 憤
+Story: The farmer's _state of mind_ was **aroused** to extreme anger, when the taxman demanded even more _clams_ for each of his _haystacks_.
+Note:
+END
+
+START
+Japanese RTK
+Keyword: bake
+Clue:
+Kanji: 焼
+Story: The village's gruesome offering, tied inside the _straw man_, **baked** nicely once they lit the _fire_.
+Note: introduces the jinmeiyō kanji 尭 meaning _straw man_ (_haystack_ and _human legs_ separated by a horizontal).
+END
+
+START
+Japanese RTK
+Keyword: daybreak
+Clue:
+Kanji: 暁
+Story: Standing outside all _day_, the _straw man_ is always the first to see the _sun_ at **daybreak**.
+Note: 暁 is the word for DAYBREAK, while NIGHTBREAK (旦) is a 2010 addition than only appears in compounds, e.g. 元旦(がんたん) meaning  New Year's Day morning.
+END
+
+START
+Japanese RTK
+Keyword: half
+Clue:
+Kanji: 半
+Story: A 三 with a _walking_ stick plunged through it, breaking the first stroke in **half**.
+Note: stroke-wise, it's 丷, 二 and then 丨
+半(はん)
+END
+
+START
+Japanese RTK
+Keyword: consort
+Clue:
+Kanji:
+Story: The _person_ who is the monarch's other _half_ is call a **consort**.
+Note: consort - "the husband or wife of a reigning monarch."
+END
+
+START
+Japanese RTK
+Keyword: paddy ridge
+Clue:
+Kanji: 畔
+Story: A **paddy ridge** is the raised mud path that splits a _rice field_ in _half_.
+Note: the hyōgai kanji 畦 is the kanji for **paddy ridge**, 畔 appears in compounds where it contributes a "water's edge" meaning, e.g. 湖畔 (lakeside), 河畔 (riverside), 池畔 (pond side).
+END
+
+START
+Japanese RTK
+Keyword: judgement
+Clue:
+Kanji: 判
+Story: King Solomon's **judgement** was to cut the baby in _half_ with a _saber_.
+Note:
+END
+
+START
+Japanese RTK
+Keyword: fist
+Clue: not FROM
+Kanji: 拳
+Story: The boxer gave no _quarter_, his _hand_ was a **fist** from the first bell to the last.
+Note: introduces the kanji component 龹 meaning _quarter_ (the final stroke of 半 is split into two).
+Don't mix up with FROM (乃) with primitive meaning _fist_. 拳 is a 2010 addition and _fist_ was already well established.
+END
+
+START
+Japanese RTK
+Keyword: ticket
+Clue:
+Kanji: 券
+Story: The ticket inspector cuts a _quarter_ off every **ticket** with his small _dagger_.
+Note:
+END
+
+START
+Japanese RTK
+Keyword: scroll
+Clue: not HANGING SCROLL
+Kanji: 巻
+Story: The thief was only _quarter_ of the way through the magic **scroll** when a giant _snake_ appeared and devoured him.
+Note: don't mix up with HANGING SCROLL (幅).
+END
+
+START
+Japanese RTK
+Keyword: sphere
+Clue:
+Kanji: 圏
+Story: The borders on the emperor's _scroll_ marked his **sphere** of influence, and kept his people _pent in_.
+Note: Heisig says 圏 "refers to a realm or orbit, not to a ball."
+END
+
+START
+Japanese RTK
+Keyword: victory
+Clue:
+Kanji: 勝
+Story: After England's **victory**, William Wallace's _flesh_ was cut into _quarters_ as a display of _power_.
+Note:
+END
+
+START
+Japanese RTK
+Keyword: wisteria
+Clue:
+Kanji: 藤
+Story: Under a _quarter moon_, the **wisteria's** tiny _flowers_ hang down like purple _grains of rice_.
+Note: wisteria - the drooping clusters of tiny purple flowers my mother loves.
+END
+
+START
+Japanese RTK
+Keyword: facsimile
+Clue:
+Kanji: 謄
+Story: The _moon_ landings were faked with a *quarter*-scale **facsimile** of the _moon_, and Armstrong speaking his famous _words_ in a film studio.
+Note: facsimile - "an exact copy or reproduction of something."
+END
+
+START
+Japanese RTK
+Keyword: one-sided
+Clue:
+Kanji: 片
+Story: It was a *one-sided* deal with the defeated forced to present all they had to their conquerors.
+Note: it looks like a kneeling man presenting something.
+Stroke-wise, it's ノ, 亠 and then ㇕
+END
+
+START
+Japanese RTK
+Keyword: printing block
+Clue:
+Kanji: 版
+Story: Thousands of _one-sided_, *anti*-Jewish posters rolled off the Nazis' **printing block**.
+Note:
+END
+
+START
+Japanese RTK
+Keyword: of
+Clue:
+Kanji: 之
+Story: The _Z_ **of** Zorro wearing a _top hat_.
+Note: Heisig gives 之 the primitive meaning children's _building blocks_, but on Koohii most people use _Zorro_.
+Stroke-wise, it's a small vertical, フ and a final sweep.
+The print form of 之 has a weird kink in the final stroke that the hand written one does not.
+END
+
+START
+Japanese RTK
+Keyword: destitution
+Clue:
+Kanji: 乏
+Story: _Zorro's_ path to **destitution** began with a single _drop_ of wine.
+Note:
 END
